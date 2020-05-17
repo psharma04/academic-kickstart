@@ -4,3 +4,6 @@
 # Hugo
 resources/
 public/
+
+# Local Netlify folder
+.netlify
