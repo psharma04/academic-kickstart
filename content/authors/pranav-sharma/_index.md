@@ -3,6 +3,10 @@ title: Pranav Sharma
 role: Site Owner
 avatar_filename: avatar.png
 bio: Year 11 Student, site owner and developer. Creator of Heimdall Studios.
+interests:
+  - Programming
+  - Reading
+  - Video Games
 social:
   - link: https://github.com/psharma04
     icon_pack: fab
@@ -14,12 +18,12 @@ social:
     icon_pack: fab
     icon: youtube
   - icon_pack: far
-    icon: globe
+    icon: network-wired
     link: https://heimdall.intranet.pw
 organizations:
-  - name: Sydney Water
-    url: https://www.sydneywater.com.au
+  - name: Heimdall Studios
+    url: https://heimdall.intranet.pw
 email: rbxii3@gmail.com
 superuser: true
 ---
-I'm a year 11 student at St Marks Catholic College. I specialise in theoretical sciences and mathematics, as well as full-stack software and hardware development. I am currently employed as a Network Administrator at Sydney Water, and do graphics design under the [Heimdall Studios](https://heimdall.intranet.pw) banner.
+I'm a year 11 student at St Marks Catholic College. I specialise in theoretical sciences and mathematics, as well as full-stack software and hardware development. I am currently employed as a Network Administrator at Sydney Water, and do graphics design under the [Heimdall Studios](https://heimdall.intranet.pw) banner. My latest project was a website analyzing the [Stuxnet Malware](https://stuxnet.intranet.pw).
