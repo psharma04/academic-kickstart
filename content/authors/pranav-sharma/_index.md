@@ -13,6 +13,9 @@ social:
   - link: https://www.youtube.com/channel/UCSZmum9yoYJf0VJyrQ4E2bA
     icon_pack: fab
     icon: youtube
+  - icon_pack: far
+    icon: globe
+    link: https://heimdall.intranet.pw
 organizations:
   - name: Sydney Water
     url: https://www.sydneywater.com.au
