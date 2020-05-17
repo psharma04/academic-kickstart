@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     icon: youtube
   - icon_pack: far
-    icon: globe
+    icon: network-wired
     link: https://heimdall.intranet.pw
 organizations:
   - name: Heimdall Studios
