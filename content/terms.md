@@ -6,7 +6,7 @@ header:
   caption: ""
   image: ""
 title: Terms
-date: 2018-06-28T00:00:00+01:00
+date: 2020-05-18T08:30:43.408Z
 subtitle: Terms and Conditions of Use
 commentable: false
 share: false
