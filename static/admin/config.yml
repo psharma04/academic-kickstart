@@ -81,18 +81,20 @@ collections:
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string",required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish this page on", name: "date", widget: "datetime"}
-      - {label: "Summary", name: "summary", widget: "markdown"}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
       - label: "Draft"
         name: "draft"
         widget: "boolean"
         default: false
+        required: false
       - label: "Featured"
         name: "featured"
         widget: "boolean"
         default: false
+        required: false
       - label: "Authors"
         name: "authors"
         required: false
