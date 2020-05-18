@@ -1,3 +1,4 @@
+---
 title: 'Physics Module 1: Kinematics'
 draft: false
 DiscussionId: physics-prelim-kinematics-1
