@@ -46,7 +46,7 @@ tags:
 > \\(\color{lightgreen}{Na_2 S_{(aq)}+CuSO_{4(aq)}}\\)\\(\rightarrow\\)\\(\color{lightblue}{CuS_{(s)}+Na_2SO_{4(aq)}}\\)
 #### Solubility Rules
 - The solubility rules are used to determine which compound is the precipitate
-![Solubility Rules Chart](https://cdn.statically.io/bb/psharma04/schoolnotes-cdn/master/svg/Solubility_rules.svg)
+![Solubility Rules Chart](https://cdn.statically.io/bb/psharma04/schoolnotes-cdn/master/svg/Solubility_rules.min.svg)
 ### Corrosion Reactions
 - Corrosion is a reaction involving a metallic element being converted into a more chemically stable form (e.g. an oxide, hydroxide, or sulfide)
 - Combustion and Corrosion are both types of "oxidization reactions"
@@ -72,3 +72,23 @@ tags:
 > Matter cannot be created or destroyed, it can only be changed from one form to another.
 - Module 1 included a section on Nuclear Reactions, where atoms changed into different elements
   - This NEVER occurs in a chemical reaction!!!
+## The Mole Concept
+- Chemical formulae simply state the ratio between reactants and products
+- For example, \\(2HCl + Mg\rightarrow H_2 +MgCl_2\\) simply means that for every 2 molecules of $HCl$, there is 1 atom of Magnesium, which produces 1 molecule of Hydrogen gas and 1 molecule of $MgCl_2$ (Magnesium Chloride)
+- However, as discussed in Module 1, different particles have different masses
+- The Mole concept allows us to easily translate chemical formula ratios into exact masses in units such as grams
+##### Example time!!!
+- Imagine you had 1 atom of carbon, and 1 of hydrogen
+![Visual representation of carbon and hydrogen](https://cdn.statically.io/bb/psharma04/schoolnotes-cdn/master/svg/hydrogenvscarbon-mass.min.svg)
+- Notice that carbon is 12 times as massive as hydrogen, despite having the same number of particles
+- If you had 1 billion hydrogen atoms, and 1 billion hydrogen atoms, the carbon would weigh 12 times as much as the hydrogen, but have the same number of particles
+- Therefore, 12 grams of carbon must have the same number of particles as 1 gram of hydrogen
+- If this makes sense, keep going. If not, watch this Youtube video:
+{{< youtube CY_xhSGaHjk >}}
+## The Mole Unit
+- The mole is a unit defined as:
+> The number of Carbon atoms in 12 grams of pure Carbon-12
+- This is equal to about \\(6.02214076×10^23\\) particles
+  - NOTE: Particles, not atoms
+  - These particles can be anything: atoms, molecules, electrons, bricks, etc.
+- 1 Mole is a LOT. For some perspective, [Here's what would happen if you had 1 mole (the unit) of moles (the animal)](https://what-if.xkcd.com/4/)
