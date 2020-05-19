@@ -80,7 +80,7 @@ tags:
   } \frac{f(x+h)-f(x)}{h}}\\)
 
 5) Substitute f(x) and f(x+h) into First Principle
-> \\(=\displaystyle {\lim_{x\to h}\frac{(x+h)^4+5(x+h)+3-(x^4+5x+3)}{h}}\\)
+> \\(=\displaystyle {\lim_{h\to 0}\frac{(x+h)^4+5(x+h)+3-(x^4+5x+3)}{h}}\\)
 
 6) Expand f(x) and f(x+h) where possible
 > \\(=\frac{x^4+4x^3h+6x^2h^2+4xh^3+h^4+5x+5h+3-x^4-5x-3}{h}\\)
