@@ -20,6 +20,8 @@ tags:
     - [Exponentials other than \\(e^x \\)](#exponentials-other-than-\\e^x-\\)
     - [\\(\ln \\)](#\\\ln-\\)
 - [First Principle](#first-principle)
+  - [Example of First Principle](#example-of-first-principle)
+    - [Find the first derivative of \\(f(x)=x^4+5x+3\\)](#find-the-first-derivative-of-\\fxx^45x3\\)
 
 <!-- /TOC -->
 - Calculus is the study of continous change
