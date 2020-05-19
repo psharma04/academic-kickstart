@@ -95,4 +95,22 @@ tags:
 > \\(\require{enclose}(4x^3) \cancel{+(6x^2\cdot 0)} +\cancel{+(4x\cdot (0)^2)} \cancel{+(0)^3} +5\\)
 > \\(\color{teal}{\enclose{roundedbox}{=4x^3 +5}}\\)
 10) Answer the question
-> \\(\color{green}{\enclose{roundedbox}{\therefore \frac{d}{dx}(x^4+5x+3)=4x^3 +5}}\\) 
+> \\(\color{green}{\enclose{roundedbox}{\therefore \frac{d}{dx}(x^4+5x+3)=4x^3 +5}}\\)
+
+## Shortcuts for the First Princple
+- Here's some convenient shortcuts for people who don't want to waste time doing all the steps of the First Principle
+- Use these unless a question SPECIFICALLY asks for First Principle
+- Note that anything except $x$, $y$ and $t$ represent NUMBERS
+- Remember, differentiation is just finding the gradient of a curve!!!
+1) $\frac{d}{dx}(a) = 0$
+2) $\frac{d}{dx}ax=a$
+3) $\frac{d}{dx}ax^n =(a\cdot n)x^{n-1}$
+4) $\frac{d}{dx}(A+B)=\frac{d}{dx}(A)+\frac{d}{dx}(B)$
+5) $\frac{d}{dx}(A-B)=\frac{d}{dx}(A)-\frac{d}{dx}(B)$
+6) $(AB)\prime = A\prime B+B\prime A$
+7) $\frac{d}{dx}\frac{A}{B}=\frac{A\prime B - B\prime A}{B^2}$
+8) $\frac{d}{dx}((f(x))^n )= n(f\prime (x))^{n-1}$
+9) $\frac{dy}{dx}=\frac{dy}{du}\cdot\frac{du}{dx}$
+10) $\frac{d}{dx}af(x)=a(f\prime (x))$
+> \\(\frac{d}{dx} \Leftarrow\Rightarrow\\) differentiate with respect to $x$
+> \\(\frac{dy}{dx} \Leftarrow\Rightarrow\frac{d}{dx}(y)\Leftarrow\Rightarrow y\prime\Leftarrow\Rightarrow\\) differentiate $y$ with respect to $x$
