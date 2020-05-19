@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
+  title = "GitHack"
   content = "I am center aligned :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
