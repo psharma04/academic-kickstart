@@ -66,9 +66,31 @@ tags:
 > \\(f\prime x=\displaystyle {\lim_{x\to h} \frac{f(x+h)-f(x)}{h}}\\)
 #### Example of First Principle
 ###### Find the first derivative of \\(f(x)=x^4+5x+3\\)
-- \\(f(x)=x^4+5x+3\\)
-- \\(f(x+h)=(x+h)^4+5(x+h)+3\\)
-- \\(f\prime x=\displaystyle {\lim_{x\to h} \frac{f(x+h)-f(x)}{h}}\\)
-- \\(=\displaystyle {\lim_{x\to h}\frac{(x+h)^4+5(x+h)+3-(x^4+5x+3)}{h}}\\)
-- \\(=\frac{x^4+4x^3h+6x^2h^2+4xh^3+h^4+5x+5h+3-x^4-5x-3}{h}\\)
-- \\(=\\)
+1) Define f(x)
+> \\(f(x)=x^4+5x+3\\)
+
+2) define f(x+h)
+> \\(f(x+h)=(x+h)^4+5(x+h)+3\\)
+
+3) State the First Principle
+> \\(f\prime x=\displaystyle {\lim_{x\to h} \frac{f(x+h)-f(x)}{h}}\\)
+
+5) Substitute f(x) and f(x+h) into First Principle
+> \\(=\displaystyle {\lim_{x\to h}\frac{(x+h)^4+5(x+h)+3-(x^4+5x+3)}{h}}\\)
+
+6) Expand f(x) and f(x+h) where possible
+> \\(=\frac{x^4+4x^3h+6x^2h^2+4xh^3+h^4+5x+5h+3-x^4-5x-3}{h}\\)
+
+7) Eliminate as many variables as possible from the numerator
+> \\(\require{cancel}=\frac{\cancel{x^4}+4x^3h+6x^2h^2+4xh^3+h^4+\cancel{5x}+5h\cancel{+3}\cancel{-x^4}\cancel{-5x}\cancel{-3}}{h}\\)
+> \\(=\frac{4x^{3}h+6x^2 h^2 +4xh^3 +h^4 +5h}{h}\\)
+
+8) factorise numerator to eliminate h
+> \\(=\frac{\cancel{h}(4x^3 +6x^2 h +4xh^2 +h^3 +5)}{\cancel{h}}\\)
+> \\(=4x^3 +6x^2 h +4xh^2 +h^3 +5)
+
+9) Substitute \\(h=0\\)
+> \\(\require{enclose}(4x^3) \cancel{+(6x^2\cdot 0)} +\cancel{+(4x\cdot (0)^2)} \cancel{+(0)^3} +5\\)
+> \\(\color{teal}{\enclose{roundedbox}{=4x^3 +5}}\\)
+10) Answer the question
+> \\(\color{green}{\enclose{roundedbox}{\therefore \frac{d}{dx}x^4+5x+3=4x^3 +5}}\\)
