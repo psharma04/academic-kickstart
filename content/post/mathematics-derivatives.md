@@ -95,4 +95,4 @@ tags:
 > \\(\require{enclose}(4x^3) \cancel{+(6x^2\cdot 0)} +\cancel{+(4x\cdot (0)^2)} \cancel{+(0)^3} +5\\)
 > \\(\color{teal}{\enclose{roundedbox}{=4x^3 +5}}\\)
 10) Answer the question
-> \\(\color{green}{\enclose{roundedbox}{\therefore \frac{d}{dx}x^4+5x+3=4x^3 +5}}\\)
+> \\(\color{green}{\enclose{roundedbox}{\therefore \frac{d}{dx}(x^4+5x+3)=4x^3 +5}}\\)
