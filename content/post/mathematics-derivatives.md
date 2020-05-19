@@ -65,7 +65,7 @@ tags:
 
 ## First Principle
 - The first principle is used to calculate the derivative of a graph
-> \\(f\prime x=\displaystyle {\lim_{x\to h} \frac{f(x+h)-f(x)}{h}}\\)
+> \\(f\prime x=\displaystyle {\lim_{h\to 0} \frac{f(x+h)-f(x)}{h}}\\)
 #### Example of First Principle
 ###### Find the first derivative of \\(f(x)=x^4+5x+3\\)
 1) Define f(x)
@@ -75,7 +75,7 @@ tags:
 > \\(f(x+h)=(x+h)^4+5(x+h)+3\\)
 
 3) State the First Principle
-> \\(f\prime x=\displaystyle {\lim_{x\to h} \frac{f(x+h)-f(x)}{h}}\\)
+> \\(f\prime x=\displaystyle {\lim_{h\to 0} \frac{f(x+h)-f(x)}{h}}\\)
 
 5) Substitute f(x) and f(x+h) into First Principle
 > \\(=\displaystyle {\lim_{x\to h}\frac{(x+h)^4+5(x+h)+3-(x^4+5x+3)}{h}}\\)
