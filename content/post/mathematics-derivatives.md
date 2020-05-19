@@ -22,6 +22,7 @@ tags:
 - [First Principle](#first-principle)
   - [Example of First Principle](#example-of-first-principle)
     - [Find the first derivative of \\(f(x)=x^4+5x+3\\)](#find-the-first-derivative-of-\\fxx^45x3\\)
+- [Shortcuts for the First Princple](#shortcuts-for-the-first-princple)
 
 <!-- /TOC -->
 - Calculus is the study of continous change
@@ -75,7 +76,8 @@ tags:
 > \\(f(x+h)=(x+h)^4+5(x+h)+3\\)
 
 3) State the First Principle
-> \\(f\prime x=\displaystyle {\lim_{h\to 0} \frac{f(x+h)-f(x)}{h}}\\)
+> \\(f\prime x=\displaystyle {\lim_{h\to 0
+  } \frac{f(x+h)-f(x)}{h}}\\)
 
 5) Substitute f(x) and f(x+h) into First Principle
 > \\(=\displaystyle {\lim_{x\to h}\frac{(x+h)^4+5(x+h)+3-(x^4+5x+3)}{h}}\\)
