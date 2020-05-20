@@ -7,7 +7,7 @@ categories:
 tags:
   - Chemistry
 ---
-!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 	- [Stoichiometry](#stoichiometry)
 	- [Patterns in Chemical Reactions](#patterns-in-chemical-reactions)
