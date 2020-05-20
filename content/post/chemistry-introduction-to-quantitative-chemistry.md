@@ -1,7 +1,7 @@
 ---
 title: "Chemistry: Introduction to Quantitative Chemistry"
 author: Pranav Sharma, Jackson Taylor
-date: 2020-05-21T07:24:22.217Z
+date: 2020-05-20T07:24:22.217Z
 authors:
   - Pranav Sharma
   - Jackson Taylor
