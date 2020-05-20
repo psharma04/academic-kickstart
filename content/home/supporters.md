@@ -57,4 +57,14 @@ date_format = "Jan 2006"
     date_start = "2019-07-10"
     date_end = ""
     description = ""
+
+    [[item]]
+      organization = "Comments System"
+      organization_url = "https://disqus.com"
+      title = "Disqus"
+      url = "https://disqus.com"
+    #  certificate_url = "https://www.datacamp.com"
+      date_start = "2020-05-20"
+      date_end = ""
+      description = ""
 +++
