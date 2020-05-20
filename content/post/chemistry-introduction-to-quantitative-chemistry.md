@@ -1,15 +1,14 @@
 ---
 title: "Chemistry: Introduction to Quantitative Chemistry"
-author: Pranav Sharma
+author: Pranav Sharma, Jackson Taylor
 date: 2020-05-10T07:24:22.217Z
 categories:
   - Year 11
 tags:
   - Chemistry
 ---
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-	- [Stoichiometry](#stoichiometry)
+- [Stoichiometry](#stoichiometry)
 	- [Patterns in Chemical Reactions](#patterns-in-chemical-reactions)
 		- [Decomposition Reactions](#decomposition-reactions)
 			- [Decomposition by light](#decomposition-by-light)
@@ -33,7 +32,6 @@ tags:
 	- [Percentage composition](#percentage-composition)
 				- [Example Question 1](#example-question-1)
 
-<!-- /TOC -->
 ## Stoichiometry
 - Stoichiometry is the branch of chemistry which deals with the calculation of quantities involved in chemical reactions
 - This includes the masses and volumes of substances
