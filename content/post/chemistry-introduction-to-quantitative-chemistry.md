@@ -7,24 +7,31 @@ categories:
 tags:
   - Chemistry
 ---
-<!-- TOC -->
+!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Stoichiometry](#stoichiometry)
-- [Patterns in Chemical Reactions](#patterns-in-chemical-reactions)
-  - [Decomposition Reactions](#decomposition-reactions)
-    - [Decomposition by light](#decomposition-by-light)
-  - [Combustion Reactions](#combustion-reactions)
-  - [Precipitation Reactions](#precipitation-reactions)
-    - [Solubility Rules](#solubility-rules)
-  - [Corrosion Reactions](#corrosion-reactions)
-  - [Acids and Bases](#acids-and-bases)
-    - [Neutralization Reactions](#neutralization-reactions)
-    - [Acid-Metal Reactions (Displacement Reactions)](#acid-metal-reactions-displacement-reactions)
-    - [Acid-Carbonate Reactions](#acid-carbonate-reactions)
-- [Conservation of Mass](#conservation-of-mass)
-- [The Mole Concept](#the-mole-concept)
-  - [Example time!!!](#example-time)
-- [The Mole Unit](#the-mole-unit)
+	- [Stoichiometry](#stoichiometry)
+	- [Patterns in Chemical Reactions](#patterns-in-chemical-reactions)
+		- [Decomposition Reactions](#decomposition-reactions)
+			- [Decomposition by light](#decomposition-by-light)
+		- [Combustion Reactions](#combustion-reactions)
+		- [Precipitation Reactions](#precipitation-reactions)
+			- [Solubility Rules](#solubility-rules)
+		- [Corrosion Reactions](#corrosion-reactions)
+		- [Acids and Bases](#acids-and-bases)
+			- [Neutralization Reactions](#neutralization-reactions)
+			- [Acid-Metal Reactions (Displacement Reactions)](#acid-metal-reactions-displacement-reactions)
+			- [Acid-Carbonate Reactions](#acid-carbonate-reactions)
+	- [Conservation of Mass](#conservation-of-mass)
+	- [The Mole Concept](#the-mole-concept)
+				- [Example](#example)
+	- [The Mole Unit](#the-mole-unit)
+		- [Calculating Mole Quantities](#calculating-mole-quantities)
+				- [Example Question 1](#example-question-1)
+				- [Example Question 2](#example-question-2)
+	- [Empirical Formulae](#empirical-formulae)
+		- [Calculating an empirical formula](#calculating-an-empirical-formula)
+	- [Percentage composition](#percentage-composition)
+				- [Example Question 1](#example-question-1)
 
 <!-- /TOC -->
 ## Stoichiometry
@@ -160,7 +167,7 @@ tags:
 - Ionic lattices and metallic lattices are ALWAYS represented by an empirical formula e.g. $NaCl$
 - Covalent bonds and ionic molecules are represented by a molecular formula  e.g. $S_2 Cl_2$
 ### Calculating an empirical formula
-1) start with the number of grams of each element
+1) Start with the number of grams of each element
 2) Divide by the atomic mass
 3) Find the highest common factor
 4) Divide the molecular ratio by the highest common factor
@@ -168,3 +175,4 @@ tags:
 - Percentage composition specifies the percentage by mass of different elements in a compound
 ##### Example Question 1
 > $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
+> \\(\frac{2\cdot \text{Atomic weight of element}}{\text{Molecular weight of compound}}\cdot 100 = \frac{2\cdot1.008}{18.016}\cdot 100=11.1%\\)
