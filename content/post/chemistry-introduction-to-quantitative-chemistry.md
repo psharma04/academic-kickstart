@@ -185,9 +185,25 @@ $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
 > \\(N_A\\) = Avogadro's constant \\((6.022\cdot10^{23})\\)
 ### Steps with Worked Example
 > Sodium and water react to form Sodium Hydroxide and Hydrogen gas. If $12.044\cdot 10^{23}$ atoms of sodium was consumed in the reaction, find the mass of Hydrogen gas formed.
-1) Balance the Equation
-2) Choose a formula to calculate the number of moles for the first known
+1) Balance the Equation and find the mole ratio
+> \\(Na+H_2 O\rightarrow H_2 + NaOH \color{red}{\text{ UNBALANCED 👎}}\\)
+> \\(2Na+2H_2 O\rightarrow H_2 + 2NaOH \color{green}{\text{ BALANCED 👍}}\\)
+> \\(\text{Mole ratio= }2:2\rightarrow1:2\\)
+2) Use a formula to calculate the number of moles for the first known
+> \\(n=\frac{N}{N_A}\\)
+> \\(=\frac{12.044\cdot 10^{23}}{6.022\times 10^{23}}\\)
+> \\(=2mol\\)
 3) Use the mole ratio determined in step 1 to find the number of moles for the unknown
+> The ratio of sodium to hydrogen is 2:1
+>
+> Therefore, for every 2 moles of sodium, there is 1 mole of Hydrogen
 4) Choose another formula to calculate the unknown (Mass, Volume, Concentration, Number of Particles)
-5) Repeat 2-4 until you have the unknown that the question is asking for
-6) Answer the question
+> \\(n=\frac{m}{MM}\\)
+>
+>\\(m=n\cdot MM\\)
+>
+> \\(\text{Molar Mass of }H_2 = 1.008\cdot2=2.016 g/mol\\)
+>
+> \\(\therefore m=2.016\cdot1=2.016g\\)
+5) Answer the question
+> \\(\text{2.016 grams of Hydrogen gas are formed}\\)
