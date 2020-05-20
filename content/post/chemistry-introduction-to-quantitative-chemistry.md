@@ -11,29 +11,7 @@ categories:
   - Year 11
 ---
 
-- [Stoichiometry](#stoichiometry)
-	- [Patterns in Chemical Reactions](#patterns-in-chemical-reactions)
-		- [Decomposition Reactions](#decomposition-reactions)
-			- [Decomposition by light](#decomposition-by-light)
-		- [Combustion Reactions](#combustion-reactions)
-		- [Precipitation Reactions](#precipitation-reactions)
-			- [Solubility Rules](#solubility-rules)
-		- [Corrosion Reactions](#corrosion-reactions)
-		- [Acids and Bases](#acids-and-bases)
-			- [Neutralization Reactions](#neutralization-reactions)
-			- [Acid-Metal Reactions (Displacement Reactions)](#acid-metal-reactions-displacement-reactions)
-			- [Acid-Carbonate Reactions](#acid-carbonate-reactions)
-	- [Conservation of Mass](#conservation-of-mass)
-	- [The Mole Concept](#the-mole-concept)
-				- [Example](#example)
-	- [The Mole Unit](#the-mole-unit)
-		- [Calculating Mole Quantities](#calculating-mole-quantities)
-				- [Example Question 1](#example-question-1)
-				- [Example Question 2](#example-question-2)
-	- [Empirical Formulae](#empirical-formulae)
-		- [Calculating an empirical formula](#calculating-an-empirical-formula)
-	- [Percentage composition](#percentage-composition)
-				- [Example Question 1](#example-question-1)
+{{% toc %}}
 
 ## Stoichiometry
 - Stoichiometry is the branch of chemistry which deals with the calculation of quantities involved in chemical reactions
@@ -98,8 +76,9 @@ categories:
 ## Conservation of Mass
 - Chemical reactions ALWAYS obey the Law of Conservation of Mass:
 > Matter cannot be created or destroyed, it can only be changed from one form to another.
-- Module 1 included a section on Nuclear Reactions, where atoms changed into different elements
-  - This NEVER occurs in a chemical reaction!!!
+{{% alert warning %}}
+Module 1 included a section on Nuclear Reactions, where atoms changed into different elements. This NEVER occurs in a chemical reaction!!!
+{{% /alert %}}
 ## The Mole Concept
 - Chemical formulae simply state the ratio between reactants and products
 - For example, \\(2HCl + Mg\rightarrow H_2 +MgCl_2\\) simply means that for every 2 molecules of $HCl$, there is 1 atom of Magnesium, which produces 1 molecule of Hydrogen gas and 1 molecule of $MgCl_2$ (Magnesium Chloride)
@@ -118,8 +97,10 @@ categories:
 > The number of Carbon atoms in 12 grams of pure Carbon-12
 - This number is known as Avogadro's Constant, and is represented as \\(N_A\\)
 - This is equal to about \\(6.02214076\times 10^{23}\\) particles
-  - NOTE: Particles, not atoms
-  - These particles can be anything: atoms, molecules, electrons, bricks, etc.
+{{% alert note %}}
+Note: Particles, not atoms.
+These particles can be anything: atoms, molecules, electrons, bricks, etc.
+{{% /alert %}}
 - 1 Mole is a LOT. For some perspective, [Here's what would happen if you had 1 mole (the unit) of moles (the animal)](https://what-if.xkcd.com/4/)
 - On the periodic table, the atomic weight represents the number of grams per mole of a pure element
   - For example, on the periodic table, Hydrogen has an atomic mass of $1.008g/mol$
@@ -136,8 +117,9 @@ categories:
 > \\(\color{lightgreen}{N: \text{Number of particles (No unit)}}\\)
 >
 > \\(\color{lightgreen}{N_A : \text{Avogadro's Constant}(6.022\times 10^{23} mol^{-1})}\\)
-- NOTE: A molecule's mass is determined by adding up the atomic masses of its composite elements
+{{% alert note %}}NOTE: A molecule's mass is determined by adding up the atomic masses of its composite elements
   - For example, $H_2 O$ would have a mass of $H+H+O=1.008+1.008+16=18.016g/mol$
+{{% /alert %}}
 ##### Example Question 1
 > $\color{cyan}{\text{Calculate the number of moles in 100g of Methane}}$
 1) Identify the chemical formula of the substance
@@ -175,5 +157,37 @@ categories:
 ## Percentage composition
 - Percentage composition specifies the percentage by mass of different elements in a compound
 ##### Example Question 1
-> $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
-> \\(\frac{2\cdot \text{Atomic weight of element}}{\text{Molecular weight of compound}}\cdot 100 = \frac{2\cdot1.008}{18.016}\cdot 100=11.1%\\)
+$\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
+
+\\(\frac{2\cdot \text{Atomic weight of element}}{\text{Molecular weight of compound}}\cdot 100 = \frac{2\cdot1.008}{18.016}\cdot 100=11.1%\\)
+## The Shortcuts (Molarity and Concentration)
+#### Equations
+1) \\(n=\frac{m}{MM}\\)
+2) \\(n=\frac{N}{N_A}\\)
+3) \\(n=\frac{v}{M_V}\\)
+4) \\(n=c\cdot v\\)
+> $n$ = Number of moles
+>
+> $m$ = mass (g)
+>
+> $MM$ = Molar mass (g/mol)
+>
+> $V$ = Volume (L)
+>
+> $c$ = Concentration (mol/L)
+>
+> $M_V$=Molar volume of gases
+>  - $24.79L$ at $1atm$ and \\(25^\circ C\\){Standard Laboratory Conditions}
+>  - $22.71L$ at $1atm$ and \\(0^\circ C\\) {Standard Temperature and Pressure})
+>
+> $N$ = number of particles
+>
+> \\(N_A\\) = Avogadro's constant \\((6.022\cdot10^{23})\\)
+### Steps with Worked Example
+> Sodium and water react to form Sodium Hydroxide and Hydrogen gas. If $12.044\cdot 10^{23}$ atoms of sodium was consumed in the reaction, find the mass of Hydrogen gas formed.
+1) Balance the Equation
+2) Choose a formula to calculate the number of moles for the first known
+3) Use the mole ratio determined in step 1 to find the number of moles for the unknown
+4) Choose another formula to calculate the unknown (Mass, Volume, Concentration, Number of Particles)
+5) Repeat 2-4 until you have the unknown that the question is asking for
+6) Answer the question
