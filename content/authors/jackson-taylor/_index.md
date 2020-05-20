@@ -9,10 +9,17 @@ interests:
   - pizza
   - memes
   - art
+social:
+  - link: https://www.youtube.com/channel/UCSZmum9yoYJf0VJyrQ4E2bA
+    icon_pack: fab
+    icon: youtube
+  - link: https://heimdall.intranet.pw
+    icon_pack: fas
+    icon: fa-network-wired
 education:
   courses: []
 superuser: false
 user_groups:
   - all
 ---
-I'm a year 11 student at [Sydney Tech](https://sths.nsw.edu.au). I work at Hager Electro as a software engineer, and spend my free time playing Minecraft. Don't stalk me lol.
+I'm a year 11 student at [Sydney Tech](https://sths.nsw.edu.au). I work at Hager Electro as a software engineer, and spend my free time playing Minecraft. Member of Heimdall Studios. Don't stalk me lol.
