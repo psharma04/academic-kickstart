@@ -4,11 +4,11 @@ role: Post Writer
 avatar_filename: jackson-avatar.png
 bio: I'm a year 11 student at Sydney Tech.
 interests:
-  - video games
-  - sleep
-  - pizza
-  - memes
-  - art
+  - Video games
+  - Sleep
+  - Pizza
+  - Memes
+  - Art
 social:
   - link: https://www.youtube.com/channel/UCSZmum9yoYJf0VJyrQ4E2bA
     icon_pack: fab
