@@ -8,7 +8,7 @@ interests:
   - Sleep
   - Pizza
   - Memes
-  - Art
+  - Drawing
 social:
   - link: https://www.youtube.com/channel/UCSZmum9yoYJf0VJyrQ4E2bA
     icon_pack: fab
