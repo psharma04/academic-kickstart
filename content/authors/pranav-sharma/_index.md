@@ -17,7 +17,7 @@ social:
   - link: https://www.youtube.com/channel/UCSZmum9yoYJf0VJyrQ4E2bA
     icon_pack: fab
     icon: youtube
-  - icon_pack: far
+  - icon_pack: fas
     icon: network-wired
     link: https://heimdall.intranet.pw
 organizations:
