@@ -7,6 +7,26 @@ categories:
 tags:
   - Chemistry
 ---
+<!-- TOC -->
+
+- [Stoichiometry](#stoichiometry)
+- [Patterns in Chemical Reactions](#patterns-in-chemical-reactions)
+  - [Decomposition Reactions](#decomposition-reactions)
+    - [Decomposition by light](#decomposition-by-light)
+  - [Combustion Reactions](#combustion-reactions)
+  - [Precipitation Reactions](#precipitation-reactions)
+    - [Solubility Rules](#solubility-rules)
+  - [Corrosion Reactions](#corrosion-reactions)
+  - [Acids and Bases](#acids-and-bases)
+    - [Neutralization Reactions](#neutralization-reactions)
+    - [Acid-Metal Reactions (Displacement Reactions)](#acid-metal-reactions-displacement-reactions)
+    - [Acid-Carbonate Reactions](#acid-carbonate-reactions)
+- [Conservation of Mass](#conservation-of-mass)
+- [The Mole Concept](#the-mole-concept)
+  - [Example time!!!](#example-time)
+- [The Mole Unit](#the-mole-unit)
+
+<!-- /TOC -->
 ## Stoichiometry
 - Stoichiometry is the branch of chemistry which deals with the calculation of quantities involved in chemical reactions
 - This includes the masses and volumes of substances
@@ -90,5 +110,6 @@ tags:
 > The number of Carbon atoms in 12 grams of pure Carbon-12
 - This is equal to about \\(6.02214076×10^23\\) particles
   - NOTE: Particles, not atoms
+  - This number is known as Avogadro's Constant, and is represented as \\(N_A\\)
   - These particles can be anything: atoms, molecules, electrons, bricks, etc.
 - 1 Mole is a LOT. For some perspective, [Here's what would happen if you had 1 mole (the unit) of moles (the animal)](https://what-if.xkcd.com/4/)
