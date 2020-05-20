@@ -15,7 +15,7 @@ social:
     icon: youtube
   - link: https://heimdall.intranet.pw
     icon_pack: fas
-    icon: fa-network-wired
+    icon: network-wired
 education:
   courses: []
 superuser: false
