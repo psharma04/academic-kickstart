@@ -97,7 +97,7 @@ tags:
 - For example, \\(2HCl + Mg\rightarrow H_2 +MgCl_2\\) simply means that for every 2 molecules of $HCl$, there is 1 atom of Magnesium, which produces 1 molecule of Hydrogen gas and 1 molecule of $MgCl_2$ (Magnesium Chloride)
 - However, as discussed in Module 1, different particles have different masses
 - The Mole concept allows us to easily translate chemical formula ratios into exact masses in units such as grams
-##### Example time!!!
+##### Example
 - Imagine you had 1 atom of carbon, and 1 of hydrogen
 ![Visual representation of carbon and hydrogen](https://cdn.statically.io/bb/psharma04/schoolnotes-cdn/master/svg/hydrogenvscarbon-mass.min.svg)
 - Notice that carbon is 12 times as massive as hydrogen, despite having the same number of particles
@@ -130,7 +130,7 @@ tags:
 > \\(\color{lightgreen}{N_A : \text{Avogadro's Constant}(6.022\times 10^{23} mol^{-1})}\\)
 - NOTE: A molecule's mass is determined by adding up the atomic masses of its composite elements
   - For example, $H_2 O$ would have a mass of $H+H+O=1.008+1.008+16=18.016g/mol$
-#### Example Question 1
+##### Example Question 1
 > $\color{cyan}{\text{Calculate the number of moles in 100g of Methane}}$
 1) Identify the chemical formula of the substance
 > Methane$=CH_4$
@@ -142,7 +142,7 @@ tags:
 > \\(n=\frac{100}{16.033}=6.237mol\\)
 5) Answer the question
 > \\(\text{Therefore 100g of Methane is 6.237mol (3 d.p.)}\\)
-#### Example Question 2
+##### Example Question 2
 > $\color{cyan}{\text{Calculate the number of particles in 12 moles of Carbon Dioxide}}$
 1) Identify the chemical formula of the substance
 > Carbon Dioxide$=CO_2$
@@ -154,4 +154,17 @@ tags:
 > \\(N=12\cdot 6.022\cdot 10^{23}=7.2264\cdot 10^{24}g\\)
 5) Answer the question
 > \\(\text{Therefore 12mol of Carbon Dioxide is }7.2264\times 10^{24}g\\)
-#### Example Question 3
+## Empirical Formulae
+- An empirical formula represents the smallest ratio of atoms present in a compound
+- For example, Glucose has a molecular formula of \\(C_6 H_{12} O_6\\), but an empirical formula of \\(CH_2 O\\)
+- Ionic lattices and metallic lattices are ALWAYS represented by an empirical formula e.g. $NaCl$
+- Covalent bonds and ionic molecules are represented by a molecular formula  e.g. $S_2 Cl_2$
+### Calculating an empirical formula
+1) start with the number of grams of each element
+2) Divide by the atomic mass
+3) Find the highest common factor
+4) Divide the molecular ratio by the highest common factor
+## Percentage composition
+- Percentage composition specifies the percentage by mass of different elements in a compound
+##### Example Question 1
+> $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$

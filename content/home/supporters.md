@@ -48,4 +48,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+  [[item]]
+    organization = "Math and Formula Rendering"
+    organization_url = "https://mathjax.org"
+    title = "Mathjax"
+    url = "https://mathjax.org"
+  #  certificate_url = "https://www.datacamp.com"
+    date_start = "2019-07-10"
+    date_end = ""
+    description = ""
 +++
