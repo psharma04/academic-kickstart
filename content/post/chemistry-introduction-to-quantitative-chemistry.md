@@ -1,7 +1,7 @@
 ---
 title: "Chemistry: Introduction to Quantitative Chemistry"
 author: Pranav Sharma, Jackson Taylor
-date: 2020-05-10T07:24:22.217Z
+date: 2020-05-21T07:24:22.217Z
 authors:
   - Pranav Sharma
   - Jackson Taylor
@@ -207,3 +207,4 @@ $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
 > \\(\therefore m=2.016\cdot1=2.016g\\)
 5) Answer the question
 > \\(\text{2.016 grams of Hydrogen gas are formed}\\)
+# COMING UP: Limiting Reagents
