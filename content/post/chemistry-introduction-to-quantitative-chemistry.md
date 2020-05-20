@@ -108,8 +108,50 @@ tags:
 ## The Mole Unit
 - The mole is a unit defined as:
 > The number of Carbon atoms in 12 grams of pure Carbon-12
-- This is equal to about \\(6.02214076×10^23\\) particles
+- This number is known as Avogadro's Constant, and is represented as \\(N_A\\)
+- This is equal to about \\(6.02214076\times 10^{23}\\) particles
   - NOTE: Particles, not atoms
-  - This number is known as Avogadro's Constant, and is represented as \\(N_A\\)
   - These particles can be anything: atoms, molecules, electrons, bricks, etc.
 - 1 Mole is a LOT. For some perspective, [Here's what would happen if you had 1 mole (the unit) of moles (the animal)](https://what-if.xkcd.com/4/)
+- On the periodic table, the atomic weight represents the number of grams per mole of a pure element
+  - For example, on the periodic table, Hydrogen has an atomic mass of $1.008g/mol$
+  - Therefore, for every 1.008 grams of pure Hydrogen, there is \\(6.02214076\times 10^{23}\\) atoms of Hydrogen
+### Calculating Mole Quantities
+> \\(\color{lightgreen}{n }\color{gray}{\=\frac{\color{lightblue}{m}}{\color{pink}{MM}}}=\frac{\color{lightgreen}{N}}{\color{lightgreen}{N_A}}\\)
+>
+> \\(\color{lightgreen}{n: \text{Number of moles (mol)}}\\)
+>
+> \\(\color{lightblue}{m: \text{mass (g)}}\\)
+>
+> \\(\color{pink}{MM: \text{Molecular Mass (g/mol)}}\\)
+>
+> \\(\color{lightgreen}{N: \text{Number of particles (No unit)}}\\)
+>
+> \\(\color{lightgreen}{N_A : \text{Avogadro's Constant}(6.022\times 10^{23} mol^{-1})}\\)
+- NOTE: A molecule's mass is determined by adding up the atomic masses of its composite elements
+  - For example, $H_2 O$ would have a mass of $H+H+O=1.008+1.008+16=18.016g/mol$
+#### Example Question 1
+> $\color{cyan}{\text{Calculate the number of moles in 100g of Methane}}$
+1) Identify the chemical formula of the substance
+> Methane$=CH_4$
+2) Find the molecular mass of the substance
+> $CH_4=12.011+(1.008\cdot 4)=16.033g/mol$
+3) State the relevant formula
+> \\(n=\frac{m}{MM}\\)
+4) Substitute known values
+> \\(n=\frac{100}{16.033}=6.237mol\\)
+5) Answer the question
+> \\(\text{Therefore 100g of Methane is 6.237mol (3 d.p.)}\\)
+#### Example Question 2
+> $\color{cyan}{\text{Calculate the number of particles in 12 moles of Carbon Dioxide}}$
+1) Identify the chemical formula of the substance
+> Carbon Dioxide$=CO_2$
+2) State the relevant formula
+> \\(n=\frac{N}{N_A}\\)
+3) Rearrange for correct subject
+> \\(N=n\cdot N_A\\)
+4) Substitute known values
+> \\(N=12\cdot 6.022\cdot 10^{23}=7.2264\cdot 10^{24}g\\)
+5) Answer the question
+> \\(\text{Therefore 12mol of Carbon Dioxide is }7.2264\times 10^{24}g\\)
+#### Example Question 3
