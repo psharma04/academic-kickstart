@@ -50,9 +50,26 @@ categories:
 - This is known as a precipitation reaction
 - An example is mixing sodium sulfide and copper sulfate solutions:
 > \\(\color{lightgreen}{Na_2 S_{(aq)}+CuSO_{4(aq)}}\\)\\(\rightarrow\\)\\(\color{lightblue}{CuS_{(s)}+Na_2SO_{4(aq)}}\\)
+
+
 #### Solubility Rules
-- The solubility rules are used to determine which compound is the precipitate
-![Solubility Rules Chart](https://cdn.statically.io/bb/psharma04/schoolnotes-cdn/master/svg/Solubility_rules.min.svg)
+The solubility rules are used to determine which compound is the precipitate.
+
+| Ion           | Soluble? | Exceptions                         |
+|---------------|----------|------------------------------------|
+| $NO_{3}^-$    | ✅        | ❌                                  |
+| $ClO_{4}^-$   | ✅        | ❌                                  |
+| $Cl^-$        | ✅        | $Ag, Hg_2 , Pb$                    |
+| $I^-$         | ✅        | $Ag, Hg_2 ,Pb$                     |
+| $SO_{4}^{2-}$ | ✅        | $Ca, Ba, Sr, Hg, Pb, Ag$           |
+| $CO_{3}^{2-}$ | ❌        | Alkalis and Ammonium               |
+| $PO_4 ^{3-}$  | ❌        | Alkalis and Ammonium               |
+| $OH^-$        | ❌        | Alkalis, $Ca, Ba, Sr$              |
+| $S^{2-}$      | ❌        | Alkalis, Alkaline Earths, Ammonium |
+| $Na^+$        | ✅        | ❌                                  |
+| $NH_4 ^+$     | ✅        | ❌                                  |
+| $K^+$         | ✅        | ❌                                  |
+
 ### Corrosion Reactions
 - Corrosion is a reaction involving a metallic element being converted into a more chemically stable form (e.g. an oxide, hydroxide, or sulfide)
 - Combustion and Corrosion are both types of "oxidization reactions"
@@ -86,7 +103,7 @@ Module 1 included a section on Nuclear Reactions, where atoms changed into diffe
 - The Mole concept allows us to easily translate chemical formula ratios into exact masses in units such as grams
 ##### Example
 - Imagine you had 1 atom of carbon, and 1 of hydrogen
-![Visual representation of carbon and hydrogen](https://cdn.statically.io/bb/psharma04/schoolnotes-cdn/master/svg/hydrogenvscarbon-mass.min.svg)
+![Visual representation of carbon and hydrogen](https://cdn.statically.io/bb/psharma04/schoolnotes-cdn/master/svg/hydrogen-carbon-mass%20(1).min.svg)
 - Notice that carbon is 12 times as massive as hydrogen, despite having the same number of particles
 - If you had 1 billion hydrogen atoms, and 1 billion hydrogen atoms, the carbon would weigh 12 times as much as the hydrogen, but have the same number of particles
 - Therefore, 12 grams of carbon must have the same number of particles as 1 gram of hydrogen
@@ -231,8 +248,8 @@ $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
   - If equal volumes of gases contain equal numbers of particles (Avogadro's Hypothesis)
   - Then logically, 1 mole of any gas (at the same temperature and pressure) should have the same volume
 - This volume is 24.79L at SLC $ (25^\circ , 100kPa) $, or 22.71L at STP $(0^\circ , 100kPa)$
-{{% alert note %}}
-At other temperatures and pressures, it can be calculated using the Ideal Gas Law:
+{{% alert success %}}
+At other temperatures and pressures, the volume can be calculated using the Ideal Gas Law:
 > $ \color{red}{P}\color{purple}{V}\color{black}{=}\color{blue}{n}\color{green}{R}\color{orange}{T} $
 > - $\color{red}\text{P=Pressure (kPa)}$
 > - $\color{purple}\text{V=Volume (L)}$
@@ -240,3 +257,65 @@ At other temperatures and pressures, it can be calculated using the Ideal Gas La
 > - $\color{orange}\text{T=Temperature (K)}$
 > - $\color{green}\text{R=Ideal Gas Constant }(N_A \cdot k_B = 8.3145J/K/mol)$
 {{% /alert %}}
+## Boyle's Law
+- Boyle's law describes the relationship between volume and pressure:
+> If pressure is increased, volume is decreased (as long as temperature is constant) and vice versa
+>
+> \\(\color{cyan}P\propto \frac{1}{V}\\)
+## Charles' Law
+- Charles' law describes the relationship beteen temperature and pressure
+- Fun fact: [Gay-Lussac actually made this law, but he got bored of having stuff named after him, and had it named after Charles instead](https://www.britannica.com/science/Charless-law)
+> \\(\color{cyan}V\propto T\\)
+>
+> \\(\color{cyan}\frac{V}{T}=k\\) (where $k$ is a constant)
+>
+> \\(\color{cyan}\frac{V_1}{T_1}=\frac{V_2}{T_2}\\)
+## Gas Laws and the Kelvin  Scale
+- When Charles and Gay-Lussac made their measurements of gas volumes at different temperatures, they found a trend
+- By extrapolating their results, they estimated that at $-273.15 ^\circ C$, the volume of any gas would be zero
+- This temperature is known as "Absolute zero," (0K) as anything colder would have negative volume
+- 273.15K = 0$^\circ$C
+> It was at this point that I realised I've spent my whole life spelling Celsius wrong - Jackson
+#### Common Celsius-Kelvin conversions
+|Kelvin|Degrees Celsius|
+|--|--|
+|0|-273.15|
+|273.15|0|
+|298.15|25|
+|373.15|100|
+
+## Gay-Lussac Part 2: Electric Boogaloo
+- This guy clearly didn't have anything better to do, because he ALSO came up with the relationship between pressure and temperature
+  > \\(\color{cyan}P\propto T\\)
+>
+> \\(\color{cyan}\frac{P}{T}=k\\) (where $k$ is a constant)
+>
+> \\(\color{cyan}\frac{P_1}{T_1}=\frac{P_2}{T_2}\\)
+
+
+## The Magical Combined Gas Law
+- If pressure is inversely proportional to volume (Boyle's law)
+- And Volume relates to temperature (Charles [actually Gay-Lussac but whatever])
+- And pressure relates to temperature (Gay-Lussac Part 2)
+- Then all the gas laws should be able to be Frankenstein-ed together
+> \\(\color{cyan}\frac{P_1 V_1}{T_1}=\frac{P_2 V_2}{T_2}\\)
+- Also,
+> \\(\color{cyan}\frac{PV}{T}=nR\\) Where R is a constant
+- R is known as the "ideal gas constant," and is on the [Chemistry Data Sheet](https://educationstandards.nsw.edu.au/wps/wcm/connect/98664936-221f-4c49-88e1-d002ec69285c/chemistry-formulae-sheet-data-sheet-periodic-table-hsc-exams-2019.pdf?MOD=AJPERES&CVID=)
+- The ideal gas constant is Avogadro's number multiplied by the Boltzmann constant (\\(k_B\\)), which is the amount of energy (Joules) per degree of temperature (Kelvin or Celcius), and is equal to $1.380649 \times 10^{−23}J/K$
+> \\(\color{cyan}R=N_A\cdot k_B =6.022\times10^{23}\cdot1.380649\times10^{−23}=8.3145J/K/mol\\)
+### Ideal Gas
+- The gas laws work perfectly for a so-called "Ideal Gas," which has the following properties:
+  1) The gas particles are so small that they make up an insignificant portion of the volume
+  2) The particles collide in perfect "elastic" collisions i.e. no loss of energy
+  3) There is no attraction between particles
+- The closest real gases to the "ideal gas" are Helium, then Hydrogen (as the smallest elements), followed by the rest of the Noble Gases
+- The furthest real gases from the ideal gas are \\( NH_4 , H_2 O\text{ and }CO_2 \\), unless at low pressures and well above their boiling point
+
+| Property | Ideal Gas | Real Gas |
+|-----------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Intermolecular Forces | No intermolecular forces | Particles are attracted by intermolecular forces, especially at high pressure/low temperatures |
+| Particle Collisions | No energy is lost in collisions | Some energy is lost in collisions due to the intermolecular forces |
+| Particle sizes | Near 0, do not occupy any volume/space | Particles have a very small % of the total space, which increases at higher pressures or low temperatures |
+| Obediance to Gas Laws | Always perfectly obeys all gas laws | Obey gas laws at normal temperatures, but not under extreme conditions or close to boiling point |
+| Examples | Hydrogen, Helium, Other Noble Gases are the closest to an ideal gas | Oxygen, Nitrogen, Carbon Dioxide, any other gas |
