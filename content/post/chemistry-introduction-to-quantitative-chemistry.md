@@ -275,7 +275,7 @@ At other temperatures and pressures, the volume can be calculated using the Idea
 - By extrapolating their results, they estimated that at $-273.15 ^\circ C$, the volume of any gas would be zero
 - This temperature is known as "Absolute zero," (0K) as anything colder would have negative volume
 - 273.15K = 0$^\circ$C
-> It was at this point that I realised I've spent my whole life spelling Celsius wrong - Jackson
+> It was at this point that I realised I've spent my whole life spelling Celsius wrong - {{% mention "Jackson Taylor" %}}
 #### Common Celsius-Kelvin conversions
 |Kelvin|Degrees Celsius|
 |--|--|
