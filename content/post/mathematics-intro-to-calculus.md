@@ -1,30 +1,19 @@
 ---
 title: "Mathematics: Introduction to Calculus"
-author: Pranav Sharma
+author: Pranav Sharma, Jackson Taylor
 date: 2020-05-14T00:31:42.327Z
 draft: "False"
+authors:
+  - Pranav Sharma
+  - Jackson Taylor
 categories:
   - Year 11
 tags:
   - Mathematics Advanced
 ---
-<!-- TOC -->
 
-- [Derivation](#derivation)
-  - [Rules (Copy into notes)](#rules-copy-into-notes)
-  - [Common Graphs](#common-graphs)
-    - [Quadratic](#quadratic)
-    - [Cubic](#cubic)
-    - [Quartic](#quartic)
-    - [Hyperbola](#hyperbola)
-    - [Exponentials other than \\(e^x \\)](#exponentials-other-than-\\e^x-\\)
-    - [\\(\ln \\)](#\\\ln-\\)
-- [First Principle](#first-principle)
-  - [Example of First Principle](#example-of-first-principle)
-    - [Find the first derivative of \\(f(x)=x^4+5x+3\\)](#find-the-first-derivative-of-\\fxx^45x3\\)
-- [Shortcuts for the First Princple](#shortcuts-for-the-first-princple)
+{{% toc %}}
 
-<!-- /TOC -->
 - Calculus is the study of continous change
 - Calculus is used to find the gradient of a graph, the maximum and minimum values, the area under or over a graph, inflection points, etc.
 ## Derivation
@@ -114,5 +103,7 @@ tags:
 8) $\frac{d}{dx}((f(x))^n )= n(f\prime (x))^{n-1}$
 9) $\frac{dy}{dx}=\frac{dy}{du}\cdot\frac{du}{dx}$
 10) $\frac{d}{dx}af(x)=a(f\prime (x))$
-> \\(\frac{d}{dx} \Leftarrow\Rightarrow\\) differentiate with respect to $x$
-> \\(\frac{dy}{dx} \Leftarrow\Rightarrow\frac{d}{dx}(y)\Leftarrow\Rightarrow y\prime\Leftarrow\Rightarrow\\) differentiate $y$ with respect to $x$
+{{% alert note %}}
+\\(\frac{d}{dx} \Leftarrow\Rightarrow\\) differentiate with respect to $x$
+\\(\frac{dy}{dx} \Leftarrow\Rightarrow\frac{d}{dx}(y)\Leftarrow\Rightarrow y\prime\Leftarrow\Rightarrow\\) differentiate $y$ with respect to $x$
+{{% /alert %}}
