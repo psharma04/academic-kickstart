@@ -207,4 +207,36 @@ $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
 > \\(\therefore m=2.016\cdot1=2.016g\\)
 5) Answer the question
 > \\(\text{2.016 grams of Hydrogen gas are formed}\\)
-# COMING UP: Limiting Reagents
+{{% alert note %}}
+#### Limiting Reagents
+- In a chemical equation, a mole ratio is given, which tells you the ideal reaction
+  - For example, \\(2NaI+Pb(NO_3 )_2 \rightarrow PbI_2 + 2NaNO_3\\)
+  - In this formula, the molar ratio is \\(2:1\rightarrow 1:2 \\)
+  - So for every 2 moles of $NaI$, 1 mole of $Pb(NO_3 )_2 \\) is required
+- But what happens if you have more than 1 mole of $Pb(NO_3 )_2 $?
+  - In this case, after the reaction, there will be some Lead Iodide left over
+  - The \\(NaI\\) is in "short supply", so its mole quantity determines the maximum yield of products which can be formed
+  - In this case, \\(NaI\\) is called a _Limiting Reagent_, because its mole quantity "limits" the amount of product that can be formed
+{{% /alert %}}
+# The Gas Laws
+## Gay-Lussac's Law of Combining Volumes
+> "When measured at constant temperature and pressure, the volumes of gases in a chemical reaction show simple, whole number ratios to each other"
+- This means that the ratio between the volumes of 2 gases is the same as the ratio between their molar quantities
+## Avogadro's Hypothesis
+- Yep, Avogadro is back with a hypothesis this time:
+> Equal volumes of all Gases contain equal numbers of molecules (at the same temperature and pressure)
+## Molar Volume of Gases
+- Avogadro's Hypothesis has an interesting implication:
+  - If 1 mole of any chemical contains the same number of particles (Avogadro's Law)
+  - If equal volumes of gases contain equal numbers of particles (Avogadro's Hypothesis)
+  - Then logically, 1 mole of any gas (at the same temperature and pressure) should have the same volume
+- This volume is 24.79L at SLC $ (25^\circ , 100kPa) $, or 22.71L at STP $(0^\circ , 100kPa)$
+{{% alert note %}}
+At other temperatures and pressures, it can be calculated using the Ideal Gas Law:
+> $ \color{red}{P}\color{purple}{V}\color{black}{=}\color{blue}{n}\color{green}{R}\color{orange}{T} $
+> - $\color{red}\text{P=Pressure (kPa)}$
+> - $\color{purple}\text{V=Volume (L)}$
+> - $\color{blue}\text{n=number of Moles (mol)}$
+> - $\color{orange}\text{T=Temperature (K)}$
+> - $\color{green}\text{R=Ideal Gas Constant }(N_A \cdot k_B = 8.3145J/K/mol)$
+{{% /alert %}}
