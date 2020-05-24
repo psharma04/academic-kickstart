@@ -20,6 +20,9 @@ social:
   - icon_pack: fas
     icon: network-wired
     link: https://intranet.pw
+  - link: https://urltr.ee/2fast_2spurious
+    icon_pack: fas
+    icon: code-branch
 organizations:
   - name: Heimdall Studios
     url: https://heimdall.intranet.pw
