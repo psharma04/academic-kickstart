@@ -1,0 +1,9 @@
+{
+  "name": "Notes Portal",
+  "short_name": "schoolnotes=portal",
+  "theme_color": "#00ac21",
+  "background_color": "#3e3e3e",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "https://schoolnotes.intranet.pw"
+}

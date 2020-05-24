@@ -1,6 +1,6 @@
 ---
 title: "SOR1: John XXIII"
-date: 2020-05-25T11:58:00.000Z
+date: 2020-05-23T11:58:00.000Z
 draft: false
 featured: false
 authors:
@@ -48,7 +48,7 @@ image:
 > - Jews held at the Sereď concentration camp who were spared from being deported to German death camps as a result of his intervention.
 > - Hungarian Jews who saved themselves through their conversions to Christianity through the baptismal certificates sent by Nuncio Roncalli to the Hungarian Nuncio, Monsignor Angelo Rota.
 
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Pope_John_XXIII#Efforts_during_the_Holocaust)
+[Source: Wikipedia](https://en.wikipedia.org/wiki/Pope_John_XXIII#Efforts_during_the_Holocaust) {{< icon name="external-link-alt" pack="fas" >}}
 {{% /alert %}}
 
 ## Vatican II
@@ -74,10 +74,10 @@ image:
         - Sign of Peace
 *   Interfaith dialogue:
     *   Nostra aetate:  “In our time, when day by day mankind is being drawn closer together, and the ties between different peoples are becoming stronger”
-    *   The catholic church rejects nothing that is true and holy in these religions” (Judaism and Islam)
+    *   The Catholic Church rejects nothing that is true and holy in these religions” (Judaism and Islam)
 *   Ecumenism:
-    *   Unitatis redintegratio: calls for the reunion of christendom
-    *   Anyone who has been baptised is christian, “and so are correctly accepted as brothers by the children of the catholic church”
+    *   Unitatis redintegratio: calls for the reunion of Christendom
+    *   Anyone who has been baptised is Christian, “and so are correctly accepted as brothers by the children of the Catholic Church”
 #### Constitutions
 *   Sacrosanctum Concilium:
     *   December 4 1963
@@ -115,4 +115,16 @@ image:
 ### Ecumenism
 - Representatives of Orthodox and Protestantism were invited to the Vatican Council
 - Invited members of all faiths to his Pentecost homily in 1944 at the Apostolic Delegate to Turkey
-> “to believe in Christ means to desire unity; to desire unity means to desire the Church; to desire the Church means to desire the communion of grace which corresponds to the Father's plan from all eternity. Such is the meaning of Christ's prayer: Ut unum sint.”
+> “To believe in Christ means to desire unity; to desire unity means to desire the Church; to desire the Church means to desire the communion of grace which corresponds to the Father's plan from all eternity. Such is the meaning of Christ's prayer: Ut unum sint.”
+
+## Encyclicals 
+- An encyclical is a written document issued by the Pope to all archbishops, bishops, patriarchs and primates of the Roman Catholic Church
+- Encyclicals are translated and distributed to individual churches and laypeople by local bishops
+- Encyclicals are used to address contextual issues, such as social movements and wars
+- Encyclicals are the second-highest ranking document issued by popes (Apostolic Constitutions are the only level higher)
+### Pacem In Terris
+- "Peace on Earth" (Latin)
+- Issued by Pope John XXIII on 11/04/1963
+- Focused on the rights of individuals and the state, as well as international relations
+- Emphasised human dignity and equality
+- Mentioned issues such as Womens' rights, Nuclear Non-Proliferation, and the United Nations, all 3 of which were endorsed
