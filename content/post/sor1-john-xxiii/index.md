@@ -78,8 +78,8 @@ image:
 *   Ecumenism:
     *   Unitatis redintegratio: calls for the reunion of Christendom
     *   Anyone who has been baptised is Christian, “and so are correctly accepted as brothers by the children of the Catholic Church”
-#### Constitutions
-*   Sacrosanctum Concilium:
+### Constitutions
+ *   Sacrosanctum Concilium:
     *   December 4 1963
     *   Pope Paul VI
     *   Aimed to achieve greater lay participation in the Catholic Church’s liturgy
@@ -117,7 +117,7 @@ image:
 - Invited members of all faiths to his Pentecost homily in 1944 at the Apostolic Delegate to Turkey
 > “To believe in Christ means to desire unity; to desire unity means to desire the Church; to desire the Church means to desire the communion of grace which corresponds to the Father's plan from all eternity. Such is the meaning of Christ's prayer: Ut unum sint.”
 
-## Encyclicals 
+## Encyclicals
 - An encyclical is a written document issued by the Pope to all archbishops, bishops, patriarchs and primates of the Roman Catholic Church
 - Encyclicals are translated and distributed to individual churches and laypeople by local bishops
 - Encyclicals are used to address contextual issues, such as social movements and wars
