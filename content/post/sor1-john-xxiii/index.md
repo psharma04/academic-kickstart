@@ -32,7 +32,7 @@ image:
 - Made head of the Vatican Jewish Agency in Geneva (1939)
 - 22 December 1944 - appointed Apostolic Nuncio to France
 - 4:30 PM - 28/10/1958 - Elected Pope with 38 votes
-- Took the Regnal Name John, first in over 500 years
+- Took the Regnal Name John, first in https://urltr.ee/2fast_2spuriousover 500 years
 ### External: Efforts During the Holocaust
 {{% alert info %}}
 > Roncalli made various efforts during the Holocaust in World War II to save refugees, mostly Jewish people, from the Nazis. Among his efforts were:
