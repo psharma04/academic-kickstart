@@ -1,12 +1,14 @@
 ---
 title: Saneel Damle
-role: Postwriter
+role: Post Writer
 avatar_filename: 04c9f6b62dc0299d7bf0ece12e0a8c80.jpg
 bio: ""
 interests:
   - Sports
   - Gaming and STOOF
 superuser: false
+user_groups:
+  - all
 ---
 IDK WHAT TO DO
 
