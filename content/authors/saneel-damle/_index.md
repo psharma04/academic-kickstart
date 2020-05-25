@@ -13,3 +13,9 @@ user_groups:
 IDK WHAT TO DO
 
 PRANAV
+
+
+
+I do de subjects like
+
+Math Adv, Math Ex1, Physics, Biology, Multimedia, SOR II, English Adv
