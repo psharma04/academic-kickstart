@@ -1,7 +1,7 @@
 ---
 title: Saneel Damle
 role: Post Writer
-avatar_filename: avataaars-1-.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Sports
