@@ -9,6 +9,7 @@ interests:
   - Astrophysics
   - Programming
   - Gaming
+  - Music
 social:
   - icon_pack: fab
     link: https://instagram.com/luca_cardinale_?igshid=8mpclqu4pbiq
