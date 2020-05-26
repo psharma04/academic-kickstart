@@ -20,7 +20,12 @@ social:
   - icon_pack: fab
     icon: snapchat
     link: https://www.snapchat.com/add/luca_pc
-organizations: []
+  - link: https://twitter.com/LucaCardinale5
+    icon_pack: fab
+    icon: twitter
+organizations:
+  - name: Seventy5_Music
+    url: https://open.spotify.com/artist/3g1Uu0jCtPKQ1wzvpkosJZ?si=f596F9GORcyZmQ_OOWEvjA
 education:
   courses:
     - course: Physics
@@ -51,4 +56,4 @@ superuser: false
 user_groups:
   - all
 ---
-I'm a huge fan of **movies** and **games** and love trying to create and make things related to the content I love! I like **photography**, **cinematography**, **programming**, **astronomy** and **ethics**! I also enjoy talking about **literature,** **quantum mechanics** and anything **space** related!!
+I'm a huge fan of **movies** and **games** and love trying to create and make things related to the content I love! I like **photography**, **cinematography**, **programming**, **astronomy** and **ethics**! I also enjoy talking about **literature,** **quantum mechanics** and anything **space** related!! I used to make and produce music and still do here and there! (Seventy5 Music)
