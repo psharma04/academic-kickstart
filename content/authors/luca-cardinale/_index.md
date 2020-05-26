@@ -1,7 +1,7 @@
 ---
 title: Luca Cardinale
 role: Post Writer
-avatar_filename: avataaars.png
+avatar_filename: avatar.png
 bio: I'm a Year 11 Student at SMCC, I'll write about SOR, Multimedia, Physics,
   Software!
 interests:
