@@ -43,6 +43,9 @@ education:
     - course: Photography and Digital Media
       institution: SMCC
       year: 11
+    - course: Astrophysics
+      year: 1
+      institution: Online Learning
 superuser: false
 ---
 I'm a huge fan of **movies** and **games** and love trying to create and make things related to the content I love! I like **photography**, **cinematography**, **programming**, **astronomy** and **ethics**! I also enjoy talking about **literature,** **quantum mechanics** and anything **space** related!!
