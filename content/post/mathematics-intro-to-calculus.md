@@ -1,15 +1,15 @@
 ---
 title: "Mathematics: Introduction to Calculus"
 author: Pranav Sharma, Jackson Taylor
-date: 2020-05-14T00:31:42.327Z
+date: 2020-05-30T02:14:30.489Z
 draft: "False"
 authors:
   - Pranav Sharma
   - Jackson Taylor
-categories:
-  - Year 11
 tags:
   - Mathematics Advanced
+categories:
+  - Year 11
 ---
 
 {{% toc %}}
