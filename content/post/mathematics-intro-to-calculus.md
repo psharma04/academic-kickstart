@@ -107,3 +107,10 @@ tags:
 \\(\frac{d}{dx} \Leftarrow\Rightarrow\\) differentiate with respect to $x$
 \\(\frac{dy}{dx} \Leftarrow\Rightarrow\frac{d}{dx}(y)\Leftarrow\Rightarrow y\prime\Leftarrow\Rightarrow\\) differentiate $y$ with respect to $x$
 {{% /alert %}}
+## Graphing Derivatives
+| \\(f(x)\\) | \\(\frac{d}{dx}(f(x))\\) |
+|-|-|
+| Turning Points/Standing Points | \\(x\\)-Intercepts |
+| Points of Inflection | Turning Points |
+| Horizontal Points of Inflection | Turning points ON THE X-AXIS |
+# UPCOMING: Chain Rule, Product Rule
