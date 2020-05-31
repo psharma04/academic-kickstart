@@ -2,9 +2,9 @@
 title: "PSA: How to prevent permanent damage from Tear Gas or CS spray"
 date: 2020-05-30T15:06:00.000Z
 draft: false
-featured: false
+featured: true
 authors:
-  - Jackson Taylor
+  - Pranav Sharma
 tags:
   - Personal Safety
 categories:
