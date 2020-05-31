@@ -1,6 +1,6 @@
 ---
 title: "PSA: How to prevent permanent damage from Tear Gas/CS spray"
-date: 2020-05-31T03:06:00.000Z
+date: 2020-05-30T15:06:00.000Z
 draft: false
 featured: true
 authors:
