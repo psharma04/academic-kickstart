@@ -81,37 +81,36 @@ collections:
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Subtitle", name: "subtitle", widget: "string",required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Authors"
+        name: "authors"
+        required: false
+      - label: "Subject"
+        name: "tags"
+        required: true
+        widget: "list"
+      - label: "Year Level"
+        name: "categories"
+        required: true
+        widget: "list"
+      - {label: "Content", name: "body", widget: "markdown"}
       - {label: "Publish this page on", name: "date", widget: "datetime"}
+      - {label: "Subtitle (optional)", name: "subtitle", widget: "string",required: false}
       - {label: "Summary", name: "summary", widget: "markdown", required: false}
-      - label: "Draft"
+      - label: "Draft?"
         name: "draft"
         widget: "boolean"
         default: false
         required: false
-      - label: "Featured"
+      - label: "Featured Post?"
         name: "featured"
         widget: "boolean"
         default: false
         required: false
-      - label: "Authors"
-        name: "authors"
-        required: false
-        widget: "list"
-      - label: "Tags"
-        name: "tags"
-        required: false
-        widget: "list"
-      - label: "Categories"
-        name: "categories"
-        required: false
-        widget: "list"
-      - label: "Projects"
+      - label: "Related Projects (Optional)"
         name: "projects"
         required: false
         widget: "list"
-      - label: "Featured Image"
+      - label: "Featured Image (Optional)"
         name: "image"
         required: false
         widget: object
