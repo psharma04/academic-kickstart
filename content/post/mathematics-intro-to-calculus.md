@@ -122,8 +122,13 @@ categories:
 | Points of Inflection            | Turning Points               |
 | Horizontal Points of Inflection | Turning points ON THE X-AXIS |
 
-## Chain Rule
+## Chain Rule 
+> \\(color{lightblue}{\text{If }y=f(g(x))\text{, then }y\prime=f\prime(g(x))\cdot g(x)}\\)
+## Product Rule
+> \\(color{lightblue}{\text{If }y=u(x)\cdot v(x)\text{, then }\frac{dy}{dx}(y)=u\prime v+v\prime u}\\)
+## Quotient Rule
+
 
 > \\(\color{lightblue}{\text{If }f(x)=\frac{u(x)}{v(x)}\text{, then } f\prime (x)=\frac{u\prime (x)v(x)-v\prime (x)u(x)}{v^2 }}\\)
 
-# UPCOMING: Chain Rule, Product Rule, Quotient Rule
+# UPCOMING: Examples for Chain Rule, Product Rule, Quotient Rule
