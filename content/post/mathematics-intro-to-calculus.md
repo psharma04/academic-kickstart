@@ -1,8 +1,9 @@
 ---
 title: "Mathematics: Introduction to Calculus"
 author: Pranav Sharma, Jackson Taylor
-date: 2020-05-30T02:14:30.489Z
+date: 2020-06-01T02:14:30.489Z
 draft: "False"
+featured: false
 math: true
 authors:
   - Pranav Sharma
@@ -114,4 +115,40 @@ categories:
 | Turning Points/Standing Points | \\(x\\)-Intercepts |
 | Points of Inflection | Turning Points |
 | Horizontal Points of Inflection | Turning points ON THE X-AXIS |
-# UPCOMING: Chain Rule, Product Rule
+## Chain Rule
+- The chain rule is used when one function is acting on another (e.g. \\(f(g(x))\\)), and you need to find the derivative of the whole thing
+> \\(\color{lightblue}{f(g(x))\prime=f\prime(g(x))g\cdot\prime(x)}\\)
+### Steps
+> \\(\color{lightgreen}{\text{Example question: find }f\prime(x)\text{ where }f(x)=(3x^2 +5)^{10}}\\)
+1) Bring the exponent to the front (Parentheses stay the same)
+> \\(10(3x^2 +5)^{10}\\)
+2) Subtract 1 from exponent
+> \\(10(3x^2 +5)^{9}\\)
+3) Multiply by derivative of inside
+> \\(10(3x^2 +5)^{9}\cdot (6x)\\)
+4) Solve and answer the question
+> \\(\therefore f\prime(x)=60x\left(3x^2+5\right)^9\\)
+## Product Rule (UWU Rule)
+- The product rule is used to find the product of two differentials when given the original multipliers, for example:
+> \\(\color{lightgreen}{\text{Find }f\prime(x)\text{ where }f(x)=(2x+5)(4x^2 +5)}\\)
+- The product rule is as follows:
+> \\(\color{red}{\text{If }f(x)=u(x)\cdot v(x)\text{, then }f\prime(x)=u(x)\prime v(x)+v(x)\prime u(x)}\\)
+### Steps
+1) Find \\(u\prime(x)\\) and \\(v\prime (x)\\)
+> \\(u\prime (x)=2\\)
+> \\(v\prime (x)=8x\\)
+2) Find \\(u\prime v\\) and \\(v\prime u\\)
+> \\(u\prime v = 2\cdot (4x^2 +5) =8x^2 +10\\)
+>
+> \\(v\prime u = 8x\cdot (2x+5) = 16x^2 + 40x\\)
+3) Solve and answer the question
+> \\(f\prime(x)=8x^2 +10+16x^2 + 40x\\)
+>
+> \\(\therefore f\prime(x)=24x^2 +40x+10\\)
+## Quotient Rule (WIP)
+- The Quotient rule is used to find the quotient of two differentials when given the divisor and dividend, for example:
+> \\(\color{lightgreen}{\text{Find }f\prime(x)\text{ where }f(x)=\frac{2x+5}{4x^2 +5}}\\)
+
+> Yes I used the same functions. Deal with it 😎
+>
+> \- Pranav
