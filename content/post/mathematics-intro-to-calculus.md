@@ -3,6 +3,7 @@ title: "Mathematics: Introduction to Calculus"
 author: Pranav Sharma, Jackson Taylor
 date: 2020-05-30T02:14:30.489Z
 draft: "False"
+math: true
 authors:
   - Pranav Sharma
   - Jackson Taylor
