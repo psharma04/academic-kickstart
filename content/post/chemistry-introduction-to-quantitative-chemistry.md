@@ -1,7 +1,7 @@
 ---
 title: "Chemistry: Introduction to Quantitative Chemistry"
 author: Pranav Sharma, Jackson Taylor
-date: 2020-05-20T07:24:22.217Z
+date: 2020-06-03T07:24:22.217Z
 authors:
   - Pranav Sharma
   - Jackson Taylor
@@ -103,7 +103,7 @@ Module 1 included a section on Nuclear Reactions, where atoms changed into diffe
 - The Mole concept allows us to easily translate chemical formula ratios into exact masses in units such as grams
 ##### Example
 - Imagine you had 1 atom of carbon, and 1 of hydrogen
-![Visual representation of carbon and hydrogen](https://cdn.statically.io/bb/psharma04/schoolnotes-cdn/master/svg/hydrogen-carbon-mass%20(1).min.svg)
+![Visual representation of carbon and hydrogen](https://cdn.statically.io/bb/psharma04/schoolnotes-cdn/master/svg/Hydrogenvscarbon1.min.svg)
 - Notice that carbon is 12 times as massive as hydrogen, despite having the same number of particles
 - If you had 1 billion hydrogen atoms, and 1 billion hydrogen atoms, the carbon would weigh 12 times as much as the hydrogen, but have the same number of particles
 - Therefore, 12 grams of carbon must have the same number of particles as 1 gram of hydrogen
