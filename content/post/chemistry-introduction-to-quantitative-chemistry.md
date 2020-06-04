@@ -305,7 +305,7 @@ At other temperatures and pressures, the volume can be calculated using the Idea
 - The ideal gas constant is Avogadro's number multiplied by the Boltzmann constant (\\(k_B\\)), which is the amount of energy (Joules) per degree of temperature (Kelvin or Celcius), and is equal to $1.380649 \times 10^{−23}J/K$
 > \\(\color{cyan}R=N_A\cdot k_B =6.022\times10^{23}\cdot1.380649\times10^{−23}=8.3145J/K/mol\\)
 ### Ideal Gas
-- The gas laws work perfectly for a so-called "Ideal Gas," which has the following properties:
+- The gas laws work perfectly for a so-called "Ideal Gas" which has the following properties:
   1) The gas particles are so small that they make up an insignificant portion of the volume
   2) The particles collide in perfect "elastic" collisions i.e. no loss of energy
   3) There is no attraction between particles
