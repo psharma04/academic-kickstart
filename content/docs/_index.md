@@ -32,7 +32,7 @@ menu:
   - If you wish to have an avatar, please generate it using [avataaaars generator](https://getavataars.com). Please remember to rename the file to either `avatar.png` or `avatar.jpg`.
 ---
 #### Video Guide
-<iframe src="http://webmshare.com/play/6V6XE" height=50% frameborder="0"></iframe>
+<iframe src="https://webmshare.com/play/6V6XE" height=50% frameborder="0"></iframe>
 
 ---
 ## Next: [Making a post](posts)
