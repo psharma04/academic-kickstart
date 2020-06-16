@@ -27,6 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{% toc %}}
+
 - Christian ethics provide a guide for Christians so that their daily living reflects scriptural principles and adheres to the principles of the faith
 - Many elements of Christian ethics are based on the [Decalogue (Ten Commandments)<sup>{{< icon name="wikipedia-w" pack="fab" >}}</sup> ](https://en.wikipedia.org/wiki/Ten_Commandments) and the [Beatitudes<sup>{{< icon name="wikipedia-w" pack="fab" >}}</sup> ](https://en.wikipedia.org/wiki/Beatitudes)
 - However, there are denominational differences:
