@@ -1,14 +1,14 @@
 ---
 title: "Physics Module 2: Dynamics"
 comments: true
-date: 2020-05-08 19:35:22
-categories:
-  - Year 11
-  - Physics
+date: 2020-06-16T11:36:21.010Z
 tags:
   - Physics
   - Year 11
   - Kinematics
+categories:
+  - Year 11
+  - Physics
 ---
 ### Force
 - A force can be thought of as a push or a pull
