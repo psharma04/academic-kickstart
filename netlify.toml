@@ -24,10 +24,3 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Security-Policy= "default-src 'self' https://cdnjs.cloudflare.com https://*.intranet.pw https:"
-    X-Content-Security-Policy= "default-src 'self' https://cdnjs.cloudflare.com https://*.intranet.pw https:"
-    X-WebKit-CSP= "default-src 'self' https://cdnjs.cloudflare.com https://*.intranet.pw https:"
-    X-Content-Type-Options= nosniff
