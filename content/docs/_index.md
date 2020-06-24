@@ -29,10 +29,15 @@ menu:
 - You can sign in straight away with your Google or GitHub account. That way, we don't need to worry about storing your private information.
 - Once you are signed in, you should come to the "Authors" page. If you have just signed up, click "New Author".
   - Fill in display name, full biography and any other fields that are relevant to you. Once you have finished that, scroll to the "User Groups" field and enter "all" (without quotes, all lower-case)
-  - If you wish to have an avatar, please generate it using [avataaaars generator](https://getavataars.com). Please remember to rename the file to either `avatar.png` or `avatar.jpg`.
+  - If you wish to have an avatar, please generate it using [avataars generator](https://getavataars.com). Please remember to rename the file to either `avatar.png` or `avatar.jpg`.
 ---
-#### Video Guide
-<iframe src="https://webmshare.com/play/6V6XE" height=50% frameborder="0"></iframe>
+#### Video Guide (Ignore the length)
+<video controls>
+  <source src="https://s1.webmshare.com/8mEwV.webm" type="video/webm">
+  <source src="videos/vid1-1.webm" type="video/webm">
+  <source src="videos/vid1-1.m4v">
+  <p>Your browser doesn't support HTML5 video. Try using a different browser.</p>
+</video>
 
 ---
 ## Next: [Making a post](posts)
