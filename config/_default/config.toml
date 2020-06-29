@@ -9,11 +9,11 @@ title = "Schoolnotes Portal"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://schoolnotes.intranet.pw/"
+baseurl = "https://schoolnotes.xyz/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "&copy; Pranav Sharma 2020"
 
 ############################
 ## Advanced options below ##
