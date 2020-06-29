@@ -58,5 +58,5 @@ projects: []
 - This implies that if humans interfered with the start, quality and/or end of life, they would be disrupting God's plan and violating His sovereignty
 ### Jesus' Commandment of Love
 - In the New Testament, Jesus teaches people to "Love one another as I have loved you" [(Ephesians 1:11 NIV)<sup>{{< icon name="bible" pack="fas" >}}</sup>](https://www.biblica.com/bible/?osis=NIV:eph.1.11)
-- Based on this, al ethical decisions in Christianity are rooted in the concept of love
+- Based on this, all ethical decisions in Christianity are rooted in the concept of love
 - As well as loving your proverbial neighbor, Jesus also taught to "Love the Lord your God with all your heart, soul and strength"[(Deuteronomy 6:5 NIV)<sup>{{< icon name="bible" pack="fas" >}}</sup>](https://www.biblica.com/bible/?osis=niv:deut.6.5)
