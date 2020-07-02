@@ -99,3 +99,8 @@ categories:
 > \\(\vec{F}=m\vec{g}\cdot sin\theta\\)
  
 ![diagram of the normal force acting on an inclined plane](/images/normal-force-3.png)
+
+### Friction
+- Friction is expressed as \\(F=\mu F_N\\), where \\(\mu\\) is the Coefficient of Friction
+- Note that Friction is directly proportional to the Normal Force, meaning that the frictional force at an angle is different to the frictional force on a flat plane
+![Friction Graph](https://cdn.schoolnotes.xyz/Friction-Graph.jpeg)
