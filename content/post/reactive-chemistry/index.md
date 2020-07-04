@@ -119,7 +119,7 @@ The solubility rules are used to determine which compound is the precipitate.
 #### Acid-Metal Reactions (Displacement Reactions)
 - Many metals will react with Acids to produce a "salt" and Hydrogen gas (\\(H_2\\))
 - The general formula for Acid-Metal reactions is:
-> \\(\color{lightgreen}{\text{Acid}+\text{Metal}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2}\\)
+>  \\(\color{lightgreen}{\text{Acid}+\text{Metal}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2}\\)
 #### Acid-Carbonate Reactions
 - When an acid reacts with a carbonate compound, the products are always \\(CO_2\\), \\(H_2 O\\), and a salt
 - The general formula is:
