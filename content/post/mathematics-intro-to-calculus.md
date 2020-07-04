@@ -167,6 +167,6 @@ categories:
    > $v\prime (x)=8x$
 2. Substitute values into the Quotient formula
 
-   > $= \frac{u\prime v - v\prime u}{v^2}}\)$ 
+   > $= \frac{u\prime v - v\prime u}{v^2}}\$ 
    >
-   > $f\prime (x)=\frac{2(4x^2+5) - 8(2x+5)}{(4x^2 +5)^2}}\)$
+   > $f\prime (x)=\frac{2(4x^2+5) - 8(2x+5)}{(4x^2 +5)^2}}\$
