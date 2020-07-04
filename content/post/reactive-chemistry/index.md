@@ -29,6 +29,10 @@ projects: []
 ---
 
 {{% toc %}}
+<hr>
+<a href="https://cdn.schoolnotes.xyz/documents/pdf/chemistry-stage6-syllabus-pdf.pdf" target="_blank">View Chemistry Syllabus</a><p>
+<a href="https://cdn.schoolnotes.xyz/documents/pdf/chemistry-data-sheet-2019.pdf" target=_blank">View Chemistry Data Sheet</a></p>
+<hr>
 
 ## Types of Reactions
 ### Decomposition Reactions
@@ -119,10 +123,31 @@ The solubility rules are used to determine which compound is the precipitate.
 #### Acid-Metal Reactions (Displacement Reactions)
 - Many metals will react with Acids to produce a "salt" and Hydrogen gas (\\(H_2\\))
 - The general formula for Acid-Metal reactions is:
->  \\(\color{lightgreen}{\text{Acid}+\text{Metal}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2}\\)
+> \\(\color{lightgreen}{\text{Acid}+\text{Metal}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2}\\)
 #### Acid-Carbonate Reactions
-- When an acid reacts with a carbonate compound, the products are always \\(CO_2\\), \\(H_2 O\\), and a salt
+- When an acid reacts with a carbonate compound, the products are always \\(\ce{CO2}\\), \\(H_2 O\\), and a salt
 - The general formula is:
 > \\(\color{lightgreen}{\text{Acid}+\text{Carbonate Compound}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2 O + CO_2 }\\)
 ### Redox Reactions
--
+- Redox is short for "Reduction-Oxidization"
+- Redox reactions occur between 2 substances, where electrons are LOST by one (the reductant), and GAINED by the other (the oxidant)
+- An easy way to remember this is with AN OIL RIG CAT:
+  - AN - at the ANode,
+  - OIL - Oxidization Involves Loss of electrons
+  - RIG - Reduction Involves Gain of electrons
+  - CAT - at the CAThode
+#### Rules
+1. Metals are always reductants, Metal IONS are always Oxidants
+2. Oxygen has an oxidation state of $2-$ (unless in a peroxide)
+3. Hydrogen has an oxidation state of 1+ (except in metal hydrides)
+4. Free elements have an oxidation state of 0
+5. The oxidation state of an ion is equal to it's charge
+6. In compounds, the sum of all oxidation states is 0
+7. The halogens (F, Cl, Br and I) typically have an oxidation state of 1- in their ionic compounds. In molecular compounds their oxidation number is typically 1- or 7-.
+8. When naming ionic compounds in which variable oxidation states of metal ions are present, the oxidation state is shown in roman numerals.
+> \$\text{Example: }\ce{FeCl2}\$  
+>
+> $\require{color}\text{Iron has an oxidation state of 2+}$
+>
+> $\text{Therefore, the compound is called Iron } \colorbox{lightgray}{(II)} \text{ Chloride}$
+9. When Hydrogen ($\ce{H2}$) is burned in Oxygen ($\ce{O2}$), water ($\ce{H2O}$) is formed
