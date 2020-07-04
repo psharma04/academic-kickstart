@@ -12,6 +12,10 @@ categories:
 ---
 
 {{% toc %}}
+<hr>
+<a href="https://cdn.schoolnotes.xyz/documents/pdf/chemistry-stage6-syllabus-pdf.pdf" target="_blank">View Chemistry Syllabus</a><p>
+<a href="https://cdn.schoolnotes.xyz/documents/pdf/chemistry-data-sheet-2019.pdf" target=_blank">View Chemistry Data Sheet</a></p>
+<hr>
 
 ## Stoichiometry
 - Stoichiometry is the branch of chemistry which deals with the calculation of quantities involved in chemical reactions
