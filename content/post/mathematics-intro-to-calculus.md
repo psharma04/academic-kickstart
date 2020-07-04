@@ -1,7 +1,7 @@
 ---
 title: "Mathematics: Introduction to Calculus"
 author: Pranav Sharma, Jackson Taylor
-date: 2020-06-01T02:14:30.489Z
+date: 2020-07-03T02:14:30.489Z
 draft: "False"
 featured: false
 math: true
@@ -14,8 +14,10 @@ categories:
   - Year 11
 ---
 
+<!-- Page-Specific Commands. DO NOT EDIT!!! -->
 {{% toc %}}
-
+\$ \newcommand{\ddx}[1]{\frac{d #1}{dx}} \$
+<!-- End custom commands block -->
 - Calculus is the study of continous change
 - Calculus is used to find the gradient of a graph, the maximum and minimum values, the area under or over a graph, inflection points, etc.
 ## Derivation
@@ -145,7 +147,7 @@ categories:
 > \\(f\prime(x)=8x^2 +10+16x^2 + 40x\\)
 >
 > \\(\therefore f\prime(x)=24x^2 +40x+10\\)
-## Quotient Rule (WIP)
+## Quotient Rule
 - The Quotient rule is used to find the quotient of two differentials when given the divisor and dividend, for example:
 > \\(\color{lightgreen}{\text{Find }f\prime(x)\text{ where }f(x)=\frac{2x+5}{4x^2 +5}}\\)
 
@@ -160,6 +162,7 @@ categories:
 1. Find $u(x), u\prime (x), v(x), and v\prime (x)$
 
    > $u(x)=2x+5$
+   >
    > $u\prime (x)=2$
    >
    > $v(x)=4x^2 +5$
@@ -167,6 +170,38 @@ categories:
    > $v\prime (x)=8x$
 2. Substitute values into the Quotient formula
 
-   > $= \frac{u\prime v - v\prime u}{v^2}\$ 
+   > $= \frac{u\prime v - v\prime u}{v^2}\$
    >
    > $f\prime (x)=\frac{2(4x^2+5) - 8(2x+5)}{(4x^2 +5)^2}\$
+3. Solve/Simplify
+  > $2(4x^2 +5)-8(2x+5)=8x^2 -16x-30$
+4. Answer the question
+  > $\therefore f\prime (x)=\frac{8x^2 -16x-30}{(4x^2 +5)^2}$
+## Differentiating Sine, Cosine, and Tangent equations
+### TL;DR
+- \$\frac{d(sin(x))}{dx}=cos(x)\$
+- \$\frac{d(cos(x))}{dx}=-sin(x)\$
+> (INCOMING PLOT TWIST)
+>
+> \- {{% mention pranav-sharma %}}
+- \$\frac{d(tan(x))}{dx}=sec ^2 (x)\$
+
+### The Long Version
+- When differentiating Sin, Cos and Tan, it's important to remember that $\frac{dy}{dx}=\frac{dy}{du}\cdot \frac{du}{dx}$
+- The First Principles (I hate it too, but it's occasionally useful) can be used to find the derivatives of Sin, Cos, and Tan.
+#### First derivative of Sine (\$f(x)=sin(x)\$)
+> \$f\prime x=\displaystyle {\lim_{h\to 0} \frac{f(x+h)-f(x)}{h}}\$
+- So in the case of $f(x)=\sin(x)$, we have:
+> \$f\prime x=\displaystyle {\lim_{h\to 0} \frac{\sin(x+h)-\sin(x)}{h}}\$
+- From this, we can use the Sum-Difference identity \$\sin(A+B)=\sin A\cos B+\sin B\cos A\$ to get
+>
+> \\( f\prime (x)= \displaystyle {\lim_{h\to 0}} \frac{\sin x \cos h+\sin h\cos x-\sin x}{h} \\)
+>
+> \$ =\displaystyle {\lim_{h\to 0}} \frac{\sin x(\cos h-1)+\sin h\cosx}{h} \$
+> \$ =\displaystyle {\lim_{h\to 0}} (\frac{\sin x(\cos h-1)}{h}+\frac{\sin h\cos x}{h})\$
+>
+> \$ =(\sin x)\displaystyle {\lim_{h\to 0}} \frac{\cos h-1}{h}+\cos(x)\displaystyle {\lim_{h\to 0}} \frac{\sin h}{h}\$
+- Based on our limits, and some lad named [L'Hopital](https://en.wikipedia.org/wiki/L%27Hôpital%27s_rule), we know that \$\displaystyle {\lim_{h\to 0}} \frac{\sin h}{h}=1\$, and \$\displaystyle {\lim_{h\to 0}} \frac{\cos h-1}{h}=0\$
+- Therefore:
+> \$f\prime (x)=(\sin x)\displaystyle {\lim_{h\to 0}} \frac{\cos h-1}{h}+\cos(x)\displaystyle {\lim_{h\to 0}} \frac{\sin h}{h}=1(\cos x)+0\$
+> \$ \therefore f\prime (x)=\cos(x)\$
