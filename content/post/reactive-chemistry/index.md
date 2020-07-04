@@ -1,0 +1,128 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Chemistry Module 3: Reactive Chemistry"
+subtitle: ""
+summary: ""
+authors: [Jackson Taylor, Pranav Sharma]
+tags: [Chemistry, Year 11, Reactive Chemistry]
+categories: [Year 11]
+date: 2020-07-04T15:06:28+10:00
+lastmod: 2020-07-04T15:06:28+10:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
+{{% toc %}}
+
+## Types of Reactions
+### Decomposition Reactions
+- Decomposition reactions involve breaking down one compound into 2 or more simpler substances
+- Decomposition is an ENDOTHERMIC reaction, meaning it reuqires heat input
+- An example of a decomposition reaction is carbonate decomposition:
+> \\(\color{lightgreen}{CuCO_3}\\)\\(\rightarrow\\)\\(\color{lightblue}{CuO+CO_2}\\)
+>
+> \\(\color{lightgreen}{\text{Green: Reactants}}\\)
+>
+> \\(\color{lightblue}{\text{Light Blue: Products}}\\)
+#### Decomposition by light
+- Some compounds will decompose when exposed to light
+- An example is Silver Nitrate (\\(AgNO_3\\)):
+> \\(\color{lightgreen}{AgNO_3}\\)\\(\rightarrow\\)\\(\color{lightblue}{2Ag + 2NO_2 +O_2 }\\)
+- Light-based decomposition is the basis of film photography
+### Combustion Reactions
+- Combustion reactions occur when something __burns__
+- Combustion reactions are EXOTHERMIC (i.e. light, sound, heat are usually produced)
+- Oxygen (or any oxidizer) is always a component of a combustion reaction
+- An example of a combustion reaction is burning Propane:
+> \\(\color{lightgreen}{2C_3 H_{8(g)} +7O_{2(g)}}\\)$\rightarrow$\\(\color{lightblue}{2C_{(s)} + 2CO_{(g)}+ 2CO_{2(g)} +8H_2 O_{(g)}}\\)
+- Some combustion reactions only have \\(CO_2\\) and $H_2 O$ as products
+  - These are known as "complete combustion reactions"
+  - An example of a complete combustion reaction is burning Methane:
+> \\(\color{lightgreen}{CH_4 +2O_2}\\)$\rightarrow$\\(\color{lightblue}{CO_2 +2H_2 O}\\)
+### Precipitation Reactions
+- When soluble ionic compounds are dissolved in water, the lattice "dissolves", and the ions are separated
+![Image of the dissolution of an ionic compound](https://csec-cdn.intranet.pw/schoolnotes.intranet.pw/dissolution-of-an-ionic-compound-in-water-n.jpg)
+- If two solutions are mixed together, it's really just 4 different ions suspended in water
+- However, certain combinations of ions will form an insoluble compound when mixed
+- These compounds will form a PRECIPITATE, a small ionic crystal lattice
+- This is known as a precipitation reaction
+- An example is mixing sodium sulfide and copper sulfate solutions:
+> \\(\color{lightgreen}{Na_2 S_{(aq)}+CuSO_{4(aq)}}\\)\\(\rightarrow\\)\\(\color{lightblue}{CuS_{(s)}+Na_2SO_{4(aq)}}\\)
+
+
+#### Solubility Rules
+The solubility rules are used to determine which compound is the precipitate.
+
+| Ion           | Soluble? | Exceptions                         |
+|---------------|----------|------------------------------------|
+| $NO_{3}^-$    | ✅        | ❌                                  |
+| $ClO_{4}^-$   | ✅        | ❌                                  |
+| $Cl^-$        | ✅        | $Ag, Hg_2 , Pb$                    |
+| $I^-$         | ✅        | $Ag, Hg_2 ,Pb$                     |
+| $SO_{4}^{2-}$ | ✅        | $Ca, Ba, Sr, Hg, Pb, Ag$           |
+| $CO_{3}^{2-}$ | ❌        | Alkalis and Ammonium               |
+| $PO_4 ^{3-}$  | ❌        | Alkalis and Ammonium               |
+| $OH^-$        | ❌        | Alkalis, $Ca, Ba, Sr$              |
+| $S^{2-}$      | ❌        | Alkalis, Alkaline Earths, Ammonium |
+| $Na^+$        | ✅        | ❌                                  |
+| $NH_4 ^+$     | ✅        | ❌                                  |
+| $K^+$         | ✅        | ❌                                  |
+#### NAGSAG and PMS (Mnemonics)
+- NAGSAG can be used to remember common soluble ions:
+> N - Nitrates ($NO_{3}^-$)
+>
+> A - Acetates ($C_2 H_3 O_2 ^- $)
+>
+> G - Group 1 ($Li^+ , Na^+ , K^+ , etc. $)
+>
+> S - Sulfates ($SO_{4}^{2-}$)
+>
+> A - Ammonium ($NH_4 ^+$)
+>
+> G - Group 17 ($F^- , Cl^- , Br^- , I^- , etc.$)
+
+- PMS can be used to remember exceptions:
+> P - $Pb^{2+}$ (Lead)
+>
+> M - Mercury
+>
+> S - Silver
+
+### Corrosion Reactions
+- Corrosion is a reaction involving a metallic element being converted into a more chemically stable form (e.g. an oxide, hydroxide, or sulfide)
+- Combustion and Corrosion are both types of "oxidization reactions"
+- Corrosion is EXOTHERMIC, although not as much as combustion
+- An example of corrosion is iron rusting:
+> \\(\color{lightgreen}{4Fe+3O_2}\\)\\(\rightarrow\\)\\(\color{lightblue}{2Fe_2 O_3}\\)
+### Acids and Bases
+#### Neutralization Reactions
+- When an acid and base are added together, they "neutralise" each other
+- This creates water and an ionic compound known as a "salt"
+- The general formula for acid-base reactions is:
+> \\(\color{lightgreen}{\text{Acid}+\text{Base}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2 O}\\)
+#### Acid-Metal Reactions (Displacement Reactions)
+- Many metals will react with Acids to produce a "salt" and Hydrogen gas (\\(H_2\\))
+- The general formula for Acid-Metal reactions is:
+> \\(\color{lightgreen}{\text{Acid}+\text{Metal}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2}\\)
+#### Acid-Carbonate Reactions
+- When an acid reacts with a carbonate compound, the products are always \\(CO_2\\), \\(H_2 O\\), and a salt
+- The general formula is:
+> \\(\color{lightgreen}{\text{Acid}+\text{Carbonate Compound}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2 O + CO_2 }\\)
+### Redox Reactions
+-
