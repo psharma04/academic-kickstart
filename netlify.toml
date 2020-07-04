@@ -24,3 +24,17 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "https://schoolnotes.intranet.pw"
+  to = "https://schoolnotes.xyz"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
+  [[redirects]]
+    from = "https://www.schoolnotes.intranet.pw"
+    to = "https://www.schoolnotes.xyz"
+    status = 200
+    force = true
+    headers = {X-From = "Netlify"}
