@@ -24,7 +24,7 @@ categories:
 - A derivation is a function which generalises some property of another function
 - the derivative of \\(f(x)\\) (say "f of x") is \\(f\prime (x)\\) (say "f prime of x")
 ### Rules (Copy into notes)
-- \\(f\prime (x)=\frac{dy}{dx}x=y\prime\\)
+- \\(f\prime (x)=\ddx{y}x=y\prime\\)
 - \\(f\prime(a)=0\\) if \\(a\\) is a number/constant
 - \\(f\prime(ax)=a\\) if \\(a\\) is a number/constant
 - \\(f\prime(ax^n )=anx^{n-1}\\) if \\(a\\) and \\(n\\) are a numbers/constants
@@ -90,29 +90,29 @@ categories:
 > \\(\require{enclose}(4x^3) \cancel{+(6x^2\cdot 0)} +\cancel{+(4x\cdot (0)^2)} \cancel{+(0)^3} +5\\)
 > \\(\color{teal}{\enclose{roundedbox}{=4x^3 +5}}\\)
 10) Answer the question
-> \\(\color{green}{\enclose{roundedbox}{\therefore \frac{d}{dx}(x^4+5x+3)=4x^3 +5}}\\)
+> \\(\color{green}{\enclose{roundedbox}{\therefore \ddx{}(x^4+5x+3)=4x^3 +5}}\\)
 
 ## Shortcuts for the First Princple
 - Here's some convenient shortcuts for people who don't want to waste time doing all the steps of the First Principle
 - Use these unless a question SPECIFICALLY asks for First Principle
 - Note that anything except $x$, $y$ and $t$ represent NUMBERS
 - Remember, differentiation is just finding the gradient of a curve!!!
-1) $\frac{d}{dx}(a) = 0$
-2) $\frac{d}{dx}ax=a$
-3) $\frac{d}{dx}ax^n =(a\cdot n)x^{n-1}$
-4) $\frac{d}{dx}(A+B)=\frac{d}{dx}(A)+\frac{d}{dx}(B)$
-5) $\frac{d}{dx}(A-B)=\frac{d}{dx}(A)-\frac{d}{dx}(B)$
+1) $\ddx{}(a) = 0$
+2) $\ddx{}ax=a$
+3) $\ddx{}ax^n =(a\cdot n)x^{n-1}$
+4) $\ddx{}(A+B)=\ddx{}(A)+\ddx{}(B)$
+5) $\ddx{}(A-B)=\ddx{}(A)-\ddx{}(B)$
 6) $(AB)\prime = A\prime B+B\prime A$
-7) $\frac{d}{dx}\frac{A}{B}=\frac{A\prime B - B\prime A}{B^2}$
-8) $\frac{d}{dx}((f(x))^n )= n(f\prime (x))^{n-1}$
-9) $\frac{dy}{dx}=\frac{dy}{du}\cdot\frac{du}{dx}$
-10) $\frac{d}{dx}af(x)=a(f\prime (x))$
+7) $\ddx{}\frac{A}{B}=\frac{A\prime B - B\prime A}{B^2}$
+8) $\ddx{}((f(x))^n )= n(f\prime (x))^{n-1}$
+9) $\ddx{y}=\frac{dy}{du}\cdot\ddx{u}$
+10) $\ddx{}af(x)=a(f\prime (x))$
 {{% alert note %}}
-\\(\frac{d}{dx} \Leftarrow\Rightarrow\\) differentiate with respect to $x$
-\\(\frac{dy}{dx} \Leftarrow\Rightarrow\frac{d}{dx}(y)\Leftarrow\Rightarrow y\prime\Leftarrow\Rightarrow\\) differentiate $y$ with respect to $x$
+\\(\ddx{} \Leftarrow\Rightarrow\\) differentiate with respect to $x$
+\\(\ddx{y} \Leftarrow\Rightarrow\ddx{}(y)\Leftarrow\Rightarrow y\prime\Leftarrow\Rightarrow\\) differentiate $y$ with respect to $x$
 {{% /alert %}}
 ## Graphing Derivatives
-| \\(f(x)\\) | \\(\frac{d}{dx}(f(x))\\) |
+| \\(f(x)\\) | \\(\ddx{}(f(x))\\) |
 |-|-|
 | Turning Points/Standing Points | \\(x\\)-Intercepts |
 | Points of Inflection | Turning Points |
@@ -179,15 +179,12 @@ categories:
   > $\therefore f\prime (x)=\frac{8x^2 -16x-30}{(4x^2 +5)^2}$
 ## Differentiating Sine, Cosine, and Tangent equations
 ### TL;DR
-- \$\frac{d(sin(x))}{dx}=cos(x)\$
-- \$\frac{d(cos(x))}{dx}=-sin(x)\$
-> (INCOMING PLOT TWIST)
->
-> \- {{% mention pranav-sharma %}}
-- \$\frac{d(tan(x))}{dx}=sec ^2 (x)\$
-
+- \$\ddx{sin(x)}=cos(x)\$
+- \$\ddx{cos(x)}=-sin(x)\$
+- \$\ddx{tan(x)}=sec ^2 (x)\$
+> (WHAT A PLOT TWIST) \- {{% mention pranav-sharma %}}
 ### The Long Version
-- When differentiating Sin, Cos and Tan, it's important to remember that $\frac{dy}{dx}=\frac{dy}{du}\cdot \frac{du}{dx}$
+- When differentiating Sin, Cos and Tan, it's important to remember that $\ddx{y}=\frac{dy}{du}\cdot \frac{du}{dx}$
 - The First Principles (I hate it too, but it's occasionally useful) can be used to find the derivatives of Sin, Cos, and Tan.
 #### First derivative of Sine (\$f(x)=sin(x)\$)
 > \$f\prime x=\displaystyle {\lim_{h\to 0} \frac{f(x+h)-f(x)}{h}}\$
@@ -197,7 +194,7 @@ categories:
 >
 > \\( f\prime (x)= \displaystyle {\lim_{h\to 0}} \frac{\sin x \cos h+\sin h\cos x-\sin x}{h} \\)
 >
-> \$ =\displaystyle {\lim_{h\to 0}} \frac{\sin x(\cos h-1)+\sin h\cosx}{h} \$
+> \$ =\displaystyle {\lim_{h\to 0}} \frac{\sin x(\cos h-1)+\sin h\cos x}{h} \$
 > \$ =\displaystyle {\lim_{h\to 0}} (\frac{\sin x(\cos h-1)}{h}+\frac{\sin h\cos x}{h})\$
 >
 > \$ =(\sin x)\displaystyle {\lim_{h\to 0}} \frac{\cos h-1}{h}+\cos(x)\displaystyle {\lim_{h\to 0}} \frac{\sin h}{h}\$
