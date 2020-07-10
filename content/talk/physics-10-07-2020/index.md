@@ -3,16 +3,16 @@
 
 title: "Physics Preliminary: Revision 1"
 event:
-event_url: https://schoolnotes.xyz/talk/physics-10-07-2020
-location:
+event_url: "https://schoolnotes.xyz/talk/physics-10-07-2020"
+location: "Cornerstone Education"
 address:
-  street: 14 Lexington Drive
-  city: Bella Vista
-  region: NSW
-  postcode: 2153
-  country: Australia
-summary: "A practice paper for Preliminary Physics"
-abstract: "A practice paper for Preliminary Physics"
+  street: "14 Lexington Drive"
+  city: "Bella Vista"
+  region: "NSW"
+  postcode: "2153"
+  country: "AU"
+summary: "Revision for Preliminary Physics. Hosted by Juan Villagran at Cornerstone Education."
+abstract: "Revision for Preliminary Physics. Hosted by Juan Villagran at Cornerstone Education."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,7 +21,7 @@ date_end: 2020-07-10T19:00:00+10:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-07-11T02:00:00+10:00
+publishDate: 2020-07-09T02:00:00+10:00
 
 authors: [Pranav Sharma]
 tags: [Physics, Year 11, Revision]
@@ -50,7 +50,7 @@ url_slides:
 
 url_code:
 url_pdf: "https://share.dmca.gripe/a6DI8txrHzraBICi.pdf"
-url_video:
+url_video: "https://meet.google.com/vvv-odbb-aia"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,3 +66,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+abc
