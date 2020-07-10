@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Physics Preliminary: Revision 1"
+title: "Physics Preliminary: Revision, Part 1"
 event:
 event_url: "https://schoolnotes.xyz/talk/physics-10-07-2020"
 location: "Cornerstone Education"
@@ -21,7 +21,7 @@ date_end: 2020-07-10T19:00:00+10:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-07-11T02:00:00+10:00
+publishDate: 2020-07-09T02:11:53+10:00
 
 authors: [Pranav Sharma]
 tags: [Physics, Year 11, Revision]
@@ -38,19 +38,22 @@ image:
   preview_only: false
 
 # Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
+# Uncomment and edit lines below to show custom links.
+links:
+ - name: "Stream Link (Ended)"
+   url: "https://meet.google.com/vvv-odbb-aia"
+   icon_pack: fas
+   icon: stream
+ - name: "Recording"
+   url: "https://schoolnotes.xyz/talk/physics-10-07-2020/recording.mp3"
+   icon_pack: fas
+   icon: microphone-alt
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
 
 url_code:
 url_pdf: "https://share.dmca.gripe/a6DI8txrHzraBICi.pdf"
-url_video: "https://meet.google.com/vvv-odbb-aia"
+#url_video: "https://meet.google.com/vvv-odbb-aia"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,3 +69,11 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+## Recording (1 Hour, 15 Minutes, 19 Seconds)
+<audio controls="controls">
+    <source src="recording-AAC.m4a" type="audio/aac">
+    <source src="recording.mp3" type="audio/mpeg">
+    <source src="https://schoolnotes.xyz/talk/physics-10-07-2020/recording-AAC.m4a" type="audio/aac">
+    <source src="https://schoolnotes.xyz/talk/physics-10-07-2020/recording.mp3" type="audio/mpeg">
+    Your browser does not support audio. Please try a different browser or device.
+</audio>

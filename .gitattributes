@@ -1,2 +1,4 @@
 content/talk/sor-short-responses-chips/recording.mp3 filter=lfs diff=lfs merge=lfs -text
 content/talk/sor-short-responses-chips/recording.aac filter=lfs diff=lfs merge=lfs -text
+content/talk/physics-10-07-2020/recording.mp3 filter=lfs diff=lfs merge=lfs -text
+content/talk/physics-10-07-2020/recording-AAC.m4a filter=lfs diff=lfs merge=lfs -text

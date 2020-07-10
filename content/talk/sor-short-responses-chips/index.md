@@ -39,11 +39,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - name: "Recording"
+    url: "https://schoolnotes.xyz/talk/sor-short-response-chips/recording.mp3"
+    icon_pack: fas
+    icon: microphone-alt
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: "https://cdn.schoolnotes.xyz/slidedecks/html/slidedeck-chips_workshop_NANWAR_2020.html"
@@ -69,9 +69,11 @@ projects: []
 
 <h2><a href="https://cdn.schoolnotes.xyz/slidedecks/html/slidedeck-chips_workshop_NANWAR_2020.html">View Slides</a></h2>
 
-## Recording (2 hours, 14 Minutes, 40 Seconds)
+## Recording (2 Hours, 14 Minutes, 40 Seconds)
 <audio controls="controls">
     <source src="recording.aac" type="audio/aac">
     <source src="recording.mp3" type="audio/mpeg">
+    <source src="https://schoolnotes.xyz/talk/sor-short-response-chips/recording.aac" type="audio/aac">
+    <source src="https://schoolnotes.xyz/talk/sor-short-response-chips/recording.mp3" type="audio/mpeg">
     Your browser does not support audio. Please try a different browser or device.
 </audio>
