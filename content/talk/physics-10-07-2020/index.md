@@ -21,7 +21,7 @@ date_end: 2020-07-10T19:00:00+10:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-07-09T02:00:00+10:00
+publishDate: 2020-07-11T02:00:00+10:00
 
 authors: [Pranav Sharma]
 tags: [Physics, Year 11, Revision]
