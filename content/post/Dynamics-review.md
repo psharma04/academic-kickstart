@@ -125,7 +125,7 @@ SI Equivalents:
 $1J=1\frac{kg\cdot m^2}{s^2}=1N\cdot m=1Pa\cdot m^3=1W\cdot s=1C\cdot V$
 {{% /alert %}}
 - There are 2 main categories of energy: kinetic and potential
-![Tree diagram of the types of energy](http://cdn.schoolnotes.xyz/images/svg/energy-tree-diagram.svg)
+![Tree diagram of the types of energy](https://cdn.schoolnotes.xyz/images/svg/energy-tree-diagram.svg)
 - Kinetic energy is primarily associated with motion, but also includes less visible forms of energy, such as heat and sound
 - Potential energy is the energy of an object based on its position in a field
   - Examples of potential energy include gravitational, magnetic, and elastic potential energy
