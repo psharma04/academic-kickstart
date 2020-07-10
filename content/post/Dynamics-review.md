@@ -172,7 +172,7 @@ $1J=1\frac{kg\cdot m^2}{s^2}=1N\cdot m=1Pa\cdot m^3=1W\cdot s=1C\cdot V$
 {{% /alert %}}
 ### Work and Displacement at an Angle
 - When a force is applied, sometimes the object does not move in the same direction of the force
-![Force at an angle diagram](http://cdn.schoolnotes.xyz/images/svg/Force-at-an-angle.svg)
+![Force at an angle diagram](https://cdn.schoolnotes.xyz/images/svg/Force-at-an-angle.svg)
 - In this case, the component of the applied force that acts on the object is considered the net force
 ### Force-Displacement Graphs
 - Force-Displacement graphs illustrate how a force changes with displacement [^2]
