@@ -105,7 +105,7 @@ categories:
 - Note that Friction is directly proportional to the Normal Force, meaning that the frictional force at an angle is different to the frictional force on a flat plane
 ![Friction Graph](https://cdn.schoolnotes.xyz/images/jpeg/Friction-Graph.jpeg)
 
-## Work and Energy
+## Energy
 - Energy is defined as the capacity to cause change
   - For example, a moving car has the capacity to cause change if it collides with something else
 - Energy is SCALAR (no direction) and is measured in $\text{Joules }(J)$
@@ -123,3 +123,10 @@ $1J=1\frac{kg\cdot m^2}{s^2}=1N\cdot m=1Pa\cdot m^3=1W\cdot s=1C\cdot V$
 {{% alert note %}}
 - In the formula $E=mc^2 ,$  $E$ refers to nuclear potential energy
 {{% /alert %}}
+## Work
+- When a force acts on an object and causes energy to be transferred or transformed, physics refers to this as "work"
+- Work is a change in energy $(W=\Delta E)$
+> {{< hl >}}Work is the product of the net force causing the energy change and the displacement of the object in the direction of the force during the energy change.{{< /hl >}} [^1]
+
+
+[^1]: Dommel, A., Dommel, N., Hamilton, M., Hebden, K., Madden, D., & Stanger, J. (2017). Pearson Physics 11 New South Wales Student Book (1st ed., p. 157). Pearson Australia.
