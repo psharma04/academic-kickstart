@@ -10,7 +10,7 @@ address:
   city: "Bella Vista"
   region: "NSW"
   postcode: "2153"
-  country: "AU"
+  country: "Australia"
 summary: "Revision for Preliminary Physics. Hosted by Juan Villagran at Cornerstone Education."
 abstract: "Revision for Preliminary Physics. Hosted by Juan Villagran at Cornerstone Education."
 
@@ -66,4 +66,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-abc

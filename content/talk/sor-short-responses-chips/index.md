@@ -4,13 +4,13 @@
 title: "Planning Short Responses using CHIPS - Workshop"
 event: "Planning HSC–Ready Short Responses"
 event_url:
-location:
+location: "St Marks Catholic College"
 address:
-  street: 160 Perfection Avenue
-  city: Stanhope Gardens
-  region: NSW
-  postcode: 2768
-  country: AU
+  street: "160 Perfection Avenue"
+  city: "Stanhope Gardens"
+  region: "NSW"
+  postcode: "2768"
+  country: "Australia"
 summary: "An SOR workshop where short response questions are broken down and analysed using the CHIPS Method."
 abstract: "An SOR workshop where short response questions are broken down and analysed using the CHIPS Method. Hosted by Natalina Anwar."
 
