@@ -104,3 +104,22 @@ categories:
 - Friction is expressed as \\(F=\mu F_N\\), where \\(\mu\\) is the Coefficient of Friction
 - Note that Friction is directly proportional to the Normal Force, meaning that the frictional force at an angle is different to the frictional force on a flat plane
 ![Friction Graph](https://cdn.schoolnotes.xyz/images/jpeg/Friction-Graph.jpeg)
+
+## Work and Energy
+- Energy is defined as the capacity to cause change
+  - For example, a moving car has the capacity to cause change if it collides with something else
+- Energy is SCALAR (no direction) and is measured in $\text{Joules }(J)$
+  - 1 Joule is the amount of energy required to lift a 1kg mass to a height of 0.1m (10cm)
+  - Joules are also sometimes expressed as $Nm,$ or Newton-Meters. The reason for this will be explained later.
+{{% alert note %}}
+SI Equivalents:
+$1J=1\frac{kg\cdot m^2}{s^2}=1N\cdot m=1Pa\cdot m^3=1W\cdot s=1C\cdot V$
+{{% /alert %}}
+- There are 2 main categories of energy: kinetic and potential
+![Tree diagram of the types of energy](http://cdn.schoolnotes.xyz/images/svg/energy-tree-diagram.svg)
+- Kinetic energy is primarily associated with motion, but also includes less visible forms of energy, such as heat and sound
+- Potential energy is the energy of an object based on its position in a field
+  - Examples of potential energy include gravitational, magnetic, and elastic potential energy
+{{% alert note %}}
+- In the formula $E=mc^2 ,$  $E$ refers to nuclear potential energy
+{{% /alert %}}
