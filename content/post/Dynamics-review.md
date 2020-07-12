@@ -1,9 +1,10 @@
 ---
 title: "Physics Module 2: Dynamics"
 comments: true
-date: 2020-06-16T11:36:21.010Z
+date: 2020-07-11T11:36:21.010Z
 highlight: true
 higlight_style: "solarized-dark"
+authors: [Jackson Taylor, Pranav Sharma]
 tags:
   - Physics
   - Year 11
@@ -177,10 +178,62 @@ $1J=1\frac{kg\cdot m^2}{s^2}=1N\cdot m=1Pa\cdot m^3=1W\cdot s=1C\cdot V$
 ### Force-Displacement Graphs
 - Force-Displacement graphs illustrate how a force changes with displacement [^2]
 ![Force displacement graph. Source: ScienceFlip](https://cdn.schoolnotes.xyz/images/jpeg/force-displacement-graph-1.jpeg)
-- The area under a Force-Displacement graph is Work
+- When a force changes with displacement, the net amount of work done can be calculated by finding the area under the Force-Displacement graph
 - If the graph is a flat, horizontal line, then a constant amount of force is being applied
 - The force displacement graph for pulling a spring, for example has a gradient >1, because there is a greater force required the more you stretch it
 ![Force displacement graph of a spring](https://cdn.schoolnotes.xyz/images/png/spring-force-displacement-graph.png)
+### Conversion and Tranformation of Energy
+Moving objects, by definition, have kinetic energy, which can be quantified using mathematics.
+#### Work-Energy Theorem
+> $W=\frac{1}{2}m\vec{v}^2 -\frac{1}{2}m\vec{u}^2$
+
+The work energy theorem can be used as a definition for change in kinetic energy:
+> $W=K_{final}-K_{initial} =\Delta K$
+#### Kinetic Energy Formula
+> $E_{k}=\frac{1}{2}m\vec{v}^2$
+
+#### Gravitational Potential Energy
+> Note: I'm probably going to just shorten "Gravitational Potential Energy" to "GPE" in this section, just because I can. If you don't like it, feel free to use the [edit link](https://schoolnotes.xyz/admin/#/collections/posts/entries/Dynamics-review) to "fix it" - {{% mention jackson-taylor %}}
+- Any object that is influenced by a gravitational field posesses gravitational energy
+- GPE can be defined as:
+> __DEFINITION:__ _The amount of energy available to an object as a result of its position in a gravitational field._
+
+- Work done against gravity can be expressed as
+> $W=\vec{F}_{net}\vec{s}=\vec{F}_g\Delta\vec{h}$
+- Because $F=m\vec{g},$ we can say that
+> $W_{gravity}=m\vec{g}\Delta\vec{h}$
+- Gravity is represented in equations by $\Delta U$ for some reason, so the final equation is
+> $\Delta U=m\vec{g}\Delta\vec{h}$
+{{% alert note %}}
+GPE is a form of energy, and is therefore SCALAR. This means direction doesn't actually matter in the equations, even though most of the equation is made of vectors.
+
+  \- {{% mention jackson-taylor %}}
+{{% /alert %}}
+#### Elastic Potential Energy
+- Elastic potential energy is found in elastics (duh), springs, basically anything that can be stretched or squeezed
+- The elastic potential energy $(U_E )$ of an object is given by:
+> $U_{E}=\frac{1}{2}kx^2 $
+>
+> $k:\text{The spring constant of the material}$
+>
+> $x:\text{The amount of extension/compression of the object}$
+
+### Mechanical Energy and Power
+- Mechanical energy is the energy that a body possesses because of its position or motion
+- Mechanical energy is based on the Law of Conservation of Energy:
+> __Law of Conservation of Energy:__ The total energy of an isolated system remains constant over any period of time without external influence.
+
+- Because of this, mechanical energy can be defined as __"the sum of ALL kinetic and potential energies attributed to an object."__
+- This can be expressed mathematically as:
+> $E_m =K+U=\frac{1}{2}m\vec{v}^2 +m\vec{g} \vec{h}+\frac{1}{2}kx^2$
+{{% alert note %}}
+Most of the time, the $\frac{1}{2}kx^2$ part of the Mechanical Energy equation (elastic potential energy) is ignored.
+
+  \- {{% mention jackson-taylor %}}
+{{% /alert %}}
+- THe mechanical energy formula is useful for converting between kinetic and potential energies
+  - For example, consider a ball of mass 60g, which falls from a height of 1m.
+  - Initially, the ball has a kinetic energy of 0J, and a gravitational potential of $ 0.06\times 9.8\times 1=0.588J$
 ---
 <!-- Content ends here. Put references below this line -->
 # References
