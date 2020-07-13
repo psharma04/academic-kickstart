@@ -191,6 +191,10 @@ This is true for all inverse trigonometric functions.
 - $cos^{−1}(−x)=\pi−cos^{−1}(x)$
 - $tan^{−1}(−x)=−tan^{−1}(x)$
 - $sin^{−1}(x)+cos^{−1}(x)=\frac{\pi}{2}$
+
+---
+# And we're done!
+That's all of Extension 1 Trigonometry (for year 11, anyway).
 ---
 <!-- Content ends here. Put references below this line -->
 # References
