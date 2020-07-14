@@ -1,1 +1,3 @@
 google.com, pub-4283941482669066, DIRECT, f08c47fec0942fa0
+propellerads.com, 1463748, DIRECT, 1809966
+propellerads.com, 1161771, DIRECT, 1809966
