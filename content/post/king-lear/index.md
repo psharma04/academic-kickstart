@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "English Advanced: King Lear (Oversimplified)"
+title: "English Advanced: King Lear"
 subtitle: ""
 summary: ""
 authors: [Pranav Sharma]
@@ -137,7 +137,7 @@ Lear's Company run into Edgar!
 >(I don't!)
 - Regan and Cornwall interrogate Gloucester and learned that Lear is heading to Dover. Then they blind him!
 > (What a bunch of jerks!)
-- One of Cornwall's servants has a crisis of conscience and attacks Cornwall in an attempt to protect Gloucester, and winds up getting killed for his troubles. (Although he does manage to fatally wound Cornwall in the process. Couldn't have happened to a nicer guy.)
+- One of Cornwall's servants has a crtlisis of conscience and attacks Cornwall in an attempt to protect Gloucester, and winds up getting killed for his troubles. (Although he does manage to fatally wound Cornwall in the process. Couldn't have happened to a nicer guy.)
 - Gloucester gets kicked out onto the heath where he runs into his son, Edgar, although he doesn't realise Edgar's true identity and Edgar is not about to tell him.
 - Gloucester asks him to lead him to a cliff that he can jump off of and the two wander off together.
 ### Over to Goneril!
