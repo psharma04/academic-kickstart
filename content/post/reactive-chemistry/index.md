@@ -31,7 +31,7 @@ projects: []
 {{% toc %}}
 <hr>
 <a href="https://cdn.schoolnotes.xyz/documents/pdf/chemistry-stage6-syllabus-pdf.pdf" target="_blank">View Chemistry Syllabus</a><p>
-<a href="https://cdn.schoolnotes.xyz/documents/pdf/chemistry-data-sheet-2019.pdf" target=_blank">View Chemistry Data Sheet</a></p>
+<a href="https://cdn.schoolnotes.xyz/documents/pdf/chemistry-data-sheet-2019.pdf" target="_blank">View Chemistry Data Sheet</a></p>
 <hr>
 
 ## Types of Reactions
@@ -145,7 +145,7 @@ The solubility rules are used to determine which compound is the precipitate.
 6. In compounds, the sum of all oxidation states is 0
 7. The halogens (F, Cl, Br and I) typically have an oxidation state of 1- in their ionic compounds. In molecular compounds their oxidation number is typically 1- or 7-.
 8. When naming ionic compounds in which variable oxidation states of metal ions are present, the oxidation state is shown in roman numerals.
-> \$\text{Example: }\ce{FeCl2}\$  
+> \$\text{Example: }\ce{FeCl2}\$
 >
 > $\require{color}\text{Iron has an oxidation state of 2+}$
 >
