@@ -7,8 +7,8 @@ summary: ""
 authors: [Jackson Taylor, Pranav Sharma]
 tags: [Chemistry, Year 11, Reactive Chemistry]
 categories: [Year 11]
-date: 2020-07-04T15:06:28+10:00
-lastmod: 2020-07-04T15:06:28+10:00
+date: 2020-07-24T15:06:28+10:00
+lastmod: 2020-07-25T15:06:29+10:00
 featured: false
 draft: false
 
@@ -153,3 +153,37 @@ The solubility rules are used to determine which compound is the precipitate.
 9. When Hydrogen ($\ce{H2}$) is burned in Oxygen ($\ce{O2}$), water ($\ce{H2O}$) is formed
 ## Reactivity Series
 ![Reactivity Series Mnemonic: Please stop calling me a careless zebra, instead try learning how copper saves gold](https://cdn.schoolnotes.xyz/images/png/reactivity-series.png)
+
+## Rates of Reaction
+### Activation Energy $(E_a )$
+- Activation energy is the minimum amount of energy required to initiate a reaction
+- Activation energy is measured in $kJ/mol$ [^1]
+> $\color{green}k=Ae^{\frac{-E_{a}}{RT}}$
+>
+> $k:\text{Reaction Rate Coefficient}$
+>
+> $A:\text{Frequency Factor of the reaction}$
+>
+> $e:\text{Euler's Number (}e\text{ on calculator, approx. 2.7182)}$
+>
+> $R:\text{Universal Gas Constant}$
+>
+> $T:\text{Temperature }(K)$
+- According to this equation, the rate of reaction increases with temperature
+- However, there are some cases where the activation energy is negative, and so higher temperatures DECREASE the rate of reaction
+#### Catalysis
+- Catalysis is the process of increasing the rate of a chemical reaction by introducing a *catalyst*
+- A *catalyst* is any substance that lowers the activation energy of a reaction **WITHOUT MODIFYING THE PRODUCTS**
+- Catalysts are not consumed by the reaction, and do not change the equilibrium constant of the reaction.
+  - As a result, catalysts should be written in both the products and reactants of a chemical equation
+  - Catalysts which *trigger* a reaction are known as **Activators**
+- The SI unit for Catalysis is the **Katal** $(Kat)$
+  > $ 1Kat=1mol/s $
+- There are 3 main kinds of catalysts:
+  - **Heterogenous Catalysts** are those which exist in a different phase from the reaction being catalyzed. For example, solid catalysts the catalyze a reaction in a mixture of liquids and/or gases are heterogeneous catalysts. Surface area is critical to the functioning of this type of catalyst.
+  - **Homogenous Catalysts** exist in the same phase as the reactants in the chemical reaction. Organometallic catalysts are one type of homogeneous catalyst.
+  - **Enzymes** are protein-based catalysts. They are one type of **biocatalyst**. Soluble enzymes are homogeneous catalysts, while membrane-bound enzymes are heterogeneous catalysts.
+
+---
+# References
+[^1]: https://www.britannica.com/science/activation-energy
