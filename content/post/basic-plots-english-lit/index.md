@@ -3,7 +3,7 @@
 
 title: "English Literature: Basic Plots"
 subtitle: ""
-summary: "Summary of the basic plots in English literature"
+summary: "Summary of the basic plots in English literature."
 authors: [Pranav Sharma, Jackson Taylor]
 tags: [Year 11, English, English Literature, English Advanced, Plots]
 categories: [Year 11, English, English Literature]
