@@ -2,23 +2,12 @@
 title: 'SOR1: Moses Maimonides - Overview'
 comments: true
 date: 2019-12-15T10:37:25.000Z
-categories:
-  - Year 12
-  - SOR
-tags:
-  - Year 12
-  - SOR
-  - Moses Maimonides
+categories: [Year 12, SOR]
+tags: [Year 12, SOR, Moses Maimonides]
 ---
 <!-- TOC -->
 
-- [Context](#context)
-  - [Background](#background)
-  - [Historical, Religious and Social Context](#historical-religious-and-social-context)
-- [Works](#works)
-  - [Commentary on the Mishnah (1168)](/moses-commentary1/)
-  - [Mishneh Torah (1170-1180)](/moses-commentary2/)
-  - [Guide for the Perplexed (1190)](/moses-commentary3/)
+{{% toc %}}
 
 <!-- /TOC -->
 ## Context
@@ -37,7 +26,7 @@ tags:
   - Responsible for the health of Grand Vizier Alfadel, as well as other members of the royal family
 - Passed away in 1204 at the age of 69
 - Laid to rest in Tiberias, North Israel
-## Works
-- [Commentary on the Mishnah (1168)](/moses-commentary1/)
-- [Mishneh Torah (1170-1180)](/moses-commentary2/)
-- [Guide for the Perplexed (1190)](/moses-commentary3/)
+## Moses Maimonides Series
+- [Commentary on the Mishnah (1168)](/post/moses-commentary1/)
+- [Mishneh Torah (1170-1180)](/post/moses-commentary2/)
+- [Guide for the Perplexed (1190)](/post/moses-commentary3/)

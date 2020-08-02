@@ -11,16 +11,7 @@ tags:
   - Moses Maimonides
 ---
 <!-- TOC -->
-
-- [What is it?](#what-is-it)
-  - [Context](#context)
-  - [Purpose](#purpose)
-  - [Language](#language-arabic)
-  - [Audience](#audience)
-- [Contents](#contents)
-- [Quotes](#quotes)
-- [Impact](#impact)
-- [Maimonides Series](#maimonides-series)
+{{% toc %}}
 <!-- /TOC -->
 ## What is it?
 - A comprehensive commentary on each discussion in the Mishnah
@@ -53,7 +44,7 @@ tags:
   - Cuts through rabbinical discourse in presenting the Final Decision
   - Can be found appended to every complete edition of the Talmud
 
-## Maimonides Series
-- [Overview](/moses-maimonides/)
-- [Mishneh Torah (1170-1180)](/moses-commentary2/)
-- [Guide for the Perplexed (1190)](/moses-commentary3/)
+## Moses Maimonides Series
+- [Overview](/post/moses-maimonides/)
+- [Mishneh Torah (1170-1180)](/post/moses-commentary2/)
+- [Guide for the Perplexed (1190)](/post/moses-commentary3/)

@@ -12,14 +12,7 @@ tags:
 ---
 <!-- TOC -->
 
-- [What is it?](#what-is-it)
-  - [Purpose](#purpose)
-    - [Language](#language-hebrew)
-  - [Audience:](#audience)
-- [Contents](#contents)
-- [Quotes](#quotes)
-- [Impact](#impact)
-- [Maimonides Series](#maimonides-series)
+{{% toc %}}
 <!-- /TOC -->
 ## What is it?
 - Codification of Jewish Law
@@ -50,7 +43,7 @@ tags:
 - Unified the Jewish community by making understanding the text more accessible
 - Helped resolve conflict between cultures and dialects by making updated and accessible texts
 
-## Maimonides Series
-- [Overview](/moses-maimonides/)
-- [Commentary on the Mishnah (1168)](/moses-commentary1/)
-- [Guide for the Perplexed (1190)](/moses-commentary3/)
+## Moses Maimonides Series
+- [Overview](/post/moses-maimonides/)
+- [Commentary on the Mishnah (1168)](/post/moses-commentary1/)
+- [Guide for the Perplexed (1190)](/post/moses-commentary3/)
