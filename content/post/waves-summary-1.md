@@ -1,14 +1,20 @@
-title: 'Physics: Waves - Topic Review'
-comments: true
-categories:
-  - Year 11
-  - Physics
+---
+title: "Physics: Waves - Topic Review"
+date: 2020-08-03T11:11:00.000Z
+authors:
+  - Pranav Sharma
 tags:
   - Year 11
   - Physics
   - Waves and Thermodynamics
-date: 2020-03-06 09:09:00
+categories:
+  - Year 11
+  - Physics
+  - Waves and Thermodynamics
 ---
+
+{{% toc %}}
+
 <details>
 <summary>Definitions</summary>
 
