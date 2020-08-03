@@ -158,6 +158,6 @@ Russian Orthodox
   * This increased to 17% when only surveying Protestants
 * Pentecostalism is the fastest growing denomination (220000 in 2006 to 260500 in 2016)
 
-<blockquote>People no longer remain in a particular denomination simply because their parents and grandparents belonged to it or because they share the same ethnic background with other church members. </blockquote>
+> People no longer remain in a particular denomination simply because their parents and grandparents belonged to it or because they share the same ethnic background with other church members.
 
 ![Reasons for denominational switching](/images/AFAITH.jpg)
