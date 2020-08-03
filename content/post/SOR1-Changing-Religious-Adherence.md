@@ -23,17 +23,18 @@ categories:
   * As a result, the balance of Christian denominations in Australia shifted towards a predominantly Catholic community
   * Some Orthodox Christians also came to Australia due to political instability in Eastern Europe
 * The percentage of Christian adherents has decreased since 1947, steadily falling.
-* 1961 - 88.4%
-* 1986 - 74.1%
-* 2016 - 52%
-  ![Christian Denomination Census Breakdown](https://csec-cdn.intranet.pw/schoolnotes.intranet.pw/christianity-census.png)
+
+  * 1961 - 88.4%
+  * 1986 - 74.1%
+  * 2016 - 52%
+    ![Christian Denomination Census Breakdown](https://csec-cdn.intranet.pw/schoolnotes.intranet.pw/christianity-census.png)
 * The fall in Christian adherence is attributed to an increase in people turning away from religion, as well as migration from Asia and the Middle East
 
 ### Formation of the Uniting Church
 
 * The Uniting Church was formed as a result of the decline of adherents for three Christian denominations
 
-  * Presbytarians
+  * Presbyterians
   * Methodists
   * Congregationalists
 * Peaked in 1986 at 7.6% of Australians
@@ -45,7 +46,7 @@ categories:
 * New-Age Religions tend to be ECLECTIC (ideas/beliefs which come from a wide range of sources)
 
   * Eclectic religions take elements from other religions, as well as philosophies, sciences and other sources in order to create a system which they believe is better suited to their community
-* Formed as a reaction against the percieved failure of traditional religious (such as Christianity), and the failure of Secular Humanism to provide spiritual and ethical guidance for the future
+* Formed as a reaction against the perceived failure of traditional religious (such as Christianity), and the failure of Secular Humanism to provide spiritual and ethical guidance for the future
 
   * Secular Humanism: a philosophy or life stance that embraces human reason, non-religious ethics, and philosophical naturalism while specifically rejecting religious dogma, supernaturalism, and superstition as the basis of morality and decision making.
 * Beliefs of New Age religions include:
