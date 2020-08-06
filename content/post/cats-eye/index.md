@@ -1,31 +1,24 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "English Advanced: Cat's Eye"
 subtitle: ""
-summary: ""
-authors: [Pranav Sharma]
-tags: [Year 11, English Advanced]
-categories: [Year 11, English Advanced]
 date: 2020-07-19T12:12:56+10:00
-lastmod: 2020-07-19T12:12:56+10:00
-featured: false
+summary: ""
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+featured: false
+authors:
+  - Pranav Sharma
+lastmod: 2020-07-19T12:12:56+10:00
+tags:
+  - Year 11
+  - English Advanced
+categories:
+  - Year 11
+  - English Advanced
+projects: []
 image:
   caption: ""
   focal\_point: ""
   preview\_only: false
-
-# Projects (optional).
-# Associate this post with one or more of your projects.
-# Simply enter your project's folder or file name without extension.
-# E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-# Otherwise, set `projects = []`.
-projects: []
 ---
 
 {{% toc %}}
@@ -46,7 +39,7 @@ The story shifts back and forth in time to tell Elaine's story, intercutting the
 - As a young child, Elaine lives in relative isolation with her parents and brother (Stephen) in Canada
   - Her father works in entomology, the study of insects
 #### Toronto
-- At age 8, the family settles in Toronto, where Elaine intereacts with girls her own age for the first time
+- At age 8, the family settles in Toronto, where Elaine interacts with girls her own age for the first time
   - During her interactions with Grace Smeath and Carol Campbell (her first two friends), her confusion of social customs, as well as her desire to fit in, are extremely apparent
   - However, when a fourth girl, Cordelia, joins the group, she begins to criticise and be cruel towards Elaine, convincing Grace and Carol to follow suit
 > If you read the post on [King Lear]({{< ref "/post/king-lear/index.md" >}}), you know things are about to go south
