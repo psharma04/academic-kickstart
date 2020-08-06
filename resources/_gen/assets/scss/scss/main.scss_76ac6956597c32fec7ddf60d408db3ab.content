@@ -7148,13 +7148,13 @@ a.text-dark:hover, a.text-dark:focus {
  **************************************************/
 html {
   font-family: "Roboto", sans-serif;
-  font-size: 13.86px;
+  font-size: 16.17px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65; }
 
 @media screen and (min-width: 58em) {
   html {
-    font-size: 18px; } }
+    font-size: 21px; } }
 
 body {
   font-family: inherit;
@@ -7286,12 +7286,12 @@ pre,
 code {
   font-family: "Roboto Mono", monospace;
   color: #c7254e;
-  background-color: #f9f2f4; }
+  /* Match bg of default highlight theme. */
+  background-color: #f8f8f8; }
 
 pre {
   margin: 0 0 1rem 0;
-  background-color: #f8f8f8;
-  /* Match default highlight theme. */
+  /* Match bg of default highlight theme. */
   border-color: #f8f8f8;
   font-size: 0.7rem;
   border-radius: 4px; }
@@ -7682,7 +7682,7 @@ div.alert a {
   height: 70px;
   background: #212529;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
-  font-size: 13.86px;
+  font-size: 16.17px;
   position: fixed;
   top: 0;
   right: 0;
@@ -7711,7 +7711,7 @@ div.alert a {
         font-weight: bold !important;
         color: white !important; }
   .navbar .dropdown-menu {
-    font-size: 13.86px; }
+    font-size: 16.17px; }
   .navbar .dropdown-item.active,
   .navbar .dropdown-item-active {
     font-weight: bold;
@@ -7840,6 +7840,11 @@ ul.nav-icons li.nav-item a.nav-link {
   background: #282a36;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
   border: 1px solid #44475a; }
+
+/* In page listings, display the linked summaries as normal text except for the hover cursor. */
+a.summary-link {
+  color: unset;
+  text-decoration: none; }
 
 .card {
   margin-bottom: 1.5rem;
@@ -8042,10 +8047,6 @@ ul.nav-icons li.nav-item a.nav-link {
 /*************************************************
  *  Page content
  **************************************************/
-article {
-  animation: intro 0.3s both;
-  animation-delay: 0.15s; }
-
 .article-container {
   max-width: 760px;
   padding: 0 20px 0 20px;
@@ -8138,6 +8139,11 @@ article .article-metadata {
 
 .article-metadata a:hover {
   color: #0088cc; }
+
+.article-metadata .author-notes {
+  cursor: help;
+  vertical-align: super;
+  font-size: 0.7em; }
 
 .article-categories {
   white-space: nowrap;
@@ -9071,7 +9077,7 @@ body.dark,
   background-color: #44475a; }
 
 .dark pre {
-  background-color: #44475a;
+  /* Match `pre` bg color above. */
   border-color: #44475a; }
 
 .dark .markup-quote {

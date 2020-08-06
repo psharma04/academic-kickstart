@@ -8,6 +8,7 @@ interests:
   - Gaming and STOOF
 superuser: false
 user_groups:
+  - Writers
   - all
 ---
 IDK WHAT TO DO

@@ -54,6 +54,7 @@ education:
       institution: Online Learning
 superuser: false
 user_groups:
+  - Writers
   - all
 ---
 I'm a huge fan of **movies** and **games** and love trying to create and make things related to the content I love! I like **photography**, **cinematography**, **programming**, **astronomy** and **ethics**! I also enjoy talking about **literature,** **quantum mechanics** and anything **space** related!! I used to make and produce music and still do here and there! (Seventy5 Music)

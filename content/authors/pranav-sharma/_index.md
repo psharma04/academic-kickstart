@@ -28,6 +28,7 @@ organizations:
     url: https://heimdall.intranet.pw
 superuser: true
 user_groups:
+  - Writers
   - all
 email: rbxii3@gmail.com
 ---
