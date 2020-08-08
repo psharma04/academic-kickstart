@@ -90,8 +90,8 @@ This is quite a bit longer, but fits both Aristotle's and Judaism's models of G-
 <!-- End Content here -->
 ---
 ## Moses Maimonides Series
-- [Overview](/moses-maimonides/)
-- [Mishneh Torah (1170-1180)](/post/moses-commentary1/)
+- [Overview](/post/moses-maimonides/)
+- [Commentary on the Mishnah (1168)](/post/moses-commentary1/)
 - [Mishneh Torah (1170-1180)](/post/moses-commentary2/)
 
 ---
