@@ -93,4 +93,9 @@ $Q=mc\Delta T$
 - Endothermic Reactions are the reactions which use up more energy than they produce.
 - Endothermic reactions have a positive $\Delta H$
 - The reaction absorbs energy from the surrounding environment, so the temperature drops
+#### 1.3.3. Heat of Solution $(\Delta H_{sol})$
+- The heat of solution is the energy change that occurs when 1mol of a substance is dissolved in water.
+- While the dissolving of an ionic compound in water is usually considered a physical cahgne, dissolving involves the breaking of ionic bonds within a crystal lattice.
+  - Because bonds are being broken and reformed, Dissolving can be considered a chemical reaction, which can be measured by calorimetry.
 <!---# References-->
+<!--HW: Q7,8,9,10 from molar heat of solutions.
