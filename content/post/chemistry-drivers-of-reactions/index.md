@@ -4,7 +4,7 @@
 title: "Chemistry: Drivers of Reactions"
 subtitle: "Module 4 for Preliminary Chemistry."
 summary: "Module 4 for Preliminary Chemistry."
-authors: [Jackson Taylor]
+authors: [Jackson Taylor, Pranav Sharma]
 tags: [Year 11, Chemistry, Drivers of Reactions, Energy changes in reactions, Enthalpy, Hess' Law, Entropy, Gibbs Free Energy]
 categories: [Year 11, Chemistry, Drivers of Reactions]
 date: 2020-08-08T15:08:08+10:00
