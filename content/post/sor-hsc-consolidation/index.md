@@ -160,7 +160,28 @@ Remember, this doesn't necessarily mean that there are less Christians, just tha
   - A reaction against what is seen as a failure of Christianity and other mainstream religions to satisfactorily respond to the needs of people today
   - Concept of something well tried, and yet new and different
 - Spread rapidly due to the support of celebrities (e.g. Scientology)
+#### 2.2.5. Secularisation
+- Any movement or concept, which rejects religious belief or adherence
+- **1971**: first time that ‘No Religion’ category was included on census – explains rapid increase at the time
+- Secular systems based on reason, fact and scientific analysis and therefore, differ from religious systems, which tend to be based on divine revelation and spiritual insight
+- However, today there is less emphasis on conforming and more emphasis on the autonomy of the individual to determine what feels spiritually right to them
+- Increased freedom – rise of secularism and the understanding that religion is essentially a private concern
 
+### 2.3. Describe the impact on Australia's religious landscape by:
+#### 2.3.1 Ecumenical Dialogue
+*   ecumenism is the communication and interaction between different denominations within Christianity, with a strong focus on promotive unity through the similarities and disregarding differences. emphasis on love and solidarity, and promoting social justice.
+    *   prompted by the changing religious landscape particularly denominational switching, immigration, Christianity as the major tradition, and the rise of secularism.
+#### 2.3.2 Interfaith Dialogue
+*   dialogue occurring between different religious traditions, aiming to promote unity and understanding within the nation and positive dialogue and respect. aims to eliminate intolerance.
+    *   prompted by **immigration and the influx of new religious traditions forming in Australia post-1945.** The rise of secularism and the role of Christianity as the major religious tradition in Australia.
+    *   Judaism influx caused by WW2
+    *   interfaith dialogue aims to resolve the conflict created through the impact of wars on communities and the separation of religious groups through persecution.
+
+#### 2.3.3 Reconciliation
+*   the apology and repentance of religious traditions to the indigenous Australian community to overcome conflict and rebuild relationships that were destroyed throughout Australia’s early history.
+    *   Aims to heal the effects of displacement and the stolen generation and **reconnect the indigenous Australian and non-indigenous communities** throughout **Australia as a multifaith and harmonious society**
+    *   Also aims to **educate those about the struggles of indigenous people** and continue fighting for social progress in terms of **equality and social justice.**
+    *   Was mostly prompted by dispossession, forced assimilation, and the land rights movement.
 ## UPCOMING: Christianity and Judaism
 ---
 # References
