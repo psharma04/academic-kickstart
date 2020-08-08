@@ -63,7 +63,7 @@ With this in mind, I present to you the Tragedy of King Lear.
 - The largest share will be given to the one he thinks loves him the most! And the smallest to the least.
 - This way he'll still be the king but without all of that tedious ruling business.
 - So King Lear calls on each of his daughters to tell him how much they love him.
-- The eldest, Goneril, is like "Man, Dad I just love you like so much!. You have like no idea!" and Lear's liken"Wow you must love me so much! Here, sweetie, you get the biggest share~"
+- The eldest, Goneril, is like "Man, Dad I just love you like so much!. You have like no idea!" and Lear's like "Wow you must love me so much! Here, sweetie, you get the biggest share~"
 - So his second daughter, Regan's like "Oh snap Daddy, I love you just as much as Goneril over there!"
 - And Lear is all "Oh, then you get the second biggest part of my land!"
 - So then it's his youngest daughter Cordelia's turn and Cordelia is like "Oh, sorry Dad, but I don't have anything to say, 'cuz you know, I can't put my love for you into words."
