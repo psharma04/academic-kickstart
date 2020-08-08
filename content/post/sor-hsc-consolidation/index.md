@@ -32,11 +32,13 @@ projects: []
 Aboriginal and Torres Strait Islander readers are warned that this post may contain images, quotes, or voices of deceased persons.
 {{% /alert %}}
 {{% alert info %}}
+Some of the sections in this article have more in-depth posts. If you want a better understanding of the content, click the little number next to the section.
+
 This only has SOR1 content right now. If someone is willing to add SOR2 notes, that would be great.
 
 Also, if you're on a newer syllabus than 2009, some of this might no longer be relevant.
 {{% /alert %}}
-## 1. Contemporary Aboriginal Spiritualities
+## 1. Contemporary Aboriginal Spiritualities [^4]
 ### 1.1. Discuss how Aboriginal Spirituality is determined by the Dreaming
 - The Dreaming is the spiritual aspect of Aboriginal beliefs, encapsulating both the physical and spiritual dimensions
 #### 1.1.1. Kinship
@@ -110,7 +112,7 @@ If you get a question on the impact of the Land rights movement, mentioning that
 - The main drive of the Land Rights Movement was the loss of spiritual connections to the land.
 - While the Land Rights Movement is seen as a legal battle for non-Aboriginal Australians, Aboriginal people see it as a spiritual reclamation, enabling them to reconnect with their traditions and beliefs.
 
-## 2. Religious Expression in Australia - 1945 to the Present
+## 2. Religious Expression in Australia - 1945 to the Present [^3]
 ### 2.1. Outline changing patterns of religious adherence from 1945 to the present using census data
 - Islam - 1976: 0.3%, 2016: 2.6% <i class="fas fa-arrow-up"></i>
 - Hinduism - 1986: 0.1%, 2016: 1.9% <i class="fas fa-arrow-up"></i>
@@ -118,7 +120,51 @@ If you get a question on the impact of the Land rights movement, mentioning that
 - Buddhism - 1947: 0,01%, 2016: 2.4% <i class="fas fa-arrow-up"></i>
 - Judaism - 1947: 0.4%, 2016: 2.4% <i class="fas fa-arrow-up"></i>
 - Christianity - 2011: 61.1%, 2016: 52% <i class="fas fa-arrow-down"></i>
+- *No Religion* - 1971: 7%, 2016: 30.1% <i class="fas fa-arrow-up"></i>
+### 2.2. Account for the present religious landscape in Australia in relation to:
+#### 2.2.1. Christianity as the Major Religious Tradition
+- Christianity is the major religious tradition in Australia as a result of colonialization
+- The First Fleet was primarily Anglicans, with a small (but significant) number of Irish Catholics
+- This is reflected in the census as a 52% national majority
+- However, every time another religious group experiences a significant increase, the result is that Christianity's percentage declines
+
+{{% alert warning %}}
+Remember, this doesn't necessarily mean that there are less Christians, just that a lower PERCENTAGE of Australians are Christian adherents.
+{{% /alert %}}
+| Denomination | 2011 | 2016 | <i class="fas fa-arrow-up"></i> or <i class="fas fa-arrow-down"></i> |
+|-|-|-|-|
+| Catholicism | 25.3% | 22.6% | <i class="fas fa-arrow-down"></i> |
+| Anglicanism | 17.1% | 13.3% | <i class="fas fa-arrow-down"></i> |
+| Presbytarianism | 2.8% | 2.3% | <i class="fas fa-arrow-down"></i> |
+| Eastern Orthodox | 8.4% | 8.2% | <i class="fas fa-arrow-down"></i> |
+| Uniting Church | 5.0% | 3.7% | <i class="fas fa-arrow-down"></i> |
+#### 2.2.2. Immigration
+  > *IMMIGRANTS, WE GET THE JOB DONE*
+  >
+  > (What, you didn't expect me to sneak in a Hamilton reference?)
+- Immigration is responsible for basically all religion in Australia
+- Immigration in 1945 was primarily British-assisted migrants, as well as European war refugees
+- 1945-1960: Massive influx of Jewish immigrants (because of WW2)
+- 1960-1975: The abolition of the White Australia policy, as well as the Viet Nam and Korean Wars led to an influx of Asian migrants, resulting in the rise of Eastern religions (such as Buddhism and Hinduism)
+- 1980-present: Iraqi Civil War and the rise of Al Qaeda leads to an influx of Middle Eastern immigrants, observed as a rise in Islam in the census
+#### 2.2.3. Denominational Switching
+- Pentecostals observed an increase in adherence, primarily driven by younger people
+  - Observed as a growth of approximately 16% over 5 years
+- Most traditional churches (Orthodoxy, Protestants, Anglicans) lost popularity
+- Catholicism was not drastically affected, but still experienced a decline
+#### 2.2.4. Rise of New-Age Religions
+- Among the fastest growing faith groups in the 2016 census, increasing by 140% since 1996
+- Differ from traditional faiths in that, while they form an overall spiritual movement, they lack any unifying creed or doctrine
+- Regardless, adherents tend to share some similar beliefs and practices
+- Why?
+  - A reaction against what is seen as a failure of Christianity and other mainstream religions to satisfactorily respond to the needs of people today
+  - Concept of something well tried, and yet new and different
+- Spread rapidly due to the support of celebrities (e.g. Scientology)
+
+## UPCOMING: Christianity and Judaism
 ---
 # References
 [^1]: [Bringing Them Home Report](https://humanrights.gov.au/sites/default/files/content/pdf/social_justice/bringing_them_home_report.pdf)
 [^2]: [SBS on Slavery in Australia](https://www.sbs.com.au/nitv/article/2016/12/01/10-things-you-should-know-about-slavery-australia)
+[^3]: [Post: Changing Patterns of Religious Adherence in Australia](/post/sor1-changing-religious-adherence/)
+[^4]: [Post: Religion and Beliefs in Australia post-1945](/post/sor1-hsc-consolidation-1/)

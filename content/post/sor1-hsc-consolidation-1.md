@@ -447,7 +447,7 @@ _Rise of New Age religions_
 
 
 
-*   Among the fastest growing faiths in the 2011 census increasing by 140% since 1996
+*   Among the fastest growing faiths in the 2011 census, increasing by 140% since 1996
 *   Differ from traditional faiths in that, while they form an overall spiritual movement they lack any unifying creed or doctrine
 *   Regardless, adherents tend to share some similar beliefs and practices
 *   Why?
