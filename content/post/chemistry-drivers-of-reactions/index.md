@@ -97,5 +97,31 @@ $Q=mc\Delta T$
 - The heat of solution is the energy change that occurs when 1mol of a substance is dissolved in water.
 - While the dissolving of an ionic compound in water is usually considered a physical cahgne, dissolving involves the breaking of ionic bonds within a crystal lattice.
   - Because bonds are being broken and reformed, Dissolving can be considered a chemical reaction, which can be measured by calorimetry.
+### 1.4. Calculation Plan
+| Forward $(\Delta H\text{ from }m,c,\Delta T)$ | Backward $(m,c,\Delta T\text{ from }\Delta H)$ |
+|-|-|
+| $Q=mc\Delta T$ (Answer in Joules) | $n=\frac{m}{MM}$ (Answer in Moles) |
+| $n=\frac{m}{MM}$ (Answer in Moles) | $Q=\Delta H \cdot n$ (Answer in Joules) |
+| $\Delta H = \frac{Q}{n} (Answer in kJ/mol) | $Q=mc\Delta T$ |
+
+#### Review 1: Questions
+1) $824kJ$ of energy is released when one mole of $Fe(II)$ metal is converted to $Fe(III)$ Oxide. Write the chemical equation for the reaction, including the $\Delta H$ value.
+2) Calculate the Molar Heat of solutions when $2.4g$ of $NaOH$ is dissolved in $100mL$ of water $(\ce{H2O})$ to increase the temperature from $22°C$ to $28.4°C$
+3) What is the temperature increase for $1L$ of water $(\ce{H2O})$ when it absorbs all the energy released from the combustion of $12g$ of Acetylene gas $(\ce{C2H2})$ and the molar heat of combustion for Acetylene is $1290kJ/mol ?$
+
+{{% hidden-solutions %}}
+1) $\ce{4Fe +3O2 ->2Fe2O3},\Delta H =-3296kJ$
+2) $\Delta H_{(sol)}=m\cdot c \cdot \Delta T=102.4\cdot4.18\cdot6.4$
+
+    $n_{(NaOH)}=\frac{m}{MM}=\frac{2.4}{39.998}=0.06mol$
+
+    $\Delta H_{(sol)}=\frac{2.7394}{0.06}=45.7kJ/mol$
+3) $\text{Fuel = Acetylene: }n_{(\ce{C2H2})}=\frac{m}{MM}=\frac{1}{24.02\cdot2.016}=0.0384 mol$
+
+    $\Delta H_c =1290 kJ/mol \rightarrow \Delta H_c =1290\cdot 0.0384=49.536kJ$
+
+    $\Delta H_c =49536kJ\rightarrow \Delta T =\frac{\Delta H_c}{m\cdot c}=\frac{49536}{1000\times4.18}=11.85°C$
+{{% /hidden-solutions %}}
+
 <!---# References-->
-<!--HW: Q7,8,9,10 from molar heat of solutions.
+<!--HW: Q7,8,9,10 from molar heat of solutions.-->
