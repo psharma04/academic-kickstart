@@ -109,7 +109,7 @@ $Q=mc\Delta T$
 2) Calculate the Molar Heat of solutions when $2.4g$ of $NaOH$ is dissolved in $100mL$ of water $(\ce{H2O})$ to increase the temperature from $22°C$ to $28.4°C$
 3) What is the temperature increase for $1L$ of water $(\ce{H2O})$ when it absorbs all the energy released from the combustion of $12g$ of Acetylene gas $(\ce{C2H2})$ and the molar heat of combustion for Acetylene is $1290kJ/mol ?$
 
-{{% hidden-solutions %}}
+#### Review 1: Solutions
 1) $\ce{4Fe +3O2 ->2Fe2O3},\Delta H =-3296kJ$
 2) $\Delta H_{(sol)}=m\cdot c \cdot \Delta T=102.4\cdot4.18\cdot6.4$
 
@@ -121,7 +121,18 @@ $Q=mc\Delta T$
     $\Delta H_c =1290 kJ/mol \rightarrow \Delta H_c =1290\cdot 0.0384=49.536kJ$
 
     $\Delta H_c =49536kJ\rightarrow \Delta T =\frac{\Delta H_c}{m\cdot c}=\frac{49536}{1000\times4.18}=11.85°C$
-{{% /hidden-solutions %}}
-
-<!---# References-->
-<!--HW: Q7,8,9,10 from molar heat of solutions.-->
+### 1.5. Activation Energy $(E_a)$
+- Activation energy is the energy required to start a chemical reaction
+- For example, to burn a piece of paper, an exteranl source of heat, such as a match, is required to start the paper burning
+- However, once the reaction has started, the source of the activation energy may not be needed anymore
+{{% alert note %}} Think of it as a hill or barrier, which must be overcome before chemicals can turn into products.{{% /alert %}}
+#### 1.5.1. Combustion Reactions
+- Combustion is the most common source of activation energy
+- Combustion is observed as burning
+- It always involves a "fuel" compound combining with oxygen to form "oxide" compounds of whatever elements are present in the fuel
+- Combustion reactions are ALWAYS exothermic, releasing chemical energy as heat, light, and sometimes sound.
+- Hydrocarbons are the most common types of fuels
+  - For example, Natural Gas and LPG (Liquified Petroleum Gas) contain methane and propane
+  - The methane reacts as $\ce{CH4 +O2 ->CO2 +2H2O}$
+  - A similar example is petrol, which uses Octane: $\ce{C8H18 +\frac{25}{2}O2 ->CO2 +2H2O ->8Co2 +9H2O}$
+  > [And yes, you can do equations with fractions.](images/noo-you-cant-use-fractions.jpeg)
