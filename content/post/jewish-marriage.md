@@ -9,6 +9,7 @@ tags:
   - Year 12
   - SOR
   - Marriage
+  - SOR1
 ---
 
 ### Aufruf
@@ -35,7 +36,7 @@ tags:
 ### Ring
 - The chatan places a ring on the finger of the kallah
 - Chatan says:
-<blockquote>"Behold you are sanctified (betrothed) to me with this ring, according to the Law of Moses and Israel."</blockquote>
+> "Behold you are sanctified (betrothed) to me with this ring, according to the Law of Moses and Israel."
 
 ### Reading of the Ketubah
 - The <div class="tooltip" style="display: inline;">Ketubah<span class="tooltiptext">Jewish marriage contract</span></div> is read aloud to those gathered
