@@ -2,7 +2,7 @@
 title: Pranav Sharma
 role: Site Owner
 avatar_filename: avatar.png
-bio: Year 11 Student, site owner and developer. Creator of Heimdall Studios.
+bio: Year 11 Student, site owner and developer
 interests:
   - Programming
   - Reading
