@@ -1,0 +1,23 @@
+{
+  "name": "academic-kickstart",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><a href=\"https://sourcethemes.com/academic/\" target=\"_blank\" rel=\"noopener\"><img src=\"https://sourcethemes.com/academic/img/logo_200px.png\" alt=\"Academic logo\"></a></p>",
+  "main": "index.js",
+  "dependencies": {
+    "netlify-cli": "^2.59.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psharma04/academic-kickstart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psharma04/academic-kickstart/issues"
+  },
+  "homepage": "https://github.com/psharma04/academic-kickstart#readme"
+}

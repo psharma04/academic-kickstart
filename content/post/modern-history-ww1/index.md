@@ -106,12 +106,17 @@ The German empire included New Guinea and Samoa, as well as several other Pacifi
 >
 > NOTE: This map is a work in progress. To edit, download [this file](files/mapchartSave__world_subdivisions__Empires.txt) and edit at [mapchart.net](https://mapchart.net) [^5]
 
+### The Experiences of Soldiers
+- Soldiers on both sides of the war faced significant difficulties
+- However, soldiers from the Central powers (Germany, Austria-Hungary, Ottoman Empire, Bulgaria) had distinctly better living conditions for most of the war
+- For example, German soldiers were given access to radios, electric lighting and heating, and protective bunkers
+
 <!-- End Content here -->
 ---
 # References
 <!-- Put references below this line. APA, Chicago, Harvard, MLA, and Turabin are all acceptable. -->
 [^1]: https://alphahistory.com/worldwar1/militarism/
-[^2]: https://publishing.cdlib.org/ucpressebooks/view?docId=ft0w1003k0&doc.view=content&chunk.id=d0e489&toc.depth=1&anchor.id=0&brand=eschol
+[^2]: https://www.noref.us/j9dEx
 [^3]: https://alphahistory.com/worldwar1/imperialism/
 [^4]: http://www.comitepp.sp.gov.br/MESTRADO/files/Texto%2001%20-%20Harley%20A.pdf
-[^5]: https://en.m.wikipedia.org/wiki/List_of_former_European_colonies#:~:text=Britain%201%20Australia%20New%20South%20Wales%20Queensland%20South,Zealand%20Auckland%20Islands%20New%20Hebrides%20More%20items...%20
+[^5]: https://www.wikiwand.com/en/List_of_former_European_colonies
