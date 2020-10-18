@@ -31,12 +31,13 @@ education:
       year: 2019
     - course: Chinese Continuers
       institution: Cranbrook School
-      year: 2027
+      year: 2019
 superuser: false
 user_groups:
-  - writers
+  - Writers
+  - all
 ---
-First in NSW English Advanced, English Extension 2, and Chinese Continuers. 
+First in NSW English Advanced, English Extension 2, and Chinese Continuers.
 
 Third in NSW English Extension 1.
 
