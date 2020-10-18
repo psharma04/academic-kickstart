@@ -2,7 +2,7 @@
 title: Jesse Caminer
 role: Post Writer
 avatar_filename: avatar.png
-bio: First in NSW English Advanced and English Extension 2, studying at
+bio: First in NSW English Advanced and English Extension 2, studying Modern and Medieval Languages at
   Cambridge University
 interests:
   - Languages
