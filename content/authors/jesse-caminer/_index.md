@@ -4,10 +4,10 @@ role: Post Writer
 avatar_filename: avatar.png
 bio: First in NSW English Advanced and English Extension 2, studying at
   Cambridge University
-  interests:
-    - Languages
-    - Reading
-    - History
+interests:
+  - Languages
+  - Reading
+  - History
 social:
   - icon_pack: fab
     icon: instagram
