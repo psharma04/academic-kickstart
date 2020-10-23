@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "HSC English: Cheat Sheet"
-subtitle: "A cheat sheet for HSC english by first in state for advanced and extension 2."
-summary: "A cheat sheet for HSC english by first in state for advanced and extension 2."
+subtitle: "A cheat sheet for HSC English by First in State for Advanced and Extension 2."
+summary: "A cheat sheet for HSC English by First in State for Advanced and Extension 2."
 authors: [Jesse Caminer]
 tags: [Year 12, English, English Advanced, English Standard, English Extension 1, English Extension 2, English Studies, Cheat Sheet]
 categories: [Year 12, English, Cheat Sheet, English Advanced, English Standard]

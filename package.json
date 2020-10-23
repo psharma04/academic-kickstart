@@ -4,7 +4,7 @@
   "description": "<p align=\"center\"><a href=\"https://sourcethemes.com/academic/\" target=\"_blank\" rel=\"noopener\"><img src=\"https://sourcethemes.com/academic/img/logo_200px.png\" alt=\"Academic logo\"></a></p>",
   "main": "index.js",
   "dependencies": {
-    "netlify-cli": "^2.59.0"
+    "netlify-cli": "^2.65.7"
   },
   "devDependencies": {},
   "scripts": {
