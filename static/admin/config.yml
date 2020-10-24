@@ -1,6 +1,10 @@
 backend:
   name: git-gateway
   branch: master
+site_url: https://schoolnotes.xyz
+display_url: https://schoolnotes.xyz
+logo_url: https://schoolnotes.xyz/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png
+show_preview_links: true
 media_folder: 'static/img/'
 #media_library:
 #  name: cloudinary
@@ -8,6 +12,7 @@ media_folder: 'static/img/'
 #    cloud_name: schoolnotes-cloudinary-cdn
 #    api_key: 315483171553253
 public_folder: 'img'
+publish_mode: editorial_workflow
 collections:
   - name: authors
     label: Authors
