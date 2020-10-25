@@ -95,8 +95,9 @@ SPOILERS!!! (duh)
   - People are stubborn, and it's not always possible to change someone's mind.
   - It doesn't make them right, it doesn't make you wrong.
   - Orwell talks more about this later.
-    {{% /alert %}}
-
+  
+{{% /alert %}}
+  
 - The bad news for our buddy Winston is that, while he was having his flashback, apparently all his oppressed hatred of living in the iconic dystopia boiled over, and he's written 'down with Big Brother' in big letters all over his diary, which means he's officially committed a *Thoughtcrime,* and the Thought Police are pretty much inevitably gonna find him and do horrible, dystopian things to him.
 
 > Oops!
