@@ -9,7 +9,7 @@ tags: [Year 12, SOR, SOR1, HSC, Consolidation, Subject Review]
 categories: [Year 12, SOR, Subject Review]
 date: 2020-08-07T19:32:32+10:00
 lastmod: 2020-08-07T19:32:32+10:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -56,6 +56,7 @@ Also, if you're on a newer syllabus than 2009, some of this might no longer be r
   4. Spiritual connections
 > Ceremonial life links Aboriginal people, land and identity
 - Represents the presentness of the Aboriginal Dreaming
+  
   > In case you don't remember the preliminary content for this bit, the Dreaming occurs in the past, present AND future. Ceremonies serve to remind Aboriginal peoples of this.
 - Passes on the beliefs and practices of Aboriginal Spiritualities to younger generations
 #### 1.1.3. Obligations to Land and People
@@ -188,6 +189,7 @@ Remember, this doesn't necessarily mean that there are less Christians, just tha
 - [Commentary on the Mishnah (1168)](/post/moses-commentary1/)
 - [Mishneh Torah (1170-1180)](/post/moses-commentary2/)
 - [Guide for the Perplexed (1190)](/post/moses-commentary3/)
+  
   > It really doesn't get more compressed than that
 ### 3.2. Ethics: Bioethics
 Ethical teachings:
@@ -280,6 +282,7 @@ Gene therapy: direct Jews that they are the co-custodians of creation and help p
 ###### Reading of the Ketubah
 - The Ketubah is read aloud to those gathered
 - The Ketubah outlines the obligations of the groom to the bride, including food, clothing, and "marital relations"
+  
   > :eyes:
 - The ketubah is considered a legally binding contract, although some countries[^33011] do not recognise it in their legal systems
 - In orthodox traditions, the Ketubah is read in Aramaic, while Progressive and Modern couples may elect to have it read in their local language as well, or for a shortened version to be read.
@@ -319,9 +322,11 @@ Gene therapy: direct Jews that they are the co-custodians of creation and help p
 ### 3.3.2. Marriage and the beliefs of Judaism
 Marriage is an expression of the beliefs of Judaism, allowing adherents to fulfil their religious obligations.
 - Aufruf, for example, serves as a fulfilment of the Covenant (Mitzvah 17)
+  
   > ["Teach them [the words of the Torah] to your children" (Deuteronomy 6:7)](https://torah.org/learning/mitzvah-17/#:~:text=Teach%20them%20%5Bthe%20words%20of%20Torah%5D%20to%20your,learning%20so%20that%20it%20is%20clear%20and%20precise.)
 - The Ketubah can be seen as a reflection of the Covenant, in that it is a religious contract between the couple and G-d
 - Sheva Berakhot frequently reminds adherents of their belief in one god
+  
   > ["Hear O Israel! The LORD our G-d, the LORD is One" (Deuteronomy 6:4)](https://www.mechon-mamre.org/p/pt/pt0506.htm#4)
 
 ---
