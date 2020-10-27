@@ -2,7 +2,7 @@
 title: Pranav Sharma
 role: Site Owner
 avatar_filename: avatar.png
-bio: Year 11 Student, site owner and developer
+bio: Year 12 Student, site owner and developer.
 interests:
   - Programming
   - Reading
