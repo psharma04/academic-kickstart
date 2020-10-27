@@ -81,23 +81,26 @@ SPOILERS!!! (duh)
   - Because if your enemies make sense to you, that must mean they've successfully brainwashed you.
 
 - As the hate continues, listening citizens get more and more freaked out, shouting and screaming over the broadcast to drown out the voice in order to avoid listening to the words that might subvert them from loyal citizens into spies and rebels if they let the message sink in.
-  {{% alert note %}}
 
-  - The message here is pretty clear: listening to people you disagree with is ill-advised by the Party, because, what'll happen if you start agreeing with them?
-  - Better to pretend like nobody else could have a valid perspective.
-  - After all, there's only one truth, and it's whatever the Party says it is.
-  - It's worth noting that even though it looks like Orwell is prompting the idea that fair and reasoned debate is the only real way to oppose the Party, that because one side is shouted down the solution must be to listen to what they're saying, he's actually kind of subverting that idea. Because, see, there is no reason debate because the Party is everything and the opposition is an illusion. The Party produces the illusion of alternative perspectives to convince their citizens that those perspectives have been fairly defeated, when in actuality, all they're doing is propping up straw men and tearing them down as a show of strength.
-  - But the thing, is even though there is no real opposition in the form of Goldstein's party, the Party does occasionally face real, internal opposition from citizens that have failed to be properly assimilated.
-  - And in those cases, we see the failure of "reasoned debate," because our citizens are usually in the right.
-  - They're usually having a crisis of faith brought on by the collision between real truth and what the Party claims truth to be.
-  - And they only lose because the Party gets to redefine truth, and essentially break the citizen's mind until they agree.
-  - What may look like reasoned debate is actually un-winnable from one end, because the other is defining the nature of truth itself. It's not always possible to defeat someone who's demonstrably wrong, because there will always be people who believe them, no matter what they or you say.
-  - People are stubborn, and it's not always possible to change someone's mind.
-  - It doesn't make them right, it doesn't make you wrong.
-  - Orwell talks more about this later.
-  
+{{% alert note %}}
+
+- The message here is pretty clear: listening to people you disagree with is ill-advised by the Party, because, what'll happen if you start agreeing with them?
+- Better to pretend like nobody else could have a valid perspective.
+- After all, there's only one truth, and it's whatever the Party says it is.
+- It's worth noting that even though it looks like Orwell is prompting the idea that fair and reasoned debate is the only real way to oppose the Party, that because one side is shouted down the solution must be to listen to what they're saying, he's actually kind of subverting that idea. Because, see, there is no reason debate because the Party is everything and the opposition is an illusion. The Party produces the illusion of alternative perspectives to convince their citizens that those perspectives have been fairly defeated, when in actuality, all they're doing is propping up straw men and tearing them down as a show of strength.
+- But the thing, is even though there is no real opposition in the form of Goldstein's party, the Party does occasionally face real, internal opposition from citizens that have failed to be properly assimilated.
+- And in those cases, we see the failure of "reasoned debate," because our citizens are usually in the right.
+- They're usually having a crisis of faith brought on by the collision between real truth and what the Party claims truth to be.
+- And they only lose because the Party gets to redefine truth, and essentially break the citizen's mind until they agree.
+- What may look like reasoned debate is actually un-winnable from one end, because the other is defining the nature of truth itself. It's not always possible to defeat someone who's demonstrably wrong, because there will always be people who believe them, no matter what they or you say.
+- People are stubborn, and it's not always possible to change someone's mind.
+- It doesn't make them right, it doesn't make you wrong.
+- Orwell talks more about this later.
+
 {{% /alert %}}
-  
+
+
+
 - The bad news for our buddy Winston is that, while he was having his flashback, apparently all his oppressed hatred of living in the iconic dystopia boiled over, and he's written 'down with Big Brother' in big letters all over his diary, which means he's officially committed a *Thoughtcrime,* and the Thought Police are pretty much inevitably gonna find him and do horrible, dystopian things to him.
 
 > Oops!
