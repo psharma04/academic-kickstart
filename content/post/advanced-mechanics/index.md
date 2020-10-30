@@ -208,7 +208,14 @@ The Effect of Drag
 >
 > $F_c = \frac{mv^2}{r}=\frac{4\pi^2\cdot r\cdot m}{T^2}$
 
+- There are 4 "real" forces which provide centripetal force:
 
+  - Gravity
+  - Tension
+  - Normal Force of Gravity
+  - Drag
+
+  
 
 ---
 # References
