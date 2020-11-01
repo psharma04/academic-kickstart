@@ -7,9 +7,9 @@ summary: "Consolidation of all Studies of Religion HSC content."
 authors: [Pranav Sharma]
 tags: [Year 12, SOR, SOR1, HSC, Consolidation, Subject Review]
 categories: [Year 12, SOR, Subject Review]
-date: 2020-08-07T19:32:32+10:00
-lastmod: 2020-08-07T19:32:32+10:00
-featured: true
+date: 2020-11-01T07:32:32+10:00
+lastmod: 2020-11-01T07:32:32+10:00
+featured: false
 draft: false
 
 # Featured image

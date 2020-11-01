@@ -9,7 +9,7 @@ tags: [Year 12, Chemistry, Equilbrium and Acid Reactions, Module 5, Equilibrium,
 categories: [Year 12, Chemistry, Equilbrium and Acid Reactions, Module 5, Equilibrium, Acids and Bases]
 date: 2020-10-31T13:03:16+11:00
 lastmod: 2020-10-31T13:03:16+11:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
