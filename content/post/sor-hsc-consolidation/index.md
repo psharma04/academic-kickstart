@@ -28,16 +28,16 @@ image:
 projects: []
 ---
 {{% toc %}}
-{{% alert warning %}}
+{{% callout warning %}}
 Aboriginal and Torres Strait Islander readers are warned that this post may contain images, quotes, or voices of deceased persons.
-{{% /alert %}}
-{{% alert info %}}
+{{% /callout %}}
+{{% callout info %}}
 Some of the sections in this article have more in-depth posts. If you want a better understanding of the content, click the little number next to the section.
 
 This only has SOR1 content right now. If someone is willing to add SOR2 notes, that would be great.
 
 Also, if you're on a newer syllabus than 2009, some of this might no longer be relevant.
-{{% /alert %}}
+{{% /callout %}}
 ## 1. Contemporary Aboriginal Spiritualities [^4]
 ### 1.1. Discuss how Aboriginal Spirituality is determined by the Dreaming
 - The Dreaming is the spiritual aspect of Aboriginal beliefs, encapsulating both the physical and spiritual dimensions
@@ -106,9 +106,9 @@ Also, if you're on a newer syllabus than 2009, some of this might no longer be r
 - For example Federal land (land directly owned by the Federal Government e.g. Military Bases) could not be claimed
 - Rather than negotiating with Aboriginal people, native title was reduced to consultation, meaning the pastoral owners could ignore anything the Aboriginal claimants said.
 > Basically undoing the last 10 years of progress in one afternoon.
-{{% alert success %}}
+{{% callout success %}}
 If you get a question on the impact of the Land rights movement, mentioning that the Native Title Amendment act was actually a backwards step is an easy way to get more marks.
-{{% /alert %}}
+{{% /callout %}}
 ### 1.4. Analyse the importance of the Dreaming for the Land Rights Movement:
 - The main drive of the Land Rights Movement was the loss of spiritual connections to the land.
 - While the Land Rights Movement is seen as a legal battle for non-Aboriginal Australians, Aboriginal people see it as a spiritual reclamation, enabling them to reconnect with their traditions and beliefs.
@@ -129,9 +129,9 @@ If you get a question on the impact of the Land rights movement, mentioning that
 - This is reflected in the census as a 52% national majority
 - However, every time another religious group experiences a significant increase, the result is that Christianity's percentage declines
 
-{{% alert warning %}}
+{{% callout warning %}}
 Remember, this doesn't necessarily mean that there are less Christians, just that a lower PERCENTAGE of Australians are Christian adherents.
-{{% /alert %}}
+{{% /callout %}}
 | Denomination | 2011 | 2016 | <i class="fas fa-arrow-up"></i> or <i class="fas fa-arrow-down"></i> |
 |-|-|-|-|
 | Catholicism | 25.3% | 22.6% | <i class="fas fa-arrow-down"></i> |
@@ -355,7 +355,7 @@ Marriage is an expression of the beliefs of Judaism, allowing adherents to fulfi
 
 ### 4.1.2. External: Efforts During the Holocaust
 
-{{% alert success %}}
+{{% callout success %}}
 
 > Roncalli made various efforts during the Holocaust in World War II to save refugees, mostly Jewish people, from the Nazis. Among his efforts were:
 >
@@ -371,7 +371,7 @@ Marriage is an expression of the beliefs of Judaism, allowing adherents to fulfi
 > * Jews held at the Sereď concentration camp who were spared from being deported to German death camps as a result of his intervention.
 > * Hungarian Jews who saved themselves through their conversions to Christianity through the baptismal certificates sent by Nuncio Roncalli to the Hungarian Nuncio, Monsignor Angelo Rota.
 
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Pope_John_XXIII#Efforts_during_the_Holocaust) {{< icon name="external-link-alt" pack="fas" >}} {{% /alert %}}
+[Source: Wikipedia](https://en.wikipedia.org/wiki/Pope_John_XXIII#Efforts_during_the_Holocaust) {{< icon name="external-link-alt" pack="fas" >}} {{% /callout %}}
 
 ## 4.1.3 Vatican II
 

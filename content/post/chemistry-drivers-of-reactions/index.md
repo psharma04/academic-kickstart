@@ -76,6 +76,7 @@ $Q=mc\Delta T$
 ### 1.2. Calorimetry
 - Calorimetry is a technique used to measure the energy change occuring during chemical processes
 - The term is derives from "calorie," the pre-SI unit for heat energy, now replaced by the Joule
+  
   > Joulometry probably didn't catch on too well
 - Since many chemical process occur in water (and because water has such a high SHC), calorimetry often uses water as the *working fluid* to absorb the energy
 - The basic idea behind Calorimetry is to have a chemical reaction inside a well-insulated container
@@ -114,18 +115,18 @@ $Q=mc\Delta T$
 2) $\Delta H_{(sol)}=m\cdot c \cdot \Delta T=102.4\cdot4.18\cdot6.4$
 
     $n_{(NaOH)}=\frac{m}{MM}=\frac{2.4}{39.998}=0.06mol$
-
+    
     $\Delta H_{(sol)}=\frac{2.7394}{0.06}=45.7kJ/mol$
 3) $\text{Fuel = Acetylene: }n_{(\ce{C2H2})}=\frac{m}{MM}=\frac{1}{24.02\cdot2.016}=0.0384 mol$
 
     $\Delta H_c =1290 kJ/mol \rightarrow \Delta H_c =1290\cdot 0.0384=49.536kJ$
-
+    
     $\Delta H_c =49536kJ\rightarrow \Delta T =\frac{\Delta H_c}{m\cdot c}=\frac{49536}{1000\times4.18}=11.85°C$
 ### 1.5. Activation Energy $(E_a)$
 - Activation energy is the energy required to start a chemical reaction
 - For example, to burn a piece of paper, an exteranl source of heat, such as a match, is required to start the paper burning
 - However, once the reaction has started, the source of the activation energy may not be needed anymore
-{{% alert note %}} Think of it as a hill or barrier, which must be overcome before chemicals can turn into products.{{% /alert %}}
+{{% callout note %}} Think of it as a hill or barrier, which must be overcome before chemicals can turn into products.{{% /callout %}}
 #### 1.5.1. Combustion Reactions
 - Combustion is the most common source of activation energy
 - Combustion is observed as burning

@@ -30,9 +30,9 @@ projects: []
 {{% toc %}}
 ---
 <!-- Start content below this line. If you need help, go to https://schoolnotes.xyz/docs/posts/ -->
-{{% alert warning %}}
+{{% callout warning %}}
 SPOILERS!!! (duh)
-{{% /alert %}}
+{{% /callout %}}
 # 1984 Pre-Work - Plot Summary
 
 ## Background
@@ -82,7 +82,7 @@ SPOILERS!!! (duh)
 
 - As the hate continues, listening citizens get more and more freaked out, shouting and screaming over the broadcast to drown out the voice in order to avoid listening to the words that might subvert them from loyal citizens into spies and rebels if they let the message sink in.
 
-{{% alert note %}}
+{{% callout note %}}
 
 - The message here is pretty clear: listening to people you disagree with is ill-advised by the Party, because, what'll happen if you start agreeing with them?
 - Better to pretend like nobody else could have a valid perspective.
@@ -97,7 +97,7 @@ SPOILERS!!! (duh)
 - It doesn't make them right, it doesn't make you wrong.
 - Orwell talks more about this later.
 
-{{% /alert %}}
+{{% /callout %}}
 
 
 
@@ -123,7 +123,7 @@ SPOILERS!!! (duh)
 
 ### Doublethink
 
-{{% alert note %}}
+{{% callout note %}}
 
 - Doublethink is the art of simultaneously accepting two fundamentally contradictory concepts.
 
@@ -132,7 +132,7 @@ SPOILERS!!! (duh)
 - Doublethink is a necessity for every loyal citizen, but poor Winston can't seem to get the hang of it.
 
 - He always hits a snag when he has to choose between his observed reality and the Party's version of reality.
-  {{% /alert %}}
+  {{% /callout %}}
 
 - So Winston goes to work and sets about doing his job, which includes such matters as rewriting various forecasts who have been retroactively accurate.
 

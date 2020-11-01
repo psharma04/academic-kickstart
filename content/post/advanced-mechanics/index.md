@@ -40,7 +40,7 @@ projects: []
 - Gravity is the only force which is considered to act on a projectile
 - Ballistic flight can be analysed using Newton's laws of motion, and the [equations of rectilinear motion](/post/kinematics/#suvat-equations)
 
-{{% alert success %}}
+{{% callout success %}}
 
 Key points:
 
@@ -51,7 +51,7 @@ Key points:
 - Projectile flight paths take the shape of a [parabola](https://www.desmos.com/calculator/jrqwxwspif)
 - The horizontal velocity of a projectile is **constant** throughout its flight $(u_{x}=v_{x})$
 
-{{% /alert %}}
+{{% /callout %}}
 
 ![projectile-motion](https://cdn.jsdelivr.net/gh/psharma04/image-repo@main/uploads/projectile-motion.png)
 
@@ -67,7 +67,7 @@ Key points:
 >
 > Also, use pythagoras' theorem $(a^2 + b^2 =c^2)$ wherever you need to find the magnitude of a force in a rectilinear direction.
 
-{{% alert note %}}
+{{% callout note %}}
 
 The Effect of Drag
 
@@ -82,7 +82,7 @@ The Effect of Drag
 
 ![velocity_time_graph_7658](https://cdn.jsdelivr.net/gh/psharma04/image-repo@main/uploads/velocity_time_graph_7658.png)
 
-{{% /alert %}}
+{{% /callout %}}
 
 ### Oblique Projectiles (projectiles launched at an angle)
 
@@ -196,7 +196,7 @@ The Effect of Drag
 - Since objects in circular motion are accelerating, Newton's scond law tells us that there must be an unbalanced force acting on the object
 - This force is known as the *centripetal force*
 - If the centripetal force is removed from an object in circular motion, the object will continue at the same speed, in a direction tangential to the circular path at the instant of release
-- The normal force of centripetal force is* centrifugal force*
+- The normal force of centripetal force is *centrifugal force* 
 
 > Centripetal force is represented by $F_c$
 >
