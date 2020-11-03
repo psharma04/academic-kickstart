@@ -34,6 +34,10 @@ projects: []
 
 ---
 
+[Printable Version](printables/printable-version.pdf)
+
+---
+
 ## Context of the Module
 
 {{% callout info %}}
@@ -716,7 +720,6 @@ projects: []
    </td>
    <td>
 <ul>
-
 <li>Mussolini attempted to create a ‘Corporate state’ . 
 
 <li>There was great emphasis put on mobilisation and indoctrination of young people. 
@@ -815,7 +818,7 @@ projects: []
 
 ## The Nazi Regime until 1939
 
-##### The rise of the Nazi party and Hitler in Germany, and the collapse of the Weimar Republic .
+##### The rise of the Nazi party and Hitler in Germany, and the collapse of the Weimar Republic.
 
 ### Congenital Defects in the Weimar Republic (1918-1919)
 
@@ -930,7 +933,7 @@ projects: []
 
 ## The Intial Consolidation of Nazi Power (1933-1934)
 
-**Gleichschaltung: **Hitler and the Nazi party successfully established a system of totalitarian control and coordination over all aspects of German society.
+**Gleichschaltung:** Hitler and the Nazi party successfully established a system of totalitarian control and coordination over all aspects of German society.
 
 
 <table>
@@ -1033,7 +1036,6 @@ Role of the SA/SS
 <p>
 Establishment of Concentration Camps
 <ul>
-
 <li>March – Camps were established to hold anyone in political opposition.
 </li>
 </ul>
