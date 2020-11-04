@@ -14,15 +14,9 @@ social:
   - link: https://instagram.com/2fast_2spurious
     icon_pack: fab
     icon: instagram
-  - link: https://www.youtube.com/channel/UCSZmum9yoYJf0VJyrQ4E2bA
-    icon_pack: fab
-    icon: youtube
   - icon_pack: fas
     icon: network-wired
     link: https://intranet.pw
-  - link: https://urltr.ee/2fast_2spurious
-    icon_pack: fas
-    icon: code-branch
 organizations:
   - name: Heimdall Studios
     url: https://heimdall.intranet.pw
