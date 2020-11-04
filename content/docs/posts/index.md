@@ -28,9 +28,9 @@ menu:
 ## Content formatting
 Content can be written using **Markdown**, [**LaTeX math**](https://en.wikibooks.org/wiki/LaTeX/Mathematics), and **Shortcodes**. This article gives an overview of the most common formatting options, including features that are exclusive to this site.<!--more-->
 
-{{% alert note %}}
+{{% callout note %}}
 *Shortcodes* are plugins which are made specifically for this site, or inherited from [Hugo](http://gohugo.io/extras/shortcodes/). Additionally, **HTML** may be written in Markdown documents for advanced formatting.
-{{% /alert %}}
+{{% /callout %}}
 
 ## Sub-headings
 
@@ -43,11 +43,11 @@ Content can be written using **Markdown**, [**LaTeX math**](https://en.wikibooks
 ## Emphasis
 
     Italics with _underscores_.
-
+    
     Bold with **asterisks**.
-
+    
     Combined emphasis with **asterisks and _underscores_**.
-
+    
     Strikethrough with ~~two tildes~~.
 
 ## Lists
@@ -79,11 +79,7 @@ renders as
 
 ## Images
 
-Images may be added to a page by either placing them in your `static/img/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then referencing them using one of the following notations:
-
-A figure from your `static/img/` media library:
-
-    {{</* figure library="true" src="image.jpg" title="A caption" lightbox="true" */>}}
+Images may be added to a page by either placing them in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then referencing them using one of the following notations:
 
 A figure within a [page's folder](https://gohugo.io/content-management/page-bundles/) (e.g. `content/post/hello/`) :
 
@@ -131,9 +127,34 @@ gallery_item:
 
 3. Display the gallery somewhere within your page content by using `{{</* gallery */>}}`
 
-{{% alert note %}}
+{{% callout note %}}
 For *docs* pages (i.e. pages using the courses and documentation layout), gallery images must be placed in the `static/` media library using the second approach (due to limitations of Hugo).
-{{% /alert %}}
+{{% /callout %}}
+
+
+
+## Citations
+
+To cite a page or publication, you can use the *cite* shortcode, referencing a folder and pagename that you created:
+
+`{{< cite page="/publication/preprint" view="4" >}}`
+
+where view corresponds to one of the available views:
+
+1. Stream
+2. Compact
+3. Card
+4. APA style citation
+
+NOTE: If you don't specify a view, it will default to compact.
+
+
+
+## Audio
+
+You can add a podcast or music to a page by placing the MP3 file in the page’s folder and then referencing the audio file using the *audio* shortcode:
+
+``{{< audio src="markvard.mp3" >}}``
 
 ## Videos
 
@@ -185,6 +206,16 @@ To cross-reference a figure:
 
 Use `{{</* list_tags */>}}` to provide a list of linked tags or `{{</* list_categories */>}}` to provide a list of linked categories.
 
+
+
+## Charts
+
+We use the [Plotly] chart format.
+
+Save your Plotly JSON in your page folder, for example `chart.json`, and then add the `{{< chart data="chart" >}}` shortcode where you would like the chart to appear.
+
+You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
+
 ## Emojis
 
 See the [Emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) for available emoticons. The following serves as an example, but you should remove the spaces between each emoji name and pair of semicolons:
@@ -233,7 +264,7 @@ To mention someone, type `{{%/* mention "username" */%}}` where `username` corre
 ## Footnotes
 
     I have more [^1] to say.
-
+    
     [^1]: Footnote example.
 
 I have more [^1] to say.
@@ -325,34 +356,34 @@ Result:
 
 ## Asides
 
-Schoolnotes supports a Markdown extension for asides, also referred to as *alerts*.
+Schoolnotes supports a Markdown extension for asides, also referred to as *callouts*.
 
 Asides are a useful feature that **add side content such as notes, hints, or warnings to your articles**. They are especially handy when writing educational tutorial-style articles or documentation.
 
-You can enable this feature either by using the _Alert_ shortcode below. The paragraph will render as an aside with the default *note* style:
+You can enable this feature either by using the _callout_ shortcode below. The paragraph will render as an aside with the default *note* style:
 
-    {{%/* alert note */%}}
+    {{%/* callout note */%}}
     A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-    {{%/* /alert */%}}
+    {{%/* /callout */%}}
 
 This will display the following *note* block:
 
-{{% alert note %}}
+{{% callout note %}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
+{{% /callout %}}
 
 Alternatively, a warning can be displayed to the reader using the the _warning_ option:
 
-    {{%/* alert warning */%}}
+    {{%/* callout warning */%}}
     Here's some important information...
-    {{%/* /alert */%}}
+    {{%/* /callout */%}}
 
 This will display the following *warning* notice to the reader:
 
-{{% alert warning %}}
+{{% callout warning %}}
 Here's some important information...
-{{% /alert %}}
+{{% /callout %}}
 
 ## Table of Contents
 
-A table of contents may be particularly useful for long posts or tutorial/documentation type content. Use the `{{%/* toc */%}}` shortcode anywhere you wish within your Markdown content to automatically generate a table of contents.
+A table of contents may be particularly useful for long posts or tutorial/documentation type content. Use the `{{% toc %}}` shortcode anywhere you wish within your Markdown content to automatically generate a table of contents.
