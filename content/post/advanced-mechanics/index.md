@@ -233,49 +233,49 @@ The Effect of Drag
 
 1. *Calculate the radius of the ball's path*
 
-   {{< spoiler text="View Solution" >}}
+{{< spoiler text="View Solution" >}}
 
-    $r=1.50\cdot\sin(60^{\circ})$
+ $r=1.50\cdot\sin(60^{\circ})$
 
-   $=1.3m$
+$=1.3m$
 
-​	{{< /spoiler >}}
+{{< /spoiler >}}
 
 2. *Identify the unbalanced forces acting on the ball*
 
+{{< spoiler text="View Solution" >}}
+
+The forces acting on the ball are $\vec{F_{T}}$ (tension) and $\vec{F_{g}}$ (gravity)
+
+{{< /spoiler >}}
+
+1. *Calculate the weight of the ball*
+
    {{< spoiler text="View Solution" >}}
 
-   The forces acting on the ball are $\vec{F_{T}}$ (tension) and $\vec{F_{g}}$ (gravity)
+$\vec{F_{g}}=m\vec{g}$
 
-   {{< /spoiler >}}
+$=0.150\times9.80$
 
-3. *Calculate the weight of the ball*
+$=1.47N\text{ Downwards}$
 
-   {{< spoiler text="View Solution" >}}
-
-   $\vec{F_{g}}=m\vec{g}$
-
-​	$=0.150\times9.80$
-
-​	$=1.47N\text{ Downwards}$
-
-​	{{< /spoiler >}}
+{{< /spoiler >}}
 
 4. *Calculate the magnitude of the tensile force in the cord*
 
    {{< spoiler text="View Solution" >}}
 
-    $\cos(\theta)=\frac{A}{H}$
+ $\cos(\theta)=\frac{A}{H}$
 
-   $cos(60^{\circ})=\frac{F_g}{F_T}$
+$cos(60^{\circ})=\frac{F_g}{F_T}$
 
-   $F_T =\frac{F_g}{cos(60^{\circ})}$
+$F_T =\frac{F_g}{cos(60^{\circ})}$
 
-   $=\frac{1.47}{cos(60^{\circ})}$
+$=\frac{1.47}{cos(60^{\circ})}$
 
-   $=2.94N$
+$=2.94N$
 
-   {{< /spoiler >}}
+{{< /spoiler >}}
 
 ### Banked Corners
 

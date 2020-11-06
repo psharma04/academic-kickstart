@@ -5,6 +5,7 @@ title: "HSC English: Cheat Sheet"
 subtitle: "A cheat sheet for HSC English by First in State for Advanced and Extension 2."
 summary: "A cheat sheet for HSC English by First in State for Advanced and Extension 2."
 authors: [Jesse Caminer]
+author_notes: ["First in State Advanced English and Extension 2 English, Third in State Extension 1 English"]
 tags: [Year 12, English, English Advanced, English Standard, English Extension 1, English Extension 2, English Studies, Cheat Sheet]
 categories: [Year 12, English, Cheat Sheet, English Advanced, English Standard]
 date: 2020-10-18T14:36:06+11:00

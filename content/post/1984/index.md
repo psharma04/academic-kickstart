@@ -4,7 +4,8 @@
 title: "English Advanced - Nineteen Eighty-Four"
 subtitle: "A summary and analysis of 1984 by George Orwell."
 summary: "A summary and analysis of 1984 by George Orwell."
-authors: [Pranav Sharma, Jesse Caminer]
+authors: [Jesse Caminer, Pranav Sharma]
+author_notes: [Writer, Editor]
 tags: [Year 12, English Advanced, 1984, Nineteen Eighty-Four, English, English Literature, Social Commentary]
 categories: [Year 12, English Advanced, 1984]
 date: 2020-09-12T09:22:46+10:00
