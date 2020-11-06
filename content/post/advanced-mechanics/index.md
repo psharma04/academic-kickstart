@@ -215,7 +215,76 @@ The Effect of Drag
   - Normal Force of Gravity
   - Drag
 
-  
+
+### Circular Motion at an Angle
+
+- An object on the end of a string undergoes a form of circular motion known as "conical motion"
+  - Conical motion is where the object itself moves in a circular path, but it is tethered by a string or rope which, over the course of its arc, produces a cone
+
+![Diagram of an object in conical motion, accompanied by a free body diagram](https://cdn.jsdelivr.net/gh/psharma04/image-repo@main/uploads/Conical-pendulum-and-corresponding-free-body-diagramSv9aXH.png)
+
+- If the object moves slower, the angle, $\alpha,$ would be smaller, and the object would swing closer to the pole
+- If the object moves faster, $\alpha$ begins to approach $90^{\circ}$
+- If the angle is known, trigonometry can be used to find the radius of the circle and the forces involved
+
+#### Practice Question
+
+*During a game of Totem Tennis, the ball of mass 150g is swinging freely in a horizontal circular path. The cord is 1.50m long and is at an angle of 60.0° to the vertical.*
+
+1. *Calculate the radius of the ball's path*
+
+   {{< spoiler text="View Solution" >}}
+
+    $r=1.50\cdot\sin(60^{\circ})$
+
+   $=1.3m$
+
+​	{{< /spoiler >}}
+
+2. *Identify the unbalanced forces acting on the ball*
+
+   {{< spoiler text="View Solution" >}}
+
+   The forces acting on the ball are $\vec{F_{T}}$ (tension) and $\vec{F_{g}}$ (gravity)
+
+   {{< /spoiler >}}
+
+3. *Calculate the weight of the ball*
+
+   {{< spoiler text="View Solution" >}}
+
+   $\vec{F_{g}}=m\vec{g}$
+
+​	$=0.150\times9.80$
+
+​	$=1.47N\text{ Downwards}$
+
+​	{{< /spoiler >}}
+
+4. *Calculate the magnitude of the tensile force in the cord*
+
+   {{< spoiler text="View Solution" >}}
+
+    $\cos(\theta)=\frac{A}{H}$
+
+   $cos(60^{\circ})=\frac{F_g}{F_T}$
+
+   $F_T =\frac{F_g}{cos(60^{\circ})}$
+
+   $=\frac{1.47}{cos(60^{\circ})}$
+
+   $=2.94N$
+
+   {{< /spoiler >}}
+
+### Banked Corners
+
+- When objects without a rope travel in circular paths, they rely on the force of friction to provide the sideways force that turns them towards the center (enabling the *circular* part of circular motion)
+  - Examples include cars travelling around a corner, using friction between the tires and road to provide the sideways force
+- Consider a car travelling clockwise around a (flat) horizontal roundabout with a speed of $v:$
+  - As with all objects in circular motion, the car has a net acceleration towards the center $(C),$ and therefore a centripetal force acting towards $C$
+  - Because the car is moving on a flat horizontal plane, the vertical forces all cancel out $(\Sigma \vec{F_{y}}=0)$
+  - The only horizontal porce is the sideways force that the road exerts on the car's tires
 
 ---
 # References
