@@ -5,10 +5,11 @@ title: "Physics: Advanced Mechanics"
 subtitle: "Notes on advanced mechanics (HSC Physics Module 1/5)"
 summary: "Notes on advanced mechanics (HSC Physics Module 1/5)"
 authors: [Pranav Sharma]
+author_note: [Writer]
 tags: [Year 12, Physics, Advanced Mechanics, Mechanics]
 categories: [Year 12, Physics, Advanced Mechanics]
 date: 2020-10-29T20:19:23+11:00
-lastmod: 2020-10-29T20:19:23+11:00
+lastmod: 2020-11-06T20:22:53+11:00
 featured: false
 draft: false
 
