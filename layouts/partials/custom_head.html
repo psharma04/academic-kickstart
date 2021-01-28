@@ -18,3 +18,17 @@ var init = setTimeout(function(){
 	},1000);
 window.onload = init;
 </script>
+{{ $css_options := dict "targetPath" "css/main.css" }}
+
+{{- if (in (slice (getenv "HUGO_ENV") hugo.Environment) "production") -}}
+  {{- $css_options = merge $css_options (dict "outputStyle" "compressed") -}}
+{{- end -}}
+
+{{ $sass_template := resources.Get "scss/main.scss" }}
+{{ $style := $sass_template | resources.ExecuteAsTemplate "main_parsed.scss" . | toCSS $css_options }}
+
+{{- if (eq (getenv "HUGO_ENV") "production") -}}
+  {{- $style = $style | postCSS | minify | fingerprint "md5" -}}
+{{- end -}}
+
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
