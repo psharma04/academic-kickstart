@@ -281,9 +281,3 @@ plugins_js  = []
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   netlify_cms = true
 
-[security.csp]
-  policy = "default-src 'none'; form-action 'none'; frame-ancestors 'none';"
-  report_only = false
-  
-[security.permissions]
-  policy = ""
