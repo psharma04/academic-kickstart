@@ -3,6 +3,7 @@ title: "Mathematics General - Graphs"
 date: 2019-09-03T09:39:54+10:00
 draft: false
 discussionId: math-parabolas1
+math: true
 categories:
   - Year 10
   - Mathematics

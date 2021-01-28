@@ -13,7 +13,7 @@ address:
   country: "Australia"
 summary: "Revision for Preliminary Physics. Hosted by Juan Villagran at Cornerstone Education."
 abstract: "Revision for Preliminary Physics. Hosted by Juan Villagran at Cornerstone Education."
-
+math: true
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2020-07-10T17:30:00+10:00

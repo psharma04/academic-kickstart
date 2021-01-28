@@ -11,6 +11,7 @@ tags:
   - Review
 date: 2019-10-20 21:58:00
 hidden: true
+math: true
 ---
 ## Probability
 - Probability measures the chance of an event taking place and ranges from zero (0) for an impossible event to one (1) for a certain event.

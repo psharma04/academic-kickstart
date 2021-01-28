@@ -4,6 +4,7 @@
 title: "Mathematics Extension 1: Trigonometry"
 subtitle: ""
 summary: ""
+math: true
 authors: [Jackson Taylor]
 tags: [Year 11, Mathematics Extension 1, Pre-Calculus, Trigonometry, Inverse Trigonometric Ratios]
 categories: [Year 11, Mathematics Extension 1, Pre-Calculus]

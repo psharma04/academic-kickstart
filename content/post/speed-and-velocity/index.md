@@ -2,6 +2,7 @@
 title: "Science: Speed, Velocity and Acceleration"
 date: 2019-10-16T14:23:17+11:00
 draft: false
+math: true
 DiscussionId: speed-and-velocity-1
 categories:
   - Year 10

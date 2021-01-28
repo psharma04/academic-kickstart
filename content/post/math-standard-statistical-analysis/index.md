@@ -11,7 +11,7 @@ date: 2020-12-29T16:28:30+11:00
 lastmod: 2020-12-29T16:28:30+11:00
 featured: false
 draft: true
-
+math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -103,4 +103,3 @@ A guide to different types of charts and graphs is coming.
 - The diagram below demonstrates some scatterplots with different correlation coefficients
 
 > ![Diagram of correlation coefficients](https://cdn.jsdelivr.net/gh/psharma04/image-repo@main/uploads/pearson-2-smallRt2sXh.png)
-

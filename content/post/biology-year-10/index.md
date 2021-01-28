@@ -2,6 +2,7 @@
 title: "Science - Biology Year 10"
 date: 2019-10-19T20:17:29+10:00
 draft: false
+math: true
 discussionId: biology-year-10-1
 categories:
   - Year 10

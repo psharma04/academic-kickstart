@@ -2,6 +2,7 @@
 title: "Science: Distance and Displacement"
 date: 2019-10-15T13:56:31+11:00
 draft: false
+math: true
 DiscussionId: science-displacement-1
 categories:
   - Year 10

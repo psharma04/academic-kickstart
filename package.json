@@ -4,9 +4,10 @@
   "description": "<p align=\"center\"><a href=\"https://sourcethemes.com/academic/\" target=\"_blank\" rel=\"noopener\"><img src=\"https://sourcethemes.com/academic/img/logo_200px.png\" alt=\"Academic logo\"></a></p>",
   "main": "index.js",
   "dependencies": {
-    "netlify-cli": "^2.65.7"
+    "autoprefixer": "^10.2.3",
+    "netlify-cli": "^2.65.7",
+    "postcss-cli": "^8.3.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

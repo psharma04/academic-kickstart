@@ -2,6 +2,7 @@
 title: "Science: Chemistry Year 10"
 date: 2019-10-18T09:59:06+11:00
 draft: false
+math: true
 DiscussionId: chem-year-10-1
 categories:
   - Year 10

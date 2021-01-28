@@ -11,7 +11,7 @@ date: 2020-10-31T13:03:16+11:00
 lastmod: 2020-10-31T13:03:16+11:00
 featured: true
 draft: false
-
+math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -79,7 +79,7 @@ $\newcommand{deg}{^{\circ}}$
 
 - Entropy is the measure of disorder, or randomness, in a system
 
-  > For example, mixing a bottle of blue paint with a bottle of yellow paint will (hopefully) produce green paint. 
+  > For example, mixing a bottle of blue paint with a bottle of yellow paint will (hopefully) produce green paint.
   >
   > The blue and yellow paint had less randomness, because all the particles in each bottle were the same colour, but any particle in the green paint might be yellow or blue, and therefore the system is more random.
 
@@ -114,7 +114,7 @@ $\newcommand{deg}{^{\circ}}$
 
   > $\ce{N2 +3H2 <=> 2NH3}$
 
-  
+
 
 - In an endothermic reaction, the activation energy for the forward reaction is much greater than the activation for the reverse reaction
 - In an exothermic reaction, the activation for the reverse reaction is much greater than the activation energy for the forward reaction
@@ -160,7 +160,7 @@ $$\begin{eqnarray}\ce{C8H18 +25/2O2->8CO2 +9H2O} \\\\ \Delta H=-5114kJ/mol\end{e
 
 ##### Practice Question
 
-*Is the combustion of octane spontaneous at $100\deg C?$* 
+*Is the combustion of octane spontaneous at $100\deg C?$*
 
 {{< spoiler text="Show Solution" >}}
 
@@ -176,7 +176,7 @@ The examples for Le Châtelier's Principle will use the Haber process (nitrogen 
 
 {{% callout note %}}
 
-When a reaction shifts, it either produces more products or more reactants. 
+When a reaction shifts, it either produces more products or more reactants.
 
 A reaction which shifts to produce more *products* is considered to "shift to the right," while a reaction which shifts to produce more *reactants* is considered to "shift to the left."
 
@@ -229,4 +229,3 @@ When a reaction shifts to the right, the rate of the forward reaction has increa
 ---
 # References
 <!-- Footnotes and references go below this line -->
-

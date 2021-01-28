@@ -1,6 +1,7 @@
 ---
 title: "Physics: Waves - Topic Review"
 date: 2020-08-03T11:11:00.000Z
+math: true
 authors:
   - Pranav Sharma
 tags:

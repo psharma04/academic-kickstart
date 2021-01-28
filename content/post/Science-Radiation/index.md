@@ -4,6 +4,7 @@ date: 2020-05-08T22:18:44.761Z
 draft: "false"
 categories: Year 10, Science
 tags: Science, Year 10, Radiation
+math: true
 ---
 - As learnt in the Chemistry topic, every atom of the same element has the same number of protons (atomic number)
 - However, the number of Neutrons can be different, but it will still be the same element.

@@ -12,7 +12,7 @@ date: 2020-10-27T19:39:28+11:00
 lastmod: 2020-10-27T19:39:28+11:00
 featured: false
 draft: false
-
+math: true
 # Featured image
 
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -177,7 +177,7 @@ There's a printable version of this post [here](print_version.pdf)
 
 6. Solve equation using the Ksp
 
- 
+
 
 **Question:** *Calculate solubility of compound/concentration of ions from Ksp.*
 
@@ -191,7 +191,7 @@ There's a printable version of this post [here](print_version.pdf)
 
 4. Solve using Ksp.
 
- 
+
 
 **Question:** *Calculate molar solubility of the compound from Ksp.*
 
@@ -199,11 +199,11 @@ There's a printable version of this post [here](print_version.pdf)
 
 1. Write balanced solubility equation for the dissociation of the salt
 
-2. Determine concentration for the ions and use mole ratios to substitute as ‘s’ 
+2. Determine concentration for the ions and use mole ratios to substitute as ‘s’
 
 3. Write equilibrium expression and substitute ‘s’ into value, solve to find ‘s’
 
- 
+
 
 **Question:** *When two solutions are mixed, will a precipitate form, given Ksp of precipitate.*
 
@@ -217,11 +217,11 @@ There's a printable version of this post [here](print_version.pdf)
 
 4. Substitute new concentrations into Qsp
 
-5. Compare with Ksp to assess if precipitate forms 
+5. Compare with Ksp to assess if precipitate forms
 
- 
 
-***Question:** Give Ksp values, which compound precipitates first?* 
+
+***Question:** Give Ksp values, which compound precipitates first?*
 
 **Procedure:**
 
@@ -235,7 +235,7 @@ There's a printable version of this post [here](print_version.pdf)
 
 5. Compare values of x, lower volume precipitates first
 
- 
+
 
 **Question:** *Given Ksp and number of moles of reactants in mixture, calculate concentration of ions at equilibrium.*
 
@@ -266,9 +266,9 @@ There's a printable version of this post [here](print_version.pdf)
 2. Calculate number of moles of each reagent to find any limiting reagent
 3. If there is limiting reagent, find the new mass that is full volume of limiting reagent + volume of other reagent that reacts (calculate using c=n/v, with n as the moles of limiting reagent)
 
-4. Substitute values into equation 
+4. Substitute values into equation
 
- 
+
 
 - c (for water) = 4.18
 - m (in L if using 4.18, in mL if using 4.18 x 10^3)  q in J/mol mass is the amount that is used to react (not the full volume/mass of reagents)
@@ -288,7 +288,7 @@ There's a printable version of this post [here](print_version.pdf)
 
 ### Concentration of $\ce{H+}$ or $\ce{OH-}$ ions (Strong Acids/Bases)
 
-**Formulae:** 
+**Formulae:**
 
 - $[\ce{H+}]=10^{-pH}$
 - $[\ce{OH-}]=10^{-pOH}$
@@ -298,7 +298,7 @@ There's a printable version of this post [here](print_version.pdf)
 
 **Procedure:**
 
-1. Calculate number of moles of acid/base 
+1. Calculate number of moles of acid/base
 
 2. Calculate total volume of final solution
 
@@ -316,7 +316,7 @@ There's a printable version of this post [here](print_version.pdf)
 
 2. Calculate number of moles for both reacting solutions
 
-3. Use mole ratios to determine the excess reagent 
+3. Use mole ratios to determine the excess reagent
 
 4. Calculate the number of moles of the excess H or OH ions
 

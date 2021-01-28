@@ -1,6 +1,7 @@
 ---
 title: "Mathematics: Multiplicity and Curve Sketching"
 comments: true
+math: true
 date: 2020-02-20 21:12:56
 categories:
   - Year 11

@@ -8,10 +8,11 @@ tags:
   - Science
   - Physics
 date: 2019-11-12 11:49:52
+math: true
 ---
 ## First Law: Inertia
 
-<blockquote>An object in motion will stay in motion, and will maintain its speed and direction, unless acted on by an unbalanced force</blockquote>
+> An object in motion will stay in motion, and will maintain its speed and direction, unless acted on by an unbalanced force
 
 - The principle of INERTIA is that all objects have a tendency to resist change in motion.
 - An object with all forces balanced out will not change speed or direction until another force is applied to it.

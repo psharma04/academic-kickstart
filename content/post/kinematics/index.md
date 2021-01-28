@@ -3,6 +3,7 @@ title: "Physics Module 1: Kinematics"
 draft: false
 DiscussionId: physics-prelim-kinematics-1
 date: 2020-05-30T02:14:58.693Z
+math: true
 authors:
   - Pranav Sharma
 tags:

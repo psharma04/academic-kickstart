@@ -3,6 +3,7 @@ higlight_style: solarized-dark
 title: "Physics Module 2: Dynamics"
 subtitle: Module 2 for Preliminary Physics
 date: 2020-07-11T11:36:21.010Z
+math: true
 authors:
   - Jackson Taylor
   - Pranav Sharma

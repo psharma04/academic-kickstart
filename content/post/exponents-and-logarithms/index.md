@@ -5,6 +5,7 @@ date: 2020-07-25T10:46:23+10:00
 summary: Exponents and Logarithms for 2U and 3U Mathematics.
 draft: false
 featured: false
+math: true
 authors:
   - Jackson Taylor
   - Pranav Sharma

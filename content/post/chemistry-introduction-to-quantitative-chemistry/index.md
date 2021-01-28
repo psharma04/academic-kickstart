@@ -2,6 +2,7 @@
 title: "Chemistry: Introduction to Quantitative Chemistry"
 author: Pranav Sharma, Jackson Taylor
 date: 2020-06-03T07:24:22.217Z
+math: true
 authors:
   - Pranav Sharma
   - Jackson Taylor
@@ -10,6 +11,7 @@ tags:
 categories:
   - Year 11
 ---
+
 
 {{% toc %}}
 <hr>

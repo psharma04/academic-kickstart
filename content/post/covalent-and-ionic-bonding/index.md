@@ -1,6 +1,7 @@
 ---
 title: "Covalent and Ionic Bonding"
 comments: true
+math: true
 date: 2020-02-21 10:30:58
 categories:
   - Year 11

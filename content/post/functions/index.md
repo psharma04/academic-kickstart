@@ -3,6 +3,7 @@ title: "Mathematics: Functions"
 date: 2019-09-24T19:45:52+10:00
 draft: false
 DiscussionId: functions-1
+math: true
 categories:
   - Year 10
   - Mathematics

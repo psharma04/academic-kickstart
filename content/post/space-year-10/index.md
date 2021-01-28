@@ -9,10 +9,11 @@ tags:
   - Space
   - Review
 date: 2019-10-25 12:26:00
+math: true
 ---
 <details>
 <summary> Definitions </summary>
-  
+
 - Absolute magnitude: the brightness of an object when viewed from a fixed distance
   - Used to eliminate the brightness differences caused by distance
 - Relative brightness: brightness when viewed from earth
@@ -41,6 +42,3 @@ date: 2019-10-25 12:26:00
 	- 1 Light Year = about 9.5 trillion km
 - Further distances can also be measured in PARSECS
 	- 1 parsec = 3.26 Light Years = 31 trillion km
-
-
-

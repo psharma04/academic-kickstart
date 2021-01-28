@@ -3,6 +3,7 @@ title: "Science - Genetics"
 date: 2019-08-01T20:17:29+10:00
 draft: false
 discussionId: genetics1
+math: true
 categories:
   - Year 10
   - Science
