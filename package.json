@@ -1,5 +1,5 @@
 {
-  "name": "academic-kickstart",
+  "name": "schoolnotes-xyz",
   "version": "1.0.0",
   "description": "<p align=\"center\"><a href=\"https://sourcethemes.com/academic/\" target=\"_blank\" rel=\"noopener\"><img src=\"https://sourcethemes.com/academic/img/logo_200px.png\" alt=\"Academic logo\"></a></p>",
   "main": "index.js",
@@ -16,10 +16,13 @@
     "type": "git",
     "url": "git+https://github.com/psharma04/academic-kickstart.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Pranav Sharma",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/psharma04/academic-kickstart/issues"
   },
-  "homepage": "https://github.com/psharma04/academic-kickstart#readme"
+  "homepage": "https://github.com/psharma04/academic-kickstart#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
