@@ -44,7 +44,7 @@ image:
 
   > $e\approx 2.718281828459045235360...$ (it's irrational, like $\pi$)
 
-{{% alert note %}}
+{{% callout note %}}
   > To understand $e$, imagine a bank that pays 100% interest over 1 year.
 
   * In 1 year, <span>$</span>1 becomes <span>$</span>2.
@@ -60,7 +60,7 @@ image:
 * As you can see, even though the number of payments is increasing rapidly, the final amount is approaching the value of $e$.
 * This is because the formula for $e$ is $\displaystyle e=\lim_{n\rightarrow\infty} (1+\frac{1}{n})^n$, which is very similar to the compound interest formula.
 * Therefore, $e$ is defined as the rate of continous compounding interest.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Properties of $e$
 

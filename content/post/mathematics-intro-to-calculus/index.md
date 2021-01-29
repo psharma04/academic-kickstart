@@ -107,10 +107,10 @@ categories:
 8) $\ddx{}((f(x))^n )= n(f\prime (x))^{n-1}$
 9) $\ddx{y}=\frac{dy}{du}\cdot\ddx{u}$
 10) $\ddx{}af(x)=a(f\prime (x))$
-{{% alert note %}}
+{{% callout note %}}
 \\(\ddx{} \Leftarrow\Rightarrow\\) differentiate with respect to $x$
 \\(\ddx{y} \Leftarrow\Rightarrow\ddx{}(y)\Leftarrow\Rightarrow y\prime\Leftarrow\Rightarrow\\) differentiate $y$ with respect to $x$
-{{% /alert %}}
+{{% /callout %}}
 ## Graphing Derivatives
 | \\(f(x)\\) | \\(\ddx{}(f(x))\\) |
 |-|-|

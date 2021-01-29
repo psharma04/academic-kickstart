@@ -24,17 +24,17 @@ image:
 {{% toc %}}
 
 <!-- Start Content below this line -->
-{{% alert warning %}}
+{{% callout warning %}}
 SPOILERS!!! (duh)
-{{% /alert %}}
+{{% /callout %}}
 ## Plot Summary
-{{% alert note %}}
+{{% callout note %}}
 Cat's Eye is the story of a girl, Elaine, whose life is scarred by the cruel treatment she recieves at the hands of her friends.
 
 The story follows the girl from childhood into middle age, tracing the effects of her early traumas on her adult life.
 
 The story shifts back and forth in time to tell Elaine's story, intercutting the girl's childhood with scenes from her later life.
-{{% /alert %}}
+{{% /callout %}}
 #### Early Life
 - As a young child, Elaine lives in relative isolation with her parents and brother (Stephen) in Canada
   - Her father works in entomology, the study of insects

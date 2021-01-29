@@ -36,7 +36,7 @@ projects: []
 ## Sum-Difference Identities
 ### Cosine
 > $\cos(A\pm B)=\cos (A)\cos (B)\mp\sin (A)\sin (B)$
-{{% alert info %}}
+{{% callout info %}}
 If you aren't familiar with $\mp,$ it works like this:
 1. If the $\pm$ is a plus, then the $\mp$ is a minus
 2. If the $\pm$ is a minus, then the $\mp$ is a plus
@@ -46,7 +46,7 @@ So the cosine rule can be broken into 2 parts:
   > $\text{and}$
   >
   > $\cos(A-B)=\cos (A)\cos (B)+\sin (A)\sin (B)$
-{{% /alert %}}
+{{% /callout %}}
 $\newcommand{\nl}[0]{}$
 #### Proof for cosine sum-difference identity
 - Consider 2 points ($P$ and $Q$) on the unit circle:
@@ -63,10 +63,10 @@ $$\text{Mathematically: }\triangle AOB\cong\triangle POQ,\therefore PQ=AB$$
 
 ![The promised diagram](https://cdn.schoolnotes.xyz/images/jpeg/cosine-sum-difference-proof-1.jpeg)
 
-{{% alert info %}}
+{{% callout info %}}
 If you don't remember the Cartesian distance formula, here it is:
 > $d=\sqrt{(x_2-x_1)^2 +(y_2-y_1)^2}$
-{{% /alert %}}
+{{% /callout %}}
 
 - Now, we can find the distance from $P$ to $Q$ using the Cartesian distance formula:
 $$d_{PQ}= \sqrt{{(cos \alpha - cos \beta )}^2+{(sin \alpha - sin \beta )}^2}$$
@@ -170,14 +170,14 @@ Inverse trigonometric functions are notated in one of 2 ways:
   - $sec^{-1}(x)$
   - $cosec^{-1}(x)/csc^{-1}(x)$
   - $cot^{-1}(x)$
-{{% alert info %}}
+{{% callout info %}}
 The value of the inverse of an inverse trigonometric function is the original value.
 
 For example:
 > $sin(sin^{-1}(x))=x$
 
 This is true for all inverse trigonometric functions.
-{{% /alert %}}
+{{% /callout %}}
 ### $y=\sin^{-1}(x)$
 <iframe src="https://www.desmos.com/calculator/n4chy27lun?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe>
 

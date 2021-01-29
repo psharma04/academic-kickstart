@@ -151,18 +151,18 @@ $F_\text{by Earth on brick}$
 
   * 1 Joule is the amount of energy required to lift a 1kg mass to a height of 0.1m (10cm)
   * Joules are also sometimes expressed as $Nm,$ or Newton-Meters. The reason for this is explained [here](#quantifying-work).
-{{% alert note %}}
+{{% callout note %}}
 SI Equivalents:
 $1J=1\frac{kg\cdot m^2}{s^2}=1N\cdot m=1Pa\cdot m^3=1W\cdot s=1C\cdot V$
-{{% /alert %}}
+{{% /callout %}}
 * There are 2 main categories of energy: kinetic and potential
   ![Tree diagram of the types of energy](https://cdn.schoolnotes.xyz/images/svg/energy-tree-diagram.svg)
 * Kinetic energy is primarily associated with motion, but also includes less visible forms of energy, such as heat and sound
 * Potential energy is the energy of an object based on its position in a field
   * Examples of potential energy include gravitational, magnetic, and elastic potential energy
-{{% alert note %}}
+{{% callout note %}}
 In the formula $E=mc^2 ,$  $E$ refers to nuclear potential energy
-{{% /alert %}}
+{{% /callout %}}
 
 ## Work
 
@@ -199,7 +199,7 @@ In the formula $E=mc^2 ,$  $E$ refers to nuclear potential energy
 * In a situation where the net friction force and net work force are balanced, Newton's first law dictates that the object will maintain a constant velocity
 
 ### Force without Work
-{{% alert note %}}
+{{% callout note %}}
 * According to the definition of work, an object must move to say that work has been done
 * Therefore, if a force is applied to an object but the object does not move, then no work has been done
 * This can be proven mathematically:
@@ -211,7 +211,7 @@ In the formula $E=mc^2 ,$  $E$ refers to nuclear potential energy
   > $W=\vec{F}_{net}\cdot 0$
   >
   > $=0,\text{ }\therefore\text{No work has been done.}$
-{{% /alert %}}
+{{% /callout %}}
 
 ### Work and Displacement at an Angle
 
@@ -261,11 +261,11 @@ The work energy theorem can be used as a definition for change in kinetic energy
 * Gravity is represented in equations by $\Delta U$ for some reason, so the final equation is
 
   > $\Delta U=m\vec{g}\Delta\vec{h}$
-  > {{% alert note %}}
+  > {{% callout note %}}
   > GPE is a form of energy, and is therefore SCALAR. This means direction doesn't actually matter in the equations, even though most of the equation is made of vectors.
 
   \- {{% mention jackson-taylor %}}
-  {{% /alert %}}
+  {{% /callout %}}
 
 #### Elastic Potential Energy
 
@@ -288,11 +288,11 @@ The work energy theorem can be used as a definition for change in kinetic energy
 * This can be expressed mathematically as:
 
   > $E_m =K+U=\frac{1}{2}m\vec{v}^2 +m\vec{g} \vec{h}+\frac{1}{2}kx^2$
-  > {{% alert note %}}
+  > {{% callout note %}}
   > Most of the time, the $\frac{1}{2}kx^2$ part of the Mechanical Energy equation (elastic potential energy) is ignored.
 
   \- {{% mention jackson-taylor %}}
-  {{% /alert %}}
+  {{% /callout %}}
 * The mechanical energy formula is useful for converting between kinetic and potential energies
 
   * For example, consider a ball of mass 60g, which falls from a height of 1m.

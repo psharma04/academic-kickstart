@@ -32,10 +32,10 @@ projects: []
 
 <!-- Start Content below this line -->
 
-{{% alert warning %}}
+{{% callout warning %}}
 SPOILERS!!! (duh)
-{{% /alert %}}
-{{% alert note %}}
+{{% /callout %}}
+{{% callout note %}}
  Shakespeare's a big fan of dysfunctional family environments, whether it's:
 - Uncle stabbing Oedipus complexes.
 - Star-crossed renditions of West side story.
@@ -50,7 +50,7 @@ KING LEAR!
 A terrible father and an even worst judge of character, he takes home the gold regarding awful family members.
 
 With this in mind, I present to you the Tragedy of King Lear.
-{{% /alert %}}
+{{% /callout %}}
 ## Plot
 - The story begins with the first of our many dysfunctional family environments, the House of Gloucester.
 - Gloucester introduces Kent, a loyal retainer of King Lear to his illegitimate son, Edmund.

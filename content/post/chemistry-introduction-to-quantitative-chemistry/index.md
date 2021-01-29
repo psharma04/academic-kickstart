@@ -99,9 +99,9 @@ The solubility rules are used to determine which compound is the precipitate.
 ## Conservation of Mass
 - Chemical reactions ALWAYS obey the Law of Conservation of Mass:
 > Matter cannot be created or destroyed, it can only be changed from one form to another.
-{{% alert warning %}}
+{{% callout warning %}}
 Module 1 included a section on Nuclear Reactions, where atoms changed into different elements. This NEVER occurs in a chemical reaction!!!
-{{% /alert %}}
+{{% /callout %}}
 ## The Mole Concept
 - Chemical formulae simply state the ratio between reactants and products
 - For example, \\(2HCl + Mg\rightarrow H_2 +MgCl_2\\) simply means that for every 2 molecules of $HCl$, there is 1 atom of Magnesium, which produces 1 molecule of Hydrogen gas and 1 molecule of $MgCl_2$ (Magnesium Chloride)
@@ -120,10 +120,10 @@ Module 1 included a section on Nuclear Reactions, where atoms changed into diffe
 > The number of Carbon atoms in 12 grams of pure Carbon-12
 - This number is known as Avogadro's Constant, and is represented as \\(N_A\\)
 - This is equal to about \\(6.02214076\times 10^{23}\\) particles
-{{% alert note %}}
+{{% callout note %}}
 Note: Particles, not atoms.
 These particles can be anything: atoms, molecules, electrons, bricks, etc.
-{{% /alert %}}
+{{% /callout %}}
 - 1 Mole is a LOT. For some perspective, [Here's what would happen if you had 1 mole (the unit) of moles (the animal)](https://what-if.xkcd.com/4/)
 - On the periodic table, the atomic weight represents the number of grams per mole of a pure element
   - For example, on the periodic table, Hydrogen has an atomic mass of $1.008g/mol$
@@ -140,9 +140,9 @@ These particles can be anything: atoms, molecules, electrons, bricks, etc.
 > \\(\color{lightgreen}{N: \text{Number of particles (No unit)}}\\)
 >
 > \\(\color{lightgreen}{N_A : \text{Avogadro's Constant}(6.022\times 10^{23} mol^{-1})}\\)
-{{% alert note %}}NOTE: A molecule's mass is determined by adding up the atomic masses of its composite elements
+{{% callout note %}}NOTE: A molecule's mass is determined by adding up the atomic masses of its composite elements
   - For example, $H_2 O$ would have a mass of $H+H+O=1.008+1.008+16=18.016g/mol$
-{{% /alert %}}
+{{% /callout %}}
 ##### Example Question 1
 > $\color{cyan}{\text{Calculate the number of moles in 100g of Methane}}$
 1) Identify the chemical formula of the substance
@@ -230,7 +230,7 @@ $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
 > \\(\therefore m=2.016\cdot1=2.016g\\)
 5) Answer the question
 > \\(\text{2.016 grams of Hydrogen gas are formed}\\)
-{{% alert note %}}
+{{% callout note %}}
 #### Limiting Reagents
 - In a chemical equation, a mole ratio is given, which tells you the ideal reaction
   - For example, \\(2NaI+Pb(NO_3 )_2 \rightarrow PbI_2 + 2NaNO_3\\)
@@ -240,7 +240,7 @@ $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
   - In this case, after the reaction, there will be some Lead Iodide left over
   - The \\(NaI\\) is in "short supply", so its mole quantity determines the maximum yield of products which can be formed
   - In this case, \\(NaI\\) is called a _Limiting Reagent_, because its mole quantity "limits" the amount of product that can be formed
-{{% /alert %}}
+{{% /callout %}}
 # The Gas Laws
 ## Gay-Lussac's Law of Combining Volumes
 > "When measured at constant temperature and pressure, the volumes of gases in a chemical reaction show simple, whole number ratios to each other"
@@ -254,7 +254,7 @@ $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
   - If equal volumes of gases contain equal numbers of particles (Avogadro's Hypothesis)
   - Then logically, 1 mole of any gas (at the same temperature and pressure) should have the same volume
 - This volume is 24.79L at SLC $ (25^\circ , 100kPa) $, or 22.71L at STP $(0^\circ , 100kPa)$
-{{% alert success %}}
+{{% callout success %}}
 At other temperatures and pressures, the volume can be calculated using the Ideal Gas Law:
 > $ \color{red}{P}\color{purple}{V}\color{black}{=}\color{blue}{n}\color{green}{R}\color{orange}{T} $
 > - $\color{red}\text{P=Pressure (kPa)}$
@@ -262,7 +262,7 @@ At other temperatures and pressures, the volume can be calculated using the Idea
 > - $\color{blue}\text{n=number of Moles (mol)}$
 > - $\color{orange}\text{T=Temperature (K)}$
 > - $\color{green}\text{R=Ideal Gas Constant }(N_A \cdot k_B = 8.3145J/K/mol)$
-{{% /alert %}}
+{{% /callout %}}
 ## Boyle's Law
 - Boyle's law describes the relationship between volume and pressure:
 > If pressure is increased, volume is decreased (as long as temperature is constant) and vice versa

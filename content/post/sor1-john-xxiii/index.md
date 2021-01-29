@@ -39,7 +39,7 @@ image:
 
 ### External: Efforts During the Holocaust
 
-{{% alert info %}}
+{{% callout info %}}
 
 > Roncalli made various efforts during the Holocaust in World War II to save refugees, mostly Jewish people, from the Nazis. Among his efforts were:
 >
@@ -55,7 +55,7 @@ image:
 > * Jews held at the Sereď concentration camp who were spared from being deported to German death camps as a result of his intervention.
 > * Hungarian Jews who saved themselves through their conversions to Christianity through the baptismal certificates sent by Nuncio Roncalli to the Hungarian Nuncio, Monsignor Angelo Rota.
 
-[Source: Wikipedia](https://en.wikipedia.org/wiki/Pope_John_XXIII#Efforts_during_the_Holocaust) {{< icon name="external-link-alt" pack="fas" >}} {{% /alert %}}
+[Source: Wikipedia](https://en.wikipedia.org/wiki/Pope_John_XXIII#Efforts_during_the_Holocaust) {{< icon name="external-link-alt" pack="fas" >}} {{% /callout %}}
 
 ## Vatican II
 

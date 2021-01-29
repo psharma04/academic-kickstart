@@ -31,9 +31,9 @@ projects: []
 {{% toc %}}
 
 <!-- Start Content below this line -->
-{{% alert warning %}}
+{{% callout warning %}}
 Spoilers!!! (duh)
-{{% /alert %}}
+{{% /callout %}}
 According to many[^1] reputable[^2] sources[^3], stories and narratives in the English language always follow one (or some combination) of several "basic plots"
 > The exact number is disputed.
 

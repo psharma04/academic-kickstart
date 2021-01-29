@@ -44,19 +44,19 @@ projects: []
 
 
 
-{{% alert warning %}}
+{{% callout warning %}}
 
 This post has a lot of math! If some of the formulae look weird or unreadable, give it a second to render. If it's still got \$ all over the place after a few seconds, try disabling your adblock and refreshing the page.
 
-{{% /alert %}}
+{{% /callout %}}
 
 
 
-{{% alert note %}}
+{{% callout note %}}
 
 There's a printable version of this post [here](print_version.pdf)
 
-{{% /alert %}}
+{{% /callout %}}
 
 ### Gibbs Free Energy
 

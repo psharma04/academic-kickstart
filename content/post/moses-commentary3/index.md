@@ -61,7 +61,7 @@ Simple version: Any Jew who has studied both Jewish and Aristotlean theology, an
 ### Book 2
 - Book 2 is where Maimonides specifically targets Aristotlean philosophy
   - He rephrases some of the statements in the Torah in order to reconcile them with both Jewish beliefs and Aristotlean philosophy
-{{% alert note %}}
+{{% callout note %}}
 For example, the first line of the Torah is *"In the beginning, G-d created the heavens and the Earth."* (Genesis 1:1)
 - However, this conflicts with the Jewish principle that G-d has no physical form
 - As well as this, it conflicts with Aristotle's idea of unchanging "Heavenly Spheres", with the earth at the center of creation
@@ -71,7 +71,7 @@ As a result, Maimonides amended the line to:
 
 This is quite a bit longer, but fits both Aristotle's and Judaism's models of G-d and the universe.
   > Which, in case you've been ignoring me, is kind of the entire point of this book :confused:.
-{{% /alert %}}
+{{% /callout %}}
 - In this book, he also discusses the validity of prophecies (which is about half of the Tanakh)
   - Maimonides states that the prophecies were not meant literally, and that an "imaginative faculty" is required to understand them.
   - For example: *"In the speech of Isaiah, … it very frequently occurs … that when he speaks of the fall of a dynasty or the destruction of a great religious community, he uses such expressions as: the stars have fallen, the heavens were rolled up, the sun was blackened, the earth was devastated and quaked, and many similar figurative expressions"* [^3]

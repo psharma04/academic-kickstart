@@ -32,7 +32,7 @@ projects: []
 ---
 <!-- Start content below this line. If you need help, go to https://schoolnotes.xyz/docs/posts/ -->
 
-{{% alert note %}}
+{{% callout note %}}
 - Hi guys! I'm Jesse, and I was First in State for Advanced and Extension 2 English, and Third in State for Extension 1 English in 2019.
 - This is my cheat sheet and study guide (kind of?) for HSC English, which (apparently) I was quite good at.
 - These strategies will allow you to unfairly dominate your cohort and crush your HSC English Exams while enjoying your senior years in high school.
@@ -43,7 +43,7 @@ I'll be making more posts (mostly essay writing guides and stuff like that) over
 If you have any questions, leave a comment at the bottom of the page, and I'll get back to you as soon as I can.
 
 &nbsp; \- {{% mention "Jesse Caminer" %}}
-{{% /alert %}}
+{{% /callout %}}
 
 ## General
 1. You shouldn’t memorise as an easy way out of having to think, but rather so that you have a basic essay structure, an array of quotes and a malleable thesis, which can then be tailored with specificity to any given question.

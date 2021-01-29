@@ -15,15 +15,15 @@ image:
   preview_only: false
 ---
 
-{{% alert warning %}}
+{{% callout warning %}}
 ## WARNING:
 - ### If you have medical conditions such as asthma or any sort of respiratory disease, you might want to keep your inhaler/medication on hand.
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert info %}}
+{{% callout info %}}
 ## NOTE:
 - ### CS spray and tear gas are the same thing. CS spray is just the technical shorthand (full name is 2-chlorobenzalmalononitrile)
-{{% /alert %}}
+{{% /callout %}}
 
 ### 1) Get away from the gas.
 ### 2) Eyes: Rinse with clean water for at least 15 minutes. Remove contacts and DO NOT REUSE, wash glasses with soap and water
