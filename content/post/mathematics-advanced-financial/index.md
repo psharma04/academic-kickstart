@@ -34,16 +34,16 @@ NOTE: This guide assumes that you fully understand the principles of the prelimi
 {{</callout>}}
 
 ## Simple and Compound Interest
-- Simple interest $(I)$ is calculated with $I=PRn$, an [Arithmetic Progression](/post/mathematics-advanced-sequences-and-series/#arithmetic-sequences)
+- Simple interest $(I)$ is calculated with $\color{orange}I=PRn$, an [Arithmetic Progression](/post/mathematics-advanced-sequences-and-series/#arithmetic-sequences)
   - $P$ is the principal (initial) sum,
   - $R$ is the rate of interest per unit of time
   - $n$ is the number of time intervals which have passed
   - If the question asks for the total amount, add $P$ to $I$ at the end
-- Compound interest is found by $A_{n}=P(1+R)^{n},$, a [Geometric Progression](/post/mathematics-advanced-sequences-and-series/#arithmetic-sequences)
+- Compound interest is found by $\color{orange}A_{n}=P(1+R)^{n}$, a [Geometric Progression](/post/mathematics-advanced-sequences-and-series/#arithmetic-sequences)
   - $A_n$ is the amount of interest after $n$ units of time
   - To find the interest (without the initial amount), subtract $P$ from $A_n$
 - Depreciation is a form of compound in terest, where the value decreases over time
-- Depreciation is expressed as $A_{n}=P(1-R)^{n}$ (also a [Geometric Progression](/post/mathematics-advanced-sequences-and-series/#arithmetic-sequences))
+- Depreciation is expressed as $\color{orange}A_{n}=P(1-R)^{n}$ (also a [Geometric Progression](/post/mathematics-advanced-sequences-and-series/#arithmetic-sequences))
   - $R$ is the rate of depreciation per unit time
   - To find the interest (without the initial amount), subtract $P$ from $A_n$
 ## Annuities
@@ -61,12 +61,14 @@ $$S_{(20\times 12)}=\frac{1.005(1.005^{240})-1}{1.005-1}=464.3511$$
 {{</spoiler>}}
 
 ## Present and Future Values
-- The Future value (FV) is the total value of an investment at the end of its term, including all interest
-- The Present value (PV) is the single lump of money that could be initially invested to yield a given future value over a given period
-- Both present and future values are  calculated using the compound interest formula
+- The Future value $(FV)$ is the total value of an investment at the end of its term, including all interest
+- The Present value $(PV)$ is the single lump of money that could be initially invested to yield a given future value over a given period
+- Present values are calculated using the compound interest formula
+- Future value is calculated using a variant of the compound interest formula:
+$$\color{orange}FV=PV(1+r)^{n}$$
 ## Loan Repayments
 - Loans are usually repaid through regular installments, with compound interest charged on the balance owed
-- $A_n = \text{principle + interest - installments + interest}$
+- $\color{orange}A_n = \text{principle + interest - installments + interest}$
   - The loan is paid off when $A_{n}=0$
 
 #### Practice Question
