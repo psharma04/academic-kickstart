@@ -10,7 +10,7 @@ categories: [Year 12, Mathematics Advanced, Financial Mathematics]
 date: 2021-01-29T13:58:54+11:00
 lastmod: 2021-01-29T13:58:54+11:00
 featured: false
-draft: true
+draft: false
 math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -68,4 +68,27 @@ $$S_{(20\times 12)}=\frac{1.005(1.005^{240})-1}{1.005-1}=464.3511$$
 - Loans are usually repaid through regular installments, with compound interest charged on the balance owed
 - $A_n = \text{principle + interest - installments + interest}$
   - The loan is paid off when $A_{n}=0$
-# MARKED AS DRAFT DO NOT PUBLISH
+
+#### Practice Question
+Michael takes out \$10000 to buy a car. He will repay the loan in 5 years, paying 60 equal monthly instalments, beginning 1 month after he takes out the loan. Interest is 6% p.a. compounded monthly. How much is the monthly installment?
+
+{{<spoiler text="Toggle Answer">}}
+**Method 1:**
+
+Let $M$ be the monthly installment:
+- $A_{1}=10000(1.005)-M$
+- $A_{2}=(10000(1.005)-M)(1.005)-M$
+- $\therefore A_{2}=10000(1.005)^{2}-1.005M-M$
+- $A_{60}=0=10000(1.005)^{60}-M(1+1.005+...+1.005^{59})$
+
+GP inside the brackets is $\frac{10000(1.005^{60})}{\frac{1.005^{60}-1}{0.005}}=\\$193.33$
+
+**Method 2 (Speed Hack):**
+- $A_{n}=10000(1.005)^{n}-M(1+1.005+...+1.005^{n-1})$
+- $10000(1.005)^{60}=M(1+1.005+...+1.005^{59})$
+
+GP inside brackets is $S_{60}=\frac{1.005^{60}-1}{0.005}=69.77$
+
+- $\therefore M=\frac{10000(1.005)^{60}}{69.77}$
+- $=\\$193.33 $
+{{</spoiler>}}
