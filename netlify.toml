@@ -57,13 +57,3 @@
 
 [security.permissions]
   policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
-
-[[plugins]]
-  package = "netlify-plugin-hashfiles"
-  [plugins.inputs]
-  # An array of glob patterns for pages on your site. Recursive traversal will start from these
-    entryPoints = [
-      "*.html"
-    ]
-    # Directory where content-addressable files are moved and immutable cache-headers are set
-    staticDir = "/public/"
