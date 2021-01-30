@@ -6,7 +6,7 @@ subtitle: "Notes on equilibrium and acid reactions (Chemistry Module 5)"
 summary: "Notes on equilibrium and acid reactions (Chemistry Module 5)"
 authors: [Pranav Sharma, Jackson Taylor]
 tags: [Year 12, Chemistry, Equilbrium and Acid Reactions, Module 5, Equilibrium, Acids and Bases]
-categories: [Year 12, Chemistry, Equilbrium and Acid Reactions, Module 5, Equilibrium, Acids and Bases]
+categories: [Year 12, Chemistry, Equilbrium and Acid Reactions]
 date: 2021-01-30T03:03:16+11:00
 lastmod: 2020-01-30T13:03:16+11:00
 featured: true
