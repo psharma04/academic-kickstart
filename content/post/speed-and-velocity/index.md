@@ -16,7 +16,7 @@ tags:
 - Velocity: displacement per unit of time (m/s)
 - Average Speed is SCALAR, while velocity is a VECTOR
 ## Distance-Speed-Time Triangles
-![Image of a DST Triangle](https://csec-cdn.intranet.pw/schoolnotes.intranet.pw/distance_speed_time_triangle.png)
+![Image of a DST Triangle](https:///csec-cdn/schoolnotes.intranet.pw/distance_speed_time_triangle.png)
 - Usage:
   - Average Speed \\(=\\) Distance \\(\div\\) Time
   - Distance \\(=\\) Average Speed \\(\times\\) Time
@@ -26,5 +26,5 @@ tags:
 - Acceleration is measured in \\(m/s^2\\) (metres per second squared)
 - Acceleration can be found by dividing the applied force by the mass of the object
   - \\(a = F/m\\)
-![Image of an Acceleration Triangle](https://csec-cdn.intranet.pw/schoolnotes.intranet.pw/acceleration_triangle.png)
+![Image of an Acceleration Triangle](https:///csec-cdn/schoolnotes.intranet.pw/acceleration_triangle.png)
 - Acceleration is a VECTOR quantity.

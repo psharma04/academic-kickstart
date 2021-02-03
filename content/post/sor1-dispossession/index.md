@@ -22,7 +22,7 @@ tags:
  *  Imposed Chrisitianity and European culture/lifestyle
  *  Objected to most aspects of Aboriginal spirituality
 
-![Flowchart of the effects of dispossession](https://csec-cdn.intranet.pw/schoolnotes.intranet.pw/flowchart-dispossession.png)
+![Flowchart of the effects of dispossession](https:///csec-cdn/schoolnotes.intranet.pw/flowchart-dispossession.png)
 ## Separation from Kinship Groups
 * Destroyed kinship and the identity of Aboriginal communities
 * Wiped out thousands of years of stories and culture, which is irretrievable without those kinship ties

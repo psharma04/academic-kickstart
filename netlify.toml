@@ -37,9 +37,16 @@
   to = "https://arc.io/arc-sw.js"
   status = 200
 
+[[redirects]]
+  from = "/image-cdn/*"
+  to = "https://img-cdn.schoolnotes.xyz/uploads/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
   [[redirects]]
-    from = "/image-cdn/*"
-    to = "https://img-cdn.schoolnotes.xyz/uploads/:splat"
+    from = "/csec-cdn/*"
+    to = "https:///csec-cdn.intranet.pw/:splat"
     status = 200
     force = true
     headers = {X-From = "Netlify"}
