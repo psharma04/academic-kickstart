@@ -63,7 +63,7 @@ Some questions will ask you to graph inequalities. In these cases, you may need 
 - To dilate a graph horizontally by a factor of $a$, replace $x$ with $\frac{x}{a}$.
 > $\color{orange}{y=f(x)\to y=f(\frac{x}{a})}$
 - **Enlargements** are when $k=a\neq1$
-- Note that reflections are dilations with a factor $\lt 0$.
+- Note that reflections are dilations with a factor $a\lt 0$.
 ## Commutable Transformations
 - Commutable transformations are transformations which can occur in any order
 - Not all transformations are commutable:
