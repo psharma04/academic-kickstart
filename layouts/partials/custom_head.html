@@ -8,20 +8,7 @@
 <link rel="dns-prefetch" href="//img-cdn.schoolnotes.xyz">
 
 <!-- Page scroll save progress -->
-<script type="javascript">
-$(window).scroll(function () {
-//set scroll position in session storage
-if ($(window).scrollTop() > 500)
-	sessionStorage.scrollPos = $(window).scrollTop();
-});
-var init = setTimeout(function(){
-//return scroll position in session storage
-	 if (sessionStorage.scrollPos > 500){
-		$("html").animate({ scrollTop: sessionStorage.scrollPos },2000);
-		}
-	},1000);
-window.onload = init;
-</script>
+<script type="javascript" src="/pagescroll.js" defer></script>
 {{ $css_options := dict "targetPath" "css/main.css" }}
 
 {{- if (in (slice (getenv "HUGO_ENV") hugo.Environment) "production") -}}
@@ -36,3 +23,7 @@ window.onload = init;
 {{- end -}}
 
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "0a7f161942c74ccc868ca0c6375dcc8c"}'></script>
+<!-- End Cloudflare Web Analytics -->
