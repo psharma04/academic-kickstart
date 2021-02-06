@@ -399,3 +399,690 @@ $$\ce{CO2(g) +2NaOH(aq) ->Na2CO3(aq) +H2O(l)}$$
 
 A **basic oxide** is one that reacts with **water** to form an **alkaline solution** or reacts with **acids** to form **basic salts**. Metals from the LHS of the periodic table tend to form basic oxides. These elements have **low electronegativity**, so metal oxides are **ionic**.
 
+## pH Scale
+
+### PH AND $H^+$ CONNECTION 
+
+![Image result for ph scale
+log](/image-cdn/mod6-img/media/image10.jpg)
+
+-   pH 7 is neutral at 25℃ (Concentration of hydroxide and hydronium ions are equal)
+
+The pH (potential of hydrogen) scale is **logarithmic** (base 10), not linear. **Significant figures** for logs are those **after the decimal point**.
+
+$$pH=-\log_{10}[\ce{H+}]$$
+
+### PH OF STRONG AND WEAK ACIDS 
+
+pH can deduce the **relative strength** and **concentration** of
+different acidic solutions.
+
+-   ↑ Acid strength → ↑ Degree of ionisation → ↑ \[$H^+$] → ↓ pH
+
+-   ↑ \[Acid\] → ↑ \[$H^+$] → ↓ pH
+
+-   Acid strength and concentration both affect the pH of a solution.
+
+For a **monoprotic strong acid**, the concentration of $\ce{H+}$ is the same
+as the **concentration of the acid** $(𝐻𝑋 → 𝐻^+ + 𝑋^−)$ For **weak
+acids**, the concentration of $H^+$ will depend on its strength and
+**concentration** of the acid solution.
+
+> $𝐻𝐴 ⇌ 𝐻^+ + 𝐴^−$Where $ K_a = \frac{[\ce{H+}][\ce{A-}]}{HA}$
+
+### POH OF STRONG AND WEAK BASES 
+
+**pOH** is a measure of **$OH^-$ concentration** that is similar to pH.
+
+-   $p$$𝑂𝐻 = − log_{10}[𝑂𝐻^−]$
+
+
+**Strong bases** are Group 1 and 2 hydroxides. The concentration of
+hydroxide ions depends on the **number of hydroxide ions** in the
+formula.
+
+For **weak bases**, the concentration of $OH^-$ will depend on its
+strength and the concentration of the base solution.
+
+### AUTOIONISATION OF WATER 
+
+The concentration of **$\ce{H+}$** and **$\ce{OH-}$** in any aqueous solution are
+**directly related**. This is because water is a **very weak acid**
+which forms the following **exothermic** equilibrium reaction.
+
+- The equilibrium constant for this equilibrium is called the
+  **ionisation constant for water**.
+
+$$\begin{gather*}\color{orange}{K_w=\ce{[H3O+][OH-]}} \\\\ \color{orange}{=1.0\times10^{-14}} \\\\ \color{orange}{pK_{w}=pH+pOH =14} \\\\ \color{orange}{pH=14+\log_{10}[\ce{OH-}]}\end{gather*}$$
+
+### $pK_{a}$ AND $pK_{b}$ 
+
+Since$K_{a}$ values are usually very small, **$pK_{a}$ values** are often
+cited instead:
+
+> $p$$K_{a}$ = − $\log_{10}$ $K_{a}$
+>
+> $K_{a}$ = 10−$p$$K_{a}$
+
+↑ Strong acid → ↑$K_{a}$ → ↓$pK_{a}$
+
+
+
+### PH MEASUREMENTS 
+
+#### PH PROBE 
+
+A **pH probe** or **pH meter** can be used to measure pH.
+
+-   Advantages: Precision, non-destructive
+
+-   Disadvantages: Initial costs, requires calibration before use
+
+PH OF MIXED SOLUTIONS 
+---------------------
+
+### DILUTION CALCULATIONS 
+
+The **total moles of solute** in a concentrated solution and the diluted
+solution are **the same**.
+
+- $c_{1}\cdot v_{1}=c_{2}\cdot v_{2}$
+
+#### Practice Question
+
+Calculate pH when 1.0 mL of 1.0M HCl is diluted to 1.25L.
+
+{{< spoiler text="Toggle Solution" >}}
+
+> $c_{1}\cdot v_{1}=c_{2}\cdot v_{2}$
+>
+> $c_{2}$ =  = 0.0008 𝑚𝑜𝑙/𝐿
+>
+> [𝐻𝐶𝑙] = $\ce{[H+]}$= 0.0008 𝑀
+>
+> $pH$ = −log$\ce{[H+]}$= − log(0.0008) = 3.10 (2 sig. figures)
+
+{{< /spoiler >}}
+
+
+
+BUFFERS 
+-------
+
+**HOW DO BUFFERS WORK?**
+
+A buffer solution is a solution that can **resist pH change** when small
+amounts of an acid or base are added. In order for it to work, it must
+be able to **compensate** for the addition of either of an acid or base,
+otherwise the pH will change significantly.
+
+Buffers are commonly made by mixing a **weak acid** and its **conjugate
+base** (or vice versa) typically in **equimolar** amounts of each.
+
+-   For example, a buffer solution containing $\ce{CH3COOH}$ and $\ce{CH3COO-}$
+    (in the form of 𝑁𝑎𝐶𝐻~3~𝐶𝑂𝑂) - The mixture exists in **equilibrium**,
+    so all of the species in the equation are present.
+
+> $\ce{CH3COOH(aq)+H2O(l)<=>CH3COO-(aq) +H3O+(aq)}$
+
+When a small amount of **acid** is added, the concentration of $\ce{H3O+}$
+increases.
+
+-   When HCl is added to the buffer solution, ↑ $\ce{H3O+}$ which is a
+    disturbance
+
+-   It will shift to minimise the disturbance by shifting to the LHS and
+    forming the products.
+
+-   Role of conjugate base is to **react with excess $\ce{H3O+}$.** It
+    'absorbs' the additional $\ce{H3O+}$
+
+When a small amount of **base** is added, the situation is slightly more
+complicated.
+
+-   There are two acids that could react with the base $\ce{CH3COOH}$ and
+    $\ce{H3O+}$
+
+-   Because the concentration of $\ce{H3O+}$ is far lower than the
+    concentration of $\ce{CH3COOH}$, the majority of $\ce{OH-}$ will react with
+    $\ce{CH3COOH}$**,** producing **water** and $\ce{CH3COO-}$
+
+-   Thus the concentration of $\ce{H3O+}$**does not change significantly**,
+    and the pH stays **relatively constant**.
+
+It can also be explained when $\ce{H3O+}$ and $\ce{OH-}$ react, causing
+equilibrium to shift to right to minimise the disturbance
+
+> $\ce{H3O+(aq) +OH-(aq)<=>2H2O(l)}$
+
+### BUFFER CAPACITY
+
+The **effectiveness** of a buffer is known as **buffer capacity**.
+
+-   It is defined as the moles of $\ce{H3O+}$ or $\ce{OH-}$ necessary to
+    **change the pH** of the buffer solution by **one unit**
+
+-   Buffer capacity depends on both the **pH** of the buffer and the
+    **total concentration** of the weak acid and conjugate base (or vice
+    versa)
+
+A buffer is most effective when the **amounts of weak acid** and
+**conjugate base** present are **similar** (equimolar).
+
+-   When pH = $pK_{a}$, the concentrations of weak acid and conjugate base
+    are equal.
+
+-   Therefore, a buffer solution is most effective when the **pH is
+    within 1 unit of its $pK_{a}$.**
+
+-   When the pH is too high, there is not enough acid to react with the
+    added $\ce{OH-}$. When the pH is too low, there is not enough conjugate
+    base to react with any $\ce{H3O+}$.
+
+![Image result for buffer solution effectiveness
+graph](/image-cdn/mod6-img/media/image19.jpg)
+
+TITRATION CALCULATIONS 
+----------------------
+
+### DIRECT TITRATION CALCULATIONS 
+
+The steps for a titration calculation are:
+
+1)  Write a balanced chemical equation for the reaction
+
+2)  Calculate the number of moles of Reactant A (of known concentration)
+    in the volume used
+
+3)  Using the number of moles of A and the mole ratio in the equation,
+    calculate the number of moles of Reactant B (unknown concentration)
+    used. 4) Calculate the concentration of reactant B.
+
+For **neutralisation** reactions, the **strength of the acid is
+irrelevant** as the base is stronger than water. All of the protons in a
+**polyprotic** acid will be irreversibly removed by the base.
+
+### DILUTION -- TITRATION CALCULATIONS 
+
+When analysing a substance, the concentration may be too high for a
+direct titration experiment tom be efficiently carried out. Instead, the
+substance would be **diluted** by a known amount, and then the diluted
+solution would be **titrated**.
+
+
+
+### BACK TITRATION CALCULATIONS 
+
+A back titration, or indirect titration, is a **two-stage** analysis:
+
+-   Reactant A (of unknown concentration) is reacted with **an excess**
+    of Reactant B (of known concentration and volume).
+
+-   A titration is the performed on the excess Reactant B by determining
+    the moles of Reactant C required to neutralise the excess.
+
+Summary:
+
+1. Sample is reacted with known excess of reagent. (e.g. known amount
+   of a particular acid) 
+
+2. Leftover excess is added
+
+3. Excess is titrated to find moles of reagent reacted with solution.
+
+Back titrations are generally used when:
+
+-   One of the reactants is **volatile** (e.g. ammonia)
+
+-   An acid or base is an **insoluble salt** (e.g. calcium carbonate)
+
+-   Direct titration would involve **weak acid/weak base** titration
+    (making it difficult to determine the equivalence point).
+
+
+
+TITRATION 
+---------
+
+### TITRATION TERMINOLOGY 
+
+Term Definition
+
+> Titration - Volumetric analytical technique used for determining the
+> concentration of a solution, when the concentration of the other
+> reacting solution is known and volumes of the 2 solutions are
+> accurately measured.
+>
+> Aliquot - An accurately known volume of liquid. In titration this
+> usually refers to the liquid transferred via **pipette** into the
+> **conical flask**.
+>
+> Analyte A - substance being analysed. This is usually a solution of
+> **unknown concentration**.
+>
+> Back Titration - A two-stage analysis in which an excess of reactant is
+> added to the analyte, then the excess is determined to calculate the
+> concentration of the analyte.
+>
+> Burette - A graduated piece of glassware which dispenses measured amounts
+> of the solution (the titrant).
+>
+> Endpoint - The point in titration when the indicator permanently changes
+> colour.
+>
+> Equimolar - Same concentration.
+>
+> Equivalence Point - The point in a neutralisation reaction when the
+> amounts of reactants are just sufficient to consume both reactants,
+> without an excess of either. (i.e. in stoichiometric ratio)
+>
+> Pipette - A piece of glassware used to transfer a very accurately measured
+> volume of solution.
+>
+> Primary standard - A substance of
+> sufficiently high purity and stability that a solution of accurately
+> known concentration can be prepared by weighing out the desired mass,
+> dissolving in water and making the volume up to a known value.
+>
+> Titrand - The solution to which another reagent (titrant) is added
+> during titration (usually in the conical flask)
+>
+> Titrant - The solution that is added during a titration (usually from a
+> burette)
+>
+> Titre - The volume of titrant used in a titration
+>
+> Volumetric flask - A piece of glassware which can hold a set volume of
+> solution very accurately
+
+#### TYPES OF ANALYSIS 
+
+-   Qualitative analysis: Involves **observations only**
+-   Quantitative analysis: Involves **measurements** (mass, volume etc.)
+-   Volumetric analysis: involves measurements of **volume**
+-   Gravimetric analysis: involves measurements of **mass/weight**
+
+### GENERAL TITRATION PROCEDURE 
+
+In a titration experiment, the **number of moles** of a target material
+(the **analyte**) is determined. This can then be used to calculate the
+**concentration**.
+
+A measured volume of the solution of unknown concentration, the
+**analyte**, is usually placed in a conical flask (**titrand**) with a
+**burette** containing the **titrant** above it.
+
+> ![Image result for titration
+> diagram](/image-cdn/mod6-img/media/image23.jpg)
+
+A **burette** is a piece of volumetric glassware. It is a long tube with
+a tap at one end so measured volumes of titrant can be accurately added
+to the titrand.
+
+Before the experiment begins, an **indicator** will normally also be
+added to the conical flask to determine the approximate equivalence
+point.
+
+To perform the experiment the titrant is slowly added and stepwise to
+the conical flask, with swirling, until the indicator undergoes a
+**permanent colour change** (the **end point**).
+
+Acid-base titrations are the most common titrations:
+
+-   An acid and a base are reacted in a neutralisation reaction during
+    the titration.
+
+-   A suitable **acid-base indicator** is added to show when the
+    reaction is just complete. However, indicators change colour over a
+    range of pH, making it difficult to **accurately determine the
+    equivalence point**. - For greater **accuracy**, a **pH meter** can
+    be used.
+
+The **pH changes rapidly** towards the end point of the titration and it
+is easy to add too much titrant. The titrant must be added very
+carefully, in **small volumes** close to the end to successfully
+determine the exact amount required for complete reaction.
+
+### DETAILED TITRATION PROCEDURE 
+
+For titrating HCl against NaOH. HCl is placed into the conical flask and
+NaOH in the burette.
+
+#### PREPARING THE TITRAND (IN THE CONICAL FLASK) 
+
+-   Rinse the inside of the pipette with a small with a small amount of
+    HCl solution 3 times.
+
+-   Use a pipette filler to fill the pipette with HCl until the bottom
+    of the meniscus rests on the calibration line.
+
+-   Hold the pipette so that its tip is resting against the inside of a
+    clean conical flask. Let the solution run out.
+
+-   Once the liquid level has stabilised, leave the pipette tip touching
+    the flask for a few seconds before removing. (The pipette is
+    calibrated to deliver the correct volume when a small amount of
+    liquid remains in the tip -- do not shake it into the flask).
+
+-   Use a wash bottle containing distilled water to wash any solution
+    that might be on the inside wall to the bottom of the conical flask.
+
+#### PREPARING THE TITRANT (IN THE BURETTE) 
+
+-   Rinse the inside of the burette with a small amount of NaOH solution
+    3 times, including through the tap.
+
+-   Clamp the burette vertically
+
+-   Pour NaOH solution into the burette
+
+#### TITRATION 
+
+-   Add a few drops of indicator into the conical flask and swirl
+    gently.
+
+-   Record the initial burette reading
+
+-   Place the conical flask under the burette
+
+-   Add NaOH to the conical flask until a permanent colour change occurs
+
+-   Record the final burette reading
+
+-   Repeat the experiment 3 times with fresh aliquots of HCl.
+
+### WASHING 
+
+Burette and pipette: Used to deliver the solutions used in the
+titration. Final rinsing with **the solution** **to be delivered**.
+
+Conical flask: Used to hold the aliquot or titrand. Final rinsing with
+**distilled water**.
+
+The washing procedure affects the accuracy of the calculated
+concentration.
+
+### TITRATION TECHNIQUE 
+
+#### RINSING 
+
+It is important to **rinse** each piece of **glassware** with the
+**appropriate solution** after cleaning with distilled water and
+immediately prior to use.
+
+The solution that is to be transferred using a **pipette** is of
+accurately known concentration, or its concentration is to be accurately
+determined. If droplets of distilled water are present in the pipette,
+it will dilute the reagent being delivered.
+
+-   Rinse **burette** and **pipette** with solutions
+
+-   Rinse **conical flask** and **volumetric flask** with distilled
+    water
+
+#### VOLUMETRIC ERRORS 
+
+All glassware in titration is calibrated to be accurate when
+measurements are taken at the **bottom of the meniscus**.
+
+Any **air bubbles** in the liquid must be removed for volumes to be
+accurate.
+
+The pipettes used in titration are calibrated to **deliver the specified
+volume** of solution with no additional force.
+
+-   They are marked TD (to deliver) or EX (to expel)
+
+-   This means that there should be a **small volume of liquid left in
+    the tip** of the pipette after the aliquot has been accurately
+    transferred. This should not be shaken out into the conical flask.
+
+Accessing accuracy -- How close you are to the accepted value:
+
+$$\color{orange}{\text{% deviation}=\frac{\text{|experimental value - accepted value|}}{\text{accepted value}}}$$
+
+### STANDARD SOLUTION 
+
+A standard solution is a solution containing a precisely known
+concentration of a substance. They can be categorised as **primary** or
+**secondary**.
+
+A **primary standard** is produced when a substance of high purity
+dissolved in a known volume of solvent.
+
+1)  Accurately **weigh** out a mass of solid close to the required mass
+    in a beaker. Record the actual mass weighed.
+
+2)  Add enough distilled water to dissolve the solid.
+
+3)  Carefully transfer all the weighed mass to a clean volumetric flask
+    of the approximate size, using a wash bottle and funnel. All the
+    equipment that came into contact with weighed mass should be
+    **rinsed** into the flask.
+
+4)  Add distilled water until the **bottom of the meniscus is resting on
+    the line** on the neck of the flask. Add the last few drops with a
+    dropper.
+
+5)  Stopper the flask. Firmly holding the stopper in place, **invert**
+    several times to ensure the solution is **homogeneous**.
+
+6)  Label the flask with the exact concentration, solution, date and
+    name.
+
+A substance suitable for preparing a **primary standard solution**
+should have the following features:
+
+-   High purity
+
+-   Unaffected by exposure to air
+
+-   Non-hygroscopic (does not absorb water from air)
+
+-   Have a large molecular mass to reduce percentage errors
+
+-   Be a solid for easier weighing
+
+-   Cheap and readily available
+
+-   Have a high water solubility
+
+A **secondary standard** is produced when its concentration is
+determined via stoichiometry. 
+
+- The process of producing a secondary
+standard is called **standardisation.**
+
+### EQUIVALENCE POINT 
+
+The **equivalence point** of a titration is the point at which the
+amount moles of acid and bases added **match the stoichiometric ratio**.
+
+-   It is the point at which reaction is complete, with **no excess
+    reactant**
+
+-   The **pH** of the solution at the equivalence point determines the
+    **appropriate indicator** to be used.
+
+#### PH OF THE EQUIVALENCE POINT 
+
+As the pH of water is neutral, the pH of the equivalence point will
+depend entirely on the **salt** produced: whether it is acidic, basic or
+neutral.
+
+If an **acidic or basic salt** is produced by the neutralisation
+reaction in a titration experiment, the equivalence point will not be
+neutral.
+
+-   Neutral salts are formed when **strong acids** react with **strong
+    bases**.
+
+-   Acidic salts are formed when **strong acids** react with **weak
+    bases**. - Basic salts are formed when **weak acids** react with
+    **strong bases**.
+
+Note: When **strong acids** react with **metal carbonates** (weak
+bases), the neutral salt is formed, but the resulting solution is still
+**acidic**. This is because the carbon dioxide dissolves in water to
+produce an acidic solution.
+
+### INDICATOR SELECTION 
+
+Indicators can be used to find the approximate equivalence point of a
+titration.
+
+-   The **equivalence point** is when exactly **enough moles** of
+    **titrant** have been added to react with all the **titrand**.
+
+-   The **end point** is when the indicator first undergoes a
+    **permanent colour change.**
+
+-   An indicator should be selected so that the **end point** is as
+    **close as possible** to the equivalence point. (Systematic error.
+    Will impact validity and accuracy)
+
+    | Indicator        | Color at Low pH | Color at high pH | Color Change pH Range |
+    | ---------------- | --------------- | ---------------- | --------------------- |
+    | Methyl Orange    | Red             | Yellow           | 3.1-4.4               |
+    | Bromothymol Blue | Yellow          | Blue             | 6.0-7.6               |
+    | Phenolphthalein  | Colorless       | Pink             | 8.3-10.0              |
+    | Methyl Red       | Red             | Yellow           | 4.8-6.0               |
+    | Litmus           | Red             | Blue             | 4.5-8.3               |
+    | Phenol Red       | Yellow          | Red              | 6.8-8.4               |
+
+#### BROMOTHYMOL BLUE 
+
+> ![Image result for bromothymol blue
+> range](/image-cdn/mod6-img/media/image24.png)
+
+![Image result for phenolphthalein pH colour test tube Related
+image](/image-cdn/mod6-img/media/image25.png)
+
+Explain why 0.20 M acetic acid and 0.20 M hydrochloric acid require the
+same volume of sodium hydroxide solution to reach equivalence point, but
+the pH values at their equivalence points are different.
+
+> 𝐶𝐻3𝐶𝑂𝑂𝐻(𝑎𝑞) + 𝑁𝑎𝑂𝐻(𝑎𝑞) → 𝐶𝐻3𝐶𝑂𝑂𝑁𝑎(𝑎𝑞) + 𝐻2𝑂(𝑙)
+>
+> 𝐻𝐶𝑙(𝑎𝑞) + 𝑁𝑎𝑂𝐻(𝑎𝑞) → 𝑁𝑎𝐶𝑙(𝑎𝑞) + 𝐻2𝑂(𝑙)
+>
+> 𝐶𝐻3𝐶𝑂𝑂(−𝑎𝑞) + 𝐻2𝑂(𝑙) ⇌ 𝐶𝐻3𝐶𝑂𝑂𝐻(𝑎𝑞) + 𝑂𝐻(−𝑎𝑞)
+
+Both acetic acid and hydrochloric acid are monoprotic acids that reacts
+to completion when reacted with a strong base. As the concentration are
+the same, the same amount is needed to neutralise the strong base, NaOH.
+$\ce{CH3COO-}$ is the conjugate base of a weak acid and will react with
+water to produce a basic solution. Therefore, resulting in a pH \> 7.
+$\ce{Cl-}$ is the conjugate base of a strong acid and will not react hence
+the solution remains pH = 7.
+
+APPLICATION OF TITRATION 
+------------------------
+
+The equivalence point is located at the **most vertical point** (point
+of inflection). All three common indicators for titration are suitable
+for determining the equivalence point for a strong acid-strong base.
+This is because there is a large rapid change in pH near the equivalence
+point so all of the indicator would change colour when the same volume
+of based is added, therefore it is not critical which indicator is used.
+
+### CONDUCTIVITY GRAPHS 
+
+During a titration, the conductivity of the solution changes. The
+equivalence point may be located by plotting the conductance as a
+function of the volume of titrant added.
+
+The electrical conductivity of a solution depends on:
+
+-   The **concentration** ions present
+-   The **mobility** of the ions present:
+    - More mobile ions, the more
+      conductive it is  $\ce{H+}$ and $\ce{OH-}$ are highly mobile
+    - $\ce{H+}$ ions are more conductive than $\ce{OH-}$ ions
+
+Conductometric titrations are useful for titrations of coloured
+solutions, analysis of dilute solutions, and when reversible reactions
+are used (e.g. weak acid-weak base titration).
+
+General rule:
+
+-   Strong → Linear
+
+-   Weak → Curved
+
+![](/image-cdn/mod6-img/media/image30.png){width="7.1033333333333335in"
+height="4.183333333333334in"}
+
+### WEAK ACID + STRONG BASE 
+
+![](mod6-img/media/image31.png)
+
+1)  Conductivity is initially low as acetic acid is a **weak acid** and
+    only **partially ionises in water**.
+
+2)  \[Not shown on the graph\] As the base is initially added,
+    conductivity decreases 
+
+-  $\ce{H+}$ is replaced by $\ce{Na+}$ which is less conductive 
+- The presence of the newly formed acetate ions also decreases the ionisation of acetic acid due to the common ion effect.
+
+> - 𝐶𝐻3𝐶𝑂𝑂𝐻(𝑎𝑞) + 𝑁𝑎𝑂𝐻(𝑎𝑞) → 𝐶𝐻3𝐶𝑂𝑂𝑁𝑎(𝑎𝑞) ⇌ 𝐶𝐻3𝐶𝑂𝑂(−𝑎𝑞) + 𝑁𝑎(+𝑎𝑞)
+>
+> - The initial production of the $\ce{CH3COO-}$ ions results in the
+>   suppression of the $\ce{CH3COOH}$ ionisation due to the common ion effect.
+
+3)  Conductivity then increases are more $\ce{Na+}$ and $\ce{CH3COO-}$ are
+    produced. 
+
+- There is a **minimal change** in pH due to the buffer region. The mixture of $\ce{CH3COO-}$/$\ce{CH3COOH}$
+
+4)  Reaches the equivalence point
+
+5)  Conductivity **increases more rapidly** as $\ce{Na+}$ and highly
+    conducting $\ce{OH-}$ are added. (Excess strong base)
+
+Initially, the conductance is low due to the low ionisation of the weak
+acid. On the addition of the strong base, there is a decrease in
+conductance due to the replacement of the $\ce{H+}$ by $\ce{Na+}$ but also
+supresses the dissociation of the acetic acid due to the common ion
+acetate.
+
+The conductance increases on adding $\ce{NaOH}$ as it neutralises the
+undissociated $\ce{CH3COOH}$ to $\ce{NaCH3COO}$ which is a strong electrolyte.
+Conductivity increases due to the highly conductive $\ce{OH-}$ ions.
+
+### STRONG ACID + WEAK BASE 
+
+![](https://schoolnotes.xyz/image-cdn/uploads/C8tKWR2021-C8tKWR.png)
+
+> $\ce{NH4+(aq) +H2O(l)<=> NH3(aq) +H3O+(aq)}$
+
+Before the equivalence point, conductivity **decreases** like in the
+strong acid-strong base graph.
+
+After the equivalence point, the graph is **almost horizontal** as the
+excess weak base is not significantly ionised due to the presence of its
+conjugate acid.
+
+Initially, the conductance is high due to the strong acid. The
+conductance decreases due to the replacement of $\ce{H+}$. After the
+equivalence point has been reached in the graph becomes almost
+horizontal, since the excess weak base
+
+(aqueous ammonia) is not easily ionised in the presence of the salt.
+
+### WEAK ACID + WEAK BASE 
+
+
+
+1)  $\ce{CH3COOH}$ is a weak acid and therefore only partially ionises.
+
+2)  \[$\ce{H+}$\] gets used up. $\ce{CH3COO-}$ gets produced which suppresses the
+    ionisation of $\ce{CH3COOH}$.
+
+3)  Production of more ions
+
+4)  Equivalence point
+
+5)  Excess NH~3~ is suppressed due to the common ion effect
+
