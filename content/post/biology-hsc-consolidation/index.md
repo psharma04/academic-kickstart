@@ -4,7 +4,7 @@
 title: "Biology HSC Consolidation"
 subtitle: "All HSC Content for Biology"
 summary: "All HSC Content for Biology"
-authors: [Jackson Taylor]
+authors: [Jackson Taylor, Pranav Sharma]
 tags: [Year 12, Biology, HSC, Consolidation]
 categories: [Year 12, Biology, HSC Consolidation]
 date: 2020-11-02T20:27:30+11:00
