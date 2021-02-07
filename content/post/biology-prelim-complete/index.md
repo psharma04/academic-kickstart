@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Biology Preliminary Consolidation"
-subtitle: "Complete biology prelim course."
-summary: "Complete biology prelim course."
+subtitle: "Complete Biology preliminary course."
+summary: "Complete Biology preliminary course."
 authors: [Pranav Sharma, Jackson Taylor]
 tags: [Year 11, Biology, Consolidation, Cells, Cells as a Basis of Life, Module 1, Module 2, Module 3, Module 4, Endosymbiosis, Organelles, Fluid Mosaic Model, Cell Function, Cellular Respiration, Organisation of Living Things, Biological Diversity, Effect on the Environment, Ecosystem, Ecosystems, Ecosystem Dynamics]
 categories: [Year 11, Biology, Consolidation]

@@ -30,26 +30,35 @@
   to = "https://schoolnotes.xyz"
   status = 200
   force = true
-  headers = {X-From = "Netlify"}
+  headers = {X-From = "CSECWebServer"}
 
 [[redirects]]
   from = "/arc-sw.js"
   to = "https://arc.io/arc-sw.js"
   status = 200
+  force = true
+  headers = {X-From = "CSECWebServer"}
 
 [[redirects]]
   from = "/image-cdn/*"
   to = "https://img-cdn.schoolnotes.xyz/uploads/:splat"
   status = 200
+  force = false
+  headers = {X-From = "CSECWebServer"}
+
+  [[redirects]]
+  from = "/uploads/*"
+  to = "https://img-cdn.schoolnotes.xyz/uploads/:splat"
+  status = 200
   force = true
-  headers = {X-From = "Netlify"}
+  headers = {X-From = "CSECWebServer"}
 
   [[redirects]]
     from = "/csec-cdn/*"
     to = "https:///csec-cdn.intranet.pw/:splat"
     status = 200
     force = true
-    headers = {X-From = "Netlify"}
+    headers = {X-From = "CSECWebServer"}
 
 [security]
 [security.csp]
@@ -71,3 +80,4 @@
 
 [security.permissions]
   policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
+  
