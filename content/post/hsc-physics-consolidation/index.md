@@ -10,7 +10,7 @@ categories: [Year 12, Physics, Consolidation]
 date: 2021-02-07T13:09:15+11:00
 lastmod: 2021-02-07T13:09:15+11:00
 featured: false
-draft: true
+draft: false
 math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -768,12 +768,7 @@ A transformer consists of two solenoids placed near each other (conventionally, 
 
 The primary coil is the input coil and the secondary coil is the output coil.
 
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image10.png "image_tooltip")
+![image-20210207175346269](https://schoolnotes.xyz//uploads/abuMg72021-abuMg7.png)
 
 
 
@@ -796,41 +791,45 @@ A step-down transformer is used to decrease voltage AC is used instead of DC in 
 
 **Relationship between primary and secondary coils is given by:**
 
-V<sub>s</sub>/V<sub>p</sub> = N<sub>s</sub>/N<sub>p </sub>where V<sub>p</sub> is voltage of primary coil/input voltage (V), V<sub>s</sub> is voltage of secondary coil/output voltage (V), N<sub>p</sub> is number of turns on primary coil, N<sub>s</sub> is number turns on secondary coil.
+$\orange{V_s/V_p = N_s/N_p}$
 
-P<sub>in </sub>= I<sub>p</sub>V<sub>p</sub>=I<sub>s</sub>V<sub>s</sub>=P<sub>out</sub> thus, I<sub>p</sub>/I<sub>s</sub> = N<sub>s</sub>/N<sub>p</sub> = V<sub>s</sub>/V<sub>p</sub>
+Where V<sub>p</sub> is voltage of primary coil/input voltage (V), V<sub>s</sub> is voltage of secondary coil/output voltage (V), N<sub>p</sub> is number of turns on primary coil, N<sub>s</sub> is number turns on secondary coil.
 
-If N<sub>p</sub>> N<sub>s</sub> then V<sub>p</sub> > V<sub>s</sub> thus, step-down
-
-If N<sub>p </sub>&lt; N<sub>s</sub> then V<sub>p</sub> &lt; V<sub>s</sub> thus, step-up
+- P<sub>in </sub>= I<sub>p</sub>V<sub>p</sub>=I<sub>s</sub>V<sub>s</sub>=P<sub>out</sub> thus, I<sub>p</sub>/I<sub>s</sub> = N<sub>s</sub>/N<sub>p</sub> = V<sub>s</sub>/V<sub>p</sub>
+- If N<sub>p</sub>> N<sub>s</sub> then V<sub>p</sub> > V<sub>s</sub> thus, step-down
+- If N<sub>p </sub>&lt; N<sub>s</sub> then V<sub>p</sub> &lt; V<sub>s</sub> thus, step-up
 
 
 ## Real Transformers
 
-Ideal transformers make 2 assumptions. One being that the flux linkage is perfect so that the flux going through the first coil is exactly the same as the flux going through the second coil. The second being that the transformer is 100% efficient and no energy is lost.
+- Ideal transformers make 2 assumptions. 
+- One being that the flux linkage is perfect so that the flux going through the first coil is exactly the same as the flux going through the second coil. 
+- The second being that the transformer is 100% efficient and no energy is lost.
 
-In reality, flux linkage is never perfect and there will always be ‘stray field’. This stray field can induce eddy currents in nearby materials causing heating and vibration leading to a loss of energy as heat or sound. Energy is also lost through the heating of transformer coils and core due to the resistance of wires or eddy currents within the ferromagnetic core. Energy is also lost in the core due to change in direction of the magnetic field (hysteresis) and the process of de and re-magnetisation which causes a loss of energy through heating of the core.
+- In reality, flux linkage is never perfect and there will always be ‘stray field’. 
+- This stray field can induce eddy currents in nearby materials causing heating and vibration leading to a loss of energy as heat or sound. 
+- Energy is also lost through the heating of transformer coils and core due to the resistance of wires or eddy currents within the ferromagnetic core. 
+- Energy is also lost in the core due to change in direction of the magnetic field (hysteresis) and the process of de and re-magnetisation which causes a loss of energy through heating of the core.
 
 To improve transformer’s efficiency, you can:
-
-
 
 *   Use a ferromagnetic core, reduce distance between coils and reduce air gaps to reduce flux leakage
 *   Use low resistance wire and cooling processes to reduce energy lost as heat
 *   Laminate the ferromagnetic core to minimise eddy currents
 *   Use ‘soft’ metal core to reduce energy lost due to Hysteresis
 
-**Real Life Applications:**
+### **Real Life Applications:**
 
-Step-up transformers are used at power stations to increase the voltage to reduce power loss during transmission due to resistance.
+- Step-up transformers are used at power stations to increase the voltage to reduce power loss during transmission due to resistance.
+- Step-down transformers are used in electricity substations to reduce the voltage for consumer use.
 
-Step-down transformers are used in electricity substations to reduce the voltage for consumer use.
-
-**Power Loss During Transmission**
+### **Power Loss During Transmission**
 
 Power is lost in transmission lines due to heating, usually due to resistance. Power loss is given by:
 
-P<sub>Loss</sub> = I<sup>2</sup>R = I∆V = ∆V<sup>2</sup>/R where P is power loss (W), I is current (A), R is resistance (Ω), V is voltage (V)
+> $\orange{P_{Loss} = I^{2}R = I\Delta V = \frac{\Delta V^{2}}{R}}$ 
+
+Where P is power loss (W), I is current (A), R is resistance $(\Omega)$, V is voltage (V)
 
 # Module 5 Advanced Mechanics
 

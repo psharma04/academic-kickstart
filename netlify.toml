@@ -28,9 +28,31 @@
 [[redirects]]
   from = "https://schoolnotes.intranet.pw"
   to = "https://schoolnotes.xyz"
-  status = 200
+  status = 301
   force = true
   headers = {X-From = "CSECWebServer"}
+
+[[redirects]]
+  from = "https://schoolnotes.intranet.pw/*"
+  to = "https://schoolnotes.xyz/:splat"
+  status = 301
+  force = true
+  headers = {X-From = "CSECWebServer"}
+
+[[redirects]]
+  from = "http://schoolnotes.intranet.pw"
+  to = "https://schoolnotes.xyz"
+  status = 301
+  force = true
+  headers = {X-From = "CSECWebServer"}
+
+[[redirects]]
+  from = "http://schoolnotes.intranet.pw/*"
+  to = "https://schoolnotes.xyz/:splat"
+  status = 301
+  force = true
+  headers = {X-From = "CSECWebServer"}
+  
 
 [[redirects]]
   from = "/arc-sw.js"
