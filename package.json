@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "autoprefixer": "^10.2.3",
-    "netlify-cli": "^2.65.7",
+    "netlify-cli": "^2.71.0",
     "postcss": "^8.2.4",
     "postcss-cli": "^8.3.1"
   },
