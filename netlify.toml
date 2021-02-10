@@ -59,7 +59,7 @@
   status = 301
   force = true
   headers = {X-From = "NitricAcidWebServer"}
-  
+
 
 [[redirects]]
   from = "/arc-sw.js"
@@ -89,6 +89,13 @@
     force = true
     headers = {X-From = "DeuteriumWebServer"}
 
+    [[redirects]]
+      from = "/random-projects/*"
+      to = "https://psharma04.github.io/random-projects/:splat"
+      status = 200
+      force = true
+      headers = {X-From = "HydroniumWebServer"}
+
 [security]
 [security.csp]
   policy = '''
@@ -109,4 +116,3 @@
 
 [security.permissions]
   policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
-  
