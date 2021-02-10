@@ -2497,3 +2497,9 @@ influence evolutionary change?**
 ○ Management of salinity and erosion are high priorities
 
 ○ Biological controls are being used to maintain pests
+
+
+
+---
+
+# [Now for the HSC course](https://schoolnotes.xyz/post/biology-hsc-consolidation/)

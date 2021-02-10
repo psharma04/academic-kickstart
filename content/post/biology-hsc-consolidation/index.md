@@ -30,6 +30,14 @@ projects: []
 
 {{% toc %}}
 
+---
+
+{{< callout info >}}
+
+[Need to revise the preliminary course? Find it here.](/post/biology-prelim-complete/)
+
+{{< /callout >}}
+
 ## Module 5: Hereditary
 
 **Asexual reproduction:** Requires only one parent. Parent cell replicates and divides to create genetically identical offspring.
