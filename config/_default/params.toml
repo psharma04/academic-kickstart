@@ -204,6 +204,10 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 
+
+# Breadcrumb navigation
+[breadcrumb]
+  page_types = {book = true}
 ############################
 ## Comments
 ############################
@@ -232,11 +236,14 @@ plugins_js  = []
 ############################
 [search]
   # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
-
+  #   "": No search engine
+  #   "wowchemy": Built-in search engine
+  #   "algolia": Algolia (https://www.algolia.com)
+  provider = "wowchemy"
+  
+  [search.wowchemy]
+    min_length = 3  # Only the matches whose length exceeds this value will be returned.
+    threshold = 0.3  # Where 0 requires a perfect match and 1 matches anything. 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]
@@ -279,11 +286,12 @@ plugins_js  = []
 ## Content Management System
 ############################
 [cms]
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = false
-
+  branch = "master"
+  local_backend = false
+  
 ############################
 ## Icon Pack Extensions
 ############################
 [icon.pack]
   ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  

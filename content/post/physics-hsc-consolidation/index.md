@@ -38,21 +38,18 @@ projects: []
 
 # Module 5 Advanced Mechanics
 
-
-## _IQ: How can models that are used to explain projectile motion be used to analyse and make predictions?_
+##### IQ: How can models that are used to explain projectile motion be used to analyse and make predictions?
 
 
 ## Projectile Motion
 
 A projectile is an object that cannot move by itself, moving freely under the force of gravity.
 
-
-
 *   There is no other force other than gravitational force acting on the object
 *   Net force of the projectile is gravitational force (mg), weight
 *   Objects experience:
     *   Vertically downward force of 9.81 N/kg
-    *   Vertically downward acceleration of 9.81 ms<sup>-2</sup>
+    *   Vertically downward acceleration of 9.81 m/s<sup>2</sup>
 
 The projectile moves in a parabolic arc as the vertical gravitational force causes it to deviate from its otherwise linear path.
 
@@ -62,26 +59,26 @@ Force is always downwards, but direction of motion varies.
 
 Whether an object is projected or just dropped, it will still fall at the same rate
 
-Assumptions of our model:
+{{< callout note >}} 
 
-
+**Assumptions of our model**
 
 *   Constant vertical acceleration due to gravity
 *   Curvature of Earth ignored
 *   No air resistance
 
-**Analysing Projectile Motion**
+{{< /callout >}}
+
+### Analysing Projectile Motion
 
  Projectile motion is 2D motion. To analyse:
-
-
 
 1. Break up motion into vertical and horizontal components
 2. The two components are completely independent of each other thus, they can be treated separately
 3. There is no acceleration in the horizontal direction as gravity only acts vertically
 4. Find vertical and horizontal components
-    *   Y components: usinθ, vsinθ, a = 9.81ms<sup>-2</sup>, vertical height
-    *   X components: ucosθ, vcosθ, a = 0, range
+    *   Y components: $u\sinθ$,$ v\sinθ$, a = 9.81ms<sup>-2</sup>, vertical height
+    *   X components: $u\cosθ$, $v\cosθ$, a = 0, range
 5. Find time, as time is the same for both components
 
 <table>
@@ -111,27 +108,19 @@ Assumptions of our model:
    </td>
   </tr>
 </table>
-
-
-**Special cases:**
-
-
+### Special cases
 
 *   If the projectile launches and lands at the same height, the initial and final angle is the same magnitude – only one is an angle of elevation and the other an angle of depression.
 *   If there is no angle of launch, velocity in the y direction is zero while velocity in the x direction is the same as initial velocity
 
-**Types of Questions**
+### Types of Questions
 
-No initial vertical velocity component/half-flight/no angle
-
-
+#### No initial vertical velocity component/half-flight/no angle given
 
 *   Initial velocity = horizontal velocity = constant
 *   Vertical velocity is initially zero but increases as object falls (v<sub>y</sub> = u<sub>y</sub> + at)
 
-No initial vertical displacement
-
-
+#### No initial vertical displacement given
 
 *   Initial horizontal velocity =ucosθ = constant
 *   Initial vertical velocity = usinθ
@@ -140,26 +129,20 @@ No initial vertical displacement
 *   Launch angle = landing angle
 *   Angle of projection for max. range = 45<sup>o</sup>
 
-Projectile fired at an angle above ground
-
-
+#### Projectile fired at an angle above ground
 
 *   Initial horizontal velocity =ucosθ = constant
 *   Initial vertical velocity = usinθ
 *   Vertical velocity at max. height = 0
 *   Angle of projection for max. range = 45<sup>o</sup>
 
-Half flight projectile motion:
-
-
+#### Half flight projectile motion
 
 *   Downward acceleration = gravity
 *   Vertical velocity increases constantly
 *   Horizontal velocity is a constant
 
-Find:
-
-
+#### Find the...
 
 *   time of flight (half-flight and full-flight)
     *   Influenced by:
@@ -181,27 +164,17 @@ Find:
         *   Initial velocity – increase in initial velocity 🡪 increase in range (direct)
         *   Vertical displacement – increase in vertical displacement 🡪 increase in range (direct)
 
-The trajectory of a projectile is determined by its initial velocity (direct relationships) and forces that act on it as well as air resistance.
+- The trajectory of a projectile is determined by its initial velocity (direct relationships) and forces that act on it as well as air resistance.
 
-y = usinθ          both are dependent on initial velocity and angle between projectile and the ground.
+- y = usinθ $\rightarrow$ both are dependent on initial velocity and angle between projectile and the ground.
 
-x = ucosθ
+- x = ucosθ
 
 The maximum height for a projectile is the highest point of the arc given by: launch height – usin<sup>2</sup>x/2g
 
 Flight time for a projectile with same launch and landing height is given by: - 2usinx/g and final velocity will be equal to initial velocity
 
-Equations of motion:
-
-s = ut + 1/2at<sup>2</sup>
-
-v<sup>2 </sup>= u<sup>2</sup> + 2as
-
-v = u + at
-
-[Practical 1: Gravitational Force from Pendulum  CHECK](Phyics%20Prac%20Exam.docx#O)
-
-[Practical 2: Projectile Motion](Phyics%20Prac%20Exam.docx#I)
+[Equations of Motion](post/)
 
 
 ## Charged Particles Projected into Electric Fields
