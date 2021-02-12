@@ -75,24 +75,31 @@
   force = false
   headers = {X-From = "DeuteriumWebServer"}
 
-  [[redirects]]
-  from = "/uploads/*"
-  to = "https://img-cdn.schoolnotes.xyz/uploads/:splat"
+[[redirects]]
+from = "/uploads/*"
+to = "https://img-cdn.schoolnotes.xyz/uploads/:splat"
+status = 200
+force = true
+headers = {X-From = "DeuteriumWebServer"}
+
+[[redirects]]
+  from = "/csec-cdn/*"
+  to = "https:///csec-cdn.intranet.pw/:splat"
   status = 200
   force = true
   headers = {X-From = "DeuteriumWebServer"}
 
-  [[redirects]]
-    from = "/csec-cdn/*"
-    to = "https:///csec-cdn.intranet.pw/:splat"
-    status = 200
-    force = true
-    headers = {X-From = "DeuteriumWebServer"}
+[[redirects]]
+  from = "/random-projects/*"
+  to = "https://psharma04.github.io/random-projects/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "HydroniumWebServer"}
 
-    [[redirects]]
-      from = "/random-projects/*"
-      to = "https://psharma04.github.io/random-projects/:splat"
-      status = 200
-      force = true
-      headers = {X-From = "HydroniumWebServer"}
-
+[[redirects]]
+  from = "/nesa/*"
+  to = "https://educationstandards.nsw.edu.au/wps/wcm/connect/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "HydroniumWebServer"}
+  
