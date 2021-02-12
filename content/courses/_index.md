@@ -18,7 +18,7 @@ type: book
 weight: 1
 ---
 
-Find revision courses, tutorials, and cheat sheets for your subjects by pressing $/$, or by using the search on the left.
+Find revision courses, tutorials, and cheat sheets for your subjects by pressing <span class="sidebar-search-shortcut">/</span>, or by using the search on the left.
 
 ## Recently Added Courses
 
