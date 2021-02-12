@@ -11,7 +11,7 @@ categories: [Year 12, Physics, Advanced Mechanics]
 date: 2020-10-29T20:19:23+11:00
 lastmod: 2020-11-06T20:22:53+11:00
 featured: false
-draft: false
+draft: true
 math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -64,7 +64,7 @@ Key points:
 
 > NOTE: a diagram tends to help with these questions. Also, splitting vectors into their components (such as the force diagram below) makes your life MUCH easier.
 >
-> ![Diagram of the component vectors](https://cdn.schoolnotes.xyz/images/svg/Force-at-an-angle.svg)
+> ![Diagram of the component vectors](https://csec-cdn.intranet.pw/images/svg/Force-at-an-angle.svg)
 >
 > Also, use pythagoras' theorem $(a^2 + b^2 =c^2)$ wherever you need to find the magnitude of a force in a rectilinear direction.
 

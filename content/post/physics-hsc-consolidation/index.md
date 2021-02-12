@@ -32,1026 +32,7 @@ projects: []
 
 {{< toc >}}
 
-
-
-
-
-# Module 5 Advanced Mechanics
-
-##### IQ: How can models that are used to explain projectile motion be used to analyse and make predictions?
-
-
-## Projectile Motion
-
-A projectile is an object that cannot move by itself, moving freely under the force of gravity.
-
-*   There is no other force other than gravitational force acting on the object
-*   Net force of the projectile is gravitational force (mg), weight
-*   Objects experience:
-    *   Vertically downward force of 9.81 N/kg
-    *   Vertically downward acceleration of 9.81 m/s<sup>2</sup>
-
-The projectile moves in a parabolic arc as the vertical gravitational force causes it to deviate from its otherwise linear path.
-
-According to Newton’s 2<sup>nd</sup> law (F = ma), the projectile’s horizontal component has constant velocity (no acceleration) as there is no external force acting on it (the horizontal component is independent of the vertical component), it remains moving due to inertia (Newton’s 1<sup>st</sup> Law).
-
-Force is always downwards, but direction of motion varies.
-
-Whether an object is projected or just dropped, it will still fall at the same rate
-
-{{< callout note >}} 
-
-**Assumptions of our model**
-
-*   Constant vertical acceleration due to gravity
-*   Curvature of Earth ignored
-*   No air resistance
-
-{{< /callout >}}
-
-### Analysing Projectile Motion
-
- Projectile motion is 2D motion. To analyse:
-
-1. Break up motion into vertical and horizontal components
-2. The two components are completely independent of each other thus, they can be treated separately
-3. There is no acceleration in the horizontal direction as gravity only acts vertically
-4. Find vertical and horizontal components
-    *   Y components: $u\sinθ$,$ v\sinθ$, a = 9.81ms<sup>-2</sup>, vertical height
-    *   X components: $u\cosθ$, $v\cosθ$, a = 0, range
-5. Find time, as time is the same for both components
-
-<table>
-  <tr>
-   <td>
-<strong>X DIrection</strong>
-   </td>
-   <td><strong>Y Direction</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>v<sub>x</sub> = u<sub>x </sub></strong>where v is x component of final velocity, u is x component of initial velocity (m/s)
-   </td>
-   <td><strong>v<sub>y<sup>2</sup></sub> = u<sub>y<sup>2</sup></sub>+ 2a<sub>y</sub>∆s<sub>y</sub></strong> where v is y component of final velocity, u is y component of initial velocity (m/s), a is vertical acceleration of 9.81ms<sup>-2</sup>, s is y component of displacement
-   </td>
-  </tr>
-  <tr>
-   <td><strong>∆s<sub>x</sub> = u<sub>x</sub>t</strong> where s is x component of displacement (m), t is time (s)
-   </td>
-   <td><strong>∆s<sub>y</sub> = u<sub>y</sub>t +1/2 a<sub>y</sub>t<sup>2</sup></strong> where u is y component of initial velocity (m/s), a is vertical acceleration of 9.81ms<sup>-2</sup>, s is y component of displacement, t is time (s)
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><strong>v<sub>y</sub> = u<sub>y</sub> + a<sub>y</sub>t</strong> where v is y component of final velocity, u is y component of initial velocity (m/s), a is vertical acceleration of 9.81ms<sup>-2</sup>, t is time (s)
-   </td>
-  </tr>
-</table>
-### Special cases
-
-*   If the projectile launches and lands at the same height, the initial and final angle is the same magnitude – only one is an angle of elevation and the other an angle of depression.
-*   If there is no angle of launch, velocity in the y direction is zero while velocity in the x direction is the same as initial velocity
-
-### Types of Questions
-
-#### No initial vertical velocity component/half-flight/no angle given
-
-*   Initial velocity = horizontal velocity = constant
-*   Vertical velocity is initially zero but increases as object falls (v<sub>y</sub> = u<sub>y</sub> + at)
-
-#### No initial vertical displacement given
-
-*   Initial horizontal velocity =ucosθ = constant
-*   Initial vertical velocity = usinθ
-*   S<sub>y</sub> = 0
-*   Vertical velocity at max. height = 0
-*   Launch angle = landing angle
-*   Angle of projection for max. range = 45<sup>o</sup>
-
-#### Projectile fired at an angle above ground
-
-*   Initial horizontal velocity =ucosθ = constant
-*   Initial vertical velocity = usinθ
-*   Vertical velocity at max. height = 0
-*   Angle of projection for max. range = 45<sup>o</sup>
-
-#### Half flight projectile motion
-
-*   Downward acceleration = gravity
-*   Vertical velocity increases constantly
-*   Horizontal velocity is a constant
-
-#### Find the...
-
-*   time of flight (half-flight and full-flight)
-    *   Influenced by:
-        *   Initial vertical velocity ONLY IF LAUNCH ANGLE > 0 – increase in initial velocity 🡪 longer time of flight (direct)
-        *   Launch angle – higher launch angle 🡪 longer time of flight (direct)
-        *   Vertical displacement – higher vertical displacement 🡪 longer time of flight (direct)
-*   initial velocity (velocity immediately after launch)
-*   launch angle
-*   maximum height
-    *   Launch angle – higher launch angle 🡪 higher maximum height (direct)
-    *   Initial vertical velocity i.e.: faster it is projected upwards the higher it goes, regardless of the horizontal motion
-    *   Vertical displacement – higher vertical displacement 🡪 higher maximum height (direct)
-*   final velocity (velocity just before it hits ground)
-*   velocity, height, distance at a point in time
-*   launch height
-*   horizontal range of the projectile
-    *   Influenced by
-        *   Launch angle – increase in angle 🡪 increase in range UP TO 45<sup>o</sup> THEN increase in angle 🡪 decrease in range
-        *   Initial velocity – increase in initial velocity 🡪 increase in range (direct)
-        *   Vertical displacement – increase in vertical displacement 🡪 increase in range (direct)
-
-- The trajectory of a projectile is determined by its initial velocity (direct relationships) and forces that act on it as well as air resistance.
-
-- y = usinθ $\rightarrow$ both are dependent on initial velocity and angle between projectile and the ground.
-
-- x = ucosθ
-
-The maximum height for a projectile is the highest point of the arc given by: launch height – usin<sup>2</sup>x/2g
-
-Flight time for a projectile with same launch and landing height is given by: - 2usinx/g and final velocity will be equal to initial velocity
-
-[Equations of Motion](post/)
-
-
-## Charged Particles Projected into Electric Fields
-
-
-<table>
-  <tr>
-   <td><strong>Similarities to projectile dropped in G field</strong>
-   </td>
-   <td><strong>Differences to projectile dropped in G field</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>If dropped, accelerates uniformly parallel to field lines
-<p>
-If projected, will follow parabolic trajectories in an uniform field
-   </td>
-   <td>Different masses will accelerate at different rates unlike in a gravitational field where all masses accelerate at the same rate
-<p>
-Positive and negative charges will accelerate in opposite directions
-<p>
-Exact curve of a projectile in an electric field is dependent on velocity, charge and mass, unlike in a gravitational field where all masses if launched exactly the same will follow the same curve
-   </td>
-  </tr>
-</table>
-
-
-Factors that influence:
-
-
-
-*   Range
-    *   Higher initial velocity 🡪 larger range (direct)
-    *   Larger charge 🡪 smaller range (inverse)
-    *   Larger mass 🡪larger range/less deflection (direct)
-    *   Higher voltage 🡪 smaller range (inverse
-*   Acceleration
-    *   Larger charge 🡪 greater acceleration (direct)
-    *   Smaller mass 🡪 greater acceleration (inverse)
-    *   Higher voltage 🡪 greater acceleration (direct)
-
-Like projectiles, y and x velocity components can be found. Equations of motion can be used.
-
-E = V/d (capital V is voltage) distance between plates?
-
-
-## _IQ: Why do objects move in circles?_
-
-
-## Circular Motion
-
-An object travelling a circular pathway at constant tangential speed is undergoing uniform circular motion (UCM).
-
-Characteristics of UCM:
-
-
-
-*   Motion along circular path of radius _r_
-*   Tangential speed _v_ is constant hence, period _T_ is constant
-*   Angular velocity (rate of change of angle) 𝜔 is constant
-*   Linear velocity is not constant as direction is continually changing. Linear velocity is perpendicular to net force of the object’s rotation
-*   Centripetal acceleration (a<sub>c</sub>) is directed towards the centre
-*   Net force (F<sub>c</sub>) towards the centre of the circle
-
-The net force of an object moving in UCM is directed towards the centre and is called centripetal force and is given by:
-
-F<sub>c</sub> = mv<sup>2</sup>/r  where F<sub>c</sub> is centripetal force (N), m is mass of object in circular motion (kg), v is velocity/orbital velocity of the object (m/s), r is radius of the circle (m)
-
-Factors that influence:
-
-
-
-*   Centripetal force
-    *   Orbital velocity
-        *   There is a direct square relationship. Increase in orbital velocity 🡪 squared increase in centripetal force acting on/required to keep object in UCM increases as well
-    *   Mass
-        *   Mass increase 🡪 centripetal needed increases (direct)
-    *   Radius
-        *   Increase in radius 🡪 decrease in centripetal force needed/acting on it (inverse)
-
-Formula Dump:
-
-
-
-*   T = 1/f where T is period (time to complete one revolution) (s), f is frequency (Hz)
-*   𝜔
-    *   𝜔 = ∆θ/∆t where 𝜔 is angular velocity (rad/s), θ is angle (rad), t is time (s)
-    *   𝜔 = 2𝜋f where f is frequency (Hz)
-    *   𝜔 = ∆s/rt where s is arc length (m)
-    *   𝜔 = v/r where v linear velocity (m/s), r is radius (m)
-*   v = 2𝜋rf = r𝜔 = 2πr/T
-        *   v = √GM/r where v is orbital velocity (m/s), G is universal gravitational constant (6.67 x 10<sup>-11 </sup>Nm<sup>2</sup>kg<sup>-2</sup>) (average amount of gravity experienced in the universe) , M is mass of central object (kg), r is orbital radius (m) NOT ON FORMULA SHEET
-*   a<sub>c</sub> = r𝜔<sup>2<sub> </sub></sup>= v<sup>2</sup>/r (derived from F = ma and F<sub>c</sub> = mv<sup>2</sup>/r)
-    *   For satellites:
-*   F<sub>c</sub> = mv<sup>2</sup>/r = mr𝜔<sup>2</sup> = ma<sub>c </sub>where m is mass (kg)
-    *   For satellites:
-        *   F<sub>c</sub> = GMm/r<sup>2</sup> where m is mass of spinning object (kg)
-
-**Conditions for an Object to Execute Circular Motion**
-
-As the object is accelerating, there must be a net force acting on the object given by Newton’s 2<sup>nd</sup> Law (F=ma) directed towards the centre.
-
-F<sub>net</sub> = F<sub>c</sub> = mv<sup>2</sup>/r
-
-Examples:
-
-
-<table>
-  <tr>
-   <td><strong>Situation</strong>
-   </td>
-   <td><strong>Force providing F<sub>c</sub></strong>
-   </td>
-   <td><strong>Condition</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Car driving around a horizontal circular bend
-   </td>
-   <td>Friction between the tires and the road <em>f</em>
-   </td>
-   <td><em>f</em> =mv<sup>2</sup>/r
-   </td>
-  </tr>
-  <tr>
-   <td>Ball swinging on a string
-   </td>
-   <td>Tension in the string towards axis of rotation <em>T</em>
-   </td>
-   <td><em>T</em> = mv<sup>2</sup>/r
-   </td>
-  </tr>
-  <tr>
-   <td>Satellite orbiting a planet
-   </td>
-   <td>Gravitational force between satellite and planet <em>F<sub>G</sub></em>
-   </td>
-   <td><em>F<sub>g</sub></em> = mv<sup>2</sup>/r
-   </td>
-  </tr>
-</table>
-
-
-If the centripetal force and details of the motion **do not satisfy F<sub>c</sub> = mv<sup>2</sup>/r**, then the object **will not follow UCM **and instead follow a different path:
-
-
-<table>
-  <tr>
-   <td><strong>Situation</strong>
-   </td>
-   <td><strong>Condition</strong>
-   </td>
-   <td><strong>Motion</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Car driving around a horizontal circular bend
-   </td>
-   <td>Road is slippery, there is not enough friction <strong><em>f</em> &lt; mv<sup>2</sup>/r</strong>
-   </td>
-   <td>Car slides out of the turn and travels on a linear pathway (tangent to the circle) d/t inertia
-   </td>
-  </tr>
-  <tr>
-   <td>Ball swinging on a string
-   </td>
-   <td>String is cut so no tension in the string, <strong><em>T </em>= 0 &lt; mv<sup>2</sup>/r</strong>
-   </td>
-   <td>Ball flies off and travels on a linear pathway (tangent to the circle) d/t inertia
-   </td>
-  </tr>
-  <tr>
-   <td>Satellite orbiting a planet
-   </td>
-   <td>Satellites motion does not satisfy conditions of circular motion, <em>F<sub>g</sub></em> ≠ mv<sup>2</sup>/r
-   </td>
-   <td>Satellite follows elliptical orbit
-   </td>
-  </tr>
-</table>
-
-
-The centripetal force is always perpendicular to the direction of velocity and has constant strength despite changing in direction. The popular term ‘centrifugal force’ actually refers to the force of inertia the spinning object exerts on the wall or rope as per Newton’s 1<sup>st</sup> Law which feels like an outward force.
-
-Acceleration and force occur in the same direction. Centripetal acceleration occurs due to a constantly changing direction NOT because of the velocity, as magnitude of the velocity does not change.
-
-RPM 🡪 rad/s by converting minutes to seconds by dividing by 60 and converting revolutions to radians by multiplying by 2π
-
-km/hr 🡪m/s by dividing by 3.6
-
-**Analyse forces on an object executing uniform circular motion**
-
-
-
-1. Identify forces acting on the object. Draw a free body diagram.
-2. Determine direction of acceleration. For UCM, acceleration is always towards centre of the circle
-3. Decompose the forces into parallel and perpendicular components (to acceleration)
-4. Apple Newton’s 2<sup>nd</sup> Law to components and find the unknown
-    1. In the direction of acceleration there is a net force: F<sub>net</sub> = mv<sup>2</sup>/r
-    2. Perpendicular to acceleration, a = 0 so F<sub>net</sub> = 0
-    3. Often find a<sub>c</sub> first
-
-Uniform circular motion can be applied to different systems. Three common systems are: car moving around a corner on a flat and banked road and mass on a string (conical pendulum).
-
-**Cars moving around horizontal circular bends**
-
-Friction supplies the centripetal force to make a car go around a bend on a flat surface thus, _f_ = F<sub>c</sub> = mv<sup>2</sup>/r. The normal force and friction force are on all 4 tires. Therefore, when a car corners on a flat road we can model the bend as part of a circle.
-
-Forces acting:
-
-
-
-*   Lateral frictional force between road surface and tires (_f_)
-*   Normal force (N)
-*   Weight force (w)
-
-The car does not accelerate vertically up thus, N = w. Lateral frictional force can be influenced by turning the steering wheel which causes the front wheels of the car to angle.
-
-Possible Situations:
-
-
-<table>
-  <tr>
-   <td><strong>F<sub>c</sub></strong>
-   </td>
-   <td><strong>Motion</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>F = mv<sup>2</sup>/r
-   </td>
-   <td>UCM
-   </td>
-  </tr>
-  <tr>
-   <td>F > mv<sup>2</sup>/r
-   </td>
-   <td>Car moves towards the centre of the circle. Radius decreases so car turns more sharply.
-   </td>
-  </tr>
-  <tr>
-   <td>F &lt; mv<sup>2</sup>/r
-   </td>
-   <td>Car moves away from the centre of the circle. Radius increases so car turns more gently.
-   </td>
-  </tr>
-</table>
-
-
-**Why are we learning this?**
-
-The ability of the car (driver) to turn a corner depends on how sharp it is (r) and how fast the car is travelling (can be controlled). Slowing down, we can turn a sharper corner (smaller radius).
-
-Due to a direct square relationship, increasing velocity by x1 results in x4 of the F<sub>c</sub> needed to keep the body in UCM. Thus, the faster the car is going, the greater the frictional force required. There is a maximum frictional force that the road can exert on tires thus, slowing down is vital. RMS indicates suggested speeds for corners.
-
-Friction provided reduces when there is water, oil or worn tires.
-
-**Cars on banked tracks (ignore friction)**
-
-A banked road is a road that is tilted into the centre of the turn or circular path. This results in a net force that accelerates the car in the direction of the corner, helping vehicles travel at higher speeds around corners without skidding. Since the car is moving around a corner, we can model this as an arc of a circle thus, F<sub>net</sub> = F<sub>c</sub>. This situation looks similar but, **is different to an inclined plane** question in that the normal force is the **HYPOTENEUSE** (mg = Ncosθ) rather than a vertical side (N = mgcosθ) **i.e. the triangles are different.**
-
-**Why is this?**
-
-On an inclined plane as the angle increases, the normal force decreases as more and more of the weight is supported by friction. But, on a banked curve as the slope increases, the normal force needed increases as the centripetal force increases e.g. a racetrack this corresponds to the steepest banked curves being at the sharpest/tightest corners. The sharper the corner the more centripetal force is required to make the turn, requiring more banking and more normal force.
-
-Forces acting:
-
-
-
-*   Normal force (N) - tilted towards centre and    component towards centre contributes to F<sub>c</sub>
-*   Weight force (w)
-
-If the car is turning at the design speed, the **horizontal component of the normal force provides F<sub>c</sub>** rather than friction (_f_)
-
-**Design Speed**
-
-Design speed is the speed required for the car to not slide up or down the banked road. It requires a balance between forces up the bank and forces towards the centre.
-
-If the speed is too high then the car will start moving up the bank. If the car is too slow it will slide towards the centre.
-
-It is given by: √(rgtanθ) NOT ON FORMULA SHEET
-
-**Analysis: Derivation of F<sub>net</sub> = F<sub>c</sub> = mgtanθ, v = √(rgtanθ), a = gtanθ, θ = tan<sup>-1</sup> (v<sup>2</sup>/rg)**
-
-For centripetal force, F<sub>net</sub> = F<sub>c</sub> = mgtanθ:
-
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-But there is no acceleration in the y direction,
-
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-But,_ \
-_
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-For design speed, v = √(rgtanθ):
-
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-For radius, r = v<sup>2</sup>/gtanθ:
-
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-For optimal angle, θ = tan<sup>-1</sup> (v<sup>2</sup>/rg):
-
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-For centripetal acceleration, a = gtanθ:
-
-
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-It helps the car make the turn by adding the component of the weight force (mgtanθ) or normal force to the friction thus, increasing centripetal force
-
-**A mass on a string = motion in a horizontal circle (conical pendulum) eg: totem tennis**
-
-The string is at an angle θ from the vertical. The mass swings in a circular trajectory, drawing a circle with radius (r) at distance (h) below the mount. The horizontal component of tension provides the centripetal force.
-
-Forces acting:
-
-
-
-*   Tension of the string T<sub> </sub>= mv<sup>2</sup>/r
-*   Weight force (w = mg) down
-
-**Analysis and derivation:**
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-As there is no movement in the y direction,
-
-
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-But,
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
-**Effects of increasing tension:**
-
-
-
-*   Vertical component of T remains constant 🡪balances downward weight force 🡪 angle increases (direct)
-*   Horizontal component increases 🡪 centripetal force increases 🡪 angle increases (direct)
-
-**Total energy and work done on object undergoing UCM**
-
-Kinetic energy (K) = ½ mv<sup>2</sup>
-
-When an object is undergoing UCM its magnitude of velocity (v) is constant. Thus, kinetic energy is also constant.
-
-**[Practical 1: Centripetal Mass Balance](Phyics%20Prac%20Exam.docx#A)**
-
-A centripetal mass balance is spun on a string. The other end of the string is attached to a hanging mass 𝑀and allowed to slide through a frictionless tube or pulley.
-
-- The mass 𝑚 is spun at a certain speed so that the mass 𝑀 remains stationary.
-
-As M remains stationary,
-
-As the spinning mass is not fluctuating in height,
-
-On M: T = Mg
-
-On m: Tcosθ = mg
-
-Thus, T = mg/cosθ
-
-Subbing T = Mg
-
-Mg = mg/cosθ
-
-M = m/cosθ
-
-Relationship between masses and angle which it must rotates: m/M = cosθ
-
-T<sub>x</sub> = Tsinθ = ma
-
-T<sub>y</sub> = Tcosθ = mg
-
-tan = a/g
-
-a = gtanθ
-
-a = gtan(cos<sup>-1</sup>m/M)
-
-F<sub>c</sub> = mgtan(cos<sup>-1</sup>m/M)
-
-**Practical 2: Turntable and Centripetal Force**
-
-Two masses are placed on a turntable rotating at a constant speed.
-
-Forces acting on masses:
-
-
-
-*   Normal force
-*   Weight force
-*   Static friction force
-
-Static friction (F<sub>s</sub>= μ<sub>s</sub>N) is providing the centripetal force in this system.
-
-
-
-1. What happens if we move one mass closer to the centre?
-
-    The mass further out will fall off first
-
-2. What happens when we increase the speed?
-
-    Both masses fall off faster
-
-3. What happens if we make one mass heavier than the other?
-
-    They still fall off at the same time
-
-4. How do we calculate coefficient of static friction from this practical?
-
-    We can rearrange ω = √μ<sub>s</sub>g/r to give μ<sub>s </sub>= rω<sup>2</sup>/g. Find the maximum angular velocity you can set the turntable to before the mass slides off. Place the mass at a set radius.
-
-
-The mass slides off when F<sub>s</sub> &lt; F<sub>c</sub> required. The maximum amount of force friction can exert is given by F<sub>s</sub>= μ<sub>s</sub>N. Static frictional force on the turntable will increase as the turntable’s speed increases, until F<sub>s</sub> = F<sub>c</sub> after which, the mass will slide off.
-
-F<sub>c</sub> = mv<sup>2</sup>/r but, v = rω
-
-∴ F<sub>c</sub> = m(rω)<sup>2</sup>/r
-
-= mr<sup>2</sup>ω<sup>2</sup>/r
-
-= mrω<sup>2</sup>
-
-The penny slides off when:
-
-F<sub>s</sub> = F<sub>c</sub>
-
-μ<sub>s</sub>N = mrω<sup>2</sup>
-
-but, N = mg, on flat surfaces,
-
-μ<sub>s</sub>mg = mrω<sup>2</sup>
-
-Solving for maximum angular velocity for object to stay in UCM:
-
-ω<sup>2</sup> = μ<sub>s</sub>mg/mr
-
-= μ<sub>s</sub>g/r
-
-∴ ω = √μ<sub>s</sub>g/r    Note: formula is independent of mass hence, mass has no impact NOT SAME AS CRITICAL SPEED
-
-Factors that influence when the mass flies off:
-
-
-
-*   Radius
-    *   Larger radius 🡪 mass flies off sooner (direct) as a larger radius means that angular velocity is higher. Higher angular velocity 🡪 greater a<sub>c</sub> 🡪 greater F<sub>c</sub>
-*   Friction
-    *   Higher static coefficient of friction 🡪 mass remains in UCM for longer (inverse)
-*   Speed of turntable
-    *   Higher speed (increasing orbital velocity) 🡪 mass falls off faster 🡪 greater a<sub>c</sub> 🡪 greater F<sub>c</sub>
-    *   <sub>can we get your opinion both accepted, use formula </sub>don’t extrapolate
-
-Mass does **not** influence when the mass flies off as
-
-are we finding F<sub>c</sub> required? Because closer distance to centre of the turntable, keeps it on the turntable for longer but shouldn’t a smaller radius require greater centripetal force? Why is mass irrelevant when mv<sup>2</sup>/r?
-
-
-## Non-Uniform Circular Motion
-
-Apparent weight is equal to the normal force (N or F<sub>n</sub>) acting on you. Due to Newton’s 3<sup>rd</sup> Law where each force has an equal and opposite reactionary force, the bigger the normal force the heavier you feel. Using Newton’s 2<sup>nd</sup> law: F<sub>net</sub> = ma<sub>c </sub>= mv<sup>2</sup>/r thus, net force is providing centripetal force
-
-Thus, at the top of the dip you _feel_ lighter as the normal force (N or F<sub>N</sub>) on you has decreased and at the bottom you _feel _heavier as normal force increases.
-
-[https://www.youtube.com/watch?v=b-FAfNaiZ6M](https://www.youtube.com/watch?v=b-FAfNaiZ6M) https://www.youtube.com/watch?v=TiOo0b-gwyI
-
-**Loop de Loop**
-
-
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image11.png "image_tooltip")
-
-
-As per Newton’s 2<sup>nd</sup> law,
-
-F<sub>net</sub> = ma thus, in the radial direction:
-
-F<sub>net</sub> = mv<sup>2</sup>/r
-
-At the top, both mg and N are acting in the same direction.
-
-Top: F<sub>net</sub> = mg + N = mv<sup>2</sup>/r = mg + N 🡪 N = mv<sup>2</sup>/r – mg thus, you _feel_ lighter
-
-Bottom: F<sub>net</sub> = N – mg = mv<sup>2</sup>/r = N – mg 🡪 N = mv<sup>2</sup>/r + mg thus you _feel_ heavier
-
-
-## Mechanical Energy
-
-Mechanical energy = kinetic energy (K) + potential energy (U)
-
-Mechanical energy is always conserved unless work is done by an external force. Sometimes energy is transformed light, heat, sound.
-
-K before + U before = K after + U after
-
-
-## Work
-
-Work is the transfer of energy from one object to another or the transformation of energy from one form to another.
-
-A force does work on an object when it causes a displacement in the direction of the force. W = Fs (if force parallel) = Fscosθ (force and displacement vectors) where s is displacement )m), F is force (N) and θ is angle between force and displacement
-
-
-## Torque
-
-To make an object rotate a torque (τ) needs to be applied (UCM). A force acts to provide this turning effect.
-
-A torque is due to a force acting on an object at a distance (r) from the pivot point (axis of rotation).
-
-τ = r<sub>⊥</sub>f (turning point to end of lever) or rfsinθ where r is lever arm length (m), f is force (N) and θ is angle between level arm and force applied
-
-Unit is Nm, newton metres, theta is angle between force and the lever
-
-An object can orbit (external axis) i.e. earth orbiting the sun or spin (internal axis) i.e. earth spinning on axis
-
-Torque is proportional to and causes angular acceleration in rotational motion:
-
-∆ω/t ∝ τ
-
-Torque is applied whenever there is a force acting tangentially to rotational motion:
-
-
-
-*   Torque will **increase angular velocity** if tangential component of the force is in the **same direction **as velocity
-*   Torque will **decrease angular velocity** if tangential component of the force is in the **opposite direction** as velocity
-
-An object in rotational equilibrium has no net external torque. It may mean that the object is not rotating or rotating at constant angular velocity.
-
-
-## Motion in Gravitational Fields
-
-
-## _IQ: How does the force of gravity determine the motion of planets and satellites?_
-
-A gravitational field is an area or region where an object with mass experiences a force of attraction towards a larger mass. Earth’s gravitational field strength changes with radius: g = 1/r<sup>2</sup>
-
-The Earth’s gravitational field is given by: g = GM<sub>E</sub>/r<sub>E<sup>2</sup> </sub>where g is gravitational field strength, G is universal gravitational constant, M<sub>E</sub> is mass of the Earth, r is distance from the centre of the earth, r<sub>E</sub> is radius of the earth.
-
-Derivation:
-
-F<sub>g</sub> = mg
-
-g =f<sub>g</sub>/m = GMm/r<sup>2</sup> x 1/m = GM/r<sup>2</sup> therefore, g = GM/r<sup>2 </sup>NOT ON FORMULA SHEET
-
-note: when a question specifies altitude, to fin radius (r) you must add the radius of the earth.
-
-**Factors affecting gravitational field strength**
-
-
-
-*   The larger the mass of the planet (M), the greater the gravitational force (direct)
-*   The larger the r, the smaller the g (inverse square) decreases by a factor of 2
-
-Acceleration due to gravity is equal is magnitude of gravitational field strength.
-
-
-## Newton’s Law of Universal Gravitation
-
-Newton’s Law of Universal Gravitation allows us to calculate the amount of gravitational attraction between two objects of mass. It states that every object in the universe attracts another object with a force directly proportional to the product of their masses and inversely proportional to the square of the distance from their centres. It is given by:
-
-F = GMm/r<sup>2</sup> where F is gravitational force (N), G is the universal gravitational constant (6.67 x 10 <sup>-11</sup> Nm<sup>2 </sup>kg<sup>-2</sup>), M is the mass of the central object (kg), m is the mass of orbiting object (kg), r is radius (distance of separation centre to centre, radius of orbit) (m)
-
-**Predicting gravitational field strength at any point in a g field**
-
-
-## Orbital motion of Planets and Satellites
-
-**Kepler’s Law of Planetary Motion**
-
-Johannes Kepler student of Tycho Brahe (royal astronomer to King of Denmark) formed three empirical laws from years of recording and observing the trajectories of planets and stars.
-
-**Law of Ellipses**
-
-Each planet moves in an ellipse (oval) with the sun at the foci (sun is closer to one side) causing, summer and winter. Kepler identified the orbits of satellites as slightly elliptical.
-
-**Law of Areas**
-
-The radius line of each planet sweeps out equal area in equal time. Planets as they travel behind the sun travel slightly faster as they are covering a longer arc length whereas, planets travel slower when further away from the sun as they are covering a shorter arc length. This is due to the sun not being centred. The time to travel from Q to P = time to travel from S to R therefore, area QOP = area ROS.
-
-**Law of Periods**
-
-Kepler’s third law was calculated in 1619 from observations of planetary motion by Tycho Brahe. Kepler found there is a relationship between period (T) of a satellite’s orbit and its radius (r). The square of the period (T) of the planet is proportional to the cube of their average distance (r) from the sun as distance varies due to elliptical orbit. The law is quantified by:
-
-r<sup>3</sup>/T<sup>2 </sup>= GM/4π<sup>2</sup> where r is orbital radius centre to centre (m), T is period of orbit (time for planet to go around once (s), G is gravitational constant, M is mass of central object (kg).
-
-Asserts that the ratio r<sup>3</sup>/T<sup>2</sup> = k is the same for all planets. 4π<sup>2</sup>/GM is a constant for all satellites orbiting around mass M
-
-T<sup>2<sub>earth</sub></sup>/r<sup>3<sub>earth</sub></sup> is proportional to T<sup>2<sub>mars</sub></sup>/r<sup>3<sub>mars</sub></sup>
-
-**Applications**
-
-The orbital motion of planets and artificial satellites (launched by humans, orbiting larger mass eg: GPS satellite) can be modelled and explained using gravitational fields. We can calculate star masses, orbital velocity or orbital period of these planets and artificial satellites.
-
-To answer these questions, we combine UCM with Newton’s Law of Universal Gravitation.
-
-In orbits, gravitational force provides the centripetal force hence:
-
-F = GMm/r<sup>2</sup> = mv<sup>2</sup>/r = 4π<sup>2</sup>rm/T<sup>2 </sup>= mg    link between them
-
-Thus,
-
-GMm/r<sup>2</sup> = mv<sup>2</sup>/r
-
-GMmr/r<sup>2</sup> = mv<sup>2</sup>
-
-v<sup>2</sup> = GMmr/mr<sup>2</sup>
-
-v<sup>2</sup> = GM/r
-
-v = √GM/r which can be used to find centripetal acceleration:
-
-a<sub>c</sub> = v<sup>2</sup>/r = GM/r<sup>2</sup>
-
-or to calculate mass (M) of stars from orbital period (T) and radius of planets orbiting a star (r) as 2πr/T gives linear velocity.
-
-**_Mass of central object (M): from Kepler’s Third Law in kg_**
-
-r<sup>3</sup>/T<sup>2</sup> = GM/4π<sup>2</sup>, where M = 4π<sup>2</sup>r<sup>3</sup>/GT<sup>2</sup>
-
-**_Mass of orbiting object (m):_**
-
-F = GMm/r<sup>2</sup> = mv<sup>2</sup>/r, m = F<sub>c</sub>r/v<sup>2</sup> or F<sub>c</sub>r<sup>2</sup>/GM 🡪 if you don’t have orbital velocity
-
-**_Orbital period (T): from Kepler’s Third Law, _**
-
-r<sup>3</sup>/T<sup>2</sup> = GM/4π<sup>2</sup>
-
-T = √4π<sup>2</sup>r<sup>3</sup>/GM or 2πr/v
-
-**_Orbital radius (r): from Kepler’s Third Law,_**
-
-r<sup>3</sup>/T<sup>2</sup> = GM/4π<sup>2</sup>
-
-r = ∛GMT<sup>2</sup>/4π<sup>2</sup>, where r = orbital radius (m) = earth’s radius + altitude
-
-**_Orbital velocity (v):_**
-
-v = 2πr/T or v = √GM/r or v = √F<sub>c</sub>r/m
-
-**Gravitational Potential Energy in Orbit**
-
-Potential energy is defined as the work done by an upward external force on an object as it is lowered from one point to another at constant speed. It is given by:
-
-U = -GMm/r where U is potential energy (J), G is universal gravitational constant, M is mass of central mass (kg), m is mass of smaller mass (kg), r is distance centre to centre between the two masses (m)
-
-Negative means the gravitational force is attractive. If you want to move two objects further apart you have to do positive work aka add energy by applying a force opposite to the field. Gravitational potential energy of two masses is proportional to the product of the masses and inversely proportional to the separation. It is also negative aka attractive.
-
-Gravitational potential energy is defined by the work done in moving an object against the gravitational field in moving a mass from surface of earth to a height (h) above. It is given by:
-
-U = mgh where m is mass (kg), g is gravitational field strength or acceleration, h is height (m). This is derived from W (j) = Fs (N) = mgs(h) height is displacement.
-
-Comparison:
-
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td><strong>U = mgh</strong>
-   </td>
-   <td><strong>U = -GMm/r</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Define</strong>
-   </td>
-   <td>work done in moving an object against the gravitational field in moving a mass from surface of earth to a height (h) above
-   </td>
-   <td>The work done by an upward external force in
-<p>
-lowering a mass from infinity to a distance (r) from
-<p>
-the centre of the Earth without acceleration.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>When is it used?</strong>
-   </td>
-   <td>Near the earth’s surface h &lt;< r<sub>E</sub> so g is constant
-   </td>
-   <td>Used for large height changes when r > r<sub>E</sub> or far from Earth’s surface
-   </td>
-  </tr>
-  <tr>
-   <td><strong>As r increases…</strong>
-   </td>
-   <td>U approaches infinity
-   </td>
-   <td>U approaches 0
-   </td>
-  </tr>
-  <tr>
-   <td><strong>When U = 0</strong>
-   </td>
-   <td>At surface of the Earth
-   </td>
-   <td>Infinite distance away from the centre of the Earth
-   </td>
-  </tr>
-</table>
-
-
-**Total Energy of a Planet in Its Orbit**
-
-Total energy is equivalent to mechanical energy which is K + U. Kinetic energy of a satellite in orbit is given by:
-
-K = ½mv<sup>2</sup> = ½m x (√GM/r)<sup>2 </sup>= GMm/2r
-
-Thus, total energy is given by,
-
-E = K + U = -GMm/r + GMm/2r = -GMm/2r NOT ON FORMULA SHEET
-
-**Near Earth and Geostationary Orbits**
-
-Satellites in orbit around the Earth are classified as low, medium or high orbit.
-
-
-
-1. **Low Orbit (180km – 2000km) altitude**
-
-    Most common satellite orbit (Hubble telescope, 540km or international space station, 400km, spy, military, mapping satellites).
-
-
-    Orbital Period (T)= approx. 90min but 80-120min
-
-
-    Whole of the Earth’s surface can be quickly covered
-
-2. **Medium Orbit (2000km – 36000km) altitude**
-
-    Used by global positioning systems (GPS)
-
-
-    Orbital Period (T) = approx. 3hrs but 3-22hrs
-
-3. **High Orbit (36000+ km)**
-
-    Used by communications satellites, eg: Optus, deep space weather imaging etc…
-
-
-    A Geostationary satellite has a period (T) of 24hrs (with the Earth thus, ‘stationary’ as it stays above the same point on Earth’s surface if at equator). Used for communications eg: satellite phones, TV.
-
-
-Geo-synchronous is when satellite spins as same rate of Earth’s spin. Thus, it has the same rotational period but, orbit may not be perfectly circular and may have an orbital inclination.
-
-A Geostationary satellite is a special case of a geo-synchronous satellite where the orbit is circular and orbital inclination is 0.
-
-
-## Energy Changes that Occur when Satellites Moves Between Orbits
-
-When an object moves from a high orbit to a lower orbit, it moves through an increasing G field strength as the gravitational force (g or F<sub>g</sub>) on the object increases as it approaches Earth. The change in gravitational U is given by: ∆U = U<sub>final</sub> – U<sub>initial</sub> in joules.
-
-**When one object moves within the gravitational field of a second object:**
-
-
-<table>
-  <tr>
-   <td>
-   </td>
-   <td><strong>Moves with the field</strong>
-   </td>
-   <td><strong>Moves against the field</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Isolated</strong>
-   </td>
-   <td>Work is done by the field
-<p>
-potential energy decreases while kinetic energy increases
-   </td>
-   <td>Work is done on the field
-<p>
-U increases, K decrease
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Open or Closed</strong>
-   </td>
-   <td>Work is done by external agent and by the field
-<p>
-U decreases, K increases
-   </td>
-   <td>Work done by external agent and on the field,
-<p>
-U increases, K either (depends which does more work)
-   </td>
-  </tr>
-</table>
-
-
-Gravitational U is a binding energy. To escape from earth's gravitational field, given you have mass m you must do work that’s equal or above gravitational U.
-
-Work is given by:
-
-W = Fs = F<sub>c</sub> x s = GMm/r<sup>2 </sup>x r = GMm/r
-
-**Concept of Escape Velocity**
-
-Escape velocity is when a rocket has enough kinetic energy (K) to escape the Earth’s gravitational field. Escape velocity is the minimum velocity for an object at the surface of Earth to escape to space and not be pulled back. Earth’s escape velocity is 11200 m/s MEM.
-
-For a satellite to escape gravitational field,
-
-K = U (at a minimum)
-
-U = -GMm/r
-
-½mv<sup>2<sub> </sub></sup>= -GMm/r
-
-v<sup>2</sup> = -2GM/r
-
-Thus, minimum velocity for satellite to _make it out alive_ is given by,
-
-v<sub>escape </sub>= √2GM/r NOT ON FORMULA SHEET where v<sub>escape </sub>is escape velocity (m/s), M is mass of central body (kg), G is universal gravitational constant, r is orbital radius (centre to centre) (m)
-
-note: do not confuse escape velocity with orbital velocity
-
-Factors that influence v<sub>escape</sub>:
-
-
-
-*   Smaller radius (r) 🡪 higher escape velocity needed (inverse square root)
-*   Larger central mass (M) 🡪 higher escape velocity needed (direct square root)
-*   Escape velocity IS INDEPENDENT of mass of the launched object i.e. regardless of how heavy the object is, the escape velocity will be the same for all objects. Satellites are typically launched from close to the equator towards the east (same direction of Earth’s rotation so it can contribute to the kinetic energy of the rocket).
-
-Module 7 Nature of Light
+# Module 7 Nature of Light
 
 
 <table>
@@ -1489,13 +470,13 @@ In quantum mechanics, EMR consists of photons which are miniscule elastic partic
 
 Maxwell worked with 4 laws to produce a unified theory of classical electromagnetism. These are:
 
-Gauss's Law of Electrical Flux 🡪 point charges radiate an electric field outwards as if there is a net charge inside a Gaussian surface (surface that smoothly encloses charge), there must be charge leaving it
+Gauss's Law of Electrical Flux $\rightarrow$ point charges radiate an electric field outwards as if there is a net charge inside a Gaussian surface (surface that smoothly encloses charge), there must be charge leaving it
 
-Gauss’s Law of Magnetic Flux 🡪 Magnetic field lines are always looped thus, there are no magnetic monopoles
+Gauss’s Law of Magnetic Flux $\rightarrow$ Magnetic field lines are always looped thus, there are no magnetic monopoles
 
-Faraday's Law of Electromagnetic Induction 🡪 a changing magnetic field generates a changing electric field
+Faraday's Law of Electromagnetic Induction $\rightarrow$ a changing magnetic field generates a changing electric field
 
-Ampere's Circuital Law 🡪 a changing electric field generates a changing magnetic field perpendicular to the plane of the electric field (using the displacement current). Involves μ<sub>0</sub> and ε<sub>0</sub> which can be measured in laboratory.
+Ampere's Circuital Law $\rightarrow$ a changing electric field generates a changing magnetic field perpendicular to the plane of the electric field (using the displacement current). Involves μ<sub>0</sub> and ε<sub>0</sub> which can be measured in laboratory.
 
 **Prediction of EM waves:**
 
@@ -1805,7 +786,7 @@ Electromagnetic radiation is emitted by all objects above absolute 0 which is 0K
 
 **Surface Temperature**
 
-Using the measured maximum wavelength of radiation emitted by the star with Wien’s Law (λ<sub>max</sub> = b/T), we can find the surface temperature of the star. Or simply by looking at the colour of the star we can approximate its temperature, white 🡪 blue 🡪 yellow 🡪 orange 🡪 red
+Using the measured maximum wavelength of radiation emitted by the star with Wien’s Law (λ<sub>max</sub> = b/T), we can find the surface temperature of the star. Or simply by looking at the colour of the star we can approximate its temperature, white $\rightarrow$ blue $\rightarrow$ yellow $\rightarrow$ orange $\rightarrow$ red
 
 **Rotational and Translational Velocity**
 
@@ -1943,7 +924,7 @@ Einstein’s model has:
 3. A photon could give up all or none of its energy to one electron. The photon could not give a part of its energy (wave model of light said energy could build up) i.e. all or nothing
 4. One photon can liberate one electron as long as it can overcome the work function – there is no time gap
 
-It explained how electrons could be ejected with very low intensity incident light at the right frequency, because it only takes one photon at the right energy to knock out an electron and also how increasing the intensity, increased the current but not the stopping voltage as greater intensity means more photons, but not more energetic photons – therefore more interactions produce more current but the average energy of the electrons is unchanged. It also explained why increasing the frequency caused the stopping voltage to be increased linearly as a greater frequency 🡪 greater energy of photons (E = hf) therefore each photon can transfer more energy to an electron.
+It explained how electrons could be ejected with very low intensity incident light at the right frequency, because it only takes one photon at the right energy to knock out an electron and also how increasing the intensity, increased the current but not the stopping voltage as greater intensity means more photons, but not more energetic photons – therefore more interactions produce more current but the average energy of the electrons is unchanged. It also explained why increasing the frequency caused the stopping voltage to be increased linearly as a greater frequency $\rightarrow$ greater energy of photons (E = hf) therefore each photon can transfer more energy to an electron.
 
 Example analogy:
 
@@ -1957,9 +938,9 @@ The quantum model resolves the UV catastrophe as
 
 Law of Conservation of Energy:
 
-hf = KE<sub>max</sub> + ф 🡪 total photon energy = maximum energy converted into kinetic energy of electron + energy required to overcome electron binding forces
+hf = KE<sub>max</sub> + ф $\rightarrow$ total photon energy = maximum energy converted into kinetic energy of electron + energy required to overcome electron binding forces
 
-Work function: E = hf<sub>0 </sub>(y intercept of max kinetic energy vs frequency on graph) 🡪 minimum energy/energy at threshold
+Work function: E = hf<sub>0 </sub>(y intercept of max kinetic energy vs frequency on graph) $\rightarrow$ minimum energy/energy at threshold
 
 
 
@@ -2064,7 +1045,7 @@ Where the denominator is the Lorentz factor which is always less than 1. c is sp
 
 
 
-The contraction of length is in the direction of motion (c 🡪). Where l<sub>0</sub> is the real/proper length, length measured for an observer and object in the same reference frame
+The contraction of length is in the direction of motion (c $\rightarrow$). Where l<sub>0</sub> is the real/proper length, length measured for an observer and object in the same reference frame
 
 Where l = contracted length of the object measured from a different reference frame. (shorter than l<sub>0</sub>)
 
@@ -2258,7 +1239,7 @@ e<sup>−</sup> + e<sup>+</sup> → γ + γ
 
 Charge is conserved i.e. (e<sup>-</sup>+e<sup>+</sup> = 0), gamma rays have no charge
 
-Momentum is also conserved 🡪 momentum of e<sup>-</sup> + momentum of e<sup>+</sup> = momentum of γ rays.
+Momentum is also conserved $\rightarrow$ momentum of e<sup>-</sup> + momentum of e<sup>+</sup> = momentum of γ rays.
 
 **What about mass?**
 
@@ -2412,7 +1393,7 @@ How does the spectroscope work? How does it produce a spectrum?
 
 # Module 8 From the Universe to the Atom
 
-The Big Bang Theory (BBT) is used to explain formation of elements on the periodic table during 13.8 billion years and is an attempt to understand origin and development of the universe. According to the BBT, energy spread out from a singularity (a small point of high temperature and density) before the singularity? conjecture. Brian Smith disproved the collapsing universe theory through showing that the universe was expanding at an increasing rate. As energy spreads over increasing distances, the temperature greatly reduces from that of the singularity. Particles (Quarks, electrons, neutrons, protons) and forces mediated by particles (gravity 🡪 all particles, electrostatic 🡪 charged particles, weak nuclear forces 🡪 quarks, photons and leptons (electrons), strong nuclear forces 🡪gluon (bonds that hold quarks), quarks) all form out of energy. At lower temperatures d/t universe expansion, particles formed become stable and combine to form atoms/molecules – matter. Energy from singularity is all the energy in the universe and for 13.8 B years this energy has been transformed into radiation and matter observable today. Total amount of energy is the same as the beginning.
+The Big Bang Theory (BBT) is used to explain formation of elements on the periodic table during 13.8 billion years and is an attempt to understand origin and development of the universe. According to the BBT, energy spread out from a singularity (a small point of high temperature and density) before the singularity? conjecture. Brian Smith disproved the collapsing universe theory through showing that the universe was expanding at an increasing rate. As energy spreads over increasing distances, the temperature greatly reduces from that of the singularity. Particles (Quarks, electrons, neutrons, protons) and forces mediated by particles (gravity $\rightarrow$ all particles, electrostatic $\rightarrow$ charged particles, weak nuclear forces $\rightarrow$ quarks, photons and leptons (electrons), strong nuclear forces $\rightarrow$gluon (bonds that hold quarks), quarks) all form out of energy. At lower temperatures d/t universe expansion, particles formed become stable and combine to form atoms/molecules – matter. Energy from singularity is all the energy in the universe and for 13.8 B years this energy has been transformed into radiation and matter observable today. Total amount of energy is the same as the beginning.
 
 Atoms were thought to be the smallest, indivisible particles until electrons and radioactivity were discovered. Later experiments showed that protons and atoms were divisible and made from quarks but, electrons are not (elementary). There is an antiparticle for every particle, slightly more matter than antimatter was formed why? No idea. Most of what we detect today is matter not antimatter. Matter and anti-matter annihilate when they collide, when electron + positron = annihilated and 2 gamma rays released.
 
@@ -2476,7 +1457,7 @@ AU is distance from sun to the earth = 1.5 x 10 <sup>11</sup>m
 *   Our sun formed from the gravitational collapse of gas and dust from earlier supernova explosions and dead stars
 *   Heavier earth elements eg: Pb were concentrated in terrestrial (rocky) planets
 *   Stars first form 400 million years after BB from matter accretion d/t gravity
-*   Fusion of H to He 🡪 early stars being very large and hot 🡪 burnt out quickly and supernova explosion
+*   Fusion of H to He $\rightarrow$ early stars being very large and hot $\rightarrow$ burnt out quickly and supernova explosion
 *   Calculations on the mass and energy output of our sun found amount of energy produced per atom was > 1 x 10<sup>8</sup> times energy produced by chemical reaction (combustion) rather it must come from E = mc<sup>2</sup> through fusion of H to He (mass-energy equivalence)
 
 Emission:
@@ -2489,7 +1470,7 @@ Evidence for expansion, fusion how does that prove BBT?
 
 Absorption: specific wavelengths of light are missing from continuous spectrum (e = hf)
 
-Blackbody radiation produces a continuous spectrum containing all wavelengths. As blackbody is heated, the wavelength of which most radiation is emitted decreases and power radiated increases (intensity) i.e. a spread of energies emitted. Therefore, as temperature increases, peak wavelength decreases 🡪 colour changes from warm to cool
+Blackbody radiation produces a continuous spectrum containing all wavelengths. As blackbody is heated, the wavelength of which most radiation is emitted decreases and power radiated increases (intensity) i.e. a spread of energies emitted. Therefore, as temperature increases, peak wavelength decreases $\rightarrow$ colour changes from warm to cool
 
 Quantitated by Wien’s law:
 
@@ -2533,15 +1514,15 @@ Ejnar Hertzsprung in 1911 graphed absolute magnitude v colour. Henry Russell in 
 
 Using the naked eye, brightest stars were given absolute magnitude of 1. Less bright stars were positive values (1, 2, 3 least-brightest etc). Brighter stars were then discovered later and assigned negative values. Absolute magnitude is a measure of luminosity (all stars at the same distance). Relative magnitude measure how bright the star appears from earth (stars at different distances). Luminosity measures total energy radiated by a star per second (log scale). Represented by a number on the absolute magnitude scale (corresponds).
 
-On the main sequence, stars fuse hydrogen 🡪 helium in their core and have a luminosity class of V, red giants fuse heavier elements and have luminosity of I, white dwarfs are hot, condensed remains of stars that have depleted nuclear fuel
+On the main sequence, stars fuse hydrogen $\rightarrow$ helium in their core and have a luminosity class of V, red giants fuse heavier elements and have luminosity of I, white dwarfs are hot, condensed remains of stars that have depleted nuclear fuel
 
 Life cycle of a star:
 
-Stellar nebula 🡪 average star 🡪 red giant 🡪 planetary nebula 🡪 white dwarf
+Stellar nebula $\rightarrow$ average star $\rightarrow$ red giant $\rightarrow$ planetary nebula $\rightarrow$ white dwarf
 
 OR
 
-Stellar nebula 🡪 massive star 🡪 red supergiant 🡪 supernova 🡪 black hole OR neutron star (> 8SM)
+Stellar nebula $\rightarrow$ massive star $\rightarrow$ red supergiant $\rightarrow$ supernova $\rightarrow$ black hole OR neutron star (> 8SM)
 
 
 ## Types of Nucleosynthesis Reactions (making of atoms) in Main Sequence and Post-main Sequence Stars
@@ -2776,7 +1757,7 @@ Rays, elements emitted are dictated by type of radioactive decay (alpha, beta, g
 
 Other:
 
-When stars leave the main sequence, the heavier elements gather at the centre of the star 🡪 layers of an onion.
+When stars leave the main sequence, the heavier elements gather at the centre of the star $\rightarrow$ layers of an onion.
 
 
 
@@ -2999,13 +1980,13 @@ In 1897, JJ Thomson proved cathode rays were electrons and measured their charge
 
 Explain: Thomson used a cathode ray tube with two fields (parallel electric plates), magnetic field (electromagnet). The fields are 90<sup>o</sup> to each other.
 
-Electric field deflects the cathodes ray up, magnetic field deflects cathode rays down. Electric field (F = qE) and magnetic field (F = qvbsinθ) are adjusted so that forces cancel out and the beam is undeflected. Undeflected beam is used to find velocity of cathode ray (qvB=qE) 🡪 v = E/B
+Electric field deflects the cathodes ray up, magnetic field deflects cathode rays down. Electric field (F = qE) and magnetic field (F = qvbsinθ) are adjusted so that forces cancel out and the beam is undeflected. Undeflected beam is used to find velocity of cathode ray (qvB=qE) $\rightarrow$ v = E/B
 
 
 
 1. F = qE = qvB
 2. F<sub>B</sub> = qvB = F<sub>centripetal</sub> = mv<sup>2</sup>/r
-3. qvB = mv<sup>2</sup>/r 🡪 q/m = V/Br
+3. qvB = mv<sup>2</sup>/r $\rightarrow$ q/m = V/Br
 
 Millikan’s Milk Drop Experiment
 
@@ -3043,7 +2024,7 @@ m was known, Millikan used above to calculate the oil drop’s charge.
 
 Analyse: Millikan found the smallest unit of charge to be -1.592 x 10<sup>-19</sup>C (one electron rubbed on the oil drop), within 1% of today’s value of -1.602 x 10<sup>-19</sup>C. Oil drops could have larger electric charge but only existed as multiples of this base unit of charge. Crucial to our understanding of electrons.
 
-JJ Thomson’s q:m ratio of the electron was explained by Millikan’s experiment. That Cathode Rays were negatively charged particles 🡪 electrons. Millikan’s oil drop experiment quantified electron charge as -1.602 x 10<sup>19</sup>C. This led to the calculation of the charge on the proton (size of positive charge), positron and mass of electron.
+JJ Thomson’s q:m ratio of the electron was explained by Millikan’s experiment. That Cathode Rays were negatively charged particles $\rightarrow$ electrons. Millikan’s oil drop experiment quantified electron charge as -1.602 x 10<sup>19</sup>C. This led to the calculation of the charge on the proton (size of positive charge), positron and mass of electron.
 
 m = 0.035 x 10<sup>-9</sup>
 
@@ -3073,7 +2054,7 @@ Results:
 
 
 
-*   Most alpha particles passed through with only small deflection but 1/8000 were deflected by angles greater than 90<sup>o </sup>🡪 due to hitting ‘something’ aka the nucleus
+*   Most alpha particles passed through with only small deflection but 1/8000 were deflected by angles greater than 90<sup>o </sup>$\rightarrow$ due to hitting ‘something’ aka the nucleus
 *   In Thomson’s model there should have been no deflection whatsoever hence, this experiment provided evidence for the nucleus
 *
 
@@ -3093,7 +2074,7 @@ Chadwick’s Discovery of the Neutron
 
 After Rutherford (1908-1911) it seemed logical to assume the nucleus contained protons and electrons orbited outside the nucleus. There were major problems with this idea i.e. mass of the nucleus was 2x the atomic number (Z) and the de Broglie wavelength was large compared to small radius of the atom. Rutherford proposed the neutron.
 
-In 1930s Walter Boheff and Becca found passing particles through Beryllium gave a type of unknown radiation. In 1932 James Chadwick identified this radiation as Rutherford’s neutral particles 🡪 neutrons
+In 1930s Walter Boheff and Becca found passing particles through Beryllium gave a type of unknown radiation. In 1932 James Chadwick identified this radiation as Rutherford’s neutral particles $\rightarrow$ neutrons
 
 
 
@@ -3105,7 +2086,7 @@ In 1930s Walter Boheff and Becca found passing particles through Beryllium gave 
 
 Neutrons get trapped in the Paraffin wax but, dislodge Protons. For Protons to be dislodged, they must have been hit by something of same mass.
 
-Uncharged neutrons were difficult to detect, a gas chamber detected Protons since Protons can ionise (remove electrons) gas 🡪 electricity flows, current detected as electrons are moving. Paraffin wax constitutes of Hydrogen atoms and was used because the unknown radiation could knock Protons out of it. By applying conservation laws of momentum/energy to the interaction of a Neutron with a proton (neutron mass similar to proton) Chadwick was able to prove existence of the neutron. Chadwick correctly assumed the alpha radiation produced neutrons by transmuting () the Beryllium nucleus to a carbon nucleus.
+Uncharged neutrons were difficult to detect, a gas chamber detected Protons since Protons can ionise (remove electrons) gas $\rightarrow$ electricity flows, current detected as electrons are moving. Paraffin wax constitutes of Hydrogen atoms and was used because the unknown radiation could knock Protons out of it. By applying conservation laws of momentum/energy to the interaction of a Neutron with a proton (neutron mass similar to proton) Chadwick was able to prove existence of the neutron. Chadwick correctly assumed the alpha radiation produced neutrons by transmuting () the Beryllium nucleus to a carbon nucleus.
 
 momentum before = momentum after
 
@@ -3148,7 +2129,7 @@ Bohr based on Rutherford’s model, Bohr observed spectral lines of Hydrogen in 
   <tr>
    <td>Could not explain why electrons did not attract and fall into the nucleus
 <p>
-If electrons were orbiting the nucleus, they would have centripetal acceleration hence, release EMR resulting in a loss of KE 🡪 electrons slow down and unable to maintain orbit around nucleus 🡪 collapse into nucleus 🡪 every atom would be unstable
+If electrons were orbiting the nucleus, they would have centripetal acceleration hence, release EMR resulting in a loss of KE $\rightarrow$ electrons slow down and unable to maintain orbit around nucleus $\rightarrow$ collapse into nucleus $\rightarrow$ every atom would be unstable
    </td>
    <td>Angular momentum L = mvr (mass x velocity x radius), L is quantised
    </td>
@@ -3289,9 +2270,9 @@ When and electron changes energy shells (from higher to lower), it emits energy 
 
 E = E<sub>i</sub> – E<sub>f</sub> = hf = hc/λ
 
-Ionisation is the removal of an electron from an atom so that electrostatic attraction is negligible. Ground energy level of the atom 🡪 electron in the orbit with the smallest radius (1<sup>st</sup> shell). The energy of the photon released and its frequency (E = hf) when the electron changes energy shells is given by:
+Ionisation is the removal of an electron from an atom so that electrostatic attraction is negligible. Ground energy level of the atom $\rightarrow$ electron in the orbit with the smallest radius (1<sup>st</sup> shell). The energy of the photon released and its frequency (E = hf) when the electron changes energy shells is given by:
 
-E = E<sub>1</sub> – E<sub>2</sub> = hf, v = fλ, E = hf 🡪 f = v/λ 🡪 E = hv/λ = hc/λ
+E = E<sub>1</sub> – E<sub>2</sub> = hf, v = fλ, E = hf $\rightarrow$ f = v/λ $\rightarrow$ E = hv/λ = hc/λ
 
 The most energy is required to elevate electron from ground state to first excited shell.
 
@@ -3307,7 +2288,7 @@ hc/λ = mc<sup>2</sup>
 
 λ = h/mc where λ is wavelength of particle (m), m is mass (Kg), mc is momentum of the particles (Ns or Kgms<sup>-1</sup>)
 
-LHS λ 🡪 wave properties, RHS mc 🡪 momentum 🡪 particle property
+LHS λ $\rightarrow$ wave properties, RHS mc $\rightarrow$ momentum $\rightarrow$ particle property
 
 λ = h/mv
 
@@ -3325,7 +2306,7 @@ Davisson and Germer studied the surface of Nickel crystal by observing the scatt
 ![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image45.jpg "image_tooltip")
 
 
-Nickel crystal acts as a diffraction grating (unexpectedly due to anneal) 🡪 electrons gave diffraction pattern similar to X-Rays. Diffraction have been seen with neutrons, He and alpha where λ matches de Broglie’s predictions.
+Nickel crystal acts as a diffraction grating (unexpectedly due to anneal) $\rightarrow$ electrons gave diffraction pattern similar to X-Rays. Diffraction have been seen with neutrons, He and alpha where λ matches de Broglie’s predictions.
 
 As angle θ was changed, a diffraction pattern was made. Diffraction is a wave property. Wavelengths measured from electron diffraction; interference patterns matched De Broglie’s (λ = h/mv) predictions, confirming his matter-wave theory. George Thomson fired a beam of electrons through a thin gold foil and observed diffraction rings thus, 2 teams using different experiments, proved the wave nature of electrons thus, proving De Broglie’s proposal.
 
@@ -3364,7 +2345,7 @@ Quantised energy levels of the H atom
 
 Bohr’s postulate (electrons move in integer orbits) around the nucleus without radiating energy. This observed stability Bohr was unable to explain. De Broglie’s matter waves explained the stability of electrons i.e. electrons moving in standing waves round nucleus, electron is on wave. If an electron sets up a standing wave around the nucleus, the circumference is 2πr and there are a whole number of wavelengths (number contained depends on circumference of orbital).
 
-nλ = 2πr (sub de Broglie λ = h/mv) 🡪nh/mv = 2πr 🡪 mvr = nh/2π (thus, angular momentum is quantised)
+nλ = 2πr (sub de Broglie λ = h/mv) $\rightarrow$nh/mv = 2πr $\rightarrow$ mvr = nh/2π (thus, angular momentum is quantised)
 
 Bohr’s fourth postulate for angular momentum (L is quantised) thus, confirming de Broglie’s matter-wave.
 
@@ -3398,7 +2379,7 @@ Atomic number (z number) – number of protons in the nucleus = electrons in neu
 
 Mass number (A) – number of protons + neutrons (nucleons)
 
-Isotopes of an element have the same number of protons, but different number of neutrons. Isotopes are chemically identical but, have different physical properties. A radio-isotope is unstable and emits particles α (<sup>4<sub>2</sub></sup>H) and β (e<sup>-</sup>) until they become stable. Unstable nuclei release high energy radiation 🡪 ionising radiation. Spontaneous decay is a loss of mass (∆m = mass defect) as some mass is converted into energy (E = mc<sup>2</sup>) eg: α (<sup>4<sub>2</sub></sup>H) and β (e<sup>-</sup>) decay. This changes a radio-isotope into a different element (transmutation). γ radiation (high energy EMR) is also emitted from unstable nuclei
+Isotopes of an element have the same number of protons, but different number of neutrons. Isotopes are chemically identical but, have different physical properties. A radio-isotope is unstable and emits particles α (<sup>4<sub>2</sub></sup>H) and β (e<sup>-</sup>) until they become stable. Unstable nuclei release high energy radiation $\rightarrow$ ionising radiation. Spontaneous decay is a loss of mass (∆m = mass defect) as some mass is converted into energy (E = mc<sup>2</sup>) eg: α (<sup>4<sub>2</sub></sup>H) and β (e<sup>-</sup>) decay. This changes a radio-isotope into a different element (transmutation). γ radiation (high energy EMR) is also emitted from unstable nuclei
 
 The 3/4 types of radioactive decay:
 
@@ -3419,7 +2400,7 @@ Relatively heavy
    </td>
    <td>Example:
 <p>
-Uranium 🡪 Thorium
+Uranium $\rightarrow$ Thorium
 <p>
 
 
@@ -3645,7 +2626,7 @@ Trends from a BE graph are:
 *   Binding energy of nucleon increase as the smaller nuclei fuse together, this is the energy released during fusion
 *   Elements w/ A = 40-80 have the most stable nuclei, they have the highest binding energy per nucleon and take more energy to break nuclei apart.
 *   Fission is everything after iron
-*   Larger nuclei (greater than iron) have a lower binding energy per nucleon 🡪 relatively lower stability
+*   Larger nuclei (greater than iron) have a lower binding energy per nucleon $\rightarrow$ relatively lower stability
 *
 *   Iron (56) has the most stable nucleus. Nuclei smaller than iron undergo fusion and release energy. Nuclei larger than iron undergo fission and release energy.
 
@@ -3668,9 +2649,9 @@ Cloud chamber experiments with cosmic rays allows for detection of positrons and
 
 8.5.2 Standard Model of Matter
 
-Matter – molecule 🡪 atom
+Matter – molecule $\rightarrow$ atom
 
-Proton and neutrons 🡪 quarks
+Proton and neutrons $\rightarrow$ quarks
 
 The atom consists of neutrons, electrons and protons. Particle accelerators and nuclear reactors have revealed other subatomic particles such as quarks, neutrino (v), anti-neutrino, positron. The standard model attempts to describe all interactions of subatomic particles and places matter into groups. All particles have antiparticles (opposite charge, identical otherwise)
 
@@ -3746,7 +2727,7 @@ Most of standard model was verified using particle accelerators.
 2. The high-energy particles are made to collide
 3. The kinetic energy is converted to rest mass, creating new particles that can be studied
 
-With more powerful particle-accelerators that can produce particle collisions 🡪 increase in subatomic particles discovered eg: Large Hadron Collider (LHC). Particle accelerators give protons, electrons or ions (charged particles) (must have a charge) enough energy to smash into one another.
+With more powerful particle-accelerators that can produce particle collisions $\rightarrow$ increase in subatomic particles discovered eg: Large Hadron Collider (LHC). Particle accelerators give protons, electrons or ions (charged particles) (must have a charge) enough energy to smash into one another.
 
 Examples of particle accelerators:
 
@@ -3799,9 +2780,9 @@ Explain: role of particle accelerators in obtaining evidence that tests or valid
 
 Particle accelerators assist in probing and investigating the structure of matter by:
 
-High energy 🡪 high speed 🡪 λ = h/mv 🡪 wavelength reduces as v increases 🡪 smaller wavelengths results in higher resolution allowing very small particles to be detected
+High energy $\rightarrow$ high speed $\rightarrow$ λ = h/mv $\rightarrow$ wavelength reduces as v increases $\rightarrow$ smaller wavelengths results in higher resolution allowing very small particles to be detected
 
-High energy 🡪 higher mass/momentum 🡪 can be detected as it is larger Pv = m0v/√1-v<sup>2</sup>/c<sup>2</sup>
+High energy $\rightarrow$ higher mass/momentum $\rightarrow$ can be detected as it is larger Pv = m0v/√1-v<sup>2</sup>/c<sup>2</sup>
 
 A vast majority of particles can only be observed in high energy particle accelerators, at lower energies these particles are not visible
 
