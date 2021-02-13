@@ -1,15 +1,15 @@
 ---
 # Page title
-title: "HSC Mathematics Standard 2"
+title: PDHPE - HSC
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: Mathematics Standard 2
+linktitle: "PDHPE"
 
 # Page summary for search engines.
 summary: Blah, blah, blah...
 
 # Date page published
-date: 2020-12-02
+date: 2020-13-02
 
 # Academic page type (do not modify).
 type: book
@@ -18,14 +18,14 @@ type: book
 weight: 1
 ---
 
-## Posts
+## Core Modules
 
-- [Networks](networks/)
+- [Core 1: Health Priorities in Australia](core-1/)
+- [Core 2: Factors Affecting Performance](core-2/)
 
 ## Resources
 
-- [Standard Mathematics Data Sheet](/nesa/f2eb9621-9b03-4d1a-a76c-099b0a4d7c3d/mathematics-standard-1-and-2-reference-sheet-nov-2019.pdf?MOD=AJPERES&CVID=)
-- [Standard Mathematics Syllabus](4cfbc9c1-e763-4d43-9c8a-deb9780adc7b/mathematics-standard-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=)
+- [PDHPE Syllabus](/nesa/218e2038-fb2e-423e-bda2-02cad4f7ad14/pdhpe-st6-syl-from2010+PDHPE.pdf?MOD=AJPERES&CVID=)
 
 {{< callout note >}}
 
