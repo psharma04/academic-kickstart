@@ -84,7 +84,7 @@ headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/csec-cdn/*"
-  to = "https:///csec-cdn.intranet.pw/:splat"
+  to = "/csec-cdn.intranet.pw/:splat"
   status = 200
   force = true
   headers = {X-From = "DeuteriumWebServer"}

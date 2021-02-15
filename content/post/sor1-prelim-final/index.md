@@ -980,7 +980,7 @@ tags:
 
 
 
-<img src="https:///csec-cdn/schoolnotes.intranet.pw/dreaming1.jpg" width="" alt="The Dreaming. Source: aboriginalart.com">
+<img src="/csec-cdn/schoolnotes.intranet.pw/dreaming1.jpg" width="" alt="The Dreaming. Source: aboriginalart.com">
 
 </li>
 </ul>
@@ -1703,7 +1703,7 @@ tags:
 
 
 
-<img src="https:///csec-cdn/schoolnotes.intranet.pw/family-tree-of-religious-groups.png" alt="Family Tree of Religious Groups">
+<img src="/csec-cdn/schoolnotes.intranet.pw/family-tree-of-religious-groups.png" alt="Family Tree of Religious Groups">
 
 </li>
 </ul>

@@ -27,7 +27,7 @@ categories:
   * 1961 - 88.4%
   * 1986 - 74.1%
   * 2016 - 52%
-    ![Christian Denomination Census Breakdown](https:///csec-cdn/schoolnotes.intranet.pw/christianity-census.png)
+    ![Christian Denomination Census Breakdown](/csec-cdn/schoolnotes.intranet.pw/christianity-census.png)
 * The fall in Christian adherence is attributed to an increase in people turning away from religion, as well as migration from Asia and the Middle East
 
 ### Formation of the Uniting Church

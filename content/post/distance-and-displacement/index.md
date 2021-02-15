@@ -19,7 +19,7 @@ tags:
 - For example: If you run a 5km on a circular course, your distance traveled is 5 kilometers, regardless of where you started and finished.
   - However, your displacement is ZERO if you finish where you started.
 ## Distance-Over-Time Graphs
-![Distance Over Time Graph image](https:///csec-cdn/schoolnotes.intranet.pw/distance-over-time-graph.png)
+![Distance Over Time Graph image](/csec-cdn/schoolnotes.intranet.pw/distance-over-time-graph.png)
 
 - NOTE: in a distance-over-time graph, Distance must ALWAYS be on the Y-Axis, while Time must ALWAYS be on the X-Axis
 - If the graph is increasing, the object is IN MOTION
@@ -27,7 +27,7 @@ tags:
 - Distance-over-Time graphs CANNOT DECREASE!!! Only Displacement Graphs can decrease.
 - Distance-Over-Time graphs must always be above the x-axis.
 ## Displacement Graphs
-![Displacement Graph image](https:///csec-cdn/schoolnotes.intranet.pw/displacement-time-graph.png)
+![Displacement Graph image](/csec-cdn/schoolnotes.intranet.pw/displacement-time-graph.png)
 
 - NOTE: in a distance-over-time graph, Distance must ALWAYS be on the Y-Axis, while Time must ALWAYS be on the X-Axis
 - If the graph is flat-lining, the object has STOPPED

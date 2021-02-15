@@ -20,10 +20,10 @@ weight: 1
 
 ## Posts
 
-- [Module 1: Properties and Structure of Matter (INCOMPLETE)](module-1)
+- [Module 1: Properties and Structure of Matter](module-1/)
 - [Module 2: Introduction to Quantitative Chemistry](module-2)
-- [Module 3: Reactive Chemistry](module-4)
-- [Module 4: Drivers of Reactions](module-4)
+- [Module 3: Reactive Chemistry](module-3/)
+- [Module 4: Drivers of Reactions](module-4/)
 
 ## Resources
 

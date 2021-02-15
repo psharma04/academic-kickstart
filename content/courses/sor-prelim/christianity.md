@@ -435,7 +435,7 @@ projects: []
 
 
 
-<img src="https:///csec-cdn/schoolnotes.intranet.pw/family-tree-of-religious-groups.png" alt="Family Tree of Religious Groups">
+<img src="/csec-cdn/schoolnotes.intranet.pw/family-tree-of-religious-groups.png" alt="Family Tree of Religious Groups">
 
 </li>
 </ul>

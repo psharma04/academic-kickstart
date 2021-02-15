@@ -61,7 +61,7 @@ projects: []
 > \\(\color{lightgreen}{CH_4 +2O_2}\\)$\rightarrow$\\(\color{lightblue}{CO_2 +2H_2 O}\\)
 ### Precipitation Reactions
 - When soluble ionic compounds are dissolved in water, the lattice "dissolves", and the ions are separated
-![Image of the dissolution of an ionic compound](https:///csec-cdn/schoolnotes.intranet.pw/dissolution-of-an-ionic-compound-in-water-n.jpg)
+![Image of the dissolution of an ionic compound](/csec-cdn/schoolnotes.intranet.pw/dissolution-of-an-ionic-compound-in-water-n.jpg)
 - If two solutions are mixed together, it's really just 4 different ions suspended in water
 - However, certain combinations of ions will form an insoluble compound when mixed
 - These compounds will form a PRECIPITATE, a small ionic crystal lattice
