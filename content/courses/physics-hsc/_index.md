@@ -3,7 +3,7 @@
 title: Physics - HSC
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: "Physics"
+linktitle: "HSC Physics"
 
 # Page summary for search engines.
 summary: Blah, blah, blah...

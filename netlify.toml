@@ -102,4 +102,10 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = true
   headers = {X-From = "HydroniumWebServer"}
-  
+
+[[redirects]]
+  from = "/itsfckingraw/*"
+  to = "https://raw.githubusercontent.com/psharma04/academic-kickstart/master/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "DeuteriumWebServer"}

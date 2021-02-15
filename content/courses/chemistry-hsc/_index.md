@@ -3,7 +3,7 @@
 title: Chemistry - HSC
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: "Chemistry"
+linktitle: "HSC Chemistry"
 
 # Page summary for search engines.
 summary: Blah, blah, blah...

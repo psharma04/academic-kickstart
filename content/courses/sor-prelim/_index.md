@@ -1,15 +1,15 @@
 ---
 # Page title
-title: "HSC Mathematics Standard 2"
+title: "Studies of Religion - Preliminary"
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: Mathematics Standard 2
+linktitle: "Preliminary SOR"
 
 # Page summary for search engines.
 summary: Blah, blah, blah...
 
 # Date page published
-date: 2020-12-02
+date: 2020-13-02
 
 # Academic page type (do not modify).
 type: book
@@ -18,14 +18,19 @@ type: book
 weight: 1
 ---
 
-## Posts
+## Core Module
 
-- [Networks](networks/)
+- [Nature of Religion and Beliefs](core-1/)
+
+## Religious Depth Studies
+
+- [Judaism](judaism/)
+- [Christianity](christianity/)
 
 ## Resources
 
-- [Standard Mathematics Data Sheet](/nesa/f2eb9621-9b03-4d1a-a76c-099b0a4d7c3d/mathematics-standard-1-and-2-reference-sheet-nov-2019.pdf?MOD=AJPERES&CVID=)
-- [Standard Mathematics Syllabus](4cfbc9c1-e763-4d43-9c8a-deb9780adc7b/mathematics-standard-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=)
+- [Studies Of Religion Syllabus](/nesa/4681e46b-4344-4550-9a99-c71b6d102f49/studies-religion-st6-syl-from2010+Studies+of+Religion.pdf?MOD=AJPERES&CVID=)
+- [Writing an SOR Short Response (Talk)](/talk/sor-short-responses-chips/)
 
 {{< callout note >}}
 
