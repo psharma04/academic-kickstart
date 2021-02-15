@@ -22,15 +22,16 @@ Find revision courses, tutorials, and cheat sheets for your subjects by pressing
 
 ## Recently Updated Courses
 
+- [Preliminary Chemistry](chemistry-prelim/)
 - [Preliminary Biology](biology-preliminary/)
 - [HSC Chemistry](chemistry-hsc/)
-- [HSC Biology](hsc-biology/)
 
 ## Preliminary Courses
 
 ### Sciences
 
 - [Preliminary Biology](biology-preliminary/)
+- [Preliminary Chemistry](chemistry-prelim/)
 
 ### Social Sciences
 
