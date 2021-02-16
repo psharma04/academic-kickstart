@@ -53,15 +53,16 @@ projects: []
 
   - In a longitudinal wave, particles move parallel to the direction of energy transfer.
 
-    ![Longitudinal and Transverse Waves](../assets/longitudinal-transverse-waves.png)
+    > ![Longitudinal and Transverse Waves](../assets/longitudinal-transverse-waves.png)
 
 - [This simulation demonstrates a wave - PHET COLORADO](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html)
 
 ### Measuring Mechanical Waves
 
 - Waves can be represented by displacement-distance graphs and displacement-time graphs.
+
 - The graph takes a sinusoidal shape (like a sine wave)
-  ![Wave Graph](/images/waves-graph-1.jpg)
+  
 
 ### The Role of the Medium 
 
@@ -99,7 +100,7 @@ projects: []
 
 - The displacement time graph of a transverse wave shows how a single particle is displaced from natural resting position as a function of time
 
-> ![Image-DcN9nbcF2021-Yy9Ufad9](assets/Image-DcN9nbcF2021-Yy9Ufad9.png)
+> ![Wave Graph](/images/waves-graph-1.jpg)
 
 ## Wave Behaviour
 
@@ -114,13 +115,13 @@ projects: []
 - A reflected wave has the same frequency, wavelength, and speed as the incident (original) wave
 - Wavefronts are identical before and after reflection
 
-> ![Image-7fywkWxe2021-Qg9Ongn9](assets/Image-7fywkWxe2021-Qg9Ongn9.png)
+> ![Image-7fywkWxe2021-Qg9Ongn9](../assets/Image-7fywkWxe2021-Qg9Ongn9.png)
 
 $\newcommand{orangebox}{\bbox[5px, border: 2px solid orange]}\newcommand{pinkbox}{\bbox[5px, border: 2px solid pink]}\newcommand{greenbox}{\bbox[5px, border: 2px solid green]}$
 
 #### Convex Mirrors
 
-> ![Image-ZvRl106O2021-bpmRuHfK](assets/Image-ZvRl106O2021-bpmRuHfK.png)
+> ![Image-ZvRl106O2021-bpmRuHfK](../assets/Image-ZvRl106O2021-bpmRuHfK.png)
 
 - Rays diverge after reflection
 - Used in car mirrors and surveillance systems
@@ -136,7 +137,7 @@ $\newcommand{orangebox}{\bbox[5px, border: 2px solid orange]}\newcommand{pinkbox
 
 - When an EM wave travels from one medium to another some of the wave will be absorbed, some reflected, and the rest propagates through the new medium
 
-> ![Image-VILIfIFQ2021-n0eFG1Wy](assets/Image-VILIfIFQ2021-n0eFG1Wy.png)
+> ![Image-VILIfIFQ2021-n0eFG1Wy](../assets/Image-VILIfIFQ2021-n0eFG1Wy.png)
 
 $$\color{orange}{n_{1}\sin\left(\alpha\right)=n_{2}\sin\left(\beta\right)}$$
 
@@ -165,7 +166,7 @@ If the boundary is struck parallel to the normal, the wavelength and speed still
 
 $$\orange{\text{Diffraction}=\frac{\omega}{\lambda}}$$
 
-> ![Image-5A983PcX2021-9mlzDpoJ](assets/Image-5A983PcX2021-9mlzDpoJ.png)
+> ![Image-5A983PcX2021-9mlzDpoJ](../assets/Image-5A983PcX2021-9mlzDpoJ.png)
 
 ### Superposition
 
@@ -187,7 +188,7 @@ $$\orange{\lambda_{n}=\frac{1}{n}\cdot\lambda_{1}}$$
 
 - In other words, the frequency of harmonic n is equal to n multiplied by the frequency of harmonic 1 (usually middle C)
 
-> ![Image-boS34XYd2021-d5ZQvusf](assets/Image-boS34XYd2021-d5ZQvusf.png)
+> ![Image-boS34XYd2021-d5ZQvusf](../assets/Image-boS34XYd2021-d5ZQvusf.png)
 
 ### Resonance
 
@@ -201,7 +202,7 @@ $$\orange{\lambda_{n}=\frac{1}{n}\cdot\lambda_{1}}$$
 - Travel at 343m/s
 - Changes depending on air pressure and temperature
 
-> ![Image-9TRcJCju2021-CnkBRrNv](assets/Image-9TRcJCju2021-CnkBRrNv.png)
+> ![Image-9TRcJCju2021-CnkBRrNv](../assets/Image-9TRcJCju2021-CnkBRrNv.png)
 
 - Sound waves are measured in $W/m^2$, and are calculated by:
 
@@ -215,3 +216,140 @@ $$\orange{I=\frac{P}{4πr^{2}}}$$
 
 - Amplitude and volume are *directly proportional* (increasing one increases the other)
 
+Echoes:
+
+- Minimum distance the boundary needs to be away (from both the source and the listener) is 17m. 
+- The sound wave has to travel a total of at least 34m. 
+- The best echoes come from hard, smooth surfaces. 
+- For a human to perceive two sounds as separate sounds, they MUST be 0.1 seconds apart.
+
+## The Doppler Effect
+
+- When the source of a sound wave approaches an observer, the observer interprets the sound as compressed, and therefore higher pitched
+- The opposite is true when the source is travelling away from an observer
+- The frequency shift can be calculated by:
+
+$$\orange{f\prime=f\left(\frac{v_{wave}+v_{observer}}{v_{wave}-v_{source}}\right)}$$
+
+## Ray Model of Light
+
+### Ray Diagrams
+
+> ![Image-HEKS4Wcb2021-owficbOR](../assets/Image-HEKS4Wcb2021-owficbOR.png)
+
+### Describing Ray Diagrams
+
+- Questions will often ask you to describe the image produced by a ray diagram
+- To describe these images, use TOMP:
+  - **T**ype of image (real/virtual)
+  - **O**rientation (upright/inverted)
+  - **M**agnification (enlarged/diminished/true size)
+  - **P**osition (distance from the mirror)
+
+- Magnification can be calculated by:
+
+$$\orange{M=\frac{h_{i}}{h_{o}}\text{, where:}}$$
+
+- $M=$magnification scale
+- $h_i=$ image height
+- $h_{o}=$ object height
+
+### Mirror Formula
+
+$$\orange{\frac{1}{f}=\frac{1}{u}+\frac{1}{v}\text{, where:}}$$
+
+- $f=$ focal length of the mirror (cm)
+- $u=$ distance between mirror and object (cm)
+
+- $v=$ distance between mirror and image (cm)
+
+{{< callout warning >}}
+
+The formula for lenses is the same, just switch out "mirror" for "lens"
+
+{{< /callout >}}
+
+- Now that we have the mirror formula, we can expand the magnification formula:
+
+$$\orange{M=\frac{h_{i}}{h_{o}}=\frac{-v}{u}}$$
+
+### Lenses
+
+- A lens is a transparent piece of material which bends light in a specific manner
+- Converging lenses bend light rays to meet at a specific focal point
+- Diverging lenses bend light away from each other
+
+> Converging Lens:
+>
+> ![Image-1KNsU8nl2021-NQWBQz7D](../assets/Image-1KNsU8nl2021-NQWBQz7D.png)
+>
+> Diverging Lens:
+>
+> ![Image-U6cnHugq2021-lmdh0qgi](../assets/Image-U6cnHugq2021-lmdh0qgi.png)
+
+### Refractive Index
+
+- The speed of a wave depends on the density of the medium
+- The density, when referring to its effect on waves, is referred to as a medium's *refractive index*
+
+- A total vacuum has a refractive index of $n=1.00$
+- A higher refractive index means light will travel slower in that medium
+- Refractive index is calculated by:
+
+$$\orange{n_{material}=\frac{c}{v_{material}}}$$
+
+- Where $c$ is the speed of light in a vacuum $(3\times10^{8}\text{ m/s})$
+
+## Thermodynamics
+
+### Temperature and Kinetic Energy
+
+- While an object may be at rest, the particles it is composed of are in a constant state of motion
+- As temperature increases, the Kinetic energy increases, so the particles move more quickly
+- This allows energy to be transferred faster at higher temperatures
+
+> Heat is a measure of the transfer of thermal energy between bodies
+
+### Thermal Equilibrium
+
+- Thermal energy is always transferred from regions of higher temperature to regions of lower temperature
+
+- The Zeroth Law of thermodynamics states that:
+
+  > “If two thermodynamics systems are each in equilibrium with a third system, then they are also in equilibrium with each other.”
+
+- The First Law of Thermodynamics, also known as the Law of Conservation of Energy, states that:
+
+  > "Energy cannot be created, nor destroyed."
+
+### Specific Heat Capacity
+
+- A measure of how much energy 1kg of a substance must absorb to increase in temperature by $\newcommand{deg}{^{\circ}}1\deg C$
+- Water has a specific heat capacity of 4186J/kg/K
+  - In other words, it takes 4186J of energy to increase the temperature of 1kg of water by 1 Kelvin
+
+- Specific heat capacity can be calculated with the formula:
+
+$$\orange{\Delta Q=mc\Delta T\text{, where:}}$$
+
+- $ \Delta Q=$change in energy (Joules)
+- $m=$ mass of the substance (kg)
+- $c=$ specific heat capacity of the substance (J/kg/K)
+- $\Delta T=$ change in temperature (K)
+
+### Latent Heat
+
+- Latent heat of fusion is the amount of energy required to change 1kg of a substance from liquid to gas WITHOUT CHANGING ITS TEMPERATURE
+
+$$\orange{Q=mL\text{, where:}}$$
+
+- $Q=$ Energy released (J)
+- $m=$ mass of the substance (kg)
+
+- $L=$ Latent heat of fusion (J/kg)
+
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+
+{{< /callout >}}
