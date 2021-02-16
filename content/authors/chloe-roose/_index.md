@@ -11,5 +11,8 @@ interests:
 social: []
 email: ""
 superuser: false
+user_groups:
+  - Writers
+  - all
 ---
 I’m a year 12 student at St Mark’s Catholic College, and my major interests are in human nature, textual representations of emotion, and understanding the way the world works both philosophically and scientifically.
