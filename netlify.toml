@@ -83,8 +83,15 @@ force = true
 headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
+from = "/img-cdn/*"
+to = "https://img-cdn.schoolnotes.xyz/:splat"
+status = 200
+force = true
+headers = {X-From = "DeuteriumWebServer"}
+
+[[redirects]]
   from = "/csec-cdn/*"
-  to = "/csec-cdn.intranet.pw/:splat"
+  to = "https:///csec-cdn.intranet.pw/:splat"
   status = 200
   force = true
   headers = {X-From = "DeuteriumWebServer"}
@@ -109,3 +116,4 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = true
   headers = {X-From = "DeuteriumWebServer"}
+  
