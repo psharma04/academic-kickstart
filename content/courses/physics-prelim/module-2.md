@@ -261,12 +261,13 @@ The work energy theorem can be used as a definition for change in kinetic energy
   > $W_{gravity}=m\vec{g}\Delta\vec{h}$
 * Gravity is represented in equations by $\Delta U$ for some reason, so the final equation is
 
-  > $\Delta U=m\vec{g}\Delta\vec{h}$
-  > {{% callout note %}}
-  > GPE is a form of energy, and is therefore SCALAR. This means direction doesn't actually matter in the equations, even though most of the equation is made of vectors.
+> $\Delta U=m\vec{g}\Delta\vec{h}$
 
-  \- {{% mention jackson-taylor %}}
-  {{% /callout %}}
+{{% callout note %}}
+GPE is a form of energy, and is therefore SCALAR. This means direction doesn't actually matter in the equations, even though most of the equation is made of vectors.
+
+\- {{% mention jackson-taylor %}}
+{{% /callout %}}
 
 #### Elastic Potential Energy
 
@@ -288,12 +289,14 @@ The work energy theorem can be used as a definition for change in kinetic energy
 * Because of this, mechanical energy can be defined as **"the sum of ALL kinetic and potential energies attributed to an object."**
 * This can be expressed mathematically as:
 
-  > $E_m =K+U=\frac{1}{2}m\vec{v}^2 +m\vec{g} \vec{h}+\frac{1}{2}kx^2$
-  > {{% callout note %}}
-  > Most of the time, the $\frac{1}{2}kx^2$ part of the Mechanical Energy equation (elastic potential energy) is ignored.
+> $E_m =K+U=\frac{1}{2}m\vec{v}^2 +m\vec{g} \vec{h}+\frac{1}{2}kx^2$
 
-  \- {{% mention jackson-taylor %}}
-  {{% /callout %}}
+{{% callout note %}}
+Most of the time, the $\frac{1}{2}kx^2$ part of the Mechanical Energy equation (elastic potential energy) is ignored.
+
+\- {{% mention jackson-taylor %}}
+{{% /callout %}}
+
 * The mechanical energy formula is useful for converting between kinetic and potential energies
 
   * For example, consider a ball of mass 60g, which falls from a height of 1m.

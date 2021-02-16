@@ -6,7 +6,7 @@ title: Schoolnotes Courses
 linktitle: Courses
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Completed courses from the Schoolnotes Writers Team.
 
 # Date page published
 date: 2020-12-02
