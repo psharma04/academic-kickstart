@@ -10,7 +10,7 @@ categories: [Physics, Year 11, Kinematics, Module 1]
 date: 2020-08-18T20:12:01+10:00
 lastmod: 2020-08-18T20:12:01+10:00
 featured: false
-draft: true
+draft: false
 math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -19,7 +19,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
+type: book
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -49,7 +49,7 @@ projects: []
   - When using a sign convention it is CRUCIAL to provide a key explaining the convention used.
   - Using a sign convention allows you to enter the directions and magnitudes into your calculator. The sign of the final magnitude gives the direction of the total vector.
 
-### Steps for Adding:
+### Steps for Adding
 
 1. Apply the sign convention to change each of the directions to signs
 2. Add their magnitudes and their signs together

@@ -100,17 +100,17 @@ Unless given otherwise.
 - Orbitals are geometric areas of 95% electron presence probability as determined by Schrodinger’s equation in which one or two electrons can move. 
 - Principal energy levels (1, 2, 3...) are groupings of similar energy sublevels (s, p, d, f) which are in turn groupings of individual orbital lobes.
 
-> ![Image result for diagram of an electron orbital](assets/p.jpg)
+> ![Image result for diagram of an electron orbital](/courses/chemistry-prelim/assets/p.jpg)
 
 - The Aufbau principle governs that electrons fill atomic orbitals of the lowest available energy levels before occupying higher levels 
 
-> ![Image of Electron filling order](assets/131883_theaufbaudiagramliesattheheartofthetrouble_640390.jpg)
+> ![Image of Electron filling order](/courses/chemistry-prelim/assets/131883_theaufbaudiagramliesattheheartofthetrouble_640390.jpg)
 
 - Exceptions to Aufbau principle occur in the d block due to the reduced energy distinction between s and d levels and Coulombic repulsion (incl. Cu, Ag, Cr) 
 - The Heisenburg uncertainty principle states that the position and momentum of a particle (such as an electron) can not be measured accurately simultaneously 
 - The Pauli exclusion principle and Hund’s rule states that filled first by electrons with up spin, and then are completed with electrons of down spin (identical particles cannot occupy the same quantum state within a system)
 
-> ![Image-6zpdHfCF2021-o1ffEwAq](assets/Image-6zpdHfCF2021-o1ffEwAq.png)
+> ![Image-6zpdHfCF2021-o1ffEwAq](/courses/chemistry-prelim/assets/Image-6zpdHfCF2021-o1ffEwAq.png)
 
 ### Valency
 
@@ -126,7 +126,7 @@ Unless given otherwise.
   - Excluding helium, groups 13 - 18 comprise p orbitals from energy levels 2-7 
   - Lanthanides and actinides comprise group f from energy levels 4-5
 
-> ![Image-YrBDOKih2021-YBArpDRw](assets/Image-YrBDOKih2021-YBArpDRw.png)
+> ![Image-YrBDOKih2021-YBArpDRw](/courses/chemistry-prelim/assets/Image-YrBDOKih2021-YBArpDRw.png)
 
 ## Atomic Spectra and Flame Tests
 
@@ -137,7 +137,7 @@ Unless given otherwise.
 - Flame test: visible spectrum of light indicates ion
 - Mass spectrometry analyses the spectrum of light released by means of dispersion through an electromagnetic lens which is detected by an amplifier (which only identifies matching elements)
 
-> ![Image-JrEcTnYb2021-zdvHM7mP](assets/Image-JrEcTnYb2021-zdvHM7mP.png)
+> ![Image-JrEcTnYb2021-zdvHM7mP](/courses/chemistry-prelim/assets/Image-JrEcTnYb2021-zdvHM7mP.png)
 
 ## Isotopes and Radioactive Chemistry
 
@@ -176,7 +176,7 @@ To calculate relative atomic mass:
 
 ### Isotope Stability
 
-> ![Image-P9kEUCOE2021-nPZIGynq](assets/Image-P9kEUCOE2021-nPZIGynq.png)
+> ![Image-P9kEUCOE2021-nPZIGynq](/courses/chemistry-prelim/assets/Image-P9kEUCOE2021-nPZIGynq.png)
 
 ### Periodicity:
 
@@ -248,13 +248,13 @@ Types of intermolecular forces list by strength in descending order:
 - They conduct electricity when molten or aqueous as for substances to conduct electricity, they must have charged particles that are free to move. 
 - Ionic compounds are hard. There are no discrete molecules and their formulas are empirical.
 
-![Image-pEFzlq7o2021-sb4aXzwO](assets/Image-pEFzlq7o2021-sb4aXzwO.png)
+![Image-pEFzlq7o2021-sb4aXzwO](/courses/chemistry-prelim/assets/Image-pEFzlq7o2021-sb4aXzwO.png)
 
 - Metallic networks have a sea of delocalised electrons surrounding a positively charged cation with electrostatic bonding and good conductivity of electricity and heat. 
 - The electrostatic attraction between the cations and delocalised electrons is called *metallic bonding*. 
 - They have lustre and are malleable. E.g. zinc and sodium
 
-![Image-TheSaLMM2021-xf6yZoNs](assets/Image-TheSaLMM2021-xf6yZoNs.png)
+![Image-TheSaLMM2021-xf6yZoNs](/courses/chemistry-prelim/assets/Image-TheSaLMM2021-xf6yZoNs.png)
 
 - Covalent lattice networks have covalent bonding throughout the structure and are similar to ionic lattice but have higher melting points and generally do not conduct electricity e.g. Diamond, Graphite, Silicon Dioxide, Silicon Carbide. They are of tetrahedral shape.
 - Covalent molecular compounds are usually amorphous liquids or gases, volatile, have low boiling points, are poor conductors, and are soft.
@@ -270,7 +270,7 @@ Types of intermolecular forces list by strength in descending order:
    - 109.5 degree angle between atoms
    - E.g. *NH*4, *CH*4, *SiCl*4, *CCl*4
 
-> ![Image-KKtqeVSq2021-f08xIPAU](assets/Image-KKtqeVSq2021-f08xIPAU.png)
+> ![Image-KKtqeVSq2021-f08xIPAU](/courses/chemistry-prelim/assets/Image-KKtqeVSq2021-f08xIPAU.png)
 
 - Trigonal pyramidal:
   - Tetrahedral arrangement of electron pairs without one of the atoms.
@@ -278,7 +278,7 @@ Types of intermolecular forces list by strength in descending order:
   - 107 degree angle between atoms
   - E.g. *NH3*, *PCl3*
 
-> ![Image-YnhwYDZC2021-EUxj9uXp](assets/Image-YnhwYDZC2021-EUxj9uXp.png)
+> ![Image-YnhwYDZC2021-EUxj9uXp](/courses/chemistry-prelim/assets/Image-YnhwYDZC2021-EUxj9uXp.png)
 
 - Bent shape:
   - Tetrahedral arrangement of electron pairs but only two are bonded.
@@ -286,14 +286,14 @@ Types of intermolecular forces list by strength in descending order:
   - 105 degree angle between atoms
   - E.g. *H2O*, *H2S*, *CH2*
 
-> ![Image-JGNPuT2A2021-ZFsawSVF](assets/Image-JGNPuT2A2021-ZFsawSVF.png)
+> ![Image-JGNPuT2A2021-ZFsawSVF](/courses/chemistry-prelim/assets/Image-JGNPuT2A2021-ZFsawSVF.png)
 
 - Linear:
   - Tetrahedral arrangement of electron pairs but only one bonding pair, or 2 bonding pairs with no lone pairs ( *CO*2, *HCN*, *BeH*2 ) [2,0] [2,3]
   - 180 degree angle
   - E.g. *HCl*, *HF*
 
-> ![Image-xlTpOWEL2021-TCVFHdyx](assets/Image-xlTpOWEL2021-TCVFHdyx.png)
+> ![Image-xlTpOWEL2021-TCVFHdyx](/courses/chemistry-prelim/assets/Image-xlTpOWEL2021-TCVFHdyx.png)
 
 - Trigonal planar:
   - Repulsion between electron pairs is minimised by a triangular arrangement about the central atom such that the electron pairs are in the same place.
@@ -301,7 +301,7 @@ Types of intermolecular forces list by strength in descending order:
   - 120 degree angles between atoms
   - E.g.*BH*, *BF*, *SO*, *NO3*
 
-> ![Image-wFp8JMwG2021-Pc2jboYf](assets/Image-wFp8JMwG2021-Pc2jboYf.png)
+> ![Image-wFp8JMwG2021-Pc2jboYf](/courses/chemistry-prelim/assets/Image-wFp8JMwG2021-Pc2jboYf.png)
 
 ### Lewis diagrams
 
@@ -309,7 +309,7 @@ Types of intermolecular forces list by strength in descending order:
 - For ionic compounds, bracket the ion structure with the charge
 - Line bonds represent covalent bonds only
 
-![Image-RBtYsvCr2021-3sZrgrD1](assets/Image-RBtYsvCr2021-3sZrgrD1.png)
+![Image-RBtYsvCr2021-3sZrgrD1](/courses/chemistry-prelim/assets/Image-RBtYsvCr2021-3sZrgrD1.png)
 
 ### Evolution of Atomic Theories
 
@@ -321,7 +321,7 @@ Types of intermolecular forces list by strength in descending order:
 - Bohr: Electrons exist in discrete energy levels
 - Schrodinger: Quantum/geometric model of electron position (orbitals)
 
-> ![Image-txyuSl4n2021-NrnBBUGJ](assets/Image-txyuSl4n2021-NrnBBUGJ.png)
+> ![Image-txyuSl4n2021-NrnBBUGJ](/courses/chemistry-prelim/assets/Image-txyuSl4n2021-NrnBBUGJ.png)
 
 {{< callout note >}}
 
