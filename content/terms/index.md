@@ -10,17 +10,18 @@ date: 2020-05-18T08:30:43.408Z
 subtitle: Content, Licensing & Usage Agreement of the site.
 commentable: false
 share: false
+type: book
 ---
-### This site is subject to the [Creative Commons Attribution-Non-Commercial Share-Alike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+***This site is subject to the [Creative Commons Attribution-Non-Commercial Share-Alike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/)***
 
 ## What does that mean?
 
-### You are free to:
+### You are free to
 
 - **Share** — copy and redistribute the material in any medium or format
 - **Adapt** — remix, transform, and build upon the material
 
-### Under the following terms:
+### Under the following terms
 
 - **Attribution** — You must give [appropriate credit](https://wiki.creativecommons.org/License_Versions#Detailed_attribution_comparison_chart), provide a link to the license, and [indicate if changes were made](https://wiki.creativecommons.org/Best_practices_for_attribution#This_is_a_good_attribution_for_material_you_modified_slightly). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - **NonCommercial** — You may not use the material for [commercial purposes](https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses).
@@ -28,10 +29,15 @@ share: false
 
 - **No additional restrictions** — You may not apply legal terms or [technological measures](https://wiki.creativecommons.org/License_Versions#Application_of_effective_technological_measures_by_users_of_CC-licensed_works_prohibited) that legally restrict others from doing anything the license permits.
 
-### With the following important notes:
+### With the following important notes
 
 - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable [exception or limitation under Australian Fair Use Law](http://www.copyright.org.au/acc_prod/acc/Information_Sheets/Fair_Dealing__What_Can_I_Use_Without_Permission.aspx).
 - No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as [publicity, privacy, or moral rights](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees) may limit how you use the material.
+
+## How do I cite a post/course?
+
+- Once we complete the migration to the new layout, all of our posts and courses will directly support BiBTeX referencing, so you can load our posts into Mendeley, Zotero, or Endnote, as PDFs. 
+- Until then, most web citation engines (such as [zbib.org](https://zbib.org/)) can automatically find things like Date, Author, etc. for posts and courses.
 
 ## I have Questions/Want to License Content
 
