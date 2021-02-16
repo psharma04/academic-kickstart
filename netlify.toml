@@ -60,6 +60,21 @@
   force = true
   headers = {X-From = "NitricAcidWebServer"}
 
+[[redirects]]
+  from = "http://courses.schoolnotes.xyz/*"
+  to = "https://courses.schoolnotes.xyz/:splat"
+  status = 301
+  force = true
+  headers = {X-From = "NitricAcidWebServer"}
+  
+
+[[redirects]]
+  from = "https://courses.schoolnotes.xyz/*"
+  to = "https://schoolnotes.xyz/courses/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "NitricAcidWebServer"}
+  
 
 [[redirects]]
   from = "/arc-sw.js"
