@@ -38,7 +38,7 @@ hero_media = "icon_256.webp"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/courses/"
-  label = "Get Started"
+  label = "Find Courses"
   icon_pack = "fas"
   icon = "book"
 
@@ -53,7 +53,7 @@ hero_media = "icon_256.webp"
 **Academic courses, simplified.**
 Our guides are written by students, for students.
 
-<a href="/patreon/">​<picture>
+<a style="text-align: center;" href="/patreon/">​<picture>
     <source srcset="/patreon/patreon.webp" type="image/png">
     <img src="/patreon/patreon.png" alt="Become a patron">
 </picture></a>
