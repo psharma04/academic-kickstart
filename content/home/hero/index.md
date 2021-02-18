@@ -51,9 +51,9 @@ hero_media = "icon_256.webp"
 +++
 
 **Academic courses, simplified.**
-Our guides are written by students, for students.
 
-<a style="text-align: center;" href="/patreon/">​<picture>
+Our guides are written by students, for students.
+<a href="/patreon/">​<picture>
     <source srcset="/patreon/patreon.webp" type="image/png">
     <img src="/patreon/patreon.png" alt="Become a patron">
 </picture></a>
