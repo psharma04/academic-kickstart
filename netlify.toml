@@ -131,3 +131,10 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = true
   headers = {X-From = "DeuteriumWebServer"}
+
+[[redirects]]
+  from = "/jsdelivr-proxy/*"
+  to = "https://cdn.jsdelivr.net/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "DeuteriumWebServer"}
