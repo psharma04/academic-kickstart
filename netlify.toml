@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -v -b $URL"
+  command = "hugo mod get -u ./... && hugo --gc --minify -v -b $URL"
   publish = "public"
 
 [build.environment]
@@ -66,7 +66,7 @@
   status = 301
   force = true
   headers = {X-From = "NitricAcidWebServer"}
-  
+
 
 [[redirects]]
   from = "https://courses.schoolnotes.xyz/*"
@@ -74,7 +74,7 @@
   status = 200
   force = true
   headers = {X-From = "NitricAcidWebServer"}
-  
+
 
 [[redirects]]
   from = "/arc-sw.js"
@@ -131,4 +131,3 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = true
   headers = {X-From = "DeuteriumWebServer"}
-  
