@@ -37,15 +37,15 @@ hero_media = "icon_256.webp"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
+  url = "/blog/"
+  label = "What's new?"
+
+
+[cta_alt]
   url = "/courses/"
   label = "Get Started"
   icon_pack = "fas"
   icon = "book"
-
-[cta_alt]
-  url = "/post/"
-  label = "What's New?"
-
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
