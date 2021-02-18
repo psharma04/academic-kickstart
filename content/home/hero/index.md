@@ -20,8 +20,8 @@ hero_media = "icon_256.webp"
   # color = "navy"
 
   # Background gradient.
-gradient_start = "#25222F"
-gradient_end = "#22262F"
+  gradient_start = "#25222F"
+  gradient_end = "#22262F"
 
   # Background image.
   # image = ""  # Name of image in `static/img/`.
