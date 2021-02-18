@@ -21,7 +21,6 @@ hero_media = "icon_256.webp"
 
   # Background gradient.
 gradient_start = "#25222F"
-
 gradient_end = "#22262F"
 
   # Background image.
@@ -55,5 +54,4 @@ gradient_end = "#22262F"
 **Academic courses, simplified.**
 Our guides are written by students, for students.
 
-
-<a href="https://www.patreon.com/bePatron?u=18821196" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<div><a href="https://www.patreon.com/bePatron?u=18821196" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></div>
