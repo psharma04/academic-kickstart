@@ -4,24 +4,29 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Home"
+  url = "#hero"
+  weight = 5
+
+[[main]]
+  name = "Courses"
+  url = "/courses"
   weight = 10
+
+[[main]]
+  name = "Blog"
+  url = "/blog"
+  weight = 15
+
+[[main]]
+  name = "Meet The Team"
+  url = "#people"
+  weight = 20
 
 [[main]]
   name = "Supporters"
   url = "#supporters"
-  weight = 15
-
-  [[main]]
-    name = "Meet The Team"
-    url = "#people"
-    weight = 30
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Workshops"
@@ -32,11 +37,6 @@
   name = "Contact"
   url = "#contact"
   weight = 60
-
-[[main]]
-  name = "Contribute"
-  url = "/docs/"
-  weight = 70
 
 [[main]]
   name = "<i class='fab fa-patreon'></i>"

@@ -7,8 +7,8 @@ summary: "Notes for Module 6 of Chemistry (Acids and Bases)"
 authors: [Pranav Sharma, Jackson Taylor]
 tags: [Year 12, Chemistry, Module 6, Acids and Bases, Acids, Bases, Bronsted-Lowry, Hydronium, Dissociation, Amphiprotic, Organic Acids, Neutralisation, Neutralization, pH, pH scale, Litmus paper, Alkali, Basic, Base, Acid, Carbonate, Phenolphthalein, Bromoethyl Blue, Methyl Orange, Indicator, Lavoisier, Arrhenius, Bronsted, Davy, Dilution, Precipitation, Conjugate pair]
 categories: [Year 12, Chemistry, Module 6, Acids and Bases]
-date: 2021-02-06T10:01:33+11:00
-lastmod: 2021-02-06T10:01:33+11:00
+date: 2021-02-07T10:01:33+11:00
+lastmod: 2021-02-07T10:01:33+11:00
 featured: false
 draft: false
 math: true
