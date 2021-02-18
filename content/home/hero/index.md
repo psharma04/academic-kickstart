@@ -46,14 +46,10 @@ hero_media = "icon_256.webp"
   url = "/blog/"
   label = "What's New?"
 # Note. An optional note to show underneath the links.
-#[cta_note]
-#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+[cta_note]
+  label = '<a href="/patreon/" alt="Become a patron">​<picture> <source srcset="/patreon/patreon.webp" alt="Become a patron"><img src="/patreon/patreon.png" alt="Become a patron" type="image/png"> </picture></a>'
 +++
 
 **Academic courses, simplified.**
 
 Our guides are written by students, for students.
-<a href="/patreon/">​<picture>
-    <source srcset="/patreon/patreon.webp" type="image/png">
-    <img src="/patreon/patreon.png" alt="Become a patron">
-</picture></a>
