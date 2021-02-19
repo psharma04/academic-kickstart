@@ -47,9 +47,11 @@ hero_media = "icon_256.webp"
   label = "What's New?"
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<a href="/patreon/" alt="Become a patron">​<picture> <source srcset="/patreon/patreon.webp" alt="Become a patron"><img src="/patreon/patreon.png" alt="Become a patron" type="image/png"> </picture></a>'
+  label = '<a href="/terms/">Please note that use of the site is subject to the Site License Policy.</a>'
 +++
 
 **Academic courses, simplified.**
 
 Our guides are written by students, for students.
+
+<a href="/patreon/" alt="Become a patron"> <img srcset="/patreon/patreon.svg, /patreon/patreon.webp, /patreon/patreon_2x.png 2x, /patreon/patreon_1x.png 1x" src="/patreon/patreon_1x.png" loading="eager"><a>
