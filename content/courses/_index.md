@@ -47,8 +47,8 @@ Find revision courses, tutorials, and cheat sheets for your subjects by pressing
 ### Sciences
 
 - [HSC Chemistry](chemistry-hsc/)
-- [HSC Biology](hsc-biology/)
-- [HSC Physics](hsc-physics/)
+- [HSC Biology](biology-hsc/)
+- [HSC Physics](physics-hsc/)
 - [HSC PDHPE](pdhpe-hsc/)
 
 ### Social Sciences
