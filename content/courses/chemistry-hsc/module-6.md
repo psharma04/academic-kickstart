@@ -130,7 +130,7 @@ $$\text{Molecule (Color 1)}\ce{<=>}\text{Hydrogen Ion + Anion (Color 2)}$$
 
 - Acids such as Hydrochloric Acid can be used to lower the pH
 
-  > Kinda weird that you can buy nearly pure strong acids in a 25L container from a pool shop and no one will question it :woman_shrugging: like they're not even expensive or anything
+  > Kinda weird that you can buy concentrated strong acids in a 25L container from a pool shop and no one will question it :woman_shrugging: like they're not even expensive or anything
 
 - Substances such as sodium carbonate $(\ce{Na2CO3})$ can be added to raise the pH if it's too low
 
@@ -217,7 +217,7 @@ Acids and bases are defined by their **role** in a reaction:
 
    - The **proton acceptor** is the Bronsted-Lowry **base**
 
-     The Bronsted-Lowry definition allows **many more species** to be defined as acids or bases. It can explain the basic behaviour of **ammonia**. The NH3(aq) is accepting a proton from HCl in the aqueous solution. NH3(aq) is a Bronsted Lowry base and HCl is a Bronsted Lowry acid.
+     The Bronsted-Lowry definition allows **many more species** to be defined as acids or bases. It can explain the basic behaviour of **ammonia**. The $\ce{NH3{(aq)}}$ is accepting a proton from $\ce{HCl}$ in the aqueous solution. $\ce{NH3{(aq)}}$ is a Bronsted Lowry base and $\ce{HCl}$ is a Bronsted Lowry acid.
 
 - Bronsted Lowry theory also explains the basic behaviour of **ionic compounds** in solution.
 - Soluble carbonates and hydrogen carbonates **contain Bronsted Lowry bases**. They produce basic solutions.
@@ -226,7 +226,7 @@ Acids and bases are defined by their **role** in a reaction:
 
    $\ce{Na2CO3 → 2Na+ + CO3^2−}$
 
-2. 2)  The dissolved carbonate or hydrogen carbonate ion is a Bronsted Lowry base which **reacts with water** to produce hydroxide ions:
+2. The dissolved carbonate or hydrogen carbonate ion is a Bronsted Lowry base which **reacts with water** to produce hydroxide ions:
 
    $\ce{CO3^2- +H2O<=>HCO3- +OH-}$
 
@@ -239,10 +239,10 @@ Acids and bases are defined by their **role** in a reaction:
 
 ### Hydronium Ions
 
-- A H+ ion is a bare proton with a +1 charge. This means that any H+ ion in water immediately combines with a water molecule to form a more stable **hydronium ion,** $\ce{H3O+}$
-- H+ does not technically exist independently in solution.
+- A $\ce{H+}$ ion is a bare proton with a $1+$ charge. This means that any $\ce{H+}$ ion in water immediately combines with a water molecule to form a more stable **hydronium ion,** $\ce{H3O+}$
+- $\ce{H+}$ does not technically exist independently in solution.
 
-$$\ce{H+ +H2O->H3O+}$$
+$$\color{orange}{\ce{H+ +H2O->H3O+}}$$
 
 ## Strengths of Acids and Bases
 
@@ -275,8 +275,6 @@ $$K_a = \frac{[\ce{H+}][\ce{A-}]}{HA}$$
 
 - The number of protons an acid produces is unrelated to its strength
 
-
-
 {{< callout note >}}
 
 Strength and concentration are not the same, nor are they dependent on each other:
@@ -285,6 +283,8 @@ Strength and concentration are not the same, nor are they dependent on each othe
 - Concentration depends on the amount of the substance in a given solution
 
 {{< /callout >}}
+
+
 
 ## Conjugate Acids and Bases
 
@@ -298,8 +298,8 @@ $$\ce{HA(aq)<=>H+(aq) +A-(aq)}$$
   - When the acid loses a proton, it forms the conjugate base
   - When the base gains a proton, it forms the conjugate acid
   - An acid's conjugate base has 1 less proton, while a base's conjugate acid has 1 more proton
-  - Acid→Donates H+→Conjugate Base
-  - Base→Accepts H+→Conjugate Acid
+  - Acid→Donates $\ce{H+}$→Conjugate Base
+  - Base→Accepts $\ce{H+}$→Conjugate Acid
 
 ### Relative Strengths of Conjugate Pairs
 
@@ -517,7 +517,7 @@ Buffers are commonly made by mixing a **weak acid** and its **conjugate
 base** (or vice versa) typically in **equimolar** amounts of each.
 
 -   For example, a buffer solution containing $\ce{CH3COOH}$ and $\ce{CH3COO-}$
-    (in the form of 𝑁𝑎𝐶𝐻~3~𝐶𝑂𝑂) - The mixture exists in **equilibrium**,
+    (in the form of $NaCH_3COO$) - The mixture exists in **equilibrium**,
     so all of the species in the equation are present.
 
 > $\ce{CH3COOH(aq)+H2O(l)<=>CH3COO-(aq) +H3O+(aq)}$
@@ -586,14 +586,16 @@ TITRATION CALCULATIONS
 
 The steps for a titration calculation are:
 
-1)  Write a balanced chemical equation for the reaction
+1. Write a balanced chemical equation for the reaction
 
-2)  Calculate the number of moles of Reactant A (of known concentration)
-    in the volume used
+2. Calculate the number of moles of Reactant A (of known concentration)
+       in the volume used
 
-3)  Using the number of moles of A and the mole ratio in the equation,
-    calculate the number of moles of Reactant B (unknown concentration)
-    used. 4) Calculate the concentration of reactant B.
+3. Using the number of moles of A and the mole ratio in the equation,
+       calculate the number of moles of Reactant B (unknown concentration)
+       used. 
+
+4. Calculate the concentration of reactant B.
 
 For **neutralisation** reactions, the **strength of the acid is
 irrelevant** as the base is stronger than water. All of the protons in a
@@ -643,7 +645,7 @@ TITRATION
 
 ### TITRATION TERMINOLOGY 
 
-Term Definition
+Titration Terminology
 
 > Titration - Volumetric analytical technique used for determining the
 > concentration of a solution, when the concentration of the other
@@ -871,17 +873,18 @@ A substance suitable for preparing a **primary standard solution**
 should have the following features:
 
 -   High purity
-
 -   Unaffected by exposure to air
-
 -   Non-hygroscopic (does not absorb water from air)
 
+{{< callout warning >}}
+
+Hygroscopic with a G!!! Hydro- means "relating to moisture". Hydroscopic is something that can see underwater (very different to hygroscopic).
+
+{{< /callout >}}
+
 -   Have a large molecular mass to reduce percentage errors
-
 -   Be a solid for easier weighing
-
 -   Cheap and readily available
-
 -   Have a high water solubility
 
 A **secondary standard** is produced when its concentration is
@@ -1007,12 +1010,11 @@ General rule:
 
 -   Weak → Curved
 
-![](/image-cdn/mod6-img/media/image30.png){width="7.1033333333333335in"
-height="4.183333333333334in"}
+![](/image-cdn/mod6-img/media/image30.png)
 
 ### WEAK ACID + STRONG BASE 
 
-![](mod6-img/media/image31.png)
+![](image-cdn/mod6-img/media/image31.png)
 
 1)  Conductivity is initially low as acetic acid is a **weak acid** and
     only **partially ionises in water**.
@@ -1050,7 +1052,7 @@ Conductivity increases due to the highly conductive $\ce{OH-}$ ions.
 
 ### STRONG ACID + WEAK BASE 
 
-![](https://schoolnotes.xyz/image-cdn/uploads/C8tKWR2021-C8tKWR.png)
+![](/image-cdn/uploads/C8tKWR2021-C8tKWR.png)
 
 > $\ce{NH4+(aq) +H2O(l)<=> NH3(aq) +H3O+(aq)}$
 
