@@ -741,3 +741,7 @@ Where P is power loss (W), I is current (A), R is resistance $(\Omega)$, V is vo
 Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
 
 {{< /callout >}}
+
+## References
+
+- Richard, F. (2007, July 14). *Electromagnetism and optics: An introductory course* [University Page]. Richard Fitzpatrick - University of Texas; University of Texas. [https://farside.ph.utexas.edu/teaching/302l/lectures/lectures.html](https://farside.ph.utexas.edu/teaching/302l/lectures/lectures.html)
