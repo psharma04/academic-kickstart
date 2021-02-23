@@ -15,6 +15,14 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+[dev]
+  command = "hugo server -v -w --disableFastRender --buildDrafts --noHTTPCache"
+  port = 8888
+  targetPort = 1313
+  publish = "public"
+  autoLaunch = true
+  framework = "#custom"
+
 [[headers]]
   for = "/*"
   [headers.values]

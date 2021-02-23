@@ -148,7 +148,7 @@ $$\text{Molecule (Color 1)}\ce{<=>}\text{Hydrogen Ion + Anion (Color 2)}$$
   - It is a gas at room temperature and highly soluble at STP
   - Instead of producing water, it produces ammonium salt as the product:
 
-  $$\ce{HBr_{(aq)}+NH3_{(aq)}->NH4Br_{(aq)}}$$
+  $$\ce{HBr_{(aq)} +NH3_{(aq)}->NH4Br_{(aq)}}$$
 
 ### Acid + Metal Carbonate / Hydrogen Carbonate
 
@@ -355,7 +355,7 @@ To show that an ionic compound will form an acidic, basic, or neutral solution:
 
 Will a solution of potassium fluoride be acidic or basic? (2 Marks)
 
-$$\ce{KF(aq)->K +(aq)+F-(aq)}$$
+$$\ce{KF(aq)->K+(aq) +F-(aq)}$$
 
 {{< spoiler text="Toggle Solution" >}}
 
@@ -368,7 +368,7 @@ $$\ce{KF(aq)->K +(aq)+F-(aq)}$$
 
 $\ce{F-}$ is the conjugate base of a weak acid $(\ce{HF}),$ and will therefore be a strong base. As a result, it will have a high tendency to react with water to form $OH^-$, resulting in a basic solution of $pH\gt7.$
 
-$$\ce{F-(aq)+H2O(l)<=>OH-(aq) +HF(aq)}$$
+$$\ce{F-(aq) +H2O(l)<=>OH-(aq) +HF(aq)}$$
 
 {{< /spoiler >}}
 
@@ -388,7 +388,7 @@ $$\ce{F-(aq)+H2O(l)<=>OH-(aq) +HF(aq)}$$
 
 An **acidic oxide** is one which either reacts with **water** to form an **acidic solution** or reacts with **bases** to form **acidic salts**. Common acidic oxides are $\ce{CO2}$ and $\ce{P4O10}$ (diphosphorus pentoxide) and $\ce{SO2}$.
 
-$$\ce{CO2(g) +H2)(l)<=>H2CO3(aq)<=>H+(aq) +HCO3-(aq)}$$
+$$\ce{CO2(g) +H2(l)<=>H2CO3(aq)<=>H+(aq) +HCO3-(aq)}$$
 
 $$\ce{CO2(g) +2NaOH(aq) ->Na2CO3(aq) +H2O(l)}$$
 
@@ -400,7 +400,7 @@ A **basic oxide** is one that reacts with **water** to form an **alkaline soluti
 
 ### PH AND $H^+$ CONNECTION 
 
-![Image result for ph scale
+![Image result for pH scale
 log](/image-cdn/mod6-img/media/image10.jpg)
 
 -   pH 7 is neutral at 25℃ (Concentration of hydroxide and hydronium ions are equal)
@@ -520,7 +520,7 @@ base** (or vice versa) typically in **equimolar** amounts of each.
     (in the form of $NaCH_3COO$) - The mixture exists in **equilibrium**,
     so all of the species in the equation are present.
 
-> $\ce{CH3COOH(aq)+H2O(l)<=>CH3COO-(aq) +H3O+(aq)}$
+> $\ce{CH3COOH(aq) +H2O(l)<=>CH3COO-(aq) +H3O+(aq)}$
 
 When a small amount of **acid** is added, the concentration of $\ce{H3O+}$
 increases.
@@ -601,7 +601,7 @@ For **neutralisation** reactions, the **strength of the acid is
 irrelevant** as the base is stronger than water. All of the protons in a
 **polyprotic** acid will be irreversibly removed by the base.
 
-### DILUTION -- TITRATION CALCULATIONS 
+### DILUTION - TITRATION CALCULATIONS 
 
 When analysing a substance, the concentration may be too high for a
 direct titration experiment tom be efficiently carried out. Instead, the
@@ -836,7 +836,7 @@ volume** of solution with no additional force.
     the tip** of the pipette after the aliquot has been accurately
     transferred. This should not be shaken out into the conical flask.
 
-Accessing accuracy -- How close you are to the accepted value:
+**Assessing accuracy - How close you are to the accepted value:**
 
 $$\color{orange}{\text{% deviation}=\frac{\text{|experimental value - accepted value|}}{\text{accepted value}}}$$
 
