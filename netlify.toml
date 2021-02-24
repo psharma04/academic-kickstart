@@ -1,5 +1,5 @@
 [build]
-  command = "hugo mod get -u ./... && hugo --gc --minify -v -b $URL"
+  command = "hugo mod get -u && hugo --gc --minify -v -b $URL"
   publish = "public"
 
 [build.environment]
