@@ -87,3 +87,5 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [params]
   i_am_a_sponsor = true
+
+timeout = 600000
