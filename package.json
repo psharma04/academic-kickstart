@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/psharma04/academic-kickstart#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "netlify-plugin-hugo-cache-resources": "^0.2.0"
   }
 }
