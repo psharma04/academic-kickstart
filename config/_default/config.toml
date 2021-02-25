@@ -46,7 +46,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_types = "/publication-type/:slug/"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects" ]
+  home = [ "HTML", "RSS", "JSON", "headers", "redirects" ]
   section = [ "HTML", "RSS" ]
 
 [mediaTypes."application/manifest+json"]
