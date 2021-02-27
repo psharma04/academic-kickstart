@@ -6,7 +6,7 @@ title: Chemistry - HSC
 linktitle: "HSC Chemistry"
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: (in)Complete chemistry HSC Course.
 
 # Date page published
 date: 2020-13-02

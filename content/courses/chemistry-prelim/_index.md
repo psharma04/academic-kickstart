@@ -6,7 +6,7 @@ title: Chemistry - Preliminary
 linktitle: "Preliminary Chemistry"
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Complete Preliminary Chemistry course.
 
 # Date page published
 date: 2020-13-02

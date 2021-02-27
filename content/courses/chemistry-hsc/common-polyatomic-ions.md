@@ -11,7 +11,7 @@ categories: [Chemistry, Cheat Sheet]
 date: 2020-10-27T19:39:28+11:00
 lastmod: 2020-10-27T19:39:28+11:00
 featured: false
-draft: true
+draft: false
 math: true
 # Featured image
 
