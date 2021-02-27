@@ -14,7 +14,7 @@ featured: false
 draft: false
 math: true
 # Featured image
-
+type: book
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
