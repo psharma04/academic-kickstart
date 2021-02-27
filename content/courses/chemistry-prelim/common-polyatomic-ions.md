@@ -129,3 +129,9 @@ There's a printable version of this post [here.](/jsdelivr-proxy/gh/psharma04/ac
 - $\ce{MoO4^{2-}}\ra$Molybdate
 - $\ce{Fe(CN)6^{4-}}\ra$Ferrocyanide
 - $\ce{VO3-}\ra$Vanadate
+
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+
+{{< /callout >}}
