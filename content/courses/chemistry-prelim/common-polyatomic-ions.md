@@ -97,8 +97,8 @@ There's a printable version of this post [here.](/jsdelivr-proxy/gh/psharma04/ac
 
 - $\ce{O2^{2-}}\ra$Peroxide
 - $\ce{OH-}\ra$Hydroxide
-- $\ce{SO4^{-2}}\ra$Sulfate/Sulphate
-- $\ce{SO3^{-2}}\ra$Sulfite/Sulphite
+- $\ce{SO4^{2-}}\ra$Sulfate/Sulphate
+- $\ce{SO3^{2-}}\ra$Sulfite/Sulphite
 - $\ce{HSO4-}\ra$Bisulphate/Bisulfate
 - $\ce{HSO3-}\ra$Bisulphite/Bisulfite
 - $\ce{SCN-}\ra$Thiocyanate
