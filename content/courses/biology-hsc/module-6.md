@@ -175,7 +175,7 @@ The process by which genetically identical copies of an organism have been made 
 
 **Future Biotechnology:** CRISPR.
 
-CRISPR _(Clustered Regularly Interspaced Short Palindromic Repeats) _is a genome editing technique. **It is a defense system for bacteria.** If the DNA of an invading virus entered the cell, the enzyme (CRISPR) would chop off the DNA. <span style="text-decoration:underline;">Genes can now be spliced and inserted with immense accuracy.</span>
+CRISPR _(Clustered Regularly Interspaced Short Palindromic Repeats)_ is a genome editing technique. **It is a defense system for bacteria.** If the DNA of an invading virus entered the cell, the enzyme (CRISPR) would chop off the DNA. <span style="text-decoration:underline;">Genes can now be spliced and inserted with immense accuracy.</span>
 
 
 <table>
