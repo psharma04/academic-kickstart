@@ -53,7 +53,7 @@ Find revision courses, tutorials, and cheat sheets for your subjects by pressing
 
 ### Social Sciences
 
-- [HSC Studies of Religion](hsc-sor/)
+- [HSC Studies of Religion](sor-hsc/)
 
 {{< callout note >}}
 

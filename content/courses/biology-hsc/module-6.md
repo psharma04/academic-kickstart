@@ -131,7 +131,7 @@ These carcinogenic chemicals are absorbed into the blood and results in the cell
 **Artificial Pollination:** The process where pollen from a plant with desirable traits is artificially transferred to the female stigma of another plant.
 
 Stigmas are removed from female plant to avoid self-pollination.
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](/courses/biology-hsc/images/image1.png "image_tooltip")
 
 
 **Organism Cloning:**
