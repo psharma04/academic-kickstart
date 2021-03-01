@@ -146,3 +146,17 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = true
   headers = {X-From = "DeuteriumWebServer"}
+
+[[redirects]]
+  from = "/statically-proxy/*"
+  to = "https://cdn.statically.io/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "OctocatWebServer"}
+  
+[[redirects]]
+  from = "/statically-image-cdn/*"
+  to = "https://cdn.statically.io/img/images.schoolnotes.xyz/f=auto/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "OctocatWebServer"}

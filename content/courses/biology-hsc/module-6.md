@@ -30,7 +30,7 @@ projects: []
 
 {{< callout info >}}
 
-[Need to revise the preliminary course? Find it here.](/post/biology-prelim-complete/)
+[Need to revise the preliminary course? Find it here.](/courses/biology-preliminary/)
 
 {{< /callout >}}
 
