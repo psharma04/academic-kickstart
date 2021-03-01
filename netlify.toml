@@ -167,3 +167,17 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = true
   headers = {X-From = "DeuteriumWebServer"}
+  
+[[redirects]]
+  from = "/rss/"
+  to = "/index.xml"
+  status = 200
+  force = true
+  headers = {X-From = "DeuteriumWebServer"}
+
+[[redirects]]
+  from = "/rss/*"
+  to = "/index.xml"
+  status = 200
+  force = true
+  headers = {X-From = "DeuteriumWebServer"}
