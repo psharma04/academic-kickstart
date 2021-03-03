@@ -134,7 +134,7 @@ abiotic
 
 - If the prey can reproduce fast enough, rates wont drop
 
-> ![](/image-cdn/prelimbio1/media/image47.jpg)- Prey and predators are in direct
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image47.jpg)- Prey and predators are in direct
 > proportion
 
 - Competition

@@ -77,7 +77,7 @@ Inquiry Question: What Distinguishes one cell from another?
         -   Genetic Material → Found in a large loop called the
             nucleoid.
 
-![](/image-cdn/prelimbio1/media/image1.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image1.jpg)
 
 -   Eukaryotes (Unicellular and Multicellular)
 
@@ -110,7 +110,7 @@ Inquiry Question: What Distinguishes one cell from another?
 -   The way mitochondria and chloroplasts divide tend to be the same
     process as prokaryotes
 
-> ![](/image-cdn/prelimbio1/media/image3.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image3.jpg)
 
 ### Organelles 
 
@@ -204,7 +204,7 @@ Fluid Mosaic Model
 -   Reduces the permeability of the cell membrane to small, water
     soluble molecules.
 
-![](/image-cdn/prelimbio1/media/image17.png)
+![](/statically-image-cdn/uploads/prelimbio1/media/image17.png)
 
 #### Temperature
 
@@ -227,7 +227,7 @@ Fluid Mosaic Model
     transport (May require energy to go against the concentration
     gradient)
 
-![](/image-cdn/prelimbio1/media/image18.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image18.jpg)
 
 Cell Function 
 -------------
@@ -247,7 +247,7 @@ internal and external environments?**
 
 ○ Surface Area to volume ratio
 
-![](/image-cdn/prelimbio1/media/image19.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image19.jpg)
 
 -   **Diffusion**
 
@@ -299,7 +299,7 @@ Temperature
 > ○ Hypertonic - Concentration of solute is higher outside the cell,
 > water will be diffused out of the cell.
 
-![](/image-cdn/prelimbio1/media/image20.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image20.jpg)
 
 -   **Active Transport**
 
@@ -311,11 +311,11 @@ Temperature
 > to actively move chemicals from a low to a high concentration,
 > utilising cellular energy
 
-![](/image-cdn/prelimbio1/media/image21.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image21.jpg)
 
 -   **Endocytosis**
 
-    1.  ![](/image-cdn/prelimbio1/media/image22.jpg)A particle is too large to pass
+    1.  ![](/statically-image-cdn/uploads/prelimbio1/media/image22.jpg)A particle is too large to pass
         through the membrane, the membrane can change shape to surround
         and engulf the particle.
 
@@ -451,7 +451,7 @@ Temperature
 
 -   $\ce{C6H12O6}$
 
-> ![](/image-cdn/prelimbio1/media/image23.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image23.jpg)
 
 -   Factors Affecting Photosynthesis ○ Light intensity
 
@@ -465,7 +465,7 @@ Temperature
 
 ■ Temperature affects the rate that the enzymes catalyse at
 
-![](/image-cdn/prelimbio1/media/image24.png)
+![](/statically-image-cdn/uploads/prelimbio1/media/image24.png)
 
 ### Cellular Respiration 
 
@@ -486,7 +486,7 @@ Temperature
 > ■ Glucose and oxygen are broken down to create energy - ATP is
 > released in the process
 >
-> ![](/image-cdn/prelimbio1/media/image25.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image25.jpg)
 
 -   **Removal Of Waste**
 
@@ -518,7 +518,7 @@ Temperature
 
 ■ pH
 
-> ![](/image-cdn/prelimbio1/media/image26.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image26.jpg)
 
 Module 2- Organisation Of Living things 
 =======================================
@@ -593,7 +593,7 @@ processes.
 > the plants it is brought about by chemical and physical contact
 > between cells.
 >
-> ![](/image-cdn/prelimbio1/media/image27.png)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image27.png)
 
 -   **Cell Hierarchy**
 
@@ -682,7 +682,7 @@ processes.
 
 ■ Specialised for storage, support and photosynthesis
 
-![](/image-cdn/prelimbio1/media/image28.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image28.jpg)
 
 **Nutrient and Gas Requirements**
 
@@ -727,7 +727,7 @@ requirements between autotrophs and heterotrophs?**
 > ■ All nutrients are absorbed, and wastes are removed by diffusion and
 > osmosis through the surfaces of the plant.
 
-![](/image-cdn/prelimbio1/media/image29.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image29.jpg)
 
 -   **Root System**
 
@@ -838,7 +838,7 @@ requirements between autotrophs and heterotrophs?**
 > ■ Guard Cells -- control exchange of gases and the loss of water
 > through leaves, occur in pairs surrounding the *stoma*​.
 
-![](/image-cdn/prelimbio1/media/image30.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image30.jpg)
 
 -   **Transport**
 
@@ -861,7 +861,7 @@ out from
 
 ○ Oxygen and CO2 enter and exit the plant via the guard cells
 
-> ![](/image-cdn/prelimbio1/media/image31.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image31.jpg)
 
 ■
 
@@ -977,7 +977,7 @@ out from
 > ■ Shares a membrane with the capillaries, hence this facilitates
 > diffusion of gasses
 
-![](/image-cdn/prelimbio1/media/image32.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image32.jpg)
 
 -   Gills
 
@@ -989,7 +989,7 @@ out from
 > most oxygen is being diffused from the water (furthest away from
 > equilibrium).
 >
-> ![](/image-cdn/prelimbio1/media/image33.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image33.jpg)
 
 -   Tracheal System
 
@@ -1002,7 +1002,7 @@ out from
 > Oxygen dissolves in fluid, this can be diffused into the cells and
 > carbon dioxide diffuses out.
 
-![](/image-cdn/prelimbio1/media/image34.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image34.jpg)
 
 -   **Human Digestive System**
 1.  Mouth
@@ -1027,7 +1027,7 @@ out from
 
 ■ pH → 2.0-3.0
 
-> ![](/image-cdn/prelimbio1/media/image35.jpg)■ Breaks down larger and complex
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image35.jpg)■ Breaks down larger and complex
 > proteins to a obtainable level
 
 ○ Small Intestine
@@ -1090,7 +1090,7 @@ change as it moves around an organism?**
 
 ■ Xylem vessels are continuous tubes for the transport of water.
 
-> ![](/image-cdn/prelimbio1/media/image36.png)■ Walls of vessels and tracheids are lined with lignin
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image36.png)■ Walls of vessels and tracheids are lined with lignin
 > -- helps prevent the collapse of the vessel and easy movement of
 > water.
 
@@ -1166,7 +1166,7 @@ change as it moves around an organism?**
 > sugar.]  ○ Actively transported into stem and root cells for
 > growth.
 
-![](/image-cdn/prelimbio1/media/image37.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image37.jpg)
 
 -   **Transport System in Animals**
 
@@ -1486,7 +1486,7 @@ in ecosystems?
 
     1.  Non mobile organism are easier to collect data about
 
-![](/image-cdn/prelimbio1/media/image39.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image39.jpg)
 
 > 120 daises have been collect in 10 1mx1m quadrats. What is the
 > estimated abundance of daises in that area
@@ -1497,7 +1497,7 @@ in ecosystems?
 
     1.  Mark, Release, Capture
 
-![](/image-cdn/prelimbio1/media/image40.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image40.jpg)
 
 > ○ First sample, 20 individuals were marked. Second sample 50 were
 > collected, 10 were marked.
@@ -1662,7 +1662,7 @@ to survive?**
 > ■ Favorable traits will become more numerous if the environment is
 > stable
 
-![](/image-cdn/prelimbio1/media/image41.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image41.jpg)
 
 -   **Survival of the Fittest**
 
@@ -1832,7 +1832,7 @@ evolution)
 > ○ Platypus can located prey with their eyes closed, by sensing
 > electric pulses given off by muscles
 
-![](/image-cdn/prelimbio1/media/image42.png) ○ A type of macroevolution
+![](/statically-image-cdn/uploads/prelimbio1/media/image42.png) ○ A type of macroevolution
 
 -   **Convergent Vs Divergent Evolution**
 
@@ -1873,7 +1873,7 @@ evolution)
 
 ■ Mutations are passed on
 
-> ![](/image-cdn/prelimbio1/media/image43.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image43.jpg)
 
 **Evolution- The Evidence**
 
@@ -1936,7 +1936,7 @@ Evolution by Natural Selection?**
 
 ■ Provides more detailed information than other biochemical methods.
 
-![](/image-cdn/prelimbio1/media/image44.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image44.jpg)
 
 -   **Comparative Anatomy**
 1.  Study of similarities and differences in the structure of living
@@ -1981,7 +1981,7 @@ Evolution by Natural Selection?**
 
 ○ Fish, mammals, amphibians, birds
 
-> ![](/image-cdn/prelimbio1/media/image45.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image45.jpg)
 
 -   **Biogeography**
 
@@ -2035,7 +2035,7 @@ Evolution by Natural Selection?**
 > ■ The bacteria that survives passes on genes which leads to a whole
 > new variation of bacteria
 
-![](/image-cdn/prelimbio1/media/image46.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image46.jpg)
 
 Module 4 - Ecosystem Dynamics 
 ============================
@@ -2143,7 +2143,7 @@ abiotic
 
 ■ If the prey can reproduce fast enough, rates wont drop
 
-> ![](/image-cdn/prelimbio1/media/image47.jpg)■ Prey and predators are in direct
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image47.jpg)■ Prey and predators are in direct
 > proportion
 
 ○ Competition

@@ -19,7 +19,7 @@ categories:
   - procrastination
 external_link: https://schoolnotes.xyz/random-projects/chemistry-chart-1/
 image:
-  filename: https://schoolnotes.xyz/uploads/eYiwkQ2021-eYiwkQ.png
+  filename: https://schoolnotes.xyz/statically-image-cdn/uploads/eYiwkQ2021-eYiwkQ.png
   focal_point: Smart
   preview_only: false
 ---

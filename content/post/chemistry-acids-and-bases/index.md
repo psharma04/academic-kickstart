@@ -404,7 +404,7 @@ A **basic oxide** is one that reacts with **water** to form an **alkaline soluti
 ### PH AND $H^+$ CONNECTION 
 
 ![Image result for ph scale
-log](/image-cdn/mod6-img/media/image10.jpg)
+log](/statically-image-cdn/uploads/mod6-img/media/image10.jpg)
 
 -   pH 7 is neutral at 25℃ (Concentration of hydroxide and hydronium ions are equal)
 
@@ -580,7 +580,7 @@ A buffer is most effective when the **amounts of weak acid** and
     base to react with any $\ce{H3O+}$.
 
 ![Image result for buffer solution effectiveness
-graph](/image-cdn/mod6-img/media/image19.jpg)
+graph](/statically-image-cdn/uploads/mod6-img/media/image19.jpg)
 
 TITRATION CALCULATIONS 
 ----------------------
@@ -713,7 +713,7 @@ A measured volume of the solution of unknown concentration, the
 **burette** containing the **titrant** above it.
 
 > ![Image result for titration
-> diagram](/image-cdn/mod6-img/media/image23.jpg)
+> diagram](/statically-image-cdn/uploads/mod6-img/media/image23.jpg)
 
 A **burette** is a piece of volumetric glassware. It is a long tube with
 a tap at one end so measured volumes of titrant can be accurately added
@@ -953,10 +953,10 @@ titration.
 #### BROMOTHYMOL BLUE 
 
 > ![Image result for bromothymol blue
-> range](/image-cdn/mod6-img/media/image24.png)
+> range](/statically-image-cdn/uploads/mod6-img/media/image24.png)
 
 ![Image result for phenolphthalein pH colour test tube Related
-image](/image-cdn/mod6-img/media/image25.png)
+image](/statically-image-cdn/uploads/mod6-img/media/image25.png)
 
 Explain why 0.20 M acetic acid and 0.20 M hydrochloric acid require the
 same volume of sodium hydroxide solution to reach equivalence point, but
@@ -1010,7 +1010,7 @@ General rule:
 
 -   Weak → Curved
 
-![](/image-cdn/mod6-img/media/image30.png){width="7.1033333333333335in"
+![](/statically-image-cdn/uploads/mod6-img/media/image30.png){width="7.1033333333333335in"
 height="4.183333333333334in"}
 
 ### WEAK ACID + STRONG BASE 
@@ -1053,7 +1053,7 @@ Conductivity increases due to the highly conductive $\ce{OH-}$ ions.
 
 ### STRONG ACID + WEAK BASE 
 
-![](https://schoolnotes.xyz/image-cdn/uploads/C8tKWR2021-C8tKWR.png)
+![](https://schoolnotes.xyz/statically-image-cdn/uploads/uploads/C8tKWR2021-C8tKWR.png)
 
 > $\ce{NH4+(aq) +H2O(l)<=> NH3(aq) +H3O+(aq)}$
 

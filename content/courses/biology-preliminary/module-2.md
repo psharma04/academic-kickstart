@@ -97,7 +97,7 @@ processes.
 > the plants it is brought about by chemical and physical contact
 > between cells.
 >
-> ![](/image-cdn/prelimbio1/media/image27.png)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image27.png)
 
 -   **Cell Hierarchy**
 
@@ -186,7 +186,7 @@ processes.
 
 - Specialised for storage, support and photosynthesis
 
-![](/image-cdn/prelimbio1/media/image28.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image28.jpg)
 
 **Nutrient and Gas Requirements**
 
@@ -231,7 +231,7 @@ requirements between autotrophs and heterotrophs?**
 > - All nutrients are absorbed, and wastes are removed by diffusion and
 > osmosis through the surfaces of the plant.
 
-![](/image-cdn/prelimbio1/media/image29.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image29.jpg)
 
 -   **Root System**
 
@@ -342,7 +342,7 @@ requirements between autotrophs and heterotrophs?**
 > - Guard Cells -- control exchange of gases and the loss of water
 > through leaves, occur in pairs surrounding the *stoma*​.
 
-![](/image-cdn/prelimbio1/media/image30.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image30.jpg)
 
 -   **Transport**
 
@@ -365,7 +365,7 @@ out from
 
 - Oxygen and CO2 enter and exit the plant via the guard cells
 
-> ![](/image-cdn/prelimbio1/media/image31.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image31.jpg)
 
 -
 
@@ -481,7 +481,7 @@ out from
 > - Shares a membrane with the capillaries, hence this facilitates
 > diffusion of gasses
 
-![](/image-cdn/prelimbio1/media/image32.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image32.jpg)
 
 -   Gills
 
@@ -493,7 +493,7 @@ out from
 > most oxygen is being diffused from the water (furthest away from
 > equilibrium).
 >
-> ![](/image-cdn/prelimbio1/media/image33.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image33.jpg)
 
 -   Tracheal System
 
@@ -506,7 +506,7 @@ out from
 > Oxygen dissolves in fluid, this can be diffused into the cells and
 > carbon dioxide diffuses out.
 
-![](/image-cdn/prelimbio1/media/image34.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image34.jpg)
 
 -   **Human Digestive System**
 1.  Mouth
@@ -531,7 +531,7 @@ out from
 
 - pH → 2.0-3.0
 
-> ![](/image-cdn/prelimbio1/media/image35.jpg)- Breaks down larger and complex
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image35.jpg)- Breaks down larger and complex
 > proteins to a obtainable level
 
 - Small Intestine
@@ -594,7 +594,7 @@ change as it moves around an organism?**
 
 - Xylem vessels are continuous tubes for the transport of water.
 
-> ![](/image-cdn/prelimbio1/media/image36.png)- Walls of vessels and tracheids are lined with lignin
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image36.png)- Walls of vessels and tracheids are lined with lignin
 > -- helps prevent the collapse of the vessel and easy movement of
 > water.
 
@@ -670,7 +670,7 @@ change as it moves around an organism?**
 > sugar.]  - Actively transported into stem and root cells for
 > growth.
 
-![](/image-cdn/prelimbio1/media/image37.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image37.jpg)
 
 -   **Transport System in Animals**
 

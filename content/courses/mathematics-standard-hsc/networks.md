@@ -53,7 +53,7 @@ projects: []
 - A loop is represented the same as an edge, but with the vertex in both places
   - For example, a loop around $X$ would be represented as $(X,X)$
 - In a Network diagram, the weight of an edge is written next to it as a label
-> ![Diagram of a weighted edge network](/image-cdn/math-standard-networks/edges-1.png)
+> ![Diagram of a weighted edge network](/statically-image-cdn/uploads/math-standard-networks/edges-1.png)
 > *The vertices are A, B, C, D, E, and F, and the weights of the edges are the numbers in red.*
 ### How are networks navigated?
 - A *walk* is a connect set of edges from one vertex to another

@@ -308,7 +308,7 @@ As a current produces a magnetic field. 2 parallel conductors placed close to ea
 *   Currents in opposite direction – forces are mutually repulsive and the field in between is strengthened as it is reinforced by having the same direction (B = B<sub>1</sub> + B<sub>2</sub>)
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image1.PNG "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image1.PNG "image_tooltip")
 
 
 Force is given by:
@@ -541,7 +541,7 @@ Eddy currents are induced currents formed in bulk pieces of metal due to an expe
 
 
 
-![Image-mjwgGFPg2021-JhGxqD1F](https://schoolnotes.xyz/image-cdn/xRoSPm2021-xRoSPm.png)
+![Image-mjwgGFPg2021-JhGxqD1F](https://schoolnotes.xyz/statically-image-cdn/uploads/xRoSPm2021-xRoSPm.png)
 
 A: As the plate enters the field, the changing magnetic flux creates an induced EMF. Eddy currents (circulating free electrons in metal caused by the induced EMF) are created. According to Lenz’s law, the direction of the eddy currents must oppose the change that causes them.
 
@@ -570,7 +570,7 @@ It is effective when the laminations are perpendicular to the plane of the eddy 
 
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image7.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image7.jpg "image_tooltip")
 
 
 
@@ -595,7 +595,7 @@ Components of an AC generator:
 
 The natural output of a rotating coil is AC as current switches direction every half turn. To make the output DC, a split ring commutator can be used.
 
-![Image-7LoAPfvd2021-zreM6x9q](https://schoolnotes.xyz/image-cdn/BEAbLb2021-BEAbLb.png)
+![Image-7LoAPfvd2021-zreM6x9q](https://schoolnotes.xyz/statically-image-cdn/uploads/BEAbLb2021-BEAbLb.png)
 
 Maximum EMF output for an AC generator is given by
 
@@ -613,8 +613,8 @@ A DC generator converts the output EMF of the generator so that the EMF is alway
 
 ## Back EMF
 
-- In an electrical motor, current is supplied to a coil in a Magnetic field which experiences a force as per the motor effect thus, turning. 
-- However, the coil is experiencing a constantly changing magnetic flux due to rotation relative to the Magnetic field and Faraday’s Law states that a changing magnetic flux induces an EMF in a conductor. 
+- In an electrical motor, current is supplied to a coil in a Magnetic field which experiences a force as per the motor effect thus, turning.
+- However, the coil is experiencing a constantly changing magnetic flux due to rotation relative to the Magnetic field and Faraday’s Law states that a changing magnetic flux induces an EMF in a conductor.
 - As a result, the self-generated EMF produced in the motor opposes the input EMF as per Lenz’s Law. This is called the Back EMF.
 
 Back EMF reflects the law of the conservation of energy in that it can never exceed input EMF.
@@ -679,7 +679,7 @@ A transformer consists of two solenoids placed near each other (conventionally, 
 
 The primary coil is the input coil and the secondary coil is the output coil.
 
-![image-20210207175346269](https://schoolnotes.xyz/uploads/8bRp0M2021-8bRp0M.png)
+![image-20210207175346269](/statically-image-cdn/uploads8bRp0M2021-8bRp0M.png)
 
 
 

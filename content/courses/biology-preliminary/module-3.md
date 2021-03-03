@@ -129,7 +129,7 @@ in ecosystems?
 
     1.  Non mobile organism are easier to collect data about
 
-![](/image-cdn/prelimbio1/media/image39.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image39.jpg)
 
 > 120 daises have been collect in 10 1mx1m quadrats. What is the
 > estimated abundance of daises in that area
@@ -140,7 +140,7 @@ in ecosystems?
 
     1.  Mark, Release, Capture
 
-![](/image-cdn/prelimbio1/media/image40.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image40.jpg)
 
 > - First sample, 20 individuals were marked. Second sample 50 were
 > collected, 10 were marked.
@@ -305,7 +305,7 @@ to survive?**
 > - Favorable traits will become more numerous if the environment is
 > stable
 
-![](/image-cdn/prelimbio1/media/image41.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image41.jpg)
 
 -   **Survival of the Fittest**
 
@@ -475,7 +475,7 @@ evolution)
 > - Platypus can located prey with their eyes closed, by sensing
 > electric pulses given off by muscles
 
-![](/image-cdn/prelimbio1/media/image42.png) - A type of macroevolution
+![](/statically-image-cdn/uploads/prelimbio1/media/image42.png) - A type of macroevolution
 
 -   **Convergent Vs Divergent Evolution**
 
@@ -516,7 +516,7 @@ evolution)
 
 - Mutations are passed on
 
-> ![](/image-cdn/prelimbio1/media/image43.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image43.jpg)
 
 **Evolution- The Evidence**
 
@@ -579,7 +579,7 @@ Evolution by Natural Selection?**
 
 - Provides more detailed information than other biochemical methods.
 
-![](/image-cdn/prelimbio1/media/image44.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image44.jpg)
 
 -   **Comparative Anatomy**
 1.  Study of similarities and differences in the structure of living
@@ -624,7 +624,7 @@ Evolution by Natural Selection?**
 
 - Fish, mammals, amphibians, birds
 
-> ![](/image-cdn/prelimbio1/media/image45.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image45.jpg)
 
 -   **Biogeography**
 
@@ -678,7 +678,7 @@ Evolution by Natural Selection?**
 > - The bacteria that survives passes on genes which leads to a whole
 > new variation of bacteria
 
-![](/image-cdn/prelimbio1/media/image46.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image46.jpg)
 
 Module 4 - Ecosystem Dynamics 
 ============================
@@ -786,7 +786,7 @@ abiotic
 
 - If the prey can reproduce fast enough, rates wont drop
 
-> ![](/image-cdn/prelimbio1/media/image47.jpg)- Prey and predators are in direct
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image47.jpg)- Prey and predators are in direct
 > proportion
 
 - Competition

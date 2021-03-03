@@ -213,7 +213,7 @@ If one wavefront passes through the left of the slit and another from the right,
 <p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image14.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image14.png "image_tooltip")
 
 
 Most light energy is concentrated on central maxima (wave travels equal distance from both sides of the slit).
@@ -277,7 +277,7 @@ He was able to calculate the wavelength of light by using distances between 2 ar
 <p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image15.gif "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image15.gif "image_tooltip")
 
 
 **Path difference:** Difference in distance travelled by two waves to a point on the screen
@@ -297,7 +297,7 @@ dsinθ = (m+ 1/2)λ where d is slit separation (m) for double slit diffraction, 
 <p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image16.gif "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image16.gif "image_tooltip")
 
 
 **Double slit wavelength:**
@@ -338,7 +338,7 @@ Polarised light waves are light waves in which the vibrations occur in a single 
 <p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image17.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image17.png "image_tooltip")
 
 
 **THIS FORMULA FOR THE SECOND POLARISER OF A TWO POLARISER QUESTION, to find intensity change of a single polariser it is simply ½ original intensity**
@@ -444,7 +444,7 @@ Polarisation also occurs when light is scattered while traveling through a mediu
 <p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image18.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image18.png "image_tooltip")
 
 
 The fact that light can be polarised is an important piece of evidence for the wave nature of light, in particular that light is a transverse wave as light can be polarised and only transverse waves can be polarised.
@@ -489,7 +489,7 @@ Maxwell predicted that EM waves are made up of two mutually (simultaneously) pro
 <p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image19.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image19.png "image_tooltip")
 
 
 **Production of EMR:** Every accelerated charge (velocity needs to change either by change in direction or speed) radiates EMR. A moving electron produces a magnetic field, but this magnetic field is constant because the electron’s motion has a constant velocity. In order for an electron to radiate Electromagnetic (EM) radiation, it needs to accelerate as changing magnetic fields produce changing electric fields, causing self-propagation. A charged particle oscillating about an equilibrium position is an accelerating charged particle.  If its frequency of oscillation is f, then it produces an electromagnetic wave with frequency f.  The wavelength λ of this wave is given by λ = c/f.
@@ -507,7 +507,7 @@ Hertz measured the wavelength and frequency of light by doubling the measurement
 <p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image20.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image20.jpg "image_tooltip")
 
 
 He surmised that the spark produced in the broadcasting antenna would induce a small spark in the receiving antennae as the EMR reaches it. This was what had occurred thus, he concluded that there was an EM wave between the two antennae.
@@ -519,7 +519,7 @@ He found that EM waves are able to be reflected by placing a reflective sheet be
 <p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image21.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image21.png "image_tooltip")
 
 
 And refracted as when he placed pitchblende between the two receivers, he had to move the receiver to observe the spark.
@@ -529,7 +529,7 @@ And refracted as when he placed pitchblende between the two receivers, he had to
 <p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image22.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image22.png "image_tooltip")
 
 
 He lined up the reflective sheet with the receivers so that a standing wave was now produced:
@@ -588,7 +588,7 @@ The speed of light could then be found by measuring the time delay between posit
 <p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image23.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image23.png "image_tooltip")
 
 
 Value? 200,000 km/s or 210,824 km/s (approx. 30% error)
@@ -635,7 +635,7 @@ The aim is to send the beam of light bouncing from the rotating mirror, to the s
 <p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image24.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image24.jpg "image_tooltip")
 
 
 As v = s/t,
@@ -679,7 +679,7 @@ On the other mountain he installed a large concave mirror facing back to the mou
 <p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image25.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image25.png "image_tooltip")
 
 
 A light source was shone onto one of the octagon’s faces so that it would travel to the concave mirror and back to another octagonal face as seen above, this occurred when the disk was stationary. Michelson then slowly increased the RPS of the rotating disk until the light was observed without interruption (528rps) which is when the disk turns ⅛ in the time it takes for the light to travel to the opposing mirror and back. If the disk was spun any slower or faster no light would be able to be seen by the observer.
@@ -729,7 +729,7 @@ Method?
 <p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image26.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image26.jpg "image_tooltip")
 
 
 Value? 299792.458 km/s (3.5 x 10<sup>-9</sup> relative uncertainty)
@@ -747,7 +747,7 @@ Foucault – Speed of Light Through Water
 <p id="gdcalert40" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert41">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image27.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image27.jpg "image_tooltip")
 
 
 **Method: **He shined a light source on the rotating mirror. The beam went up through a tube and met the fixed mirror above the tube. The fixed mirror reflected the beam back down onto the rotating mirror again (which by now had turned a little further), the light came back a little below the source it originated from (where it says ‘air’ in the figure).
@@ -903,7 +903,7 @@ Experiment:
 <p id="gdcalert41" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image28.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert42">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image28.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image28.png "image_tooltip")
 
 
 He observed that the photoelectric current (same as the rate of emission of electrons) is directly proportional to the intensity of light falling on the electrode but, to obtain zero current, the voltage has to be reversed to a certain V<sub>0</sub> known as the stopping potential. The voltage must be reversed to such an extent that the electrons cannot reach the anode. This is the maximum kinetic energy an emitted electron can achieve. He found that the intensity of the light did not impact their energy.   The larger the number of electrons, the greater the photocurrent. The intensity of light is the number of incident photons (no. photons hitting metal) not frequency.
@@ -947,7 +947,7 @@ Work function: E = hf<sub>0 </sub>(y intercept of max kinetic energy vs frequenc
 <p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image29.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image29.png "image_tooltip")
 
 
 
@@ -974,7 +974,7 @@ Michelson and Morley Experiment
 <p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image30.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image30.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image30.png "image_tooltip")
 
 
 They intended to find the aether through showing that light’s speed was different when they rotated the set-up (aether remained in the same direction) as one direction would be in the direction of the aether wind (faster) and one direction would be going against it (slower) thus, causing a change in the interference pattern as when the reflected rays combined they would move at different speeds. However, there was none.
@@ -1168,7 +1168,7 @@ As an object approaches **_c_** the relativistic momentum P<sub>v</sub> approach
 <p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image31.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image31.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image31.jpg "image_tooltip")
 
 
 P<sub>v</sub> has been confirmed in the LHC in collisions between sub-atomic particles. The relativistic momentum of protons travelling at 99.999999%c is 8000x greater than the P = mv predicted by Newton. These protons have a mass 8000x greater than a proton at rest.
@@ -1220,7 +1220,7 @@ All stars convert mass to energy in their core by fusion reactions. 3 main fusio
 <p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image32.gif "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image32.gif "image_tooltip")
 
 
 The above reactions have been in the sun for 5 billion years and have another 5 billion to go. Hydrogen nuclei are fused together and after several steps, helium nucleus is formed with the release of approx. 25 MeV.
@@ -1384,7 +1384,7 @@ Conclusion:
 <p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image33.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image33.png "image_tooltip")
 
 
 
@@ -1489,7 +1489,7 @@ Which elements are expected to occur?
 <p id="gdcalert65" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image34.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert66">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image34.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image34.jpg "image_tooltip")
 
 
 OBAFGKM – oh be a fine guy kiss me
@@ -1507,7 +1507,7 @@ Hertzsprung Russell Diagram
 <p id="gdcalert66" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert67">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image35.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image35.png "image_tooltip")
 
 
 Ejnar Hertzsprung in 1911 graphed absolute magnitude v colour. Henry Russell in 1913 graphed absolute magnitude of stars v spectral class. Both found that stars were grouped on the H-R diagram.
@@ -1764,7 +1764,7 @@ When stars leave the main sequence, the heavier elements gather at the centre of
 <p id="gdcalert110" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image36.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert111">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image36.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image36.png "image_tooltip")
 
 
 Our sun is not large enough to fuse elements heavier than Helium. It will end energy production w/ a core of Carbon and Oxygen.
@@ -1855,7 +1855,7 @@ Aim: what are the different properties of cathode rays that can be observed usin
 <p id="gdcalert123" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert124">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image37.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image37.png "image_tooltip")
 
 
 Describe:
@@ -1926,7 +1926,7 @@ Open induction coil 5cm to reduce voltage induced
 <p id="gdcalert124" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert125">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image38.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image38.jpg "image_tooltip")
 
 
 **Maltese Cross tube observations:** When the cross is up a black shadow of the cross is projected on the anode side of the tube indicating the beam originates from the cathode (-) and that the cathode ray cannot pass by solid. Indicates that the cathode ray cannot bend 90<sup>o</sup> (travels in a straight line). Similar to light as it forms shadows, travels in straight lines and rays. When cross down, bright shadow due to different exposure of the anode glass to the ray.
@@ -1936,7 +1936,7 @@ Open induction coil 5cm to reduce voltage induced
 <p id="gdcalert125" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image39.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert126">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image39.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image39.png "image_tooltip")
 
 
 **Paddle Wheel tube observations:** Indicates the cathode ray’s particles have mass, velocity and thus, momentum (they are physical) as the ray is physically hitting the wheel - applying an external force which makes the wheel turn. The particle’s energy is indicated through the glow of the phosphor fluorescent paint which indicates a transfer of energy and momentum from particle to paint.
@@ -1999,7 +1999,7 @@ Describe: Experiment consisted of two chambers with a pinhole linking them. An a
 <p id="gdcalert126" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image40.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert127">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image40.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image40.png "image_tooltip")
 
 
 Explain: When a voltage was applied, the oil droplets could be made to stop falling
@@ -2009,7 +2009,7 @@ Explain: When a voltage was applied, the oil droplets could be made to stop fall
 <p id="gdcalert127" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image41.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert128">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image41.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image41.jpg "image_tooltip")
 
 
 F<sub>mg</sub>= F<sub>qE</sub>
@@ -2061,7 +2061,7 @@ Results:
 <p id="gdcalert128" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image42.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert129">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image42.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image42.png "image_tooltip")
 
 *   ‘it was as incredible as if you fired a 15-inch shell at a piece of tissue paper and it came back and hit you’
 *   Rutherford concluded that alpha particles were deflected through large particles because all the atom’s positive charge and nearly all of its mass was concentrated in a small dense nucleus with electrons orbiting around the nucleus like planets around the sun. From the results of alpha particles, scattering experiments, Rutherford estimated the atom size as having a diameter of
@@ -2081,7 +2081,7 @@ In 1930s Walter Boheff and Becca found passing particles through Beryllium gave 
 <p id="gdcalert129" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert130">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image43.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image43.jpg "image_tooltip")
 
 
 Neutrons get trapped in the Paraffin wax but, dislodge Protons. For Protons to be dislodged, they must have been hit by something of same mass.
@@ -2178,7 +2178,7 @@ We only see the Balmer series because EMR is released in visible spectrum. Pasch
 <p id="gdcalert130" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image44.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert131">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image44.png "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image44.png "image_tooltip")
 
 
 
@@ -2303,7 +2303,7 @@ Davisson and Germer studied the surface of Nickel crystal by observing the scatt
 <p id="gdcalert131" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert132">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image45.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image45.jpg "image_tooltip")
 
 
 Nickel crystal acts as a diffraction grating (unexpectedly due to anneal) $\rightarrow$ electrons gave diffraction pattern similar to X-Rays. Diffraction have been seen with neutrons, He and alpha where λ matches de Broglie’s predictions.
@@ -2616,7 +2616,7 @@ Binding energy is defined as the energy needed to separate the atom into its con
 <p id="gdcalert139" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image46.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert140">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image46.gif "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image46.gif "image_tooltip")
 
 
 Trends from a BE graph are:
@@ -2660,7 +2660,7 @@ The atom consists of neutrons, electrons and protons. Particle accelerators and 
 <p id="gdcalert140" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image47.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert141">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image47.jpg "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image47.jpg "image_tooltip")
 
 
 **Formula of proton: **
@@ -2688,7 +2688,7 @@ Force particles cause attraction forces between matter by being exchanged in suc
 <p id="gdcalert141" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert142">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image48.gif "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image48.gif "image_tooltip")
 
 
 Weak nuclear forces are responsible for nuclear decay (alpha and beta) and contributes minuscule to keeping atom together * allows for particle to be emitted
@@ -2751,7 +2751,7 @@ Cyclotrons – charged particles move through semi-circular arcs. As their veloc
 <p id="gdcalert142" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image49.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert143">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](https://schoolnotes.xyz/image-cdn/physics-hsc-consolidation-1/image49.gif "image_tooltip")
+![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image49.gif "image_tooltip")
 
 
 

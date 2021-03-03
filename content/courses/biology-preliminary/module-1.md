@@ -70,7 +70,7 @@ Inquiry Question: What Distinguishes one cell from another?
         -   Genetic Material → Found in a large loop called the
             nucleoid.
 
-![](/image-cdn/prelimbio1/media/image1.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image1.jpg)
 
 -   Eukaryotes (Unicellular and Multicellular)
 
@@ -103,7 +103,7 @@ Inquiry Question: What Distinguishes one cell from another?
 -   The way mitochondria and chloroplasts divide tend to be the same
     process as prokaryotes
 
-> ![](/image-cdn/prelimbio1/media/image3.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image3.jpg)
 
 ### Organelles 
 
@@ -197,7 +197,7 @@ Fluid Mosaic Model
 -   Reduces the permeability of the cell membrane to small, water
     soluble molecules.
 
-![](/image-cdn/prelimbio1/media/image17.png)
+![](/statically-image-cdn/uploads/prelimbio1/media/image17.png)
 
 #### Temperature
 
@@ -220,7 +220,7 @@ Fluid Mosaic Model
     transport (May require energy to go against the concentration
     gradient)
 
-![](/image-cdn/prelimbio1/media/image18.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image18.jpg)
 
 Cell Function 
 -------------
@@ -240,7 +240,7 @@ internal and external environments?**
 
 ○ Surface Area to volume ratio
 
-![](/image-cdn/prelimbio1/media/image19.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image19.jpg)
 
 -   **Diffusion**
 
@@ -292,7 +292,7 @@ Temperature
 > ○ Hypertonic - Concentration of solute is higher outside the cell,
 > water will be diffused out of the cell.
 
-![](/image-cdn/prelimbio1/media/image20.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image20.jpg)
 
 -   **Active Transport**
 
@@ -304,11 +304,11 @@ Temperature
 > to actively move chemicals from a low to a high concentration,
 > utilising cellular energy
 
-![](/image-cdn/prelimbio1/media/image21.jpg)
+![](/statically-image-cdn/uploads/prelimbio1/media/image21.jpg)
 
 -   **Endocytosis**
 
-    1.  ![](/image-cdn/prelimbio1/media/image22.jpg)A particle is too large to pass
+    1.  ![](/statically-image-cdn/uploads/prelimbio1/media/image22.jpg)A particle is too large to pass
         through the membrane, the membrane can change shape to surround
         and engulf the particle.
 
@@ -444,7 +444,7 @@ Temperature
 
 -   $\ce{C6H12O6}$
 
-> ![](/image-cdn/prelimbio1/media/image23.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image23.jpg)
 
 -   Factors Affecting Photosynthesis ○ Light intensity
 
@@ -458,7 +458,7 @@ Temperature
 
 ■ Temperature affects the rate that the enzymes catalyse at
 
-![](/image-cdn/prelimbio1/media/image24.png)
+![](/statically-image-cdn/uploads/prelimbio1/media/image24.png)
 
 ### Cellular Respiration 
 
@@ -479,7 +479,7 @@ Temperature
 > ■ Glucose and oxygen are broken down to create energy - ATP is
 > released in the process
 >
-> ![](/image-cdn/prelimbio1/media/image25.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image25.jpg)
 
 -   **Removal Of Waste**
 
@@ -511,7 +511,7 @@ Temperature
 
 ■ pH
 
-> ![](/image-cdn/prelimbio1/media/image26.jpg)
+> ![](/statically-image-cdn/uploads/prelimbio1/media/image26.jpg)
 
 {{< callout note >}}
 
