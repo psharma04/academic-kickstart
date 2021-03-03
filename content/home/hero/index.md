@@ -54,4 +54,4 @@ hero_media = "icon_256.webp"
 
 Our guides are written by students, for students.
 
-<a href="/patreon/" alt="Become a patron"> <img src="https://schoolnotes.xyz/statically-proxy/img/schoolnotes.xyz/f=auto/patreon/patreon_2x.png" loading="eager"><a>
+<a href="/patreon/" alt="Become a patron"> <img srcset="/patreon/patreon.svg, /patreon/patreon.webp, /patreon/patreon_2x.png 2x, /patreon/patreon_1x.png 1x" src="/patreon/patreon_1x.png" loading="eager"><a>
