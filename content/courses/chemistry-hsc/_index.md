@@ -20,7 +20,7 @@ weight: 1
 
 ## Posts
 
-- [Module 5: Advanced Mechanics](module-5)
+- [Module 5: Equilibrium and Acid Reactions](module-5)
 - [Module 6: Acids And Bases](module-6)
 
 ## Resources
