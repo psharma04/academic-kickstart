@@ -27,7 +27,7 @@ weight: 1
 
 ## Resources
 
-- [Physics Datasheet](/csec-cdn/fileshare/physics-formulae-sheet-data-sheet-periodic-table-hsc-exams-2019.pdf)
+- [Physics Datasheet](/nesa/15010efc-f698-4c05-a841-4c1548a36afa/physics-formulae-sheet-data-sheet-periodic-table-hsc-exams-2019.pdf?MOD=AJPERES&CVID=)
 - [Physics Syllabus](/nesa/ca65f106-4fb3-4aed-987c-1a9ba3427a31/physics-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=)
 
 {{< callout note >}}
