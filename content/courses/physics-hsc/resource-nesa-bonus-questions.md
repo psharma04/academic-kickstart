@@ -34,7 +34,7 @@ projects: []
     var adobeDCView = new AdobeDC.View({clientId: "3eda33970ae94d83a9731bb7d8f80d8b", divId: "adobe-dc-view"});
     adobeDCView.previewFile({
       content:{ location:
-        { url: "https://schoolnotes.xyz/courses/physics-hsc/physics-2017-additional-sample-hsc-questions.pdf"}},
+        { url: "https://schoolnotes.xyz/nesa/9274d565-a5bf-451f-8d70-e7deca19d820/physics-2017-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID="}},
       metaData:{fileName: "physics-2017-additional-sample-hsc-questions.pdf"}
     },
     {
