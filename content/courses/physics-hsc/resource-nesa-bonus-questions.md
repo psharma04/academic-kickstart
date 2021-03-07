@@ -30,4 +30,18 @@ projects: []
 
 {{< cta cta_text="Download this resource" cta_link="https://schoolnotes.xyz/nesa/9274d565-a5bf-451f-8d70-e7deca19d820/physics-2017-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
 
-<iframe src="https://docs.google.com/viewer?embedded=true&url=https://schoolnotes.xyz/courses/physics-hsc/physics-2017-additional-sample-hsc-questions.pdf" width=100% height=750vh loading=eager name="Embedded version so that we can make ad revenue" allowfullscreen=false allowpaymentrequest=false>
+<div id="adobe-dc-view" style="width:100%; height: 750vh;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+  document.addEventListener("adobe_dc_view_sdk.ready", function(){
+    var adobeDCView = new AdobeDC.View({clientId: "3eda33970ae94d83a9731bb7d8f80d8b", divId: "adobe-dc-view"});
+    adobeDCView.previewFile({
+      content:{ location:
+        { url: "https://schoolnotes.xyz/courses/physics-hsc/physics-2017-additional-sample-hsc-questions.pdf"}},
+      metaData:{fileName: "physics-2017-additional-sample-hsc-questions.pdf"}
+    },
+    {
+      embedMode: "SIZED_CONTAINER"
+    });
+  });
+</script>
