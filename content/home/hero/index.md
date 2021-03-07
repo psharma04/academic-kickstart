@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "Schoolnotes Portal"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "icon_256.webp"
+hero_media = "icon.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
