@@ -27,9 +27,6 @@ type: book
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-{{< cta cta_text="Download this resource" cta_link="https://schoolnotes.xyz/nesa/9274d565-a5bf-451f-8d70-e7deca19d820/physics-2017-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
-
 <div id="adobe-dc-view" style="width:100%; height: 100%;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
@@ -45,3 +42,5 @@ projects: []
     });
   });
 </script>
+
+{{< cta cta_text="Download this resource" cta_link="https://schoolnotes.xyz/nesa/9274d565-a5bf-451f-8d70-e7deca19d820/physics-2017-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
