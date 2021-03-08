@@ -27,21 +27,7 @@ type: book
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-<div id="adobe-dc-view" style="width:90%; height: 85vh; text-align: center;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-<script type="text/javascript">
-  document.addEventListener("adobe_dc_view_sdk.ready", function(){
-    var adobeDCView = new AdobeDC.View({clientId: "3eda33970ae94d83a9731bb7d8f80d8b", divId: "adobe-dc-view"});
-    adobeDCView.previewFile({
-      content:{ location:
-        { url: "https://schoolnotes.xyz/nesa/9274d565-a5bf-451f-8d70-e7deca19d820/physics-2017-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID="}},
-      metaData:{fileName: "physics-2017-additional-sample-hsc-questions.pdf"}
-    },
-    {
-      embedMode: "SIZED_CONTAINER"
-    });
-  });
-</script>
+
 {{< pdf src="https://schoolnotes.xyz/nesa/9274d565-a5bf-451f-8d70-e7deca19d820/physics-2017-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" filename="physics-2017-additional-sample-hsc-questions.pdf" >}}
 <br>
 {{< cta cta_text="Download this resource" cta_link="https://schoolnotes.xyz/nesa/9274d565-a5bf-451f-8d70-e7deca19d820/physics-2017-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
