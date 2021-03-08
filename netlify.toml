@@ -195,9 +195,3 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = true
   headers = {X-From = "InterplanetaryFileSystem"}
-  
-[[redirects]]
-  from = "/adobe-documentcloud/*"
-  to = "https://documentcloud.adobe.com/:splat"
-  status = 200
-  force = true
