@@ -40,7 +40,9 @@ projects: []
 ### Peering Servers
 > These make our lives easier, and your loading times lower.
 
-
+![](https://img.shields.io/website?down_message=offline&label=Broker%20%28Core%29&style=for-the-badge&up_message=online&url=https%3A%2F%2Fcore.arc.io%2Fbroker.html)
+![](https://img.shields.io/website?down_message=offline&label=Sentry%20%28Error%20Reporting%29&style=for-the-badge&up_message=online&url=https%3A%2F%2Fsentry.arc.io%2F)
+![]()
 
 ### Image Servers
 > All images are mirrored across the three servers, but life is harder when they're down.
