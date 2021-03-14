@@ -195,10 +195,3 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = true
   headers = {X-From = "InterplanetaryFileSystem"}
-  
-[[redirects]]
-  from = "/scihub/*"
-  to = "https://sci-hub.se/:splat"
-  status = 200
-  force = true
-  headers = {X-From = "InterplanetaryFileSystem"}

@@ -45,7 +45,7 @@ projects: []
 ![]()
 
 ### Image Servers
-> All images are mirrored across the three servers, but life is harder when they're down.
+> All images are mirrored across the three servers as well as the main hosts, but life is harder when they're down.
 
 ![](https://img.shields.io/website?down_message=offline&label=Image%20Server%201%20%28Calliope%29&style=for-the-badge&up_message=online&url=https%3A%2F%2Fimages.schoolnotes.xyz)
 ![](https://img.shields.io/website?down_message=offline&label=Image%20Server%202%20%28Terpsichore%29&style=for-the-badge&up_message=online&url=https%3A%2F%2Fcdn.statically.io)
