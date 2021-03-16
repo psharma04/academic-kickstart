@@ -184,14 +184,21 @@ headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/ipfs-1/*"
-  to = "https://cloudflare-ipfs.com/ipfs/:splat"
+  to = "https://10.via0.com/ipfs/:splat"
   status = 200
   force = true
   headers = {X-From = "InterplanetaryFileSystem"}
   
 [[redirects]]
   from = "/css-repo/*"
-  to = "https://cloudflare-ipfs.com/ipfs/QmVu4E6ujjqDViSXRjALprPTosTW5MsW2KNLmD2htVWqHq/fontawesome-5-pro/:splat"
+  to = "https://gateway.pinata.cloud/ipfs/QmVu4E6ujjqDViSXRjALprPTosTW5MsW2KNLmD2htVWqHq/fontawesome-5-pro/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "InterplanetaryFileSystem"}
+
+[[redirects]]
+  from = "/ipfs/*"
+  to = "https://cloudflare-ipfs.com/ipfs/:splat"
   status = 200
   force = true
   headers = {X-From = "InterplanetaryFileSystem"}

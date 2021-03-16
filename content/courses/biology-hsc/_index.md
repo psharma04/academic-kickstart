@@ -27,6 +27,7 @@ weight: 1
 
 ## Resources
 
+- [Vocabulary List](resource-vocab-list/)
 - [About 90 Pages of HSC Practice Questions](resource-nesa-bonus-questions/)
 - [Biology Syllabus](/nesa/657d2611-c201-49ce-a18e-ef0f786a5de0/biology-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=)
 

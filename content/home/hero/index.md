@@ -11,6 +11,7 @@ title = "Schoolnotes Portal"
 hero_media = "icon.png"
 
 [design.background]
+
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
