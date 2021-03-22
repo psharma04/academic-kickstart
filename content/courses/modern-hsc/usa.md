@@ -10,7 +10,7 @@ categories: [Year 12, Modern History, HSC, National Study, USA]
 date: 2020-22-03T02:27:30+11:00
 lastmod: 2020-22-04T02:27:30+11:00
 featured: false
-draft: true
+draft: false
 math: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -86,3 +86,9 @@ projects: []
 
 - Harding instituted policies to undercut the economic regulatory agencies established during the Progressive Era
   - Harding's policies resulted in the Federal Reserve (which regulated banks), the Interstate Commerce Commission (which regulated railroads), and the Railroad Labor Board (Which upheld the rights of railroad workers) being filled with individuals "sympathetic to business concerns and hostile to regulation."
+  - He also signed the Willis Graham Act, which nullified the United States Government's commitment to preventing monopolies in the telephone market. This ultimately resulted in AT&T establishing a monopoly in the telecommunications industry.
+  - Harding's economic prowess (or lack thereof) can be observed in his personal life: he died with a debt of over 180000 USD, worth nearly 2.4 million USD today.
+
+### Calvin Coolidge
+
+- 
