@@ -10,7 +10,7 @@ categories: [Year 12, Modern History, HSC, National Study, USA]
 date: 2020-22-03T02:27:30+11:00
 lastmod: 2020-22-04T02:27:30+11:00
 featured: false
-draft: true
+draft: false
 math: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
