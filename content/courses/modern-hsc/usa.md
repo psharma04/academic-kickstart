@@ -76,5 +76,13 @@ projects: []
   - On August 18, 1920, women gained the right to vote in elections through the 19th Amendment
 
   > [“The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any state on account of sex."](https://constitution.congress.gov/constitution/amendment-19/)
+  - The "flapper" movement saw a shift in feminist expressionism - younger feminists became more concerned with social expression as opposed to politics, a principle objected to by men and older feminists alike
 
-- 
+    > [“The social butterfly type… the frivolous, scantily-clad, jazzing flapper, irresponsible and undisciplined, to whom a dance, a new hat, or a man with a car, were of more importance than the fate of nations”](https://www.theguardian.com/lifeandstyle/2018/feb/05/the-1920s-young-women-took-the-struggle-for-freedom-into-their-personal-lives)
+
+## Republican Economic Policies
+
+### President Warren G. Harding
+
+- Harding instituted policies to undercut the economic regulatory agencies established during the Progressive Era
+  - Harding's policies resulted in the Federal Reserve (which regulated banks), the Interstate Commerce Commission (which regulated railroads), and the Railroad Labor Board (Which upheld the rights of railroad workers) being filled with individuals "sympathetic to business concerns and hostile to regulation."
