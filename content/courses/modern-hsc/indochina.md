@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "National Study: Conflict In Indochina 1954-79"
-subtitle: "Modern History HSC National Study - Indochina"
-summary: "Modern History HSC National Study - Indochina"
+title: "Peace and Conflict: Conflict In Indochina 1954-79"
+subtitle: "Modern History HSC Depth Study - Conflict in Indochina"
+summary: "Modern History HSC Depth Study - Conflict in Indochina"
 authors: [Pranav Sharma, Vishnu Yannam]
-tags: [Year 12, Modern History, HSC, National Study, Vietnam, Indochina]
-categories: [Year 12, Modern History, HSC, National Study, Vietnam, Indochina]
+tags: [Year 12, Modern History, HSC, Peace and Conflict, Vietnam, Indochina]
+categories: [Year 12, Modern History, HSC, Peace and Conflict, Vietnam, Indochina]
 date: 2020-22-03T02:27:30+11:00
 lastmod: 2020-22-04T02:27:30+11:00
 featured: false
@@ -1149,6 +1149,7 @@ J Pilger: ‘[US bombing] provided… the Khmer Rouge with a catalyst for a revo
         V Shubin: ‘The Cham were almost fully exterminated.’ Kompong Cham province---had Muslim population of 20,000 -> none survived.
 
 *   Ethnic minorities abolished
+    
     *   Targeted dress, language, customs, beliefs, etc.
 *   Party purging
     *   Disagreement with Pol Pot = treasonous ‘microbes within the party’ (Pol Pot)

@@ -18,7 +18,11 @@ type: book
 weight: 1
 ---
 
-## National Depth Studies
+## Core Module
+
+- [Power and Authority in the Modern World](power-authority/)
+
+## Peace and Conflict
 
 - [Vietnam (Indochina)](indochina/)
 
