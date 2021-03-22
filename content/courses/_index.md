@@ -51,6 +51,10 @@ Find revision courses, tutorials, and cheat sheets for your subjects by pressing
 - [HSC Physics](physics-hsc/)
 - [HSC PDHPE](pdhpe-hsc/)
 
+### Human Society and Its Environment
+
+- [HSC Modern History](modern-hsc/)
+
 ### Social Sciences
 
 - [HSC Studies of Religion](sor-hsc/)
