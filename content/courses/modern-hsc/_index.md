@@ -22,6 +22,10 @@ weight: 2
 
 - [Power and Authority in the Modern World](power-authority/)
 
+### National Studies
+
+- [United States of America - 1919 to 1941](usa/)
+
 ## Peace and Conflict
 
 - [Vietnam (Indochina)](indochina/)
