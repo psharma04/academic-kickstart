@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Modern History - HSC
+title: "Modern History - HSC"
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "HSC Modern History"
@@ -15,7 +15,7 @@ date: 2020-13-02
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 1
+weight: 2
 ---
 
 ## Core Module
