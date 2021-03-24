@@ -202,3 +202,10 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = true
   headers = {X-From = "InterplanetaryFileSystem"}
+  
+[[redirects]]
+  from = "/invidious/*"
+  to = "https://invidious.kavin.rocks/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "InterplanetaryFileSystem"}
