@@ -673,7 +673,7 @@ A transformer consists of two solenoids placed near each other (conventionally, 
 
 The primary coil is the input coil and the secondary coil is the output coil.
 
-![image-20210207175346269](/statically-image-cdn/uploads8bRp0M2021-8bRp0M.png)
+![image-20210207175346269](/statically-image-cdn/uploads/8bRp0M2021-8bRp0M.png)
 
 
 
