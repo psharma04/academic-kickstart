@@ -40,6 +40,10 @@ Find revision courses, tutorials, and cheat sheets for your subjects by pressing
 
 ## HSC Courses
 
+### English
+
+- [HSC English Advanced](english-advanced-hsc/)
+
 ### Mathematics
 
 - [HSC Mathematics Standard 2](mathematics-standard-hsc/)
