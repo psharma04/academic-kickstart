@@ -22,9 +22,9 @@ Find revision courses, tutorials, and cheat sheets for your subjects by pressing
 
 ## Recently Updated Courses
 
+- [HSC English Advanced](english-advanced-hsc/)
+- [HSC Modern History](modern-hsc/)
 - [Preliminary Physics](physics-prelim/)
-- [Preliminary Chemistry](chemistry-prelim/)
-- [Preliminary Biology](biology-preliminary/)
 
 ## Preliminary Courses
 
