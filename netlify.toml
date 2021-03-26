@@ -205,14 +205,14 @@ headers = {X-From = "DeuteriumWebServer"}
   
 [[redirects]]
   from = "https://invidious.schoolnotes.xyz/*"
-  to = "https://invidious.kavin.rocks/:splat"
-  status = 301
+  to = "https://invidious.048596.xyz/:splat"
+  status = 200
   force = true
-  headers = {X-From = "Invidious.Kavin.Rocks"}
+  headers = {X-From = "Invidious Canada"}
   
 [[redirects]]
   from = "http://invidious.schoolnotes.xyz/*"
   to = "https://invidious.schoolnotes.xyz/:splat"
   status = 301
   force = true
-  headers = {X-From = "Invidious.Kavin.Rocks"}
+  headers = {X-From = "Invidious Canada"}
