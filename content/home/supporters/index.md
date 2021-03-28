@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Content Delivery Network"
-  organization_url = "https://raw.githack.com"
-  title = "GitHack CDN"
-  url = "https://raw.githack.com"
+  organization = "Main Content Delivery Network"
+  organization_url = "https://arc.io/?ref=schoolnotes.xyz#signUp"
+  title = "Arc.io CDN"
+  url = "https://arc.io/?ref=schoolnotes.xyz#signUp"
 # certificate_url = "https://www.coursera.org"
-  date_start = "2019-10-01"
+  date_start = "2021-01-01"
   date_end = ""
   description = ""
 
@@ -39,12 +39,22 @@ date_format = "Jan 2006"
   description = ""
 
   [[item]]
-    organization = "Math and Formula Rendering"
-    organization_url = "https://mathjax.org"
-    title = "Mathjax"
-    url = "https://mathjax.org"
-  #  certificate_url = "https://www.datacamp.com"
-    date_start = "2019-07-10"
+    organization = "Status Monitoring"
+    organization_url = "https://healthchecks.io/"
+    title = "HealthChecks.IO"
+    url = "https://healthchecks.io/"
+#  certificate_url = "https://www.datacamp.com"
+    date_start = "2021-02-10"
     date_end = ""
     description = ""
+
+  [[item]]
+    organization = "Content Delivery Network Fallback"
+    organization_url = "https://statically.io/"
+    title = "Statically CDN"
+    url = "https://statically.io/"
+#  certificate_url = "https://www.datacamp.com"
+    date_start = "2021-02-10"
+    date_end = ""
+    description = ""  
 +++
