@@ -43,8 +43,8 @@ Note: The upkeep and relevance of these critical readings is managed by people o
 
 - [The Tempest & Hagseed: Textual Conversations](/ipfs/Qmb1aVzVg98KknfXFPFBBCZTS6jNwUnJq1dSRLFujiM11A)
 - [The Tempest and Use of the Masque Genre](/ipfs/QmRQogMxBvHTscJsRh9vwd88MKdyCuqexBNptjn2XGnYUw)
-- [Caliban in Shakespeare’s “The Tempest”: A Critical Analysis](/ipfs/QmZRfz6NWbh43SJFgoQfG3aA1DdWv23iysrnAsHFpXBgp2/English-Critical-Readings/Caliban in Shakespeare's "The Tempest" A Critical Analysis.pdf)
-- [Metatheatre and Revenge in Shakespeare's Hamlet and The Tempest](/ipfs/QmZRfz6NWbh43SJFgoQfG3aA1DdWv23iysrnAsHFpXBgp2/English-Critical-Readings/Metatheatre and Revenge in Shakespeare's Hamlet and The Tempest.pdf)
+- [Caliban in Shakespeare’s “The Tempest”: A Critical Analysis](/ipfs/QmZRfz6NWbh43SJFgoQfG3aA1DdWv23iysrnAsHFpXBgp2/English-Critical-Readings/Caliban%20in%20Shakespeare%E2%80%99s%20%E2%80%9CThe%20Tempest%E2%80%9D%20A%20Critical%20Analysis.pdf)
+- [Metatheatre and Revenge in Shakespeare's Hamlet and The Tempest](/ipfs/QmZRfz6NWbh43SJFgoQfG3aA1DdWv23iysrnAsHFpXBgp2/English-Critical-Readings/Metatheatre%20and%20Revenge%20in%20Shakespeare%27s%20Hamlet%20and%20The%20Tempest.pdf)
 - [Form and Disorder in The Tempest](/ipfs/QmZRfz6NWbh43SJFgoQfG3aA1DdWv23iysrnAsHFpXBgp2/English-Critical-Readings/zimbardo1963.pdf)
 
 {{< callout note >}}
