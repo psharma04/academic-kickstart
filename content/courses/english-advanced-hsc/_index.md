@@ -41,8 +41,11 @@ Note: The upkeep and relevance of these critical readings is managed by people o
 
 #### Module B
 
-- [The Tempest & Hagseed: Textual Conversations](https://web.archive.org/web/20210313111922/https://www.cleareducation.com.au/blog/post/5125/The-Tempest-HagseedTextual-Conversations/)
+- [The Tempest & Hagseed: Textual Conversations](/ipfs/Qmb1aVzVg98KknfXFPFBBCZTS6jNwUnJq1dSRLFujiM11A)
 - [The Tempest and Use of the Masque Genre](/ipfs/QmRQogMxBvHTscJsRh9vwd88MKdyCuqexBNptjn2XGnYUw)
+- [Caliban in Shakespeare’s “The Tempest”: A Critical Analysis](/ipfs/QmZRfz6NWbh43SJFgoQfG3aA1DdWv23iysrnAsHFpXBgp2/English-Critical-Readings/Caliban in Shakespeare's "The Tempest" A Critical Analysis.pdf)
+- [Metatheatre and Revenge in Shakespeare's Hamlet and The Tempest](/ipfs/QmZRfz6NWbh43SJFgoQfG3aA1DdWv23iysrnAsHFpXBgp2/English-Critical-Readings/Metatheatre and Revenge in Shakespeare's Hamlet and The Tempest.pdf)
+- [Form and Disorder in The Tempest](/ipfs/QmZRfz6NWbh43SJFgoQfG3aA1DdWv23iysrnAsHFpXBgp2/English-Critical-Readings/zimbardo1963.pdf)
 
 {{< callout note >}}
 

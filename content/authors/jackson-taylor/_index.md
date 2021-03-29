@@ -23,4 +23,4 @@ user_groups:
   - Writers
   - all
 ---
-I'm a year 11 student at [Sydney Tech](https://sths.nsw.edu.au). I work at Hager Electro as a software engineer, and spend my free time playing Minecraft. Member of Heimdall Studios. Don't stalk me.
+I'm a year 12 student at [Sydney Tech](https://sths.nsw.edu.au). I work at Hager Electro as a software engineer, and spend my free time playing Minecraft. Member of Heimdall Studios. Don't stalk me.
