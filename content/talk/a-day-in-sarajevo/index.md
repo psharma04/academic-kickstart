@@ -46,7 +46,11 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-
+links:
+  - name: "Recording"
+    url: "https://schoolnotes.xyz/talk/a-day-in-sarajevo/A_Day_in_Sarajevo_-_Damien_Fenech.m4a"
+    icon_pack: fas
+    icon: microphone-alt
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: ""
 
@@ -57,7 +61,7 @@ url_code: ""
 url_pdf: ""
 
 # If you have a recording (audio or video), or a stream link, paste the link between the quotes:
-url_video: "A_Day_in_Sarajevo_-_Damien_Fenech.m4a"
+#url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
