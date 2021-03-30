@@ -71,6 +71,7 @@ F-->I[Practice Questions];
 - Content is written using the Cornell layout, which we'll explain in a future post. Essentially, it consists of taking a syllabus point, turning it into a question, and then answering the question. For example:
 
   > Preliminary Chemistry Syllabus Point: Model the atom’s discrete energy levels, including electronic configuration and spdf notation (ACSCH017, ACSCH018, ACSCH020, ACSCH022)
+
   - Becomes "How do scientists model the discrete energy levels of an atom?", which is then answered.
 
 - We do this for each point of each module, adding additional information as we feel is needed (for example, terminology definitions, historical context, formulae, etc.)
@@ -94,7 +95,7 @@ F-->I[Practice Questions];
 - Once in our repository, the post automatically gets processed and uploaded to our edge servers. Global distribution occurs in about a minute on average.
 - The next time you open the site, the new post will appear in the relevant subject for you to read and learn from.
 
-And that's pretty much it! If you want to know more and/or want to get involved, feel free to message any of us on Instagram (find on our author pages), or send an email to [academic@intranet.pw](mailto:academic@intranet.pw).
+And that's pretty much it! If you want to know more and/or want to get involved, feel free to message any of us on Instagram (find on our author pages), or send an email to [writers@schoolnotes.xyz](mailto:writers@schoolnotes.xyz).
 
 Thanks for reading!
 

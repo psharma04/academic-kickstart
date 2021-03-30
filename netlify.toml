@@ -216,3 +216,31 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 301
   force = true
   headers = {X-From = "Invidious Canada"}
+  
+[[redirects]]
+  from = "https://psharma.schoolnotes.xyz/*"
+  to = "https://schoolnotes.xyz/author/pranav-sharma/"
+  status = 301
+  force = true
+  headers = {X-From = "Author Links"}
+
+[[redirects]]
+  from = "https://croose.schoolnotes.xyz/*"
+  to = "https://schoolnotes.xyz/author/chloe-roose/"
+  status = 301
+  force = true
+  headers = {X-From = "Author Links"}
+
+[[redirects]]
+  from = "https://jtaylor.schoolnotes.xyz/*"
+  to = "https://schoolnotes.xyz/author/jackson-taylor/"
+  status = 301
+  force = true
+  headers = {X-From = "Author Links"}
+
+[[redirects]]
+  from = "https://vreddy.schoolnotes.xyz/*"
+  to = "https://schoolnotes.xyz/author/vishnu-yannam/"
+  status = 301
+  force = true
+  headers = {X-From = "Author Links"}
