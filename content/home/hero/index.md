@@ -51,8 +51,8 @@ hero_media = "icon.png"
   label = '<a href="/terms/">Please note that use of the site is subject to the Site License Policy.</a>'
 +++
 
-**Academic courses, simplified.**
+**HSC courses, simplified.**
 
-Our guides are written by students, for students.
+Our guides are written by current and former HSC students in a way that's easy to understand, and yet detailed enough to explain your courses from cover to cover.
 
 <a href="/patreon/" alt="Become a patron"> <img srcset="/patreon/patreon.svg, /patreon/patreon.webp, /patreon/patreon_2x.png 2x, /patreon/patreon_1x.png 1x" src="/patreon/patreon_1x.png" loading="eager"><a>
