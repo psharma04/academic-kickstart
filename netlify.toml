@@ -231,16 +231,4 @@ headers = {X-From = "DeuteriumWebServer"}
   force = true
   headers = {X-From = "Author Links"}
 
-[[redirects]]
-  from = "https://jtaylor.schoolnotes.xyz/*"
-  to = "https://schoolnotes.xyz/author/jackson-taylor/"
-  status = 301
-  force = true
-  headers = {X-From = "Author Links"}
 
-[[redirects]]
-  from = "https://vreddy.schoolnotes.xyz/*"
-  to = "https://schoolnotes.xyz/author/vishnu-yannam/"
-  status = 301
-  force = true
-  headers = {X-From = "Author Links"}

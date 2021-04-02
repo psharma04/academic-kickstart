@@ -21,7 +21,8 @@ weight: 1
 ## Posts
 
 - [Module 5: Equilibrium and Acid Reactions](module-5)
-- [Module 6: Acids And Bases](module-6)
+- [Module 6: Acids And Bases](module-6/)
+- [Module 7: Organic Chemistry](module-7/)
 
 ## Resources
 
