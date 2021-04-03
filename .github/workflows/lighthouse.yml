@@ -1,6 +1,6 @@
 name: Lighthouse
 
-on: commit
+on: push
 
 jobs:
   build:
