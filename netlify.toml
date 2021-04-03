@@ -232,4 +232,9 @@ headers = {X-From = "DeuteriumWebServer"}
   force = true
   headers = {X-From = "Author Links"}
 
-
+[[redirects]]
+  from = "https://status.schoolnotes.xyz/*"
+  to = "https://schoolnotes-portal.freshstatus.io/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "FreshStatus"}
