@@ -1,6 +1,6 @@
 name: Lighthouse
 
-on: pull_request
+on: commit
 
 jobs:
   build:
