@@ -2,7 +2,7 @@
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Module B Text Analysis: The Tempest"
+title: "Module B: Text Analysis - The Tempest"
 subtitle: "Critical analysis of the Tempest by William Shakespeare."
 summary:  "Critical analysis of the Tempest by William Shakespeare."
 authors: [Jackson Taylor, Jesse Caminer, Pranav Sharma]

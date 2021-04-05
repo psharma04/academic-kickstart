@@ -51,7 +51,7 @@ hero_media = "icon.png"
   label = '<a href="/terms/">Please note that use of the site is subject to the Site License Policy.</a>'
 +++
 
-**HSC courses, simplified.**
+**HSC courses made easy.**
 
 Our guides are written by current and former HSC students in a way that's easy to understand, and yet detailed enough to explain your courses from cover to cover.
 
