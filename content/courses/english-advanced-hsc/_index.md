@@ -22,7 +22,8 @@ weight: 1
 
 ## Module B: Critical Study of Literature
 
-- [The Tempest](tempest/)
+- [The Tempest by William Shakespeare](tempest/)
+- [Hag-Seed by Margaret Atwood](hag-seed/)
 
 ## Resources
 
