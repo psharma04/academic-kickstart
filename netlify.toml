@@ -115,17 +115,24 @@ headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/csec-cdn/*"
-  to = "https:///csec-cdn.intranet.pw/:splat"
+  to = "https://csec-cdn.intranet.pw/:splat"
   status = 200
   force = true
   headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/random-projects/*"
-  to = "https://psharma04.github.io/random-projects/:splat"
+  to = "https://psharma04.github.io/Random-Projects/:splat"
   status = 200
   force = true
-  headers = {X-From = "HydroniumWebServer"}
+  headers = {X-From = "OctocatWebServer"}
+
+[[redirects]]
+  from = "/Random-Projects/*"
+  to = "https://psharma04.github.io/Random-Projects/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "OctocatWebServer"}
 
 [[redirects]]
   from = "/nesa/*"
@@ -139,7 +146,7 @@ headers = {X-From = "DeuteriumWebServer"}
   to = "https://raw.githubusercontent.com/psharma04/academic-kickstart/master/:splat"
   status = 200
   force = true
-  headers = {X-From = "DeuteriumWebServer"}
+  headers = {X-From = "OctocatWebServer"}
 
 [[redirects]]
   from = "/jsdelivr-proxy/*"

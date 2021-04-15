@@ -398,7 +398,7 @@ Functional group isomers result when the atoms in the molecules are **arrange in
 
 ##### Example: $\ce{C3H6O2}\newcommand{orange}{\color{orange}}$
 
-- Propanoic Acid and 1-hydroxypropan-2-one arefunctional group isomers, with the same molecular formula $(\ce{C3H6O2}),$ but different arrangements of atoms:
+- Propanoic Acid and 1-hydroxypropan-2-one are functional group isomers, with the same molecular formula $(\ce{C3H6O2}),$ but different arrangements of atoms:
 - Propanoic Acid contains a carboxyl functional group, while 1-hydroxypropan-2-one contains hydroxyl and carbonyl functional groups
 
 {{< figure src="/jsdelivr-proxy/gh/psharma04/image-repo@main/uploads/propanoic-acid_lewis.svg" theme="light" caption="Propanoic Acid" >}}
