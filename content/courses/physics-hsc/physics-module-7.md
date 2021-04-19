@@ -45,7 +45,8 @@ $\newcommand{orange}{\color{orange}}$
 
 ### Newton's Model of Light
 
-- Newton proposed that light was made up of tiny perfectly elastic particles. 
+- Newton proposed that light was made up of tiny perfectly elastic particles, or *"corpuscles"*.
+
 - Newton concluded that travel in straight lines in all possible directions thus, they were particles not waves as waves propagate. 
 - The rate at which they travel depend on the medium they are in. 
 - Newton believed light must be a particle as it travelled in a vacuum and waves were believed to require a medium. 
@@ -54,12 +55,15 @@ $\newcommand{orange}{\color{orange}}$
 - When a ray is in a medium the ray moves in a straight line as Newton's 1st Law states that the ray will not bend if no net external force (none since attracted equally on all sides). 
 - Light splits due to the size of the particle (Theory of Fits), particles that fit between atoms of the medium would refract and light that could not would reflect. 
 - He also said that different colours of light had different size particles thus, causing separation of white light to occur. 
-- Light particles have an ambiguous, non-spherical shape which allows for polarisation. Newton could not explain absorption.
+- Light particles have an ambiguous, non-spherical shape which allows for polarisation. 
+- The major issue of the Corpuscle theory was that Newton could not explain absorption.
 
 ### Huygen's Model of Light
 
 - Huygen proposed that light was a wave that propagated perpendicular to its direction of travel and has a miniscule wavelength. 
 - Huygen knew that waves must have a propagating medium so Huygen called the medium for light the 'luminiferous aether', which supposedly fills up all space thus, allowing light waves to travel.
+
+> We now know that this is incorrect, and that light does not need a medium to travel.
 
 **Huygen's principle:** Every point on a wavefront is a source for secondary semicircular 'wavelets' which spread out in the forward direction with the same speed as the wave. The new wavefront is the tangent to all the secondary waves. When part of the wavelets is blocked, the tangent is modified.
 

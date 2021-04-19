@@ -8,10 +8,79 @@
   url = "#hero"
   weight = 5
 
+
 [[main]]
-  name = "Courses"
+  name = "HSC Courses"
   url = "/courses"
   weight = 10
+  identifier = "hsc"
+
+[[main]]
+  name = "Physics"
+  url = "/courses/physics-hsc"
+  parent = "hsc"
+
+[[main]]
+  name = "Chemistry"
+  url = "/courses/chemistry-hsc"
+  parent = "hsc"
+  
+[[main]]
+  name = "English Advanced"
+  url = "/courses/english-advanced-hsc"
+  parent = "hsc"
+
+[[main]]
+  name = "Modern History"
+  url = "/courses/modern-hsc"
+  parent = "hsc"
+
+[[main]]
+  name = "Mathematics Standard"
+  url = "/courses/mathematics-standard-hsc"
+  parent = "hsc"
+
+[[main]]
+name = "Biology"
+url = "/courses/biology-hsc"
+parent = "hsc"  
+
+[[main]]
+  name = "PDHPE"
+  url = "/courses/pdhpe-hsc"
+  parent = "hsc"
+
+[[main]]
+  name = "Studies Of Religion"
+  url = "/courses/sor-hsc"
+  parent = "hsc"  
+
+  
+[[main]]
+  name = "Preliminary Courses"
+  url = "/courses"
+  weight = 7
+  identifier = "preliminary"
+
+[[main]]
+  name = "Biology"
+  url = "/courses/biology-preliminary"
+  parent = "preliminary"
+
+[[main]]
+  name = "Chemistry"
+  url = "/courses/chemistry-prelim"
+  parent = "preliminary"
+
+[[main]]
+  name = "Physics"
+  url = "/courses/physics-prelim"
+  parent = "preliminary"
+
+[[main]]
+  name = "Studies of Religion"
+  url = "/courses/sor-prelim"
+  parent = "preliminary"
 
 [[main]]
   name = "Blog"
@@ -42,6 +111,7 @@
   name = "<i class='fab fa-patreon'></i>"
   url = "https://patreon.com/schoolnotes"
   weight = 80
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
