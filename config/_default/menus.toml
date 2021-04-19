@@ -88,19 +88,14 @@ parent = "hsc"
   weight = 15
 
 [[main]]
-  name = "Meet The Team"
-  url = "#people"
-  weight = 20
-
-[[main]]
   name = "Supporters"
   url = "#supporters"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "Workshops"
   url = "#talks"
-  weight = 50
+  weight = 30
 
 [[main]]
   name = "Contact"
