@@ -16,42 +16,42 @@
   identifier = "hsc"
 
 [[main]]
-  name = "Physics"
+  name = "HSC Physics"
   url = "/courses/physics-hsc"
   parent = "hsc"
 
 [[main]]
-  name = "Chemistry"
+  name = "HSC Chemistry"
   url = "/courses/chemistry-hsc"
   parent = "hsc"
   
 [[main]]
-  name = "English Advanced"
+  name = "HSC English Advanced"
   url = "/courses/english-advanced-hsc"
   parent = "hsc"
 
 [[main]]
-  name = "Modern History"
+  name = "HSC Modern History"
   url = "/courses/modern-hsc"
   parent = "hsc"
 
 [[main]]
-  name = "Mathematics Standard"
+  name = "HSC Mathematics Standard"
   url = "/courses/mathematics-standard-hsc"
   parent = "hsc"
 
 [[main]]
-name = "Biology"
+name = "HSC Biology"
 url = "/courses/biology-hsc"
 parent = "hsc"  
 
 [[main]]
-  name = "PDHPE"
+  name = "HSC PDHPE"
   url = "/courses/pdhpe-hsc"
   parent = "hsc"
 
 [[main]]
-  name = "Studies Of Religion"
+  name = "HSC Studies Of Religion"
   url = "/courses/sor-hsc"
   parent = "hsc"  
 
@@ -63,22 +63,22 @@ parent = "hsc"
   identifier = "preliminary"
 
 [[main]]
-  name = "Biology"
+  name = "Preliminary Biology"
   url = "/courses/biology-preliminary"
   parent = "preliminary"
 
 [[main]]
-  name = "Chemistry"
+  name = "Preliminary Chemistry"
   url = "/courses/chemistry-prelim"
   parent = "preliminary"
 
 [[main]]
-  name = "Physics"
+  name = "Preliminary Physics"
   url = "/courses/physics-prelim"
   parent = "preliminary"
 
 [[main]]
-  name = "Studies of Religion"
+  name = "Preliminary Studies Of Religion"
   url = "/courses/sor-prelim"
   parent = "preliminary"
 
