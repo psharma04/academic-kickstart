@@ -214,24 +214,24 @@ plugins_js  = []
 ############################
 [comments]
   # Comment provider:
-  #   0: Disabled
-  #   1: Disqus (https://disqus.com)
-  #   2: Commento (https://commento.io)
-  engine = 2
-
+  #   "": Disabled
+  #   "disqus": Disqus (https://disqus.com)
+  #   "commento": Commento (https://commento.io)
+  provider = "commento"
+  
   # Which page types are commentable?
-  commentable = {page = false, post = false, docs = false, project = false, publication = false, talk = false}
-
+  commentable = {post = true, book = true, project = true, publication = true, event = true}
+  
   # Configuration of Disqus.
   [comments.disqus]
-  #  shortname = "schoolnotes-1"  # Paste the shortname from your Disqus dashboard.
-    show_count = false  # Show comment count in page header? (true/false)
-
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)
+    
   # Configuration of Commento.
   [comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
     url = "https://commento.psharma.ovh"
-
+  
 ############################
 ## Search
 ############################
