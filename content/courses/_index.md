@@ -22,9 +22,9 @@ Find revision courses, tutorials, and cheat sheets for your subjects by pressing
 
 ## Recently Updated Courses
 
+- [HSC Science Extension](science-extension-hsc/)
 - [HSC English Advanced](english-advanced-hsc/)
 - [HSC Modern History](modern-hsc/)
-- [Preliminary Physics](physics-prelim/)
 
 ## Preliminary Courses
 
@@ -50,6 +50,7 @@ Find revision courses, tutorials, and cheat sheets for your subjects by pressing
 
 ### Sciences
 
+- [HSC Science Extension](science-extension-hsc/)
 - [HSC Chemistry](chemistry-hsc/)
 - [HSC Biology](biology-hsc/)
 - [HSC Physics](physics-hsc/)
