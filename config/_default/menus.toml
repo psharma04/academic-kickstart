@@ -11,80 +11,85 @@
 
 [[main]]
   name = "HSC Courses"
-  url = "/courses"
+  url = "/courses/"
   weight = 10
   identifier = "hsc"
 
 [[main]]
+  name = "HSC Science Extension"
+  url = "/courses/science-extension-hsc/"
+  parent = "hsc"
+
+[[main]]
   name = "HSC Physics"
-  url = "/courses/physics-hsc"
+  url = "/courses/physics-hsc/"
   parent = "hsc"
 
 [[main]]
   name = "HSC Chemistry"
-  url = "/courses/chemistry-hsc"
+  url = "/courses/chemistry-hsc/"
   parent = "hsc"
   
 [[main]]
   name = "HSC English Advanced"
-  url = "/courses/english-advanced-hsc"
+  url = "/courses/english-advanced-hsc/"
   parent = "hsc"
 
 [[main]]
   name = "HSC Modern History"
-  url = "/courses/modern-hsc"
+  url = "/courses/modern-hsc/"
   parent = "hsc"
 
 [[main]]
   name = "HSC Mathematics Standard"
-  url = "/courses/mathematics-standard-hsc"
+  url = "/courses/mathematics-standard-hsc/"
   parent = "hsc"
 
 [[main]]
 name = "HSC Biology"
-url = "/courses/biology-hsc"
+url = "/courses/biology-hsc/"
 parent = "hsc"  
 
 [[main]]
   name = "HSC PDHPE"
-  url = "/courses/pdhpe-hsc"
+  url = "/courses/pdhpe-hsc/"
   parent = "hsc"
 
 [[main]]
   name = "HSC Studies Of Religion"
-  url = "/courses/sor-hsc"
+  url = "/courses/sor-hsc/"
   parent = "hsc"  
 
   
 [[main]]
   name = "Preliminary Courses"
-  url = "/courses"
+  url = "/courses/"
   weight = 7
   identifier = "preliminary"
 
 [[main]]
   name = "Preliminary Biology"
-  url = "/courses/biology-preliminary"
+  url = "/courses/biology-preliminary/"
   parent = "preliminary"
 
 [[main]]
   name = "Preliminary Chemistry"
-  url = "/courses/chemistry-prelim"
+  url = "/courses/chemistry-prelim/"
   parent = "preliminary"
 
 [[main]]
   name = "Preliminary Physics"
-  url = "/courses/physics-prelim"
+  url = "/courses/physics-prelim/"
   parent = "preliminary"
 
 [[main]]
   name = "Preliminary Studies Of Religion"
-  url = "/courses/sor-prelim"
+  url = "/courses/sor-prelim/"
   parent = "preliminary"
 
 [[main]]
   name = "Blog"
-  url = "/blog"
+  url = "/blog/"
   weight = 15
 
 [[main]]
@@ -104,7 +109,7 @@ parent = "hsc"
 
 [[main]]
   name = "<i class='fab fa-patreon'></i>"
-  url = "https://patreon.com/schoolnotes"
+  url = "/patreon/"
   weight = 80
 
 
