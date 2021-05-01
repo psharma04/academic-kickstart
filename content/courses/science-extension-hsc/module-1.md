@@ -171,6 +171,10 @@ Seeing as this post is being written in COVID era, every week brings a new set o
 
 [Read the ethical framework for human test subject research in Australia here.](https://schoolnotes.xyz/ipfs-1/Qmbp6xKE6zrVPMamw7VEkvGBcS6K46iMLehxN9NhS7V4T4/gtecethicalprinc.pdf)
 
+---
+
+[Citations are hosted by Zotero.](https://www.zotero.org/groups/3440381/schoolnotes_portal/collections/S72NWFKC)
+
 {{< callout note >}}
 
 Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
