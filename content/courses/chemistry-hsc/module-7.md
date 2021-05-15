@@ -32,6 +32,8 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
+[This is one of the hardest modules, and both Chemistry in Focus and Pearson Chemistry 12 overlook significant syllabus points. If parts of this module don't make sense, we also recommend the CrashCourse Organic Chemistry Series.](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4)
+
 ## Introduction
 
 - All life on Earth is based on compounds of Carbon, usually in an aqueous environment

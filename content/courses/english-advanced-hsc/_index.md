@@ -20,7 +20,7 @@ weight: 1
 
 
 
-## Module B: Critical Study of Literature
+## Module A: Textual Conversations
 
 - [The Tempest by William Shakespeare](tempest/)
 - [Hag-Seed by Margaret Atwood](hag-seed/)
@@ -40,7 +40,7 @@ Note: The upkeep and relevance of these critical readings is managed by people o
 
 {{< /callout >}}
 
-#### Module B
+#### Module A
 
 - [The Tempest & Hagseed: Textual Conversations](/ipfs/Qmb1aVzVg98KknfXFPFBBCZTS6jNwUnJq1dSRLFujiM11A)
 - [The Tempest and Use of the Masque Genre](/ipfs/QmRQogMxBvHTscJsRh9vwd88MKdyCuqexBNptjn2XGnYUw)

@@ -589,3 +589,161 @@ Method?
 | Peak Wavelength                | Gradual increase in power, no peak           | Peak wavelength follows Wien's displacement law, and depends on temperature |
 | Behaviour at Short Wavelengths | Power approaches infinity, sharp increase    | Power emitted is 0 at short wavelengths                      |
 
+- In 1900, Planck began the era of quantum mechanics, a new branch of physics. 
+- His theory matched the experimental results with his formula: $E\propto f$
+- He proposed that the vibrational energy of atoms in a blackbody was emitted or absorbed in discrete packets, or quanta. 
+- Rather than a continuous release of energy, at the peak temperature, a specific quanta escapes with a certain amount of energy (multiple of the Planck energy) (E = hf). 
+- Einstein theorised that light was also quantised in the same way, calling the ‘packets’ photons and using it to explain the photoelectric effect (E = hf)
+- As heat inside increased, at each temperature a new packet of energy is released.
+
+### Photoelectric Effect
+
+- Planck’s quantum hypothesis that energy was emitted and absorbed in discrete amounts. 
+- Albert Einstein put physical meaning into Planck’s quantum hypothesis by explaining the photelectric effect as the evidence for quantisation (E=hf). 
+- The Photoelectric effect is the ejection of electrons from an electrode by incident light (aka light that is shone at a specific frequency onto a piece of metal causes electrons to flow or if a certain metal plate is irradiated with light at a certain frequency, an electron will be ejected which can be detected when it interacts with a positively charged wire). 
+- The light must have a minimum/threshold/critical/cut off frequency $(f_0)$ for the electron to be emitted (x-intercept of max kinetic energy vs frequency on graph). 
+- The ability for the electron to be ejected depends only on frequency and not on intensity. 
+- If the photon energy is greater than the work function this goes into the kinetic energy of the released electron. 
+- Philip Lenard observed that the frequency of the light caused a photocurrent through shining UV light through a quartz screen onto a zinc plate with variable voltage inside a vacuum tube and observing the current induced.
+- He observed that the photoelectric current (same as the rate of emission of electrons) is directly proportional to the intensity of light falling on the electrode but, to obtain zero current, the voltage has to be reversed to a certain V0 known as the stopping potential. 
+- The voltage must be reversed to such an extent that the electrons cannot reach the anode. 
+- This is the maximum kinetic energy an emitted electron can achieve. 
+- He found that the intensity of the light did not impact their energy. 
+- The larger the number of electrons, the greater the photocurrent. 
+- The intensity of light is the number of incident photons (no. photons hitting metal) not frequency.
+
+- In 1905, Einstein used Planck's equation of light along with the Law of conservation to explain the photoelectric effect (resulting in the Nobel Prize for Physics, 1921)
+
+- Einstein’s model has 4 components:
+
+  1. Energy of light is unevenly spread out over wavefront but concentrated in ‘packets’ or ‘bursts’ (photon)
+
+  2. Each photon has energy given by $E=hf,$ it cannot possess all amounts of energy, rather it is limited by certain discrete values hence causing ‘packets’
+
+  3. A photon could give up all or none of its energy to one electron. The photon could not give a part of its energy (wave model of light said energy could build up) i.e. all or nothing
+
+  4. One photon can liberate one electron as long as it can overcome the work function – there is no time gap
+
+- It explained how electrons could be ejected with very low intensity incident light at the right frequency, because it only takes one photon at the right energy to knock out an electron and also how increasing the intensity, increased the current but not the stopping voltage as greater intensity means more photons, but not more energetic photons – therefore more interactions produce more current but the average energy of the electrons is unchanged. 
+
+- It also explained why increasing the frequency caused the stopping voltage to be increased linearly as a greater frequency $\rightarrow$ greater energy of photons $(E = hf)$ therefore each photon can transfer more energy to an electron.
+
+## Special Relativity
+
+- In 1905, Einstein wrote 4 papers, one was on special relativity which did away with the aether (the medium assumed light travelled through) and there was no absolute reference frame. 
+- Einstein’s special relativity was based on two postulates (propositions). 
+- Special relativity only concerns things in uniform motion or stationary (inertial frames of reference).
+
+### Principle of Relativity
+
+- The laws of physics are the same in all inertial (at rest or at constant velocity) frames of reference i.e. no aether was required as there is no absolute reference frame for which to compare our motion to, everything is relative, there is no universal direction. 
+- Newton's Laws of motion and the SUVAT equations apply in any non-accelerating reference frame, whether or not there is velocity.
+- You cannot do an experiment to determine whether you are stationary or in constant motion (both observers and movers have to assume they are not moving)
+
+### Constant Speed of Light
+
+- The speed of light, $c,$ has the same value in all inertial frames in a vacuum. 
+- The speed of light does not depend on the speed of the source or the observer (speed doesn’t matter whether I’m moving the torch or not). 
+- $c$ is constant in a vacuum.
+
+{{< youtube AInCqm5nCzw >}}
+
+{{< callout note >}}
+
+The Crash Course video is really helpful for getting your head around this.
+
+{{< /callout >}}
+
+### Evidence for Special Relativity
+
+#### The Michelson Morley Experiment - Disproving the Aether
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/06/Michelson-Morley_experiment_%28en%29.svg" theme=light >}}
+
+- Michelson and Morley intended to prove the existence of the aether by showing that light's speed was different when their setup (as in the diagram above) was rotated, as a result of the motion of the Earth through the Aether (known as the Aether Wind)
+- They expected to see an interference pattern on their detector, because light should have moved faster one way through the aether, but it didn't
+- The null hypothesis demonstrated that light did not require a medium to travel
+- Einstein's first postulate explained why this is false
+
+### Consequences of the Second Postulate
+
+#### Time Dilation
+
+- If the speed of light is constant to all observers, then two observers at different relative velocities will disagree on simultaneity (whether two events happened at the same time)
+- This is because for the speed of light to remain constant, one of the observers will experience time as longer than the other observer
+- This phenomena is known as time dilation, and if it doesn't make sense, don't feel bad: it literally took Einstein to figure it out
+- Time dilation is determined by something known as the Lorentz factor:
+
+> $\orange{\gamma =\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}}$
+>
+> $\gamma:$ Lorentz Factor
+>
+> $v:$ Speed of the moving observer $(\text{m/s})$
+>
+> $c:$ Speed of Light $(\text{Constant, }3\times10^{8}\text{m/s})$
+
+- The Lorentz factor just represents the proportionality between the observed time of 2 different observers
+
+- Time Dilation is calculated by $t=t_{0}\gamma$ where $t_0$ is the time as experienced by the moving object, and $t$ is the time as experienced by the observer
+  - NOTE that you usually don't have to rearrange this formula, because of relativity: from the moving object's perspective, it is the observer that is moving
+
+#### Length Contraction
+
+- If velocity is distance over time, and time dilates but velocity remains the same, then distance should contract by the same proportion
+- The formula for this uses the Lorentz factor from earlier too, because that's our constant of proportionality:
+
+> $l=\frac{l_{0}}{\gamma}$
+
+- Where $l$ is the length as seen by the observer, and $l_0$ is the length as seen by the moving object (this also usually doesn't need to be rearranged)
+- Note that length contraction only occurs along the axis of motion: if a cube is travelling at 0.5c, the sides parallel to the motion are the ones which will contract
+
+{{< callout info >}}
+
+Length contraction and time dilation are known as Lorentz Transformations. For those who like vectors:
+
+{{< spoiler text="Click here for the vector form of Lorentz Transformations." >}}
+
+The transformation can be parametrised by the constant $v,$ representing a velocity confined to the x-direction:
+
+$$\begin{gather*} t\prime=\gamma\left(t-\frac{vx}{c^{2}}\right)\\\\x\prime=\gamma\left(x-vt\right)\\\\y\prime=y\\\\ z\prime=z \end{gather*}$$
+
+Where $(t,x,y,z)$ and $(t\prime,x\prime,y\prime,z\prime)$ are the coordinates in 2 reference frames, and the prime frame is seen from the unprime frame as moving with a speed of $v$ along the axis $x,$0 along the axis $y,$ and 0 along the axis $z$, and $\gamma$ is the Lorentz factor $\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}$.
+
+{{< /spoiler >}}
+
+{{< /callout >}}
+
+## Relativistic Momentum
+
+Relativistic momentum can be derived from Newton's second law:
+
+- Defining acceleration as $a=\frac{\Delta v}{\Delta t}, F=ma=m\frac{\Delta v}{\Delta t}=\frac{\Delta p}{\Delta t}$
+
+- Since the definition of force must be the same in all FORs, $\frac{\Delta p}{\Delta t}$ must be constant for all observers
+
+- Since force relies on time, time dilation should be includuded in the calculations:
+
+  $F_{\text{|proper time|}}=\frac{p}{t_0}=\frac{m_{0}v}{t_0}$
+
+  $F_{\text{|relativistic time|}}=\frac{p_v}{t_v}=\frac{p_{v}\sqrt{1-\frac{v^{2}}{c^{2}}}}{t_0}$
+
+- For Einstein's first postulate to be satisfied, both values of F must be equal:
+
+  $F=m_{0}v=\frac{p_{v}\sqrt{1-\frac{v^{2}}{c^{2}}}}{t_0}$
+
+  Rearranging for $p_{v}:$
+
+  $p_{v}=\frac{m_{0}v}{\sqrt{1-\frac{v^{2}}{c^{2}}}}$
+
+### The Speed Limit of the Universe
+
+- One of the consequences of special relativity is that an infinite amount of force is required to accelerate an object to the speed of light.
+- As a result, it is impossible for an object with mass to travel at the speed of light. Time Dilation and Length contraction explain what happens to an object at that speed:
+  - An object approaching $c$ experiences virtually no passage of time, and length in the direction of motion is 0. From the object's frame of reference, everything in the universe accelerates towards it, time stops passing, and the universe shrinks to a plane in the direction of motion. 
+  - For a photon (which has no mass and therefore can travel at $c$), time has no meaning, and it is at the start, end, and middle of its journey all at once, and forever.
+
+## $E=mc^2$
+
+- Because Einstein wasn't finished tearing up Newtonian mechanics, he also proved that mass is relative, depending on the speed of an object (which is why we've been using $m_0$ instead of $m$ to refer to rest mass)
+- 
+

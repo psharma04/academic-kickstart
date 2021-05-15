@@ -2,12 +2,12 @@
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Module B: Text Analysis - Hag-Seed"
+title: "Module A: Text Analysis - Hag-Seed"
 subtitle: "Critical analysis of Hag-Seed by Margaret Atwood."
 summary:  "Critical analysis of Hag-Seed by Margaret Atwood."
 authors: [Jackson Taylor, Jesse Caminer, Pranav Sharma]
-tags: [Year 12, English, English Advanced, Module B, Critical Study of Literature, Hag-Seed, Hagseed, Tempest, The Tempest, Critical Analysis, Shakespeare, Atwood]
-categories: [Year 12, English, English Advanced, Module B, Critical Study of Literature, Hag-Seed, Hagseed, Tempest, The Tempest, Critical Analysis, Shakespeare, Atwood]
+tags: [Year 12, English, English Advanced, Module A, Textual Conversations, Hag-Seed, Hagseed, Tempest, The Tempest, Critical Analysis, Shakespeare, Atwood]
+categories: [Year 12, English, English Advanced, Module A, Textual Conversations, Hag-Seed, Hagseed, Tempest, The Tempest, Critical Analysis, Shakespeare, Atwood]
 date: 2021-04-02T19:39:28+11:00
 lastmod: 2021-04-02T19:39:28+11:00
 featured: false

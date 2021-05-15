@@ -2,12 +2,12 @@
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Module B: Text Analysis - The Tempest"
+title: "Module A: Text Analysis - The Tempest"
 subtitle: "Critical analysis of the Tempest by William Shakespeare."
 summary:  "Critical analysis of the Tempest by William Shakespeare."
 authors: [Jackson Taylor, Jesse Caminer, Pranav Sharma]
-tags: [Year 12, English, English Advanced, Module B, Critical Study of Literature, Hag-Seed, Hagseed, Tempest, The Tempest, Critical Analysis, Shakespeare, Atwood]
-categories: [Year 12, English, English Advanced, Module B, Critical Study of Literature, Hag-Seed, Hagseed, Tempest, The Tempest, Critical Analysis, Shakespeare, Atwood]
+tags: [Year 12, English, English Advanced, Module A, Textual Conversations, Hag-Seed, Hagseed, Tempest, The Tempest, Critical Analysis, Shakespeare, Atwood]
+categories: [Year 12, English, English Advanced, Module A, Textual Conversations, Hag-Seed, Hagseed, Tempest, The Tempest, Critical Analysis, Shakespeare, Atwood]
 date: 2020-10-27T19:39:28+11:00
 lastmod: 2020-10-27T19:39:28+11:00
 featured: false
