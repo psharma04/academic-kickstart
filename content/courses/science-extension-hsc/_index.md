@@ -41,7 +41,7 @@ weight: 1
 
 ### Where to find Good (Free) Datasets
 
-- [Google Dataset Search](https://datasetsearch.research.google.com/) (All fields)
+- [Google Dataset Search](https://datasetsearch.research.google.com/) (All Fields)
 - [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/) (Biology/Genetics)
 - [AcademicTorrents](https://academictorrents.com/) (All Fields)
 - [AWS Open Data](https://registry.opendata.aws/) (All Fields)

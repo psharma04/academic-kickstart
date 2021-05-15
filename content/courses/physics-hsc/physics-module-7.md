@@ -10,7 +10,7 @@ categories: [Year 12, Physics, Nature of Light, Module 67]
 date: 2021-04-06T15:44:49+11:00
 lastmod: 2021-04-06T15:44:49+11:00
 featured: false
-draft: true
+draft: false
 math: true
 type: book
 # Featured image
@@ -745,5 +745,12 @@ Relativistic momentum can be derived from Newton's second law:
 ## $E=mc^2$
 
 - Because Einstein wasn't finished tearing up Newtonian mechanics, he also proved that mass is relative, depending on the speed of an object (which is why we've been using $m_0$ instead of $m$ to refer to rest mass)
-- 
+- He came up with an explanation for the effect of relativity on the mass of an object using momentum:
+  - Higher Velocity = More Momentum
+  - More Momentum = More Energy
+  - More Energy = More Mass
+- This resulted in probably the most recognisable equation in science: $E=mc^2$
+
+- This formula, known as the mass-energy equivalence principle, states that mass can be converted to energy and vice versa
+- The $c^2$ component is notable, because it shows that to form kilogram of mass, you need $9\times10^{18}\text{J}$ of energy, which is about the same as the amount of electricity used by South Korea in 2009.
 

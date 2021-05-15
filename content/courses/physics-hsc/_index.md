@@ -22,11 +22,12 @@ weight: 1
 
 - [Module 5: Advanced Mechanics](physics-module-5)
 - [Module 6: Electromagnetism](physics-module-6)
+- [Module 7: The Nature of Light](physics-module-7)
 
 ## Resources
 
 - [Practice Questions from NESA](resource-nesa-bonus-questions/)
-- [Physics Datasheet](/nesa/15010efc-f698-4c05-a841-4c1548a36afa/physics-formulae-sheet-data-sheet-periodic-table-hsc-exams-2019.pdf?MOD=AJPERES&CVID=)
+- [Physics Datasheet](https://datasheets.schoolnotes.xyz/physics.pdf)
 - [Physics Syllabus](/nesa/ca65f106-4fb3-4aed-987c-1a9ba3427a31/physics-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=)
 
 {{< callout note >}}
