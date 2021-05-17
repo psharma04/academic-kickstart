@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Module 5: Hereditary"
+title: "Module 5: Heredity"
 subtitle: "Biology Module 1"
 summary: "Biology Module 1"
 authors: [Jackson Taylor, Pranav Sharma]
-tags: [Year 12, Biology, HSC, Consolidation]
-categories: [Year 12, Biology, HSC Consolidation]
+tags: [Year 12, Biology, HSC, Module 1, Module 5, Heredity, Hereditary, Genetics, Genes, Consolidation]
+categories: [Year 12, Biology, HSC, Module 1, Module 5, Heredity, Hereditary, Genetics, Genes, Consolidation]
 date: 2020-11-02T20:27:30+11:00
 lastmod: 2020-11-02T20:27:30+11:00
 featured: false

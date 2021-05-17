@@ -6,7 +6,7 @@ title: Biology - HSC
 linktitle: "HSC Biology"
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Complete HSC biology course.
 
 # Date page published
 date: 2020-12-02
@@ -20,7 +20,7 @@ weight: 1
 
 ## Posts
 
-- [Module 5: Hereditary](module-5/)
+- [Module 5: Heredity](module-5/)
 - [Module 6: Genetic Change](module-6/)
 - [Module 7: Infectious Diseases](module-7/)
 - [Module 8: Non-Infectious Disease and Disorders](module-8/)
