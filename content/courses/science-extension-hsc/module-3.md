@@ -122,7 +122,7 @@ $$\orange{T=\frac{\bar{x}-H_0}{\frac{\sigma}{\sqrt{n}}}}$$
    - If the equation has "equals", you need a 2-tailed t-test
 3. Now we move to the Empirical rule: because your data is normally distributed, you need to determine how many standard deviations from the mean your data can fall.
    1. For example, an alpha value of 0.05 (or 5%) means data needs to fall between $\bar{x}-2\sigma$ and $\bar{x}+2\sigma$ (because 95% of values are $-2\leq z\leq2$).
-   2. If your test is 2-tailed, double your alpha level (because you're only looking at 1 side of a symmetrical distribution)
+   2. If your test is 2-tailed, half your alpha level (because you're only looking at 1 side of a symmetrical distribution)
 4. Use a [t-score table](https://perma.cc/SMX9-BHNL) to determine the critical t-value. If your calculated T-value is greater than the critical value, 
 
 #### How can conclusions be drawn?
