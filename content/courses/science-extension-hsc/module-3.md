@@ -52,7 +52,7 @@ projects: []
 - Median refers to the middle value of the dataset, and is the term at position $\frac{n}{2}$ where $n$ is the number of values in the dataset
 - Median is represented by $Med(X),$ where $X$ is the relevant variable
 - Standard deviation is the amount of variation in a dataset
-- Standard Deviation can be calculated using $\sqrt{\frac{\sum{(x_{i}-\mu)^{2}}}{n}}$ where n is the number of values in the dataset, and $x_i$ represents each value of the variable
+- Standard Deviation can be calculated using $\orange{\sqrt{\frac{\sum{(x_{i}-\mu)^{2}}}{n}}}$ where n is the number of values in the dataset, and $x_i$ represents each value of the variable
 - Standard Deviation is represented by $\sigma$, and is the square root of variance
 
 ## Statistics Tests
