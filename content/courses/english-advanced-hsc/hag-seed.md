@@ -61,7 +61,7 @@ The cast rehearse the play and Felix comes up with a plan to get his revenge aga
 
 ### Part IV – “Rough Magic”
 
-Felix and the cast prepare for the production. TFelix and the cast are getting ready for the show. Tony and the other leaders arrive at the jail. Instead of a pre-recorded performance of The Tempest, they are exposed to an elaborate theatre environment in which the cast (under Felix's direction) stage a fabricated prison riot, making the men fear for their life while still performing excerpts from The Tempest. Felix overhears Tony and another man discussing murdering one of the other politicians and blaming it on the prison riot. Felix uses this as leverage to blackmail Tony, reclaim his position as Artistic Director of the theatre festival, and secure future funding for the Fletcher Correctional Players.
+Felix and the cast prepare for the production. Felix and the cast are getting ready for the show. Tony and the other leaders arrive at the jail. Instead of a pre-recorded performance of The Tempest, they are exposed to an elaborate theatre environment in which the cast (under Felix's direction) stage a fabricated prison riot, making the men fear for their life while still performing excerpts from The Tempest. Felix overhears Tony and another man discussing murdering one of the other politicians and blaming it on the prison riot. Felix uses this as leverage to blackmail Tony, reclaim his position as Artistic Director of the theatre festival, and secure future funding for the Fletcher Correctional Players.
 
 ### Part V - “This Thing of Darkness”
 
