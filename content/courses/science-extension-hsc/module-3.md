@@ -135,7 +135,7 @@ Crash Course Statistics has a good video on T-tests that explains it far better 
 
 {{< youtube AGh66ZPpOSQ >}}
 
-### Chi-Squared Test $(\Chi^2)$
+### Chi-Squared Test $(\chi^2)$
 
 #### When is it used?
 
@@ -149,11 +149,11 @@ Crash Course Statistics has a good video on T-tests that explains it far better 
 
 #### How is Chi-Squared calculated?
 
-$$\orange{\Chi^{2}=\frac{(O_1-E_1)^{2}}{E_1}+\frac{(O_2-E_2)^{2}}{E_2}+...}$$
+$$\orange{\chi^{2}=\frac{(O_1-E_1)^{2}}{E_1}+\frac{(O_2-E_2)^{2}}{E_2}+...}$$
 
 Where $O$ is the observed value, and $E$ is the expected value.
 
-#### How can $\Chi^2$ be interpreted?
+#### How can $\chi^2$ be interpreted?
 
 1. Identify degrees of freedom: (number of rows minus 1) times (number of columns minus 1)
 2. Identify alpha/significance level (usually $\alpha=0.05$)
