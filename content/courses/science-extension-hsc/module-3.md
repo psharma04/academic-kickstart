@@ -162,7 +162,7 @@ Where $O$ is the observed value, and $E$ is the expected value.
 
 #### Crash course?
 
-{{< youtube v=7_cs1YlZoug >}}
+{{< youtube 7_cs1YlZoug >}}
 
 ### Analysis of Variance (ANoVA)
 
