@@ -57,12 +57,6 @@ projects: []
 
 ## Statistics Tests
 
-{{< callout note >}}
-
-The important formulae are in orange for this section.
-
-{{< /callout >}}
-
 ### F-Test
 
 #### When is it used?
