@@ -10,7 +10,7 @@ categories: [Year 12, Chemistry, Applying Chemical Ideas, Module 8]
 date: 2021-03-26T03:03:16+11:00
 lastmod: 2020-03-26T13:03:16+11:00
 featured: true
-draft: false
+draft: true
 math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
