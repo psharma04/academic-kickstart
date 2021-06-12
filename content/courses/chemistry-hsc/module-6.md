@@ -29,6 +29,8 @@ projects: []
 type: book
 ---
 
+{{< toc hide_on="xl" >}}
+
 {{< callout warning >}}
 
 Some (most) of the chemical formulae in this post do not have the state as a subscript (for example, $\ce{H+(g)}$ instead of $\ce{H+_{(g)}}$). This is because the IUPAC Guidelines for chemical equations recommend that:

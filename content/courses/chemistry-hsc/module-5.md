@@ -30,6 +30,8 @@ projects: []
 type: book
 ---
 
+{{< toc hide_on="xl" >}}
+
 ENTHALPY CHANGE 
 ---------------
 

@@ -30,7 +30,7 @@ projects: []
 
 ---
 
-{{< toc >}}
+{{< toc hide_on="xl" >}}
 
 ---
 

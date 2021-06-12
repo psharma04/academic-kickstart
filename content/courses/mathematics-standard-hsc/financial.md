@@ -5,12 +5,12 @@ title: "Financial Mathematics"
 subtitle: "Module 4/5 for Mathematics Standard (HSC)"
 summary: "Module 4/5 for Mathematics Standard (HSC)"
 authors: [Pranav Sharma]
-tags: [Year 12, Mathematics Standard, Financial Mathematics, Mathematics, Simple Interest, Compound Interest, Interest, Annuities, Future Value, Present Value, Loan Repayments, Inflation]
-categories: [Year 12, Mathematics Standard, Financial Mathematics]
+tags: [Year 12, HSC, Mathematics Standard, Financial Mathematics, Mathematics, Simple Interest, Compound Interest, Interest, Annuities, Future Value, Present Value, Loan Repayments, Inflation]
+categories: [Year 12, HSC, Mathematics Standard, Financial Mathematics]
 date: 2021-01-29T21:02:42+11:00
 lastmod: 2021-01-29T21:02:42+11:00
 featured: false
-draft: true
+draft: false
 type: book
 math: true
 # Featured image
@@ -29,7 +29,7 @@ math: true
 projects: []
 ---
 
-{{< toc >}}
+{{< toc hide_on="xl" >}} 
 
 ---
 
@@ -79,4 +79,54 @@ Usually, questions involving interest tend to involve comparing investment strat
    - Option 2: $FV=1000\times(1+\frac{0.04}{12})^{12\times 3}=\\$1012.07$
 4. Answer the question.
    - Since Heidi will get a better deal from a lower final sum, option 2 is the better deal for her.
-{{</spoiler>}}
+
+{{< /spoiler >}}
+
+## Investment Graphs
+
+### Simple Interest
+
+- Simple interest demonstrates a linear relationship, with the x-axis as $n$ (number of time periods), and the y-axis as $I$ (the interest earned).
+- To draw a simple interest graph:
+  1. Construct a table of values for $I$ and $n$ using the simple interest formula.
+  2. Draw a number plane with the $n$ horizontal axis and $I$ vertical axis, then plot the points.
+  3. Join the points to make a straight line.
+
+##### Example
+
+> Draw a graph of the simple interest earned over a period of 10 years, where the initial amount is $10, and the rate of interest is 8% p.a.
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/T1255.12-06-2021.math-standard-financial.min.svg" theme="light" width=50% >}}
+
+### Compound Interest
+
+- Compound interest demonstrates an exponential curve, with the x-axis as $n$ (number of time periods), and the y-axis as $FV$ (the future value).
+- To draw a compound interest graph:
+  1. Construct a table of values for $FV$ and $n$ using the compound interest formula.
+  2. Draw a number plane with the $n$ horizontal axis and $FV$ vertical axis, then plot the points.
+  3. Join the points to make an exponential curve.
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/T1339.12-06-2021.math-standard-financial.min.svg" theme="light" width=50% >}}
+
+## Appreciation and Inflation
+
+- Appreciation is when an item increases in value.
+- The rate of financial appreciation can often be expressed using the compound interest formula.
+
+$$\color{orange}{FV=PV(1+r)^{n}}$$
+
+- Inflation is when the value of money goes down. When inflation occurs, the price of goods and services increases.
+  - Usually, inflation is between 2% and 3%.
+- This increase in the price of things can also be expressed using the compound interest formula.
+
+### Declining-Balance Depreciation
+
+- Declining-balance depreciation occurs when the value of the item decreases by a fixed percentage each time period.
+- Declining-balance depreciation has a slightly modified version of the compound interest formula:
+  - $S=V_{0}(1-r)^{n}$
+  - $S$ is the final or "salvage" value, $V_0$ is the initial value, $r$ is the rate of depreciation per time period, and $n$ is the number of time periods.
+
+### Reducing-Balance Loans
+
+- Reducing-balance loans are loans where the interest is calculated on the outstanding amount, rather than the total amount.
+- These use more complicated formulae, so you'll typically be given a two-way table, which you can then use to determine the amount outstanding.

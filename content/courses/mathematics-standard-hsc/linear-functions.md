@@ -11,7 +11,10 @@ tags: [Year 12, Mathematics Standard, Linear Functions, HSC, Simultaneous Equati
 categories: [Year 12, Mathematics Standard, Linear Functions, HSC, Simultaneous Equations]
 ---
 
+{{< toc hide_on="xl" >}}
+
 ## What is a Linear Function?
+
 - A linear function is an equation with two variables that takes the shape of a straight line
 - Linear functions have 2 variables: $x$ and $y$
 - They usually take the form of $y=mx+b,$ where m and b are numerical values (e.g. 4, 2.8, $\pi$, $\sqrt[3]{7},$ etc.)

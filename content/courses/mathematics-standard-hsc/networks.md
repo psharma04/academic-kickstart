@@ -30,6 +30,8 @@ image:
 projects: []
 ---
 
+{{< toc hide_on="xl" >}}
+
 ---
 ### What is a Network?
 - A network is a visualisation of objects and how they are connected
