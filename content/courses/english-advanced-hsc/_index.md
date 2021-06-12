@@ -18,7 +18,9 @@ type: book
 weight: 1
 ---
 
+## Common Module: Texts and Human Experiences
 
+- [Nineteen Eighty-Four by George Orwell](1984/)
 
 ## Module A: Textual Conversations
 
