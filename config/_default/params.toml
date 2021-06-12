@@ -217,6 +217,7 @@ plugins_js  = []
   #   "": Disabled
   #   "disqus": Disqus (https://disqus.com)
   #   "commento": Commento (https://commento.io)
+  #   "cusdis": Cusdis
   provider = "commento"
   
   # Which page types are commentable?

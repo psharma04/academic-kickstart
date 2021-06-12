@@ -719,7 +719,7 @@ solutions
 A quantitative way of describing the position of equilibrium is the
 **equilibrium constant** $(𝐾_{𝑒𝑞}).$
 
-> $𝑎𝐴 + 𝑏𝐵 ⇋ 𝑐𝐶 + 𝑑𝐷
+> 𝑎𝐴 + 𝑏𝐵 ⇋ 𝑐𝐶 + 𝑑𝐷
 
 -   **Capital** letters represent **chemical substances**
 
@@ -978,7 +978,6 @@ aqueous solutions.
     ion-dipole** forces between solute ions and water molecules. Hence
     the ions do not become dislodged from their positions in the
     crystal.
-    
 
 Entropy can also contribute to solubility. Most dissolutions are
 **entropically favourable** $(∆𝑆 \gt 0)$, but some dissolutions are
@@ -1097,7 +1096,6 @@ The equilibrium constant for these solution equilibria is called the
 **Molarity** is the main unit of **concentration** used in chemistry:
 
 > $𝑚𝑜𝑙𝑎𝑟𝑖𝑡𝑦 (𝑐) =\frac{\text{𝑚𝑜𝑙𝑒𝑠 𝑜𝑓 𝑠𝑜𝑙𝑢𝑡𝑒 (𝑛)}}{\text{𝑣𝑜𝑙𝑢𝑚𝑒 𝑜𝑓 𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛 (𝑉)}}$
->
 
 - The volume of solution is expressed in **litres (L)**.
 

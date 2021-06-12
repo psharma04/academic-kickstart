@@ -45,6 +45,8 @@ weight: 1
 - [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/) (Biology/Genetics)
 - [AcademicTorrents](https://academictorrents.com/) (All Fields)
 - [AWS Open Data](https://registry.opendata.aws/) (All Fields)
+  - [Ookla Open Data (by AWS)](https://registry.opendata.aws/speedtest-global-performance/) (Technology)
+- [Kaggle](https://www.kaggle.com/datasets) (Machine Learning and Data Science)
 
 {{< callout note >}}
 
