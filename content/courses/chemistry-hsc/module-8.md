@@ -12,7 +12,7 @@ lastmod: 2020-03-26T13:03:16+11:00
 featured: true
 draft: true
 math: true
-diagram: true
+diagram: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

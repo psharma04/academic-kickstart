@@ -123,7 +123,7 @@ $$\color{orange}{FV=PV(1+r)^{n}}$$
 
 - Declining-balance depreciation occurs when the value of the item decreases by a fixed percentage each time period.
 - Declining-balance depreciation has a slightly modified version of the compound interest formula:
-  - $S=V_{0}(1-r)^{n}$
+  - $\color{orange}{S=V_{0}(1-r)^{n}}$
   - $S$ is the final or "salvage" value, $V_0$ is the initial value, $r$ is the rate of depreciation per time period, and $n$ is the number of time periods.
 
 ### Reducing-Balance Loans
