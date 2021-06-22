@@ -39,6 +39,10 @@ projects: []
 
 {{< toc hide_on="xl" >}}
 
+{{< callout warning >}}
+SPOILERS!!! (duh)
+{{< /callout >}}
+
 ---
 
 {{< callout warning >}}

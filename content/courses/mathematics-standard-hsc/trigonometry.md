@@ -109,3 +109,4 @@ To remember the ratios, a common mnemonic (memory device) is SOH CAH TOA:
 ##### Practice Questions
 
 1. A right angled triangle has opposite of 13.8cm and an angle of $53.8^\circ$. Find the length of the adjacent.
+
