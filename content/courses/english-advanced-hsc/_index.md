@@ -34,6 +34,10 @@ weight: 1
 - [Form, Setting, and Metatheatre](form-setting-metatheatre/)
 - [Annotations of Selected Texts - NESA](nesa-selected-annotations/)
 
+### IPFS Resources
+
+- [Art of Smart Common Module Practice Questions](/ipfs-1/QmTnptY1GbNMZPCYtJp1tRgs452R4T4QpU7WCT2yarWrGz)
+
 ### Critical Readings
 
 {{< callout warning >}}
