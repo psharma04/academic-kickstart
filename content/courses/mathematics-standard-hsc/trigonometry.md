@@ -7,8 +7,7 @@ summary: "Introduction to trigonometry for standard math."
 authors: [Pranav Sharma]
 tags: [Year 12, Mathematics Standard, Trigonometry, Mathematics]
 categories: [Year 12, Mathematics Standard, Trigonometry, Mathematics]
-date: 2020-12-15T19:42:51+11:00
-lastmod: 2020-12-15T19:42:51+11:00
+date: 2021-07-07T12:42:51+11:00
 featured: false
 draft: true
 math: true
