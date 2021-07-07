@@ -22,9 +22,9 @@ Find revision courses, tutorials, and cheat sheets for your subjects by pressing
 
 ## Recently Updated Courses
 
+- [HSC Mathematics Standard 2 🆕](/courses/mathematics-standard-hsc/)
 - [HSC Science Extension](science-extension-hsc/)
 - [HSC English Advanced](english-advanced-hsc/)
-- [HSC Modern History](modern-hsc/)
 
 ## Preliminary Courses
 

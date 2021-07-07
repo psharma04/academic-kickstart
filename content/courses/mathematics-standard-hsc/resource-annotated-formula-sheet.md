@@ -28,6 +28,6 @@ type: book
 projects: []
 ---
 
-{{< cta cta_text="Download this resource" cta_link="/courses/mathematics-standard-hsc/annotated_reference_sheet_2020ver.pdf" cta_new_tab="true" >}}
-
-<iframe src="https://docs.google.com/viewer?url=https://schoolnotes.xyz/courses/mathematics-standard-hsc/annotated_reference_sheet_2020ver.pdf&embedded=true" width=100% height=750vh loading=eager name="Embedded version so that we can make ad revenue" allowfullscreen=false allowpaymentrequest=false>
+{{< pdf src="https://schoolnotes.xyz/courses/mathematics-standard-hsc/annotated_reference_sheet_2020ver.pdf" filename="annotated_reference_sheet_2020ver.pdf" >}}
+<br>
+{{< cta cta_text="Download this resource" cta_link="https://schoolnotes.xyz/courses/mathematics-standard-hsc/annotated_reference_sheet_2020ver.pdf" cta_new_tab="true" >}}

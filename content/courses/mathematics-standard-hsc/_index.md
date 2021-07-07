@@ -23,6 +23,7 @@ weight: 1
 - [Networks](networks/)
 - [Linear Functions](linear-functions/)
 - [Financial Mathematics](financial/)
+- [Trigonometry](trigonometry/)
 
 ## Resources
 
