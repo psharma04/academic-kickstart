@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mathematics Standard: Statistical Analysis"
+title: "Statistical Analysis"
 subtitle: "Overview of statistical analysis for standard math."
 summary: "Overview of statistical analysis for standard math."
 authors: [Pranav Sharma]

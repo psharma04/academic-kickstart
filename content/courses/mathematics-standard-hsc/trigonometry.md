@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mathematics Standard: Trigonometry"
+title: "Trigonometry"
 subtitle: "Introduction to trigonometry for standard math."
 summary: "Introduction to trigonometry for standard math."
 authors: [Pranav Sharma]
@@ -56,7 +56,7 @@ The angle is usually notated as a greek letter, usually theta $(\theta)$
 
 The ratios are as follows:
 
-- $sin(angle)=\frac{opposite}{hypotenuse}$
+- $sin(angle)=\frac{opposite}{hypotenuse}\newcommand{deg}{^{\circ}}$
 
 <br>
 
@@ -100,13 +100,39 @@ To remember the ratios, a common mnemonic (memory device) is SOH CAH TOA:
 
 3. Rearrange
 
-> $\begin{eqnarray}sin(θ)=\frac{O}{H} \\\\ O=H\times\sin(θ)\end{eqnarray}$
+> $\begin{eqnarray}sin(θ)=\frac{O}{H} \\\\ O=H\times\sin(θ)\end{eqnarray}\newcommand{dms}{\text{ }\enclose{roundedbox}{\text{ }\deg\text{' '' }}\text{ }}$
 
 4. Solve
 
 > $\begin{eqnarray}a=6.1\times\sin(30^{\circ}) \\\\ =3.05mm \end{eqnarray}$
 
-##### Practice Questions
+### Degrees, Minutes and Seconds
 
-1. A right angled triangle has opposite of 13.8cm and an angle of $53.8^\circ$. Find the length of the adjacent.
+- Because trigonometry likes to be special, you typically don't use decimal places when working with angles.
+- Instead, a degree can be divided into minutes and seconds:
+  - One degree = 60 minutes
+  - 1 minute = 60 seconds
+- When working with degrees, minutes, and seconds on a calculator, use the DMS button:
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/dms-button.min.svg" theme="light" caption="If you have a Casio fx-82AU series calculator, it's below the square root, or 2 rows above the 8 key.">}}
+
+- For example, 82 degrees, 15 minutes, 25 seconds would be represented as $82\deg15'25'',$ and typed as $82\dms15\dms25\dms$ into your calculator.
+
+## Angles of Elevation and Depression
+
+- The angle of elevation is the angle measured upwards from the horizontal. 
+- The angle of depression is the angle measured downwards from the horizontal.
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/5.min.svg" theme="light" caption="[Image Source: Nagwa Mathematics](https://www.nagwa.com/en/explainers/397172912578/)" >}}
+
+- Note that the angle of elevation and depression are equal, as they form alternate angles over parallel lines (Z shape).$\newcommand{true}{\deg \text{T}}$
+
+## Compass and True Bearings
+
+- Compass bearings are directions given by stating the angle either side of north or south, such as $S60\deg E$
+- True bearings are directions measured clockwise from north, terminated with the letter $\text{T}$, e.g. $120\true$
+
+## Obtuse Angle Trigonometry
+
+- 
 
