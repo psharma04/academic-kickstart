@@ -7,7 +7,7 @@ summary: "Introduction to rates and ratios for standard math."
 authors: [Pranav Sharma]
 tags: [Year 12, Mathematics Standard, Rates, Ratios, Concentration, Speed, Scale, Area, Perimeter, Trapezoidal Rule, Rates and Ratios, Mathematics]
 categories: [Year 12, Mathematics Standard, Rates and Ratios, Mathematics]
-date: 2021-07-07T12:42:51+11:00
+date: 2021-07-08T10:42:51+11:00
 featured: false
 draft: true
 math: true
