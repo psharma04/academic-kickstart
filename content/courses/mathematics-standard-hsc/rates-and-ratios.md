@@ -73,7 +73,58 @@ projects: []
 - The maximum heart rate (MHR) is different based on age, but can be estimated as 220 minus the person's age in years.
 - The Exercise Target Heart Rate is the heart rate you typically aim for when doing exercise, and is between 65% and 85% of that person's MHR.
 
+### Energy Rate
 
+- Energy is the rate of power per unit of time, measured inkilowatt hours $(kWh)$. 
+- Running cost of the appliance is calculated by multiplying the energy consumption by the electricity price
 
+$$\text{Cost}=\frac{\text{Energy Consumption }(kWh)}{\text{Electricity Price }(\$ /kWh)}$$
 
+### Fuel Consumption Rate
+
+Fuel consumption is measured in Litres per Kilometer $\text{(L/km)}$
+
+$$\text{Fuel consumption (L/km)} = \frac{\text{Amount of Fuel (L)}\times100}{\text{Distance Travelled (km)}}$$
+
+## Ratios
+
+- A ratio is used to compare amounts of the same units in a definite order. 
+- Equivalent ratios are obtained by multiplying or dividing by the same number (e.g. $\frac{2}{3}=\frac{4}{6}=\frac{20}{30}$)
+
+### Dividing a Quantity in a Given Ratio
+
+1. Find the total number of parts by adding each amount in the ratio.
+2. Divide the quantity by the total number of parts to find one part.
+3. Multiply each amount of the ratio by the result in step 2.
+
+### Scale Drawings
+
+- The scale of a drawing is the ratio between the drawing length and the actual length it represents.
+
+  $$\text{Scale}=\text{drawing length}:\text{actual length}$$
+
+- Scale can be expressed with or without units.
+  - For example, if 1cm on a map is 1m in real life, it can be written as $1cm:1m$ or $1:100$
+
+#### Perimeter and Area
+
+- This principle can be extended to perimeter and area.
+- To find the perimeter of an object on a map, find the perimeter on the map, and multiply by the scale.
+- To estimate the area of land, divide it into square grids and count the number of squares. 
+- To calculate the area of land, use the appropriate formula. 
+
+| Shape         | Area Formula                                        |
+| ------------- | --------------------------------------------------- |
+| Triangle      | $A=\frac{1}{2}bh$ or $A=\frac{1}{2}ab\times\cos(C)$ |
+| Rectangle     | $A=lb$                                              |
+| Square        | $A=l^2$                                             |
+| Parallelogram | $A=bh$                                              |
+| Trapezium     | $A=\frac{1}{2}(a+b)h$                               |
+| Rhombus       | $A=\frac{1}{2}xy$                                   |
+
+### Volume of Water and the Trapezoidal Rule
+
+- Volume of a body of water of constant depth and a trapezoidal area, or volume of rainfall falling on a trapezoidal area, can be calculated using the trapezoidal rule:
+
+$$A\approx\frac{w}{2}(df+dl)$$
 
