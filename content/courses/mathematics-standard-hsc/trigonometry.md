@@ -9,7 +9,7 @@ tags: [Year 12, Mathematics Standard, Trigonometry, Mathematics]
 categories: [Year 12, Mathematics Standard, Trigonometry, Mathematics]
 date: 2021-07-07T12:42:51+11:00
 featured: false
-draft: true
+draft: false
 math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
