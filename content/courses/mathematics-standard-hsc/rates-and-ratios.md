@@ -73,3 +73,7 @@ projects: []
 - The maximum heart rate (MHR) is different based on age, but can be estimated as 220 minus the person's age in years.
 - The Exercise Target Heart Rate is the heart rate you typically aim for when doing exercise, and is between 65% and 85% of that person's MHR.
 
+
+
+
+
