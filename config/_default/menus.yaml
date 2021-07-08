@@ -1,71 +1,71 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+# To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+# desired widget in your `content/home/` folder.
+# The weight parameter defines the order that the links will appear in.
 
 main:
-  - name = "Home"
-    url = "#hero"
-    weight = 5
-  - name = "HSC Courses"
-    url = "/courses/"
-    weight = 10
-    identifier = "hsc"
-  - name = "HSC Science Extension"
-    url = "/courses/science-extension-hsc/"
-    parent = "hsc"
-  - name = "HSC Physics"
-    url = "/courses/physics-hsc/"
-    parent = "hsc"
-  - name = "HSC Chemistry"
-    url = "/courses/chemistry-hsc/"
-    parent = "hsc"
-  - name = "HSC English Advanced"
-    url = "/courses/english-advanced-hsc/"
-    parent = "hsc"
-  - name = "HSC Modern History"
-    url = "/courses/modern-hsc/"
-    parent = "hsc"
-  - name = "HSC Mathematics Standard"
-    url = "/courses/mathematics-standard-hsc/"
-    parent = "hsc"
-  - name = "HSC Biology"
-    url = "/courses/biology-hsc/"
-    parent = "hsc"    
-  - name = "HSC PDHPE"
-    url = "/courses/pdhpe-hsc/"
-    parent = "hsc"
-  - name = "HSC Studies Of Religion"
-    url = "/courses/sor-hsc/"
-    parent = "hsc"
-  - name = "Preliminary Courses"
-    url = "/courses/"
-    weight = 7
-    identifier = "preliminary"
-  - name = "Preliminary Biology"
-    url = "/courses/biology-preliminary/"
-    parent = "preliminary"
-  - name = "Preliminary Chemistry"
-    url = "/courses/chemistry-prelim/"
-    parent = "preliminary"
-  - name = "Preliminary Physics"
-    url = "/courses/physics-prelim/"
-    parent = "preliminary"
-  - name = "Preliminary Studies Of Religion"
-    url = "/courses/sor-prelim/"
-    parent = "preliminary"
-  - name = "Blog"
-    url = "/blog/"
-    weight = 15
-  - name = "Supporters"
-    url = "#supporters"
-    weight = 50
-  - name = "Workshops"
-    url = "#talks"
-    weight = 30
-  - name = "Contact"
-    url = "#contact"
-    weight = 60
-  - name = "<i class='fab fa-patreon'></i>"
-    url = "/patreon/"
-    weight = 80
+  - name: Home
+    url: '#hero'
+    weight: 5
+  - name: HSC Courses
+    url: '/courses/'
+    weight: 10
+    identifier: hsc
+  - name: HSC Science Extension
+    url: '/courses/science-extension-hsc/'
+    parent: hsc
+  - name: HSC Physics
+    url: '/courses/physics-hsc/'
+    parent: hsc
+  - name: HSC Chemistry
+    url: '/courses/chemistry-hsc/'
+    parent: hsc
+  - name: HSC English Advanced
+    url: '/courses/english-advanced-hsc/'
+    parent: hsc
+  - name: HSC Modern History
+    url: '/courses/modern-hsc/'
+    parent: hsc
+  - name: HSC Mathematics Standard
+    url: '/courses/mathematics-standard-hsc/'
+    parent: hsc
+  - name: HSC Biology
+    url: '/courses/biology-hsc/'
+    parent: hsc    
+  - name: HSC PDHPE
+    url: '/courses/pdhpe-hsc/'
+    parent: hsc
+  - name: HSC Studies Of Religion
+    url: '/courses/sor-hsc/'
+    parent: hsc
+  - name: Preliminary Courses
+    url: '/courses/'
+    weight: 7
+    identifier: preliminary
+  - name: Preliminary Biology
+    url: '/courses/biology-preliminary/'
+    parent: preliminary
+  - name: Preliminary Chemistry
+    url: '/courses/chemistry-prelim/'
+    parent: preliminary
+  - name: Preliminary Physics
+    url: '/courses/physics-prelim/'
+    parent: preliminary
+  - name: Preliminary Studies Of Religion
+    url: '/courses/sor-prelim/'
+    parent: preliminary
+  - name: Blog
+    url: '/blog/'
+    weight: 15
+  - name: Supporters
+    url: '#supporters'
+    weight: 50
+  - name: Workshops
+    url: '#talks'
+    weight: 30
+  - name: Contact
+    url: '#contact'
+    weight: 60
+  - name: <i class='fab fa-patreon'></i>
+    url: '/patreon/'
+    weight: 80
