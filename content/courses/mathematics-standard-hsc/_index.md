@@ -20,6 +20,7 @@ weight: 1
 
 ## Posts
 
+- [Rates and Ratios 🆕](rates-and-ratios/)
 - [Networks](networks/)
 - [Linear Functions](linear-functions/)
 - [Financial Mathematics](financial/)

@@ -16,7 +16,7 @@
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [dev]
-  command = "hugo server -v -w --disableFastRender --buildDrafts --noHTTPCache"
+  command = "hugo server -v -w --disableFastRender --buildDrafts"
   port = 8888
   targetPort = 1313
   publish = "public"
