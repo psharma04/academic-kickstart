@@ -113,7 +113,7 @@ To remember the ratios, a common mnemonic (memory device) is SOH CAH TOA:
   - 1 minute = 60 seconds
 - When working with degrees, minutes, and seconds on a calculator, use the DMS button:
 
-{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/dms-button.min.svg" theme="light" caption="If you have a Casio fx-82AU series calculator, it's below the square root, or 2 rows above the 8 key.">}}
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/dms-button.min.svg" theme="light" caption="If you have a Casio fx-82AU series calculator, it's below the square root, or 2 rows above the 8 key." >}}
 
 - For example, 82 degrees, 15 minutes, 25 seconds would be represented as $82\deg15'25'',$ and typed as $82\dms15\dms25\dms$ into your calculator.
 
@@ -163,7 +163,7 @@ $$\frac{\sin(A)}{a}=\frac{\sin(B)}{b}=\frac{\sin(C)}{c}$$
   - $\frac{a}{\sin(A)}\times\sin(B)=b$ can be used if you know angle B, angle A, and side A, and need to find side b.
   - $\frac{sin(A)}{a}\times b=\sin(B)$ can be used if you know, angle A, side A, and side b, and need to find angle B.
 
-{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/sine-rule-2.min.svg" theme="light" caption="Remember that angles and sides with the same letter are opposite on the triangle.">}}
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/sine-rule-2.min.svg" theme="light" caption="Remember that angles and sides with the same letter are opposite on the triangle." >}}
 
 - Sine rule is used in a non-right-angled triangle given: 
   - Two sides and an angle opposite one of the given sides, or

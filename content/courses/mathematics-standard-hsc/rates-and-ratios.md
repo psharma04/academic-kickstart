@@ -63,7 +63,7 @@ projects: []
 - A rate is a comparison of 2 unlike quantities.
 - Speed is an example of a rate, as it is a comparison of distance (meters or kilometers) with time (seconds or hours)
 
-{{< figure src=https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/ms-to-kmh.min.svg" theme="light" >}}
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/ms-to-kmh.min.svg" theme="light" >}}
 
 ### Heart Rate
 
