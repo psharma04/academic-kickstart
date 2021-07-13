@@ -9,7 +9,7 @@ tags: [Year 12, Mathematics Standard, Statistical Analysis, Statistics, Mathemat
 categories: [Year 12, Mathematics Standard, Statistical Analysis]
 date: 2021-07-13T16:28:30+11:00
 featured: false
-draft: true
+draft: false
 math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
