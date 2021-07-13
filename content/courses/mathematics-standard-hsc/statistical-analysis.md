@@ -31,6 +31,14 @@ projects: []
 
 ---
 
+{{< callout note >}}
+
+This post includes content from the Crash Course Statistics YouTube series. While these videos don't necessarily fulfil the requirements of the syllabus, they explain key concepts of statistics in a different manner, just in case my explanation doesn't work. Stats can be hard, so a bit more effort went into this post to try and make things clearer, but (as always), it should be supplemented with your textbook and teacher's resources.
+
+\- {{< mention pranav-sharma >}}
+
+{{< /callout >}}
+
 ## Bivariate Data Analysis
 
 ### What is data?
@@ -158,6 +166,8 @@ $$x=\bar{x}+(z\times s)$$
 - z-scores can be negative or positive: a negative z-score means that the value is BELOW the mean, while positive z-scores mean that the value is ABOVE the mean.
 - The magnitude (the number, ignoring the sign) of a z-score is how far that score is from the mean. A bigger number means the value is further from the mean (e.g. z=2 is further from the mean than z=-1.5)
 
+{{< youtube uAxyI_XfqXk >}}
+
 ## Application of the Normal Distribution
 
 - We can convert the empirical rule from earlier to be used with z-scores instead:
@@ -165,4 +175,6 @@ $$x=\bar{x}+(z\times s)$$
   - 95% of z-scores fall between -2 and 2
   - 99.7% of scores fall between -3 and 3
 - Essentially, a z-score is just how many standard deviations a particular value is from the mean of the dataset.
+- While z-scores above 3 or below -3 are possible, only 0.3% of data will fall past these bounds. As a result, these are usually outliers, and should be discounted.
 
+{{< youtube rBjft49MAO8 >}}
