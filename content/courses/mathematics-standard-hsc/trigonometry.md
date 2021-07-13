@@ -27,8 +27,6 @@ type: book
 projects: []
 ---
 
----
-
 {{< toc hide_on="xl" >}}
 
 ---

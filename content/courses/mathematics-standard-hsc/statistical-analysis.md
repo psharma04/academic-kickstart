@@ -7,8 +7,7 @@ summary: "Overview of statistical analysis for standard math."
 authors: [Pranav Sharma]
 tags: [Year 12, Mathematics Standard, Statistical Analysis, Statistics, Mathematics, Analysis, Bivariate Data Analysis, Normal Distribution]
 categories: [Year 12, Mathematics Standard, Statistical Analysis]
-date: 2020-12-29T16:28:30+11:00
-lastmod: 2020-12-29T16:28:30+11:00
+date: 2021-07-13T16:28:30+11:00
 featured: false
 draft: true
 math: true
@@ -16,15 +15,15 @@ math: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+ caption: ""
+ focal_point: ""
+ preview_only: false
 type: book
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+#  Associate this post with one or more of your projects.
+#  Simply enter your project's folder or file name without extension.
+#  E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#  Otherwise, set `projects = []`.
 projects: []
 ---
 
@@ -101,3 +100,69 @@ A guide to different types of charts and graphs is coming.
 - The diagram below demonstrates some scatterplots with different correlation coefficients
 
 > ![Diagram of correlation coefficients](https://cdn.jsdelivr.net/gh/psharma04/image-repo@main/uploads/pearson-2-smallRt2sXh.png)
+
+## Interpolation and Extrapolation
+
+- Interpolation is the use of the linear regression line to predict values within the range of the dataset. 
+- If the data has a strong linear association then we can be confident our predictions are accurate. 
+- However, if the data has a weak linear association, we are less confident with our predictions.
+
+- Extrapolation is the use of the linear regression line to predict values outside the range of the dataset. 
+- Predicted values are either smaller or larger than the dataset.
+- The accuracy of predictions using extrapolation depends on the strength of the linear association similar to interpolation.
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/extrapolate-vs-interpolate.min.svg" theme="light" >}}
+
+## The Normal Distribution
+
+- The graph of a normal distribution is called a ‘bell curve’.
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Gaussian_distribution.svg/1280px-Gaussian_distribution.svg.png" theme="light" caption="μ is the symbol for the mean, and σ is the symbol for the standard deviation." >}}
+
+- The frequency curve is bell-shaped and symmetrical about the mean.
+- A normal distribution is symmetrical about the mean.
+- The mean, median and mode (the score that occurs the most) are equal.
+- The majority of the data is located closer to the centre, with less data at the tails.
+
+- Mean (μ) and standard deviation (σ) of the dataset is used to define the normal distribution.
+- Keeping the same mean but different standard deviation causes a graph to move up or down in height.
+- Keeping the same standard deviation but different mean causes a graph to move left or right.
+- If it has a large standard deviation, the scores are widely spread from the mean.
+- If it has a small standard deviation, the scores are close to the mean and the graph is tall and narrow.
+- The X-axis is asymptote in a normal distribution.
+
+## Empirical Rule (68-95-99.7 Rule)
+
+- In a normal distribution:
+  - 68% of data lie within 1 standard deviation of the mean
+  - 95% of data lie within 2 standard deviations of the mean
+  - 99.7% of data lie within 3 standard deviations of the mean
+  - 50% of data lie above the mean, and 50% of data lie below the mean.
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Standard_deviation_diagram.svg" theme="light" >}}
+
+## Z-Scores
+
+- A z-score (also known as standardised scores) is a measure of how far a particular value is from the mean of a dataset.
+
+$$z=\frac{x-\bar{x}}{s}$$
+
+- $x$ is the value, $\bar{x}$ is the mean of the dataset, and $s$ is the standard deviation.
+
+- To convert a z-score into an actual value, you can rearrange the formula to:
+
+$$x=\bar{x}+(z\times s)$$
+
+- Z-scores enable data from 2 different datasets to be measured.
+- Make sure you consider whether a higher or lower score is better. For example, a higher z-score in a test is better, but a higher z-score in caffeine consumption is probably worse.
+- z-scores can be negative or positive: a negative z-score means that the value is BELOW the mean, while positive z-scores mean that the value is ABOVE the mean.
+- The magnitude (the number, ignoring the sign) of a z-score is how far that score is from the mean. A bigger number means the value is further from the mean (e.g. z=2 is further from the mean than z=-1.5)
+
+## Application of the Normal Distribution
+
+- We can convert the empirical rule from earlier to be used with z-scores instead:
+  - 68% of z-scores fall between -1 and 1
+  - 95% of z-scores fall between -2 and 2
+  - 99.7% of scores fall between -3 and 3
+- Essentially, a z-score is just how many standard deviations a particular value is from the mean of the dataset.
+
