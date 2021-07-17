@@ -169,3 +169,8 @@ Yes, it seems longer, but when you have to draw up the axes and the grid and eve
 
    > Therefore $x=1, y=4.$
 
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](/patreon/)
+
+{{< /callout >}}

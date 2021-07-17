@@ -130,3 +130,9 @@ $$\color{orange}{FV=PV(1+r)^{n}}$$
 
 - Reducing-balance loans are loans where the interest is calculated on the outstanding amount, rather than the total amount.
 - These use more complicated formulae, so you'll typically be given a two-way table, which you can then use to determine the amount outstanding.
+
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](/patreon/)
+
+{{< /callout >}}

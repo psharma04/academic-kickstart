@@ -30,3 +30,9 @@ projects: []
 {{< pdf src="https://schoolnotes.xyz/nesa/4cfbc9c1-e763-4d43-9c8a-deb9780adc7b/mathematics-standard-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" filename="mathematics-standard-stage-6-syllabus-2017.pdf" >}}
 <br>
 {{< cta cta_text="Download this resource" cta_link="/nesa/4cfbc9c1-e763-4d43-9c8a-deb9780adc7b/mathematics-standard-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
+
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](/patreon/)
+
+{{< /callout >}}

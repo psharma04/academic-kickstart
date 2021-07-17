@@ -30,3 +30,9 @@ projects: []
 {{< pdf src="https://datasheets.schoolnotes.xyz/mathematics-standard-1-2.pdf" filename="mathematics-standard-1-2.pdf" >}}
 <br>
 {{< cta cta_text="Download this resource" cta_link="https://datasheets.schoolnotes.xyz/mathematics-standard-1-2.pdf" cta_new_tab="true" >}}
+
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](/patreon/)
+
+{{< /callout >}}

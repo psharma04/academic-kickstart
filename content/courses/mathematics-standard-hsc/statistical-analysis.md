@@ -178,3 +178,9 @@ $$x=\bar{x}+(z\times s)$$
 - While z-scores above 3 or below -3 are possible, only 0.3% of data will fall past these bounds. As a result, these are usually outliers, and should be discounted.
 
 {{< youtube rBjft49MAO8 >}}
+
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](/patreon/)
+
+{{< /callout >}}

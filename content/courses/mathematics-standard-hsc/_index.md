@@ -6,7 +6,7 @@ title: "HSC Mathematics Standard 2"
 linktitle: "HSC Mathematics Standard 2"
 
 # Page summary for search engines.
-summary: Mathematics Standard 2 HSC Course.
+summary: Complete Mathematics Standard 2 HSC Course.
 
 # Date page published
 date: 2020-12-06
@@ -20,6 +20,7 @@ weight: 1
 
 ## Posts
 
+- [Non-Linear Relationships 🆕](non-linear-relationships/)
 - [Statistical Analysis 🆕](statistical-analysis/)
 - [Rates and Ratios 🆕](rates-and-ratios/)
 - [Networks](networks/)

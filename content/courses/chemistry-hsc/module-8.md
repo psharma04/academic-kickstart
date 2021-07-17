@@ -109,7 +109,7 @@ Pro tip: You can use "Rx" as shorthand for "reaction". I actually just have it a
 - When transition metal ions dissolve in water, a complexation reaction occurs.
 - For example, Iron (II) Chloride:
 
-$$\ce{FeCl2_{(aq)} +6H2O_{(l)}→ [Fe(OH2)6]^{2+}_{(aq)} +2Cl-_{(aq)}}$$
+$\ce{FeCl2_{(aq)} +6H2O_{(l)}→ [Fe(OH2)6]^{2+}_{(aq)} +2Cl-_{(aq)}}$
 
 - Water molecules (ligands) coordinate with the transition metal
 - Charge stays the same as the original cation (Iron and Chloride dissociate in water, because polar-polar solution)
@@ -259,7 +259,7 @@ It's module 6 all over again! If you need a refresher, [this link goes to the ti
 
 - Quantifies chloride, bromide, and cyanide ions using direct titration, with a standard silver solution.
 
-$$\orange{\ce{Ag_{(aq)}+ +X_{(aq)}- →AgX_{(s)}}}$$
+$\orange{\ce{Ag_{(aq)}+ +X_{(aq)}- →AgX_{(s)}}}$
 
 - Yellow Potassium Chromate $(\ce{K2CrO4})$ is used as the indicator.
 - Silver preferentially precipitates with halides, and when excess silver is added it will react with chromate ions to produce a reddish-brown precipitate $(\ce{Ag2CrO4})$.
@@ -361,7 +361,7 @@ The Bohr model of the atom where electrons are contained in shells around the nu
   - The wavelength used in the analysis is based on atomic absorptions of the analyte.
   - The amount of light absorbed is called the absorbance. It is determined from the relative intensities of light before and after the sample.
 
-$$\orange{A=\log_{10}\left(\frac{I_{0}}{I}\right)}$$
+$\orange{A=\log_{10}\left(\frac{I_{0}}{I}\right)}$
 
 - Where $A$ is the absorbance, $I_0$ is the intensity of light before the sample, and $I$ is the intensity after the sample.
 - Measured absorbance is directly proportional to the concentration of analyte present in the sample.
@@ -446,12 +446,12 @@ AAS and Colorimetry are essentially just more technologically advanced versions 
 
 - The calculation of absorbance is similar to the method for AAS:
 
-$$\orange{A=\log_{10}\left(\frac{I_{0}}{I}\right)}$$
+$\orange{A=\log_{10}\left(\frac{I_{0}}{I}\right)}$
 
 - Where $A$ is the absorbance, $I_0$ is the intensity of light passing through the **reference/blank** sample, and $I$ is the intensity of light passing through the **analyte** sample.
 
 There is another method of calculating colorimetric absorbance:
-$$A=ε\ell c$$
+$A=ε\ell c$
 
 - Where $ε$ is the molar absorptivity (in $l/cm/mol$), $\ell$ is the path length through the sample (in cm), and $c$ is the concentration of the substance in the sample (in mol/L)
 - Many factors can influence the absorbance readings therefore, it is always more accurate to construct a calibration curve by measuring the absorbance of standard solutions under the sample experimental conditions. 
@@ -467,7 +467,7 @@ $$A=ε\ell c$$
 
 - Pale green Iron (III) is then reacted with colourless Thiocyanate to form the deep red Iron (III) Thiocyanate complex:
 
-$$\bbox[5px, border: 2px dotted green]{\ce{Fe^{3+}}}+\bbox[5px, border: 2px dotted grey]{\ce{SCN-}}\rightarrow\bbox[5px, border: 2px solid red]{\ce{Fe(SCN)^{2-}}}$$
+$\bbox[5px, border: 2px dotted green]{\ce{Fe^{3+}}}+\bbox[5px, border: 2px dotted grey]{\ce{SCN-}}\rightarrow\bbox[5px, border: 2px solid red]{\ce{Fe(SCN)^{2-}}}$
 
 - This complex will strongly absorb blue light (complementary colour), at a wavelength around 447nm.
 
@@ -494,3 +494,77 @@ $$\bbox[5px, border: 2px dotted green]{\ce{Fe^{3+}}}+\bbox[5px, border: 2px dott
 - This plot is then compared to laboratory standards to find the absorption maximum of the sample.
 - This method is typically used to detect the presence of conjugation within organic molecules (where molecules have alternating double/triple and single bonds)
 
+- The UV-visible spectra occur as a result of electron shell transitions, just like with metals and complexes in other forms of spectroscopy.
+- Since organic compounds are good at absorbing UV and visible wavelengths, certain wavelengths correlate to certain bonds.
+- UV below 190nm requires specialist equipment, such as a vacuum spectrometer.
+
+#### Interpreting UV-Visible Spectra
+
+- A UV-Vis spectrum is a plot of absorbance versus absorbed wavelengths.
+
+{{< figure src="https://webbook.nist.gov/cgi/cbook.cgi?Spec=C287923&Index=0&Type=UVVis&Large=on&SVG=on" theme="light" caption="UV-Vis Spectra of Cyclopentane" >}}
+
+- By comparing the wavelength of the highest peak to a database of standards, the type of bonds in a compound can be identified. Some of these are on the datasheet.
+
+| Bond        | $\lambda_{max}$ (nm) |
+| ----------- | -------------------- |
+| $\ce{C-H}$  | 122                  |
+| $\ce{C-C}$  | 135                  |
+| $\ce{C=C}$  | 162                  |
+| $\ce{C#C}$  | 137, 178, 196, 222   |
+| $\ce{C-Cl}$ | 173                  |
+| $\ce{C-Br}$ | 208                  |
+
+- The exact wavelengths absorbed depends on the rest of the molecule, hence compounds have distinctive UV-Vis spectra.
+- The presence of strong absorption bands in the spectrum above 200nm can generally be used to indicate the presence of conjugation in a molecule. 
+- The greater the extent of conjugation, the longer the wavelength absorbed.  
+
+## Chemical Tests for Organic Analysis
+
+### Carbon-Carbon Double/Triple Bonds
+
+- All halogens are coloured in solution.
+- By mixing a coloured halogen (usually bromine) with a carbon-carbon double bond, an addition halogenation will occur, decolourising the solution.
+- This can be used to identify whether a double/triple Carbon bond is present.
+- However, this method does not determine where the double bond is in the molecule, how long the molecule is, if any functional groups are present, and whether the bond is double or triple.
+
+### Hydroxyl Groups (Alcohols)
+
+- All alcohols react readily with sodium.
+- Only small pieces of sodium should be used, as large pieces react rapidly, creating hydrogen gas and lots of heat (ultimately producing an explosion)
+
+$\ce{2CH3(CH2)_{n}OH +2Na → 2CH3(CH2)_{n}ONa +H2}$
+
+- The gas produced can be confirmed to be hydrogen using the pop test.
+- Alternatively, the pH of the salt (known as an alkoxide salt) can be tested with an indicator.
+- Alcohols have neutral pH, while alkoxide salts are strong bases.
+- The type of alcohol can be tested using an oxidising agent:
+  - Primary alcohols react with Permanganate, changing from purple to colourless.
+  - Secondary alcohols react with dichromate, changing from orange to green.
+  - Tertiary alcohols don't oxidise.
+
+### Carboxyl Group (Alkanoic Acids)
+
+- Carboxylic/Alkanoic Acids contain the $\ce{-COOH}$ Carboxyl functional group.
+
+- They are weak acids, meaning they partially dissociate in water.
+
+- Using an indicator can determine whether these compounds are present.
+
+  - An aqueous solution of carboxylic acid will turn blue litmus paper red.
+
+- A carbonate test can also be performed.
+
+  - Carboxylic acids react with Metal Carbonates and Metal Hydrogen Carbonates to produce a salt, Carbon Dioxide, and water.
+
+    $\ce{2H+_{(aq)} +CO^{2-}3_{(aq)} → CO2_{(g)} +H2O_{(l)}}$
+
+  - The bubbles produced are carbon dioxide, indicating that a reaction has occurred (this can be tested using the limewater test).
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/mermaid/organic-test.min.svg" theme="dark" >}}
+
+## IR Spectroscopy
+
+- IR Spectroscopy analyses the interactions between molecules and IR light.
+- It primarily assists with identifying bonds and functional groups, and can be used for fingerprinting a molecule.
+- 

@@ -126,3 +126,8 @@ $$\text{Fuel consumption (L/km)} = \frac{\text{Amount of Fuel (L)}\times100}{\te
 
 $$A\approx\frac{w}{2}(df+dl)$$
 
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](/patreon/)
+
+{{< /callout >}}

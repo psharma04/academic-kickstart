@@ -183,3 +183,8 @@ $$cos(C)=\frac{a^2+b^2-c^2}{2ab}$$
 
 ##### [Sine rule and Cosine rule are both on your reference sheet.](/courses/mathematics-standard-hsc/resource-annotated-formula-sheet/)
 
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](/patreon/)
+
+{{< /callout >}}
