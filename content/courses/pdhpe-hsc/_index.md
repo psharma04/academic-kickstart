@@ -23,6 +23,10 @@ weight: 1
 - [Core 1: Health Priorities in Australia](core-1/)
 - [Core 2: Factors Affecting Performance](core-2/)
 
+## Optional Modules
+
+- [Option 2: Sport and Physical Activity in Australian Society](option-2/)
+
 ## Resources
 
 - [PDHPE Syllabus](/nesa/218e2038-fb2e-423e-bda2-02cad4f7ad14/pdhpe-st6-syl-from2010+PDHPE.pdf?MOD=AJPERES&CVID=)
