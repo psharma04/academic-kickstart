@@ -33,6 +33,7 @@ weight: 1
 - [114 Literary Techniques and Definitions](literary-techniques/)
 - [Form, Setting, and Metatheatre](form-setting-metatheatre/)
 - [Annotations of Selected Texts - NESA](nesa-selected-annotations/)
+- [Atomi Guide to Literary Terms](atomi-guide-to-literary-terms/)
 
 ### IPFS Resources
 
