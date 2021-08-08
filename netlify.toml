@@ -21,7 +21,7 @@
     debug = true
 
 [dev]
-  command = "hugo X-From -v -w --disableFastRender --buildDrafts"
+  command = "hugo server -v -w --disableFastRender --buildDrafts"
   port = 8888
   targetPort = 1313
   publish = "public"
@@ -50,35 +50,35 @@
   from = "https://schoolnotes.intranet.pw"
   to = "https://schoolnotes.xyz"
   status = 301
-  force = true
+  force = false
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
   from = "https://schoolnotes.intranet.pw/*"
   to = "https://schoolnotes.xyz/:splat"
   status = 301
-  force = true
+  force = false
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
   from = "http://schoolnotes.intranet.pw"
   to = "https://schoolnotes.xyz"
   status = 301
-  force = true
+  force = false
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
   from = "http://schoolnotes.intranet.pw/*"
   to = "https://schoolnotes.xyz/:splat"
   status = 301
-  force = true
+  force = false
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
   from = "http://courses.schoolnotes.xyz/*"
   to = "https://courses.schoolnotes.xyz/:splat"
   status = 301
-  force = true
+  force = false
   headers = {X-From = "NitricAcidWebServer"}
 
 
@@ -86,15 +86,14 @@
   from = "https://courses.schoolnotes.xyz/*"
   to = "https://schoolnotes.xyz/courses/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "NitricAcidWebServer"}
-
 
 [[redirects]]
   from = "/arc-sw.js"
   to = "https://arc.io/arc-sw.js"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
@@ -106,149 +105,148 @@
 
 [[redirects]]
 from = "/uploads/*"
-to = "https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/:splat"
+to = "https://cdn.jsdelivr.net/gh/psharma04/image-repo@main/uploads/:splat"
 status = 200
-force = true
+force = false
 headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
 from = "/img-cdn/*"
 to = "https://img-cdn.schoolnotes.xyz/:splat"
-to = "https://img-cdn.schoolnotes.xyz/:splat"
 status = 200
-force = true
+force = false
 headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/csec-cdn/*"
   to = "https://csec-cdn.intranet.pw/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/random-projects/*"
   to = "https://psharma04.github.io/Random-Projects/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "OctocatWebServer"}
 
 [[redirects]]
   from = "/Random-Projects/*"
   to = "https://psharma04.github.io/Random-Projects/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "OctocatWebServer"}
 
 [[redirects]]
   from = "/nesa/*"
   to = "https://educationstandards.nsw.edu.au/wps/wcm/connect/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "HydroniumWebServer"}
 
 [[redirects]]
   from = "/itsfckingraw/*"
   to = "https://raw.githubusercontent.com/psharma04/academic-kickstart/master/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "OctocatWebServer"}
 
 [[redirects]]
   from = "/jsdelivr-proxy/*"
   to = "https://cdn.jsdelivr.net/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/statically-proxy/*"
   to = "https://cdn.statically.io/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "OctocatWebServer"}
 
 [[redirects]]
   from = "/statically-image-cdn/*"
   to = "https://cdn.statically.io/img/images.schoolnotes.xyz/f=auto/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "OctocatWebServer"}
 
 [[redirects]]
   from = "/rss.xml"
   to = "/index.xml"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/rss/"
   to = "/index.xml"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/rss/*"
   to = "/index.xml"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
   from = "/ipfs-1/*"
   to = "https://10.via0.com/ipfs/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "InterplanetaryFileSystem"}
   
 [[redirects]]
   from = "/css-repo/*"
   to = "https://gateway.pinata.cloud/ipfs/QmVu4E6ujjqDViSXRjALprPTosTW5MsW2KNLmD2htVWqHq/fontawesome-5-pro/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "InterplanetaryFileSystem"}
 
 [[redirects]]
   from = "/ipfs/*"
   to = "https://cloudflare-ipfs.com/ipfs/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "InterplanetaryFileSystem"}
   
 [[redirects]]
   from = "https://invidious.schoolnotes.xyz/*"
   to = "https://invidious.048596.xyz/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "Invidious Canada"}
   
 [[redirects]]
   from = "http://invidious.schoolnotes.xyz/*"
   to = "https://invidious.schoolnotes.xyz/:splat"
   status = 301
-  force = true
+  force = false
   headers = {X-From = "Invidious Canada"}
   
 [[redirects]]
   from = "https://psharma.schoolnotes.xyz/*"
   to = "https://schoolnotes.xyz/author/pranav-sharma/"
   status = 301
-  force = true
+  force = false
   headers = {X-From = "Author Links"}
 
 [[redirects]]
   from = "https://croose.schoolnotes.xyz/*"
   to = "https://schoolnotes.xyz/author/chloe-roose/"
   status = 301
-  force = true
+  force = false
   headers = {X-From = "Author Links"}
 
 [[redirects]]
   from = "https://status.schoolnotes.xyz/*"
   to = "https://schoolnotes-portal.freshstatus.io/:splat"
   status = 200
-  force = true
+  force = false
   headers = {X-From = "FreshStatus"}
   
