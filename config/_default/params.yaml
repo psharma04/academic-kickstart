@@ -52,7 +52,7 @@ edit_page:
   editable:
     page: false
     post: false
-    book: true
+    book: false
 show_related:
   book: true
   page: false
@@ -105,7 +105,8 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  local_backend: false
+  netlify_cms: false
+#  local_backend: false
 icon:
   pack:
     ai: false
