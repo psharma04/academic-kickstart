@@ -56,12 +56,9 @@ main:
     parent: preliminary
   - name: Blog
     url: '/blog/'
-    weight: 15
-  - name: Supporters
-    url: '#supporters'
     weight: 50
-  - name: Workshops
-    url: '#talks'
+  - name: School Skills
+    url: '/skills/'
     weight: 30
   - name: Contact
     url: '#contact'
