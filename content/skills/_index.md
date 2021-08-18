@@ -21,7 +21,7 @@ weight: 1
 ### Improving Productivity Series
 
 - [Part 1 - Exploiting your chronotype](improving-productivity-1/) (I know it sounds sketch but just go with it)
-- [Part II - Eating the Frog :frog:](improving-productivity-2/)
+- [Part 2 - Eating the Frog :frog:](improving-productivity-2/)
 - [Part 3 - Consistency](improving-productivity-3/)
 
 ## Apps Series
