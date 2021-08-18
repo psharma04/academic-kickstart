@@ -16,13 +16,6 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
-
-image:
-  placement: 1
-  caption: "Encapsulation of the pre-trials study experience"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: An optional description of the image for screen readers.
 ---
 
 ### Improving Productivity Series
@@ -31,7 +24,7 @@ image:
 - [Part 2 - Eating the Frog :frog:](improving-productivity-2/)
 - [Part 3 - Consistency](improving-productivity-3/)
 
-## Apps Series
+### Apps Series
 
 - [Best Apps for Staying Organised](best-organisation-apps/)
 - [Introduction to Notion](notion-1/)
