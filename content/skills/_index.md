@@ -16,6 +16,13 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
+
+image:
+  placement: 1
+  caption: "Encapsulation of the pre-trials study experience"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
 ---
 
 ### Improving Productivity Series
