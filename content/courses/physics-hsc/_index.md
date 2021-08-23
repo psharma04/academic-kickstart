@@ -23,6 +23,7 @@ weight: 1
 - [Module 5: Advanced Mechanics](physics-module-5)
 - [Module 6: Electromagnetism](physics-module-6)
 - [Module 7: The Nature of Light](physics-module-7)
+- [Module 8: From the Universe to the Atom](physics-module-8)
 
 ## Resources
 
