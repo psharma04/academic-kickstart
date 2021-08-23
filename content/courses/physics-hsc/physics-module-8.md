@@ -5,8 +5,8 @@ title: "Module 8: Nature of Light"
 subtitle: "Notes for Module 8 of HSC Physics"
 summary: "Notes for Module 8 of HSC Physics"
 authors: [Jackson Taylor, Pranav Sharma, Vishnu Yannam]
-tags: [Year 12, Physics, Nature of Light, Module 8]
-categories: [Year 12, Physics, Nature of Light, Module 8]
+tags: [Year 12, Physics, From the Universe to the Atom, Module 8]
+categories: [Year 12, Physics, From the Universe to the Atom, Module 8]
 date: 2021-23-08T15:44:49+11:00
 featured: false
 draft: false
