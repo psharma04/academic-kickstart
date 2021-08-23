@@ -40,8 +40,9 @@ time_format: '3:04 PM'
 address_format: en-us
 
 # Site features
-highlight: false
-highlight_languages: []
+highlight: true
+highlight_languages: ["javascript","python","r","markdown"]
+highlight_style: "dracula"
 math: false
 diagram: false
 privacy_pack: false

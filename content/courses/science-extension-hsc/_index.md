@@ -21,6 +21,7 @@ weight: 1
 ## Posts
 
 - [Module 1: Foundations of Scientific Thinking](module-1/)
+- [Module 3: Data, Evidence, and Decision Making](module-3/)
 
 ## Resources
 

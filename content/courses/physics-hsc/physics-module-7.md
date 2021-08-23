@@ -6,7 +6,7 @@ subtitle: "Notes for Module 7 of HSC Physics"
 summary: "Notes for Module 7 of HSC Physics"
 authors: [Jackson Taylor, Pranav Sharma, Vishnu Yannam]
 tags: [Year 12, Physics, Nature of Light, Module 7]
-categories: [Year 12, Physics, Nature of Light, Module 67]
+categories: [Year 12, Physics, Nature of Light, Module 7]
 date: 2021-04-06T15:44:49+11:00
 lastmod: 2021-04-06T15:44:49+11:00
 featured: false
