@@ -27,6 +27,7 @@ weight: 1
 
 ## Resources
 
+- [Annotated Datasheet](resource-annotated-datasheet/)
 - [Practice Questions from NESA](resource-nesa-bonus-questions/)
 - [Physics Datasheet](https://datasheets.schoolnotes.xyz/physics.pdf)
 - [Physics Syllabus](/nesa/ca65f106-4fb3-4aed-987c-1a9ba3427a31/physics-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=)
