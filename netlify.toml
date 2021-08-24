@@ -1,27 +1,27 @@
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
-  
+
 [build.environment]
   HUGO_VERSION = "0.85.0"
   HUGO_ENABLEGITINFO = "true"
-  
+
 [context.production.environment]
   HUGO_ENV = "production"
-  
+
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-  
+
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-  
+
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
 
 [dev]
-  command = "hugo server -v -w --disableFastRender --buildDrafts"
+  command = "hugo server -v -w --disableFastRender --buildDrafts -F --noHTTPCache"
   port = 8888
   targetPort = 1313
   publish = "public"
@@ -200,7 +200,7 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = false
   headers = {X-From = "InterplanetaryFileSystem"}
-  
+
 [[redirects]]
   from = "/css-repo/*"
   to = "https://gateway.pinata.cloud/ipfs/QmVu4E6ujjqDViSXRjALprPTosTW5MsW2KNLmD2htVWqHq/fontawesome-5-pro/:splat"
@@ -214,21 +214,21 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = false
   headers = {X-From = "InterplanetaryFileSystem"}
-  
+
 [[redirects]]
   from = "https://invidious.schoolnotes.xyz/*"
   to = "https://invidious.048596.xyz/:splat"
   status = 200
   force = false
   headers = {X-From = "Invidious Canada"}
-  
+
 [[redirects]]
   from = "http://invidious.schoolnotes.xyz/*"
   to = "https://invidious.schoolnotes.xyz/:splat"
   status = 301
   force = false
   headers = {X-From = "Invidious Canada"}
-  
+
 [[redirects]]
   from = "https://psharma.schoolnotes.xyz/*"
   to = "https://schoolnotes.xyz/author/pranav-sharma/"
@@ -249,4 +249,14 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 200
   force = false
   headers = {X-From = "FreshStatus"}
-  
+
+[[redirects]]
+  from = "/courses/"
+  to = "/courses/home/"
+  status = 200
+  force = true
+[[redirects]]
+  from = "/courses/index.html"
+  to = "/courses/home/"
+  status = 200
+  force = true

@@ -5,8 +5,10 @@ title: "Physics - Preliminary"
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "Preliminary Physics"
 
+tags: [Year 11, Science, Physics, Index]
+
 # Page summary for search engines.
-summary: Homepage for the Physics Preliminary Course
+summary: "🔜 **WORK IN PROGRESS**<br>Modules 1-3 of physics."
 
 # Date page published
 date: 2020-16-02

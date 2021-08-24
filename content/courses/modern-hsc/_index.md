@@ -5,8 +5,10 @@ title: "Modern History - HSC"
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "HSC Modern History"
 
+tags: [Year 12, HSIE, Modern History, Index]
+
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: HSC Modern History course.
 
 # Date page published
 date: 2020-13-02

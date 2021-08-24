@@ -5,8 +5,10 @@ title: "HSC Mathematics Standard 2"
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "HSC Mathematics Standard 2"
 
+tags: [Year 12, Mathematics, Mathematics Standard 2, Index]
+
 # Page summary for search engines.
-summary: Complete Mathematics Standard 2 HSC Course.
+summary: Complete Mathematics Standard course.
 
 # Date page published
 date: 2020-12-06

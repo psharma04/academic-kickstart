@@ -5,8 +5,10 @@ title: English Advanced - HSC
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "HSC English Advanced"
 
+tags: [Year 12, English, English Advanced, Index]
+
 # Page summary for search engines.
-summary: (in)Complete English Advanced HSC Course.
+summary: Notes and Resources for Advanced English.
 
 # Date page published
 date: 2020-13-02

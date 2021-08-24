@@ -2,15 +2,12 @@
 # Page title
 title: Physics - HSC
 
-tags: [Year 12, Science, Physics]
+tags: [Year 12, Science, Physics, Index]
 
-summary: Notes for HSC Physics.
+summary: "Modules 5-8 for HSC Physics."
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "HSC Physics"
-
-# Page summary for search engines.
-summary: Blah, blah, blah...
 
 # Date page published
 date: 2020-12-02

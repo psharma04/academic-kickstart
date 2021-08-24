@@ -5,8 +5,10 @@ title: Biology - HSC
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "HSC Biology"
 
+tags: [Year 12, Science, Biology, Index]
+
 # Page summary for search engines.
-summary: Complete HSC biology course.
+summary: Modules 5-8 of biology.
 
 # Date page published
 date: 2020-12-02

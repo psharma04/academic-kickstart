@@ -5,8 +5,10 @@ title: Chemistry - HSC
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "HSC Chemistry"
 
+tags: [Year 12, Science, Chemistry, Index]
+
 # Page summary for search engines.
-summary: (in)Complete chemistry HSC Course.
+summary: Modules 5-7 of Chemistry.
 
 # Date page published
 date: 2020-13-02

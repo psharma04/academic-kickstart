@@ -5,8 +5,10 @@ title: Chemistry - Preliminary
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "Preliminary Chemistry"
 
+tags: [Year 11, Science, Chemistry, Index]
+
 # Page summary for search engines.
-summary: Complete Preliminary Chemistry course.
+summary: Modules 1-4 of Chemistry.
 
 # Date page published
 date: 2020-13-02

@@ -5,8 +5,10 @@ title: PDHPE - HSC
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "HSC PDHPE"
 
+tags: [Year 12, Science, PDHPE, Index]
+
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: "**🔜 Work in Progress** <br>HSC PDHPE course."
 
 # Date page published
 date: 2020-13-02

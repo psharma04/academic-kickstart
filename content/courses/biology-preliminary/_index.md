@@ -5,8 +5,10 @@ title: Biology - Preliminary
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "Preliminary Biology"
 
+tags: [Year 11, Science, Biology, Index]
+
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: Modules 1-4 of biology
 
 # Date page published
 date: 2020-13-02

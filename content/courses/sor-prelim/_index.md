@@ -2,11 +2,13 @@
 # Page title
 title: "Studies of Religion - Preliminary"
 
-# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: "Preliminary SOR"
+tags: [Year 11, HSIE, Studies of Religion, Index]
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: "🔜 **Work in Progress** <br>Studies of Religion preliminary course."
+
+# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
+linktitle: "Preliminary SOR"
 
 # Date page published
 date: 2020-13-02

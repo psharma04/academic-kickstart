@@ -5,6 +5,8 @@ title: Science Extension
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "Science Extension"
 
+tags: [Year 12, Science, Science Extension, Index]
+
 # Page summary for search engines.
 summary: Science Extension Course for Year 12 students.
 
