@@ -1,0 +1,63 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $content := $page.Params.content }}
+
+<!-- Featured widget -->
+<!-- <center>
+  <h3>{{$page.Params.title}}</h3>
+  <br>
+</center> -->
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <img class="centered-and-cropped"  src={{$content.project1.src}} height='150' alt="GIF" />
+      <p>
+          <center>
+              <a href="{{$content.project1.arxiv}}"> {{$content.project1.name}} </a>
+          </center>
+      </p>
+  </div>
+  <div class="col-12 col-lg-4">
+    <img class="centered-and-cropped"  src="{{$content.project2.src}}" height='150' alt="GIF" />
+      <p>
+          <center>
+              <a href="{{$content.project2.arxiv}}"> {{$content.project2.name}} </a>
+          </center>
+      </p>
+  </div>
+  <div class="col-12 col-lg-4">
+    <img class="centered-and-cropped"  src="{{$content.project3.src}}" height='150' alt="GIF" />
+      <p>
+          <center>
+              <a href="{{$content.project3.arxiv}}"> {{$content.project3.name}} </a>
+          </center>
+      </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <img class="centered-and-cropped"  src="{{$content.project4.src}}" height='150' alt="GIF" />
+      <p>
+          <center>
+              <a href="{{$content.project4.arxiv}}"> {{$content.project4.name}} </a>
+          </center>
+      </p>
+  </div>
+  <div class="col-12 col-lg-4">
+    <img class="centered-and-cropped"  src="{{$content.project5.src}}" height='150' alt="GIF" />
+      <p>
+          <center>
+              <a href="{{$content.project5.arxiv}}"> {{$content.project5.name}} </a>
+          </center>
+      </p>
+  </div>
+  <div class="col-12 col-lg-4">
+    <img class="centered-and-cropped"  src="{{$content.project6.src}}" height='150' alt="GIF" />
+      <p>
+          <center>
+              <a href="{{$content.project6.arxiv}}"> {{$content.project6.name}} </a>
+          </center>
+      </p>
+  </div>
+</div>

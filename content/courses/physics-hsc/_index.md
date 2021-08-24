@@ -2,6 +2,10 @@
 # Page title
 title: Physics - HSC
 
+tags: [Year 12, Science, Physics]
+
+summary: Notes for HSC Physics.
+
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: "HSC Physics"
 
