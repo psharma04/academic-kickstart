@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+/*************************************************
+* Primary definitions
+**************************************************/
+$accent: #a97f2a;
+$primary_bg: #BBCCEE;
+$primary_complementary: #b50000;
+$primary_complementary_bg: #ffcccc;
+$example_fg: #4c5f26;
+$example_bg: #CCDDAA;
+
+/*************************************************
+ *  Callouts
+ *************************************************/
+
+div.alert-example > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: $example_fg;
+  content: '\f0eb';
+}
+
+.alert-example {
+  color: #000000;
+  background-color: $example_bg;
+  border-color: $example_fg;
+}
+
+div.alert-gdrive > div:first-child::before {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 900;
+  color: $primary;
+  content: '\f3aa';
+}
+
+.alert-gdrive {
+  color: #000000;
+  background-color: $primary_bg;
+  border-color: $primary;
+}
+
+div.alert-thanks > div:first-child::before {
+  color: $primary;
+  content: url(/twemoji/svg/1f64f-1f3fc.svg);
+}
+
+.alert-thanks {
+  color: #000000;
+  background-color: $primary_bg;
+  border-color: $primary;
+}
+
+div.alert-soon > div:first-child::before {
+  color: $primary;
+  content: url(/twemoji/svg/1f51c.svg);
+}
+
+.alert-soon {
+  color: #000000;
+  background-color: $primary_bg;
+  border-color: $primary;
+}
+
+div.alert-construction > div:first-child::before {
+  color: $primary_complementary;
+  content: url(/twemoji/svg/1f6a7.svg);
+}
+
+.alert-construction {
+  color: #000000;
+  background-color: $primary_complementary_bg;
+  border-color: $primary_complementary;
+}

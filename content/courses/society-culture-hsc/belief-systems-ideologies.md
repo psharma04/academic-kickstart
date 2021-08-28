@@ -35,8 +35,6 @@ type: book
 
 ---
 
-# The Nature of Belief Systems & Ideologies
-
 ## The Similarities and Differences Between Belief Systems and Ideologies
 
 #### Beliefs

@@ -567,4 +567,81 @@ $\ce{2CH3(CH2)_{n}OH +2Na → 2CH3(CH2)_{n}ONa +H2}$
 
 - IR Spectroscopy analyses the interactions between molecules and IR light.
 - It primarily assists with identifying bonds and functional groups, and can be used for fingerprinting a molecule.
-- 
+- The absorption of IR radiation by an organic compound is associated with a change in the vibrational energy levels of the molecule, as IR induces these vibrations.
+- The bonds between atoms act like springs, where additional energy causes more motion.
+- However, molecular vibration energy is quantised, meaning it can only occur in discrete levels.
+- When a molecule is energised with radiation that matches its bond energy levels, it will jump to the higher energy state, resulting in an increased vibrational amplitude.
+- Since different bonds give rise to different vibrational frequencies, each functional group will absorb a diffferent range of IR. 
+- This absorption frequency can be used as a marker for the presence of functional groups.
+
+### IR Inactive Molecules
+
+- IR spectroscopy relies on a change in the dipole momentum of a molecule.
+- For atoms that don't have dipoles, such as $\ce{H2},$ the IR will be absorbed, but not cause a change in the dipole momentum.
+- Therefore, non-dipole bonds cannot be observed using IR spectroscopy.
+
+### IR Spectrometers
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/IR_spectroscopy_apparatus.min.svg" theme=light caption="IR Spectrometer diagram [(Source)](https://commons.wikimedia.org/wiki/File:IR_spectroscopy_apparatus.svg)" >}}
+
+- The IR Radiation source is an inert solid that is heated electronically, causing thermal emission of radiation in the infrared range.
+- This incident light is split into 2 equivalent beams which are passed through a reference material and the sample, where some energy is absorbed, and some is transmitted.
+- The beam splitter passes the rays to the monochromator, which then filters out a single wavelength.
+- The detector calculates the ratio between the intensities of the two beams to determine the absorbance.
+
+### Interpretation of an IR Spectrum
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/IR_spectroscopy_of_cyclohexanol_Art_2.svg" theme=light caption="IR Spectrum of cyclohexanol" >}}
+
+- The transmission is plotted, with absorbed wavelengths showing troughs (pointing down)
+- IR absorption wavelengths are reported in wavenumbers, which is the number of waves in a specific distance (usually cm).
+- The x-axis is non-linear, while the y-axis is a percentage.
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/IR-spectroscopy-sample.svg" theme=light caption="Wavenumber ranges for common compounds." >}}
+
+### Advantages and Disadvantages of IR Spectroscopy
+
+| Advantages                                                   | Disadvantages                                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Only requires milligram-sized samples which can usually be recovered (i.e. non-destructive) | Structural features cannot be identified                     |
+| Quick, easy, and cheap                                       | Complex mixtures result in distortion and essentially unusable results |
+| Can be used for fingerprinting (e.g. drug tests)             | Samples must be extremely dry in order to avoid OH bonds from appearing where they shouldn't |
+
+## Elemental Analysis
+
+### Combustive Analysis
+
+{{< callout note >}}
+
+Now this is what we're here for.
+
+{{< /callout >}}
+
+- Elemental Analysis of organic compounds is the determination of mass fractions or percentages of carbon, hydrogen, or heteroatoms in a sample.
+- This information can be used to determine the empitical formulae of unknown compounds.
+- The mass of each element can be determined using combustion analysis:
+  - Burn a weighed sample of organic matter in excess oxygen, then collect and weigh the combustion products.
+
+### Mass Spectrometry
+
+- An analytical technique for studying the chemicals present in a sample.
+- A mass spectrometer measures mass by volatising and then ionising them.
+  - A small (nanogram) sample is injected into the spectroeter, and then vaporised to its gaseous state
+  - The sample is then ionised by an electron beam, which creates cations
+  - Most of these cations will decompose into daughter ions and radicals
+  - Cations are then accelerated into a magnetic field, causing them to travel on a curved path.
+  - The curvature depends on the mass-charge ratio of the particles (m/z), with larger ions and lower charges being deflected less.
+  - The m/z values are then detected as a spectrum by a computer
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Accelerator_mass_spectrometer_schematic_for_radiocarbon.svg" theme=light >}}
+
+#### Interpreting Mass Spectra
+
+- The mass spectra records the abundance of different m/z ratios relative to the most intense peak (most abundant), referred to as the base peak.
+- Usually, the m/z is the same as mass, since the charge $z$ is usually +1.
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/mass-spec-benzene-graph.svg" theme=light >}}
+
+- Mass spectra can be used to determine the molecular formula of a substance:
+  - Ions with greater mass will correspond to molecules that only lost a single electron (parent ions), giving the relative molar mass of the intact molecule.
+  - Masses from the detected fragments can be used to deduce structural information about the molecule.

@@ -8,7 +8,7 @@ linktitle: "HSC Society & Culture"
 tags: [Year 12, HSIE, Society & Culture, Index]
 
 # Page summary for search engines.
-summary: Society and Culture core and depth studies
+summary: "Society and Culture depth studies."
 
 draft: true
 
@@ -22,11 +22,11 @@ type: book
 weight: 1
 ---
 
-## Posts
+## Depth Studies
 
-- Core Module
-- Popular Culture Depth Study
+- [Popular Culture](popular-culture/)
 - [Belief Systems and Ideologies](belief-systems-ideologies/)
+- Social Inclusion and Exclusion
 - Social Conformity and Non-Conformity
 
 ## Resources

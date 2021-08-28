@@ -3,6 +3,8 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+title: Courses
+subtitle: Use the buttons along the top to narrow down what's shown. <br /> Can't find your subject? [Send us a request!](https://tally.so/r/w5dvQ3)
 
 content:
   # Page type to display. E.g. project.
