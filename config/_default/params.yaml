@@ -106,7 +106,7 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  netlify_cms: false
+  netlify_cms: true
 #  local_backend: false
 icon:
   pack:
