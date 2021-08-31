@@ -107,6 +107,7 @@ marketing:
   baidu_tongji: ''
 cms:
   netlify_cms: true
+  branch: master
 #  local_backend: false
 icon:
   pack:
