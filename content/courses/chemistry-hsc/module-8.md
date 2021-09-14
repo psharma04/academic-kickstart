@@ -109,7 +109,7 @@ Pro tip: You can use "Rx" as shorthand for "reaction". I actually just have it a
 - When transition metal ions dissolve in water, a complexation reaction occurs.
 - For example, Iron (II) Chloride:
 
-$\ce{FeCl2_{(aq)} +6H2O_{(l)}→ [Fe(OH2)6]^{2+}_{(aq)} +2Cl-_{(aq)}}$
+$\ce{FeCl2\_{(aq)} +6H2O\_{(l)}→ [Fe(OH2)6]^{2+}\_{(aq)} +2Cl-\_{(aq)}}$
 
 - Water molecules (ligands) coordinate with the transition metal
 - Charge stays the same as the original cation (Iron and Chloride dissociate in water, because polar-polar solution)
@@ -154,7 +154,7 @@ This crosses over heavily with [Physics Module 7 spectroscopy content.](/courses
 - The colours most intensely emitted by this process are what are observed in a flame test.
 - Some elements have emissions in the UV or IR parts of the electromagnetic spectrum, so their colour isn't as pronounced as other elements.
 
-{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/Stimulated_Emission.min.svg" theme="light" caption="Diagram of how a flame test works." >}}
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/Stimulated\_Emission.min.svg" theme="light" caption="Diagram of how a flame test works." >}}
 
 ##### Flame test colours (now with $\LaTeX$ colourisation)
 
@@ -206,7 +206,7 @@ This crosses over heavily with [Physics Module 7 spectroscopy content.](/courses
   3. The precipitate is collected by filtration, then washed, dried, and weighed.
 
 - The reagent used must react selectively with the target ion AND form a highly insoluble precipitate in order to provide accurate results.
-- The reagent can be chosen using the [solubility rules](#qualitative-ion-analysis---precipitation-reactions), while the precipitate's solubility can be found by [calculating the solubility product constant $(K_{sp})$](/courses/chemistry-hsc/chemistry-equation-guide/#solubility-equilibrium)
+- The reagent can be chosen using the [solubility rules](#qualitative-ion-analysis---precipitation-reactions), while the precipitate's solubility can be found by [calculating the solubility product constant $(K\_{sp})$](/courses/chemistry-hsc/chemistry-equation-guide/#solubility-equilibrium)
 - The quantity of the target ion is (usually) expressed as a % mass of the original sample
 
 ### Assumptions of Gravimetric Analysis
@@ -259,7 +259,7 @@ It's module 6 all over again! If you need a refresher, [this link goes to the ti
 
 - Quantifies chloride, bromide, and cyanide ions using direct titration, with a standard silver solution.
 
-$\orange{\ce{Ag_{(aq)}+ +X_{(aq)}- →AgX_{(s)}}}$
+$\orange{\ce{Ag\_{(aq)}+ +X\_{(aq)}- →AgX\_{(s)}}}$
 
 - Yellow Potassium Chromate $(\ce{K2CrO4})$ is used as the indicator.
 - Silver preferentially precipitates with halides, and when excess silver is added it will react with chromate ions to produce a reddish-brown precipitate $(\ce{Ag2CrO4})$.
@@ -306,7 +306,7 @@ Can we just take a minute to appreciate the name Volhard? Also, most textbooks h
 
 - Volhard's method must be performed in low pH to prevent the precipitation of Iron (III) as $\ce{Fe(OH)3}.$ At low H, there is relatively low amounts of hydroxide ions, so no Iron (II) Hydroxide will form.
 - The Volhard method is less valid if the first precipitate is more soluble than silver thiocyanate.
-  - For example, $\ce{AgCl}, (K_{sp}=1.77\times10^{-10})$ is more soluble than $\ce{AgSCN}, (K_{sp}=1.03\times10^{-12}),$ so the silver chloride will dissolve during the titration, leading to a greater titre volume.
+  - For example, $\ce{AgCl}, (K\_{sp}=1.77\times10^{-10})$ is more soluble than $\ce{AgSCN}, (K\_{sp}=1.03\times10^{-12}),$ so the silver chloride will dissolve during the titration, leading to a greater titre volume.
   - This can be avoided by filtering the first precipitate out, but this can lead to inaccuracies.
 
 ### Fajan's Method (Direct Titration and Adsorption Indicator)
@@ -351,7 +351,13 @@ The Bohr model of the atom where electrons are contained in shells around the nu
 - The energies of the absorbed wavelengths match energy gaps between two shells.
 - As each element has a unique set of energy levels, the wavelengths of light absorbed by each element is characteristic.
 
-{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/Stimulated_Emission.min.svg" theme="light" caption="Yes I know it's the same image from earlier, because both flame tests and AAS work on the same principle!" >}}
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/Stimulated\_Emission.min.svg" theme="light" >}}
+
+- You may have noticed that the diagram above is the same one used for the flame test earlier.
+- This technique, just like all other spectroscopy techniques, functions on the same principle as the flame test: a sample is exposed to a range of the electromagnetic spectrum, and the sample gets energised by particular energies, releasing specific colours (wavelengths). 
+- In the same way that barium will always produce a green flame in the flame test, it will always have a specific pattern that appears in a spectrum (which is unique to that element or molecule).
+- By comparing this pattern to laboratory standards (basically the flame test colour chart, but for spectroscopy), the substances present can be determined.
+- The only major difference (other than the wavelengths used and method of irradiation) between the flame test and spectroscopy is that flame tests are qualitative, while spectroscopy techniques are quantitative.
 
 ### AAS
 
@@ -361,14 +367,14 @@ The Bohr model of the atom where electrons are contained in shells around the nu
   - The wavelength used in the analysis is based on atomic absorptions of the analyte.
   - The amount of light absorbed is called the absorbance. It is determined from the relative intensities of light before and after the sample.
 
-$\orange{A=\log_{10}\left(\frac{I_{0}}{I}\right)}$
+$\orange{A=\log\_{10}\left(\frac{I\_{0}}{I}\right)}$
 
-- Where $A$ is the absorbance, $I_0$ is the intensity of light before the sample, and $I$ is the intensity after the sample.
+- Where $A$ is the absorbance, $I\_0$ is the intensity of light before the sample, and $I$ is the intensity after the sample.
 - Measured absorbance is directly proportional to the concentration of analyte present in the sample.
 
 ### How does AAS Work?
 
-{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/Spectroscopy_overview.min.svg" theme="light" caption="Atomic Absorption Spectroscopy Diagram." >}}
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/Spectroscopy\_overview.min.svg" theme="light" caption="Atomic Absorption Spectroscopy Diagram." >}}
 
 1. An aqueous solution of sample is drawn up through a fine capillary tube into a nebuliser which turns it into a fine mist.
 2. Carrier gases (air and acetylene) sweeps the droplets into the furnace, which burns the solvent off and atomises the sample (to their ground states).
@@ -417,7 +423,7 @@ AAS and Colorimetry are essentially just more technologically advanced versions 
   - The reference contains all components of the measured sample EXCEPT the analyte
 - Coloured solutions absorb their complementary colour, which is opposite from them in the color wheel
   - A shortcut is to take "ROYGBIV" and move it along 4 places to find the complementary colour.
-- The wavelength of light used in colorimetry corresponds to the strongest absorption of the analyte of interest, known as the absorption maximum $(\lambda_{max})$
+- The wavelength of light used in colorimetry corresponds to the strongest absorption of the analyte of interest, known as the absorption maximum $(\lambda\_{max})$
   - This wavelength is used as sensitivity increases with the intensity of absorption, allowing for more accurate data to be collected.
   - However, this requires an intensely coloured analyte.
 
@@ -446,9 +452,9 @@ AAS and Colorimetry are essentially just more technologically advanced versions 
 
 - The calculation of absorbance is similar to the method for AAS:
 
-$\orange{A=\log_{10}\left(\frac{I_{0}}{I}\right)}$
+$\orange{A=\log\_{10}\left(\frac{I\_{0}}{I}\right)}$
 
-- Where $A$ is the absorbance, $I_0$ is the intensity of light passing through the **reference/blank** sample, and $I$ is the intensity of light passing through the **analyte** sample.
+- Where $A$ is the absorbance, $I\_0$ is the intensity of light passing through the **reference/blank** sample, and $I$ is the intensity of light passing through the **analyte** sample.
 
 There is another method of calculating colorimetric absorbance:
 $A=ε\ell c$
@@ -506,14 +512,14 @@ $\bbox[5px, border: 2px dotted green]{\ce{Fe^{3+}}}+\bbox[5px, border: 2px dotte
 
 - By comparing the wavelength of the highest peak to a database of standards, the type of bonds in a compound can be identified. Some of these are on the datasheet.
 
-| Bond        | $\lambda_{max}$ (nm) |
-| ----------- | -------------------- |
-| $\ce{C-H}$  | 122                  |
-| $\ce{C-C}$  | 135                  |
-| $\ce{C=C}$  | 162                  |
-| $\ce{C#C}$  | 137, 178, 196, 222   |
-| $\ce{C-Cl}$ | 173                  |
-| $\ce{C-Br}$ | 208                  |
+| Bond        | $\lambda\_{max}$ (nm) |
+| ----------- | --------------------- |
+| $\ce{C-H}$  | 122                   |
+| $\ce{C-C}$  | 135                   |
+| $\ce{C=C}$  | 162                   |
+| $\ce{C#C}$  | 137, 178, 196, 222    |
+| $\ce{C-Cl}$ | 173                   |
+| $\ce{C-Br}$ | 208                   |
 
 - The exact wavelengths absorbed depends on the rest of the molecule, hence compounds have distinctive UV-Vis spectra.
 - The presence of strong absorption bands in the spectrum above 200nm can generally be used to indicate the presence of conjugation in a molecule. 
@@ -533,7 +539,7 @@ $\bbox[5px, border: 2px dotted green]{\ce{Fe^{3+}}}+\bbox[5px, border: 2px dotte
 - All alcohols react readily with sodium.
 - Only small pieces of sodium should be used, as large pieces react rapidly, creating hydrogen gas and lots of heat (ultimately producing an explosion)
 
-$\ce{2CH3(CH2)_{n}OH +2Na → 2CH3(CH2)_{n}ONa +H2}$
+$\ce{2CH3(CH2)\_{n}OH +2Na → 2CH3(CH2)\_{n}ONa +H2}$
 
 - The gas produced can be confirmed to be hydrogen using the pop test.
 - Alternatively, the pH of the salt (known as an alkoxide salt) can be tested with an indicator.
@@ -557,7 +563,7 @@ $\ce{2CH3(CH2)_{n}OH +2Na → 2CH3(CH2)_{n}ONa +H2}$
 
   - Carboxylic acids react with Metal Carbonates and Metal Hydrogen Carbonates to produce a salt, Carbon Dioxide, and water.
 
-    $\ce{2H+_{(aq)} +CO^{2-}3_{(aq)} → CO2_{(g)} +H2O_{(l)}}$
+    $\ce{2H+\_{(aq)} +CO^{2-}3\_{(aq)} → CO2\_{(g)} +H2O\_{(l)}}$
 
   - The bubbles produced are carbon dioxide, indicating that a reaction has occurred (this can be tested using the limewater test).
 
@@ -582,7 +588,7 @@ $\ce{2CH3(CH2)_{n}OH +2Na → 2CH3(CH2)_{n}ONa +H2}$
 
 ### IR Spectrometers
 
-{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/IR_spectroscopy_apparatus.min.svg" theme=light caption="IR Spectrometer diagram [(Source)](https://commons.wikimedia.org/wiki/File:IR_spectroscopy_apparatus.svg)" >}}
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/IR\_spectroscopy\_apparatus.min.svg" theme=light caption="IR Spectrometer diagram [(Source)](https://commons.wikimedia.org/wiki/File:IR\_spectroscopy\_apparatus.svg)" >}}
 
 - The IR Radiation source is an inert solid that is heated electronically, causing thermal emission of radiation in the infrared range.
 - This incident light is split into 2 equivalent beams which are passed through a reference material and the sample, where some energy is absorbed, and some is transmitted.
@@ -591,7 +597,7 @@ $\ce{2CH3(CH2)_{n}OH +2Na → 2CH3(CH2)_{n}ONa +H2}$
 
 ### Interpretation of an IR Spectrum
 
-{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/IR_spectroscopy_of_cyclohexanol_Art_2.svg" theme=light caption="IR Spectrum of cyclohexanol" >}}
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/IR\_spectroscopy\_of\_cyclohexanol\_Art\_2.svg" theme=light caption="IR Spectrum of cyclohexanol" >}}
 
 - The transmission is plotted, with absorbed wavelengths showing troughs (pointing down)
 - IR absorption wavelengths are reported in wavenumbers, which is the number of waves in a specific distance (usually cm).
@@ -633,7 +639,7 @@ Now this is what we're here for.
   - The curvature depends on the mass-charge ratio of the particles (m/z), with larger ions and lower charges being deflected less.
   - The m/z values are then detected as a spectrum by a computer
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Accelerator_mass_spectrometer_schematic_for_radiocarbon.svg" theme=light >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Accelerator\_mass\_spectrometer\_schematic\_for\_radiocarbon.svg" theme=light >}}
 
 #### Interpreting Mass Spectra
 
@@ -645,3 +651,111 @@ Now this is what we're here for.
 - Mass spectra can be used to determine the molecular formula of a substance:
   - Ions with greater mass will correspond to molecules that only lost a single electron (parent ions), giving the relative molar mass of the intact molecule.
   - Masses from the detected fragments can be used to deduce structural information about the molecule.
+
+- The detected masses of fragments can be used to deduce structural information about the molecule, which can then be reassembled to identify the original molecule.
+- The fragment ions that are observed (as well as their abundance) is determined by the stability of that ion
+  - More stable ions have higher abundances
+  - The base peak will be the most stable fragment.
+- Different types of fragments have different stabilities, producing unique fragmentation patterns, or fingerprints, which can be used
+
+| Mass | Fragment                      |
+| ---- | ----------------------------- |
+| 15   | $\ce{-CH3}$                   |
+| 17   | $\ce{-OH}$                    |
+| 29   | $\ce{-CH2CH3}$ or $\ce{-COH}$ |
+| 31   | $\ce{-OCH3}$                  |
+| 43   | $\ce{-CH2OH}$                 |
+| 45   | $\ce{-COOH}$                  |
+
+### Isotopes in Mass Spectra
+
+- Some elements have more than 1 isotope in high abundance
+  - Typically, chlorine and bromine have isotopes that differ by a mass of 2
+
+| Isotopes         | Natural Abundance (Percentage) |
+| ---------------- | ------------------------------ |
+| $\ce{^35\_17Cl}$ | 76                             |
+| $\ce{^37\_17Cl}$ | 24                             |
+| $\ce{^79\_35Br}$ | 51                             |
+| $\ce{^81\_35Br}$ | 49                             |
+
+- The presence of these isotopes can be observed in the mass spectra of chlorinated or brominated compounds.
+
+### Uses of Mass Spectrometry
+
+- Due to the sensitivity of mass spectrometers, the mass spectra of compounds can be used as fingerprints for identifying compounds.
+
+- Mass spectrometry can be used to unambiguously identify a substance as no two substance produce the same fragmentation pattern
+- Experimentally obtained spectra can be compared with databases of known substances
+
+- Mass spectrometry is often used in conjugation with chromatographic separation and is routinely used to analyse a wide range of industrial, environmental and forensic samples. It is also used for:
+  - Detect and identify the use of steroids in athletes
+  - Identify compounds in illicit drug samples
+  - Monitor the breath of patients by anaesthetists during surgery
+  - Determined whether honey is adulterated with corn syrup
+  - Locate oil deposits by measuring petroleum precursors in rock
+  - Monitor fermentation processes for the biotechnology industry
+  - Detect dioxins in contaminated fish
+  - Establish the elemental composition of semiconductor materials
+
+### Advantages of Mass Spectrometry
+
+- Can be used to determine a substances molecular formula
+- The masses of fragment ions can be used to identify structural fragments in the molecule
+- Isotopes can be determined, and used to match a sample to a particular source
+- It is quick, highly sensitive technique that can be performed on very small samples
+
+### Disadvantages of Mass Spectrometry
+
+- Mass spectrometry is less useful in the analysis of very complex mixtures
+- When hundreds of compounds are present in a sample, there may be so many peaks present that it becomes impossible to determine what fragments are present
+- In these cases, mass spectrometry can be used to determine molecular masses and molecular formula, but cannot be used to determine the structure of components
+- Overshowed by the large quantity of structural information available in NMR spectroscopy.
+
+## NMR Spectroscopy
+
+### Nuclear Spin
+
+- Nuclear Magnetic Resonance (NMR) spectroscopy is one of the most powerful techniques for the analysis of organic compounds.
+- If a nucleus contains an odd number of protons and/or odd number of neutrons, it can exhibit spin (similar to electron spin).
+- As a result, the nucleus may behave like a magnet in a magnetic field, and can be detected by NMR (known as spin-active).
+- The spins of the nuclei in a sample will not be oriented, and are initially considered "degenerate" (same energy).
+- However, when placed in an external magnetic field, the spin-active nuclei will adopt one of two states:
+  1. A higher energy spin state aligned against the magnetic field (antiparallel)
+  2. A lower energy spin state aligned with the magnetic field (parallel)
+
+{{< figure src="https://cdn.statically.io/img/raw.githubusercontent.com/f=auto/psharma04/image-repo/main/uploads/sPn79920210913.png" theme=light >}}
+
+- The difference in energy between the two spin states is known as $\Delta E$, and this amount of energy corresponds to a specific frequency in the EM spectrum.
+
+- Typically, NMR spectra are produced by placing a sample in a magnetic field, with radio waves of different frequencies being passed through them. 
+- When the energy of the wave matches $\Delta E$, the energy is absorbed, and the nucleus transitions to the higher energy spin state, or release this energy and drop back down.
+
+> Physics students will be familiar with the Planck equation, $E=hf$, which is the same relationship that enables NMR spectroscopy.
+
+- The switching of spin states is called "resonance".
+
+### Carbon-13 NMR Spectra
+
+- Most carbon atoms in a sample will be Carbon-12, which cannot be analysed using NMR.
+- However, around 1% of the carbon will be C-13, which is spin active and therefore can be detected using NMR spectroscopy.
+- In a similar manner to H-NMR, a carbon-13 NMR spectrum gives information about the number and types of carbon environments in a molecule.
+- The frequencies absorbed are proportional to the magnitude of $\Delta E$
+
+- It is known that moving electrically charged particles produces a proportional magnetic field. 
+- Since electrons are moving and charged, they generate a magnetic field which changes the size of $\Delta E$ and therefore which frequencies are absorbed (this is known as Electron Shielding)
+- Electron shielding means that unique chemical environments are created within a molecule, depending on which atoms and bonds are nearby.
+- The number of unique chemical environments determines how many unique values of $\Delta E$ are possible, ultimately matching the number of signals in an NMR spectrum.
+
+#### Carbon Environments
+
+- When looking at any 2 carbon in a molecule, we can describe them as having either similar or distinct chemical environments.
+- Two carbon atoms are considered similar if they can be interchanged via bond or spatial rotation without affecting the chemical signal.
+
+> This is one of those things best explained with an example.
+
+- If you have a sample of butane, the carbons at position 2 and 3 can be interchanged by rotating the molecule 180 degrees. Since there is no difference between the two, they are considered to have similar environments.
+- However, the carbon at positions 1 and 3 cannot be interchanged by rotating the molecule, so they are distinct.
+
+- In the case of butane, it can be said that 2 carbon environments exist: the environment experienced by atoms 1 and 4, and the environment experienced by atoms 2 and 3.
+- 
