@@ -260,3 +260,10 @@ headers = {X-From = "DeuteriumWebServer"}
   to = "/courses/home/"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/requests"
+  to = "https://tally.so/r/w5dvQ3"
+  status = 301
+  force = true
+  headers = {X-From = "TallyForms"}
