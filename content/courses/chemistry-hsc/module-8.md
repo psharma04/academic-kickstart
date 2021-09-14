@@ -29,9 +29,12 @@ image:
 projects: []
 
 type: book
+
 ---
 
 {{< toc hide_on="xl" >}}
+
+---
 
 ## Ion Identification
 
@@ -134,9 +137,9 @@ Honestly my favourite part of chemistry: setting things on fire just to see what
 
 {{< /callout >}}
 
-- A flame test is used to qualitatively identify some metal ions in a sample. 
-- It can be used to distinguish between cations that undergo similar precipitation reactions. 
-- For example, $\ce{Ba^{2+}}$ and $\ce{Ca^{2+}}$ or Group 1 metals. 
+- A flame test is used to qualitatively identify some metal ions in a sample.
+- It can be used to distinguish between cations that undergo similar precipitation reactions.
+- For example, $\ce{Ba^{2+}}$ and $\ce{Ca^{2+}}$ or Group 1 metals.
 - However, not all metals produce a diagnostic flame colour.
 
 #### Atomic Emission
@@ -197,7 +200,7 @@ This crosses over heavily with [Physics Module 7 spectroscopy content.](/courses
 
 ## Gravimetric Analysis
 
-- Gravimetric analysis uses the mass of product (precipitate) formed through a precipitate reaction to quantify a target ion. 
+- Gravimetric analysis uses the mass of product (precipitate) formed through a precipitate reaction to quantify a target ion.
 - It is used in applications such as monitoring water quality, determining the mineral composition of soil and product testing.
 
 - There are 3 main steps:
@@ -273,16 +276,16 @@ $\orange{\ce{Ag\_{(aq)}+ +X\_{(aq)}- →AgX\_{(s)}}}$
   - At pH < 6.5, the chromate ion (a weak base) accepts $\ce{H+}$ to become $\ce{HCrO4-,}$ so there will not be enough chromate in solution to produce the end point colour change. $\ce{HCrO4-}$ is also bright orange, which obscures the endpoint.
   - At pH > 9.0, the concentration of $\ce{OH-}$ is too high. It will form a precipitate with $\ce{Ag}$ to produce $\ce{AgOH}$ which is a brown precipitate. It also obscures the endpoint and increases the silver needed to reach it.
 
-- Mohr’s method is suitable for the analysis of chloride and bromide ions, but not iodide or thiocyanate ions. 
+- Mohr’s method is suitable for the analysis of chloride and bromide ions, but not iodide or thiocyanate ions.
   - This is because the chromate ions are strongly adsorbed to the surface of $\ce{AgI}$ and $\ce{AgSCN}$ precipitates, making the endpoint indistinct.
-- In this precipitation titration, the concentration of the indicator used is quite low as adding too much chromate indicator will lead to an intense yellow colour which masks the end point. 
+- In this precipitation titration, the concentration of the indicator used is quite low as adding too much chromate indicator will lead to an intense yellow colour which masks the end point.
   - As a result, the excess titrant required to cause a colour change is relatively large.
   - $\ce{2Ag+ +CrO4^{2-} <=>Ag2CrO4}$
   - Small concentrations of chromate mean that the equilibrium is towards the left. To shift it right, large amounts of silver needs to be added.
   - This excess silver leads to a systematic error, although this can be corrected using a blank titration:
     - The same quantity of chromate indictor is to be used in the titration is added to a suspension of calcium carbonate (which imitates the white $\ce{AgX}$ precipitate).
     - $\ce{AgNO3}$ is added to the solution until a colour change occurs.
-    - The volume of $\ce{AgNO3}$ required to cause the colour change in the blank is the excess volume required. 
+    - The volume of $\ce{AgNO3}$ required to cause the colour change in the blank is the excess volume required.
     - This volume is subtracted from the titration volumes.
 
 ### Volhard's Method (Back Titration)
@@ -354,14 +357,14 @@ The Bohr model of the atom where electrons are contained in shells around the nu
 {{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/Stimulated\_Emission.min.svg" theme="light" >}}
 
 - You may have noticed that the diagram above is the same one used for the flame test earlier.
-- This technique, just like all other spectroscopy techniques, functions on the same principle as the flame test: a sample is exposed to a range of the electromagnetic spectrum, and the sample gets energised by particular energies, releasing specific colours (wavelengths). 
+- This technique, just like all other spectroscopy techniques, functions on the same principle as the flame test: a sample is exposed to a range of the electromagnetic spectrum, and the sample gets energised by particular energies, releasing specific colours (wavelengths).
 - In the same way that barium will always produce a green flame in the flame test, it will always have a specific pattern that appears in a spectrum (which is unique to that element or molecule).
 - By comparing this pattern to laboratory standards (basically the flame test colour chart, but for spectroscopy), the substances present can be determined.
 - The only major difference (other than the wavelengths used and method of irradiation) between the flame test and spectroscopy is that flame tests are qualitative, while spectroscopy techniques are quantitative.
 
 ### AAS
 
-- Atomic absorption spectroscopy is a sensitive and highly selective technique that can be used to measure small concentrations of metal ions. 
+- Atomic absorption spectroscopy is a sensitive and highly selective technique that can be used to measure small concentrations of metal ions.
 - It has an important role in the detection of toxic heavy metals.
 - In AAS, the concentration of the analyte is calculated from the amount of each wavelength of light absorbed by the sample.
   - The wavelength used in the analysis is based on atomic absorptions of the analyte.
@@ -427,9 +430,9 @@ AAS and Colorimetry are essentially just more technologically advanced versions 
   - This wavelength is used as sensitivity increases with the intensity of absorption, allowing for more accurate data to be collected.
   - However, this requires an intensely coloured analyte.
 
-- The main coloured species analysed by colourimetry are transitional metal complexes. 
+- The main coloured species analysed by colourimetry are transitional metal complexes.
 
-- Transition metal ions are often weakly coloured in solution, so they are commonly converted to intensely coloured transition metal complexes to allow for quantitative analysis. 
+- Transition metal ions are often weakly coloured in solution, so they are commonly converted to intensely coloured transition metal complexes to allow for quantitative analysis.
 
 - The colour of complex ions depends on:
 
@@ -460,7 +463,7 @@ There is another method of calculating colorimetric absorbance:
 $A=ε\ell c$
 
 - Where $ε$ is the molar absorptivity (in $l/cm/mol$), $\ell$ is the path length through the sample (in cm), and $c$ is the concentration of the substance in the sample (in mol/L)
-- Many factors can influence the absorbance readings therefore, it is always more accurate to construct a calibration curve by measuring the absorbance of standard solutions under the sample experimental conditions. 
+- Many factors can influence the absorbance readings therefore, it is always more accurate to construct a calibration curve by measuring the absorbance of standard solutions under the sample experimental conditions.
 - This helps to reduce systematic error.
 - Similar to AAS, absorbance is proportional to concentration for samples with moderate absorbances (0.3 – 2.5). Samples should be concentrated or diluted so that measured absorbances are in the range where the relationship is linear.
 
@@ -479,17 +482,17 @@ $\bbox[5px, border: 2px dotted green]{\ce{Fe^{3+}}}+\bbox[5px, border: 2px dotte
 
 #### Determining Stoichiometry using Colourimetry
 
-- Colourimetry can be used to determine the stoichiometric ration of reactants in the formation of an ionic species such as a coordination complex. 
-- The absorbances of a series of solutions containing different ratios of reactants are measured at a wavelength absorbed by the product. 
+- Colourimetry can be used to determine the stoichiometric ration of reactants in the formation of an ionic species such as a coordination complex.
+- The absorbances of a series of solutions containing different ratios of reactants are measured at a wavelength absorbed by the product.
 - The correct stoichiometry of reactants is given at the maximum absorbance.
 - The measured absorbances of the solutions are plotted against the volume of a reactant used, and the maximum absorbance is found using lines of best fit.
 - The ratio of the reactants in the product corresponds to the moles combined to achieve the maximum absorbance.
 
 ### Spectroscopy of Organic Compounds
 
-- The wavelengths absorbed by an organic molecule can be matched to its structural fragments. 
+- The wavelengths absorbed by an organic molecule can be matched to its structural fragments.
 - A structural fragment that absorbs a characteristic wavelength is called a chromophore.
-- The overall spectrum can also be used as a signature or fingerprint of the whole molecule. 
+- The overall spectrum can also be used as a signature or fingerprint of the whole molecule.
 - By comparing the collected spectrum with a database of standards, the compound can be identified.
 
 #### UV-Visible Spectrophotometry
@@ -522,7 +525,7 @@ $\bbox[5px, border: 2px dotted green]{\ce{Fe^{3+}}}+\bbox[5px, border: 2px dotte
 | $\ce{C-Br}$ | 208                   |
 
 - The exact wavelengths absorbed depends on the rest of the molecule, hence compounds have distinctive UV-Vis spectra.
-- The presence of strong absorption bands in the spectrum above 200nm can generally be used to indicate the presence of conjugation in a molecule. 
+- The presence of strong absorption bands in the spectrum above 200nm can generally be used to indicate the presence of conjugation in a molecule.
 - The greater the extent of conjugation, the longer the wavelength absorbed.  
 
 ## Chemical Tests for Organic Analysis
@@ -577,7 +580,7 @@ $\ce{2CH3(CH2)\_{n}OH +2Na → 2CH3(CH2)\_{n}ONa +H2}$
 - The bonds between atoms act like springs, where additional energy causes more motion.
 - However, molecular vibration energy is quantised, meaning it can only occur in discrete levels.
 - When a molecule is energised with radiation that matches its bond energy levels, it will jump to the higher energy state, resulting in an increased vibrational amplitude.
-- Since different bonds give rise to different vibrational frequencies, each functional group will absorb a diffferent range of IR. 
+- Since different bonds give rise to different vibrational frequencies, each functional group will absorb a diffferent range of IR.
 - This absorption frequency can be used as a marker for the presence of functional groups.
 
 ### IR Inactive Molecules
@@ -728,7 +731,7 @@ Now this is what we're here for.
 
 - The difference in energy between the two spin states is known as $\Delta E$, and this amount of energy corresponds to a specific frequency in the EM spectrum.
 
-- Typically, NMR spectra are produced by placing a sample in a magnetic field, with radio waves of different frequencies being passed through them. 
+- Typically, NMR spectra are produced by placing a sample in a magnetic field, with radio waves of different frequencies being passed through them.
 - When the energy of the wave matches $\Delta E$, the energy is absorbed, and the nucleus transitions to the higher energy spin state, or release this energy and drop back down.
 
 > Physics students will be familiar with the Planck equation, $E=hf$, which is the same relationship that enables NMR spectroscopy.
@@ -742,7 +745,7 @@ Now this is what we're here for.
 - In a similar manner to H-NMR, a carbon-13 NMR spectrum gives information about the number and types of carbon environments in a molecule.
 - The frequencies absorbed are proportional to the magnitude of $\Delta E$
 
-- It is known that moving electrically charged particles produces a proportional magnetic field. 
+- It is known that moving electrically charged particles produces a proportional magnetic field.
 - Since electrons are moving and charged, they generate a magnetic field which changes the size of $\Delta E$ and therefore which frequencies are absorbed (this is known as Electron Shielding)
 - Electron shielding means that unique chemical environments are created within a molecule, depending on which atoms and bonds are nearby.
 - The number of unique chemical environments determines how many unique values of $\Delta E$ are possible, ultimately matching the number of signals in an NMR spectrum.
@@ -758,4 +761,195 @@ Now this is what we're here for.
 - However, the carbon at positions 1 and 3 cannot be interchanged by rotating the molecule, so they are distinct.
 
 - In the case of butane, it can be said that 2 carbon environments exist: the environment experienced by atoms 1 and 4, and the environment experienced by atoms 2 and 3.
-- 
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/annotated-butane-carbon-env.min.svg" theme=light >}}
+
+### Chemical Shift
+
+- The resonance frequencies in an NMR spectrum are converted to values known as chemical shift, measured in parts per million (ppm).
+  - Converting to chemical shift remove the impact of magnetic field strength, which increases $\Delta E$.
+  - This allows the comparison of spectra collected in spectrometers of different strengths.
+- The chemical shift (position of the signal) that a nucleus produces depends on electron shielding.
+  - A nucleus surrounded by low electron density is less shielded, so it experiences more of the magnetic field and resonates at higher frequencies (higher ppm).
+  - A nucleus surrounded by high electron density is more shielded and will resonate at a lower frequency (lower ppm).
+- Tetramethylsilane (TMS) is usually added to samples as a standard.
+- Different types of carbon environments have characteristic chemical shifts, generally between 0 and 220ppm.
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/NMR2_Ranges.png" theme=light >}}
+
+### Proton NMR Spectra
+
+- The number of signals in the spectrum matches with the number of unique hydrogen environments.
+
+- Different types of hydrogen environments have characteristic chemical shifts:
+  - Decreased electron shielding leads to downfield shifts (higher ppm).
+  - TMS is also used as a standard, and has a chemical shift of 0ppm.
+
+- The chemical shifts can be divided into regions:
+
+| PPM     | Location of H                                               |
+| ------- | ----------------------------------------------------------- |
+| 0-1.5   | Saturated carbons                                           |
+| 1.5-2.5 | Unsaturated carbons                                         |
+| 2.5-4.5 | Protons attached to electronegative atoms (e.g. R-OH bonds) |
+| 4.5-6.5 | Alkene carbons                                              |
+| 6.5-8.0 | Aromatic rings (e.g. benzene)                               |
+
+### Integral and Spin-Spin Splitting in H-NMR
+
+#### Integrals (Area Under the Curve)
+
+- The area under the signal corresponds to the number of hydrogen nuclei in that environment.
+- Use a ruler to measure the ratio.
+
+#### Splitting (Multiplicity)
+
+- In H-NMR each signal can be split into multiple peaks, called a multiplet.
+- Splitting arises from the interaction of the spins of nearby nuclei, called *coupling*.
+- Splitting follows the $N+1$ rule: protons that have $N$ protons in a different chemical environment on immediately adjacent carbons show $N+1$ peaks in their signal.
+- The heights of the peaks in multiplet matches Pascal's triangles, with taller peaks in the middle and a symmetrical structure.
+
+| Neighbouring H | Peaks in Signal | Multiplicity | Ratio of Heights |
+| -------------- | --------------- | ------------ | ---------------- |
+| 0              | 1               | Singlet      | 1                |
+| 1              | 2               | Doublet      | 1:1              |
+| 2              | 3               | Triplet      | 1:2:1            |
+| 3              | 4               | Quartet      | 1:3:3:1          |
+| 4              | 5               | Quintet      | 1:4:6:4:1        |
+| 5              | 6               | Sextet       | 1:5:10:10:5:1    |
+| 6              | 7               | Septet       | 1:6:15:20:15:6:1 |
+
+### Advantages and Disadvantages of NMR Spectroscopy
+
+- NMR Spectroscopy by far is the most powerful technique for determining and confirming the structures of organic compounds, due to the large amount of structural information given in a spectrum.
+- NMR is less sensitive than other techniques, so the sample sizes required are larger than for other techniques.
+- However, NMR spectroscopy is non-destructive for samples can be recovered.
+- Highly complex, large molecules will produce a spectrum that are difficult to interpret.
+- Compounds must be dissolved in a suitable solvent to produce a clear NMR spectrum.
+- NMR spectrometers maintenance requires technical support.
+
+## Chemical Synthesis and Design
+
+- Chemical synthesis refers to the purposeful use of chemical to obtain a desired product.
+
+- A synthesis reaction is when smaller compounds undergo a chemical reaction to produce a larger compound (product).
+- The development of chemical syntheses for desirable product compounds has been fundamental to our standard of living, addressing issues such as:
+  - Replenishment of depleting resources,
+  - Large-scale production of compounds that are scarce in nature,
+  - Development of unique chemicals to address specific needs.
+
+### Designing a Chemical Synthesis Process
+
+#### Considerations for a Reaction Pathway Design
+
+- Desired products typically cannot be produced in a single step from the available starting materials.
+- Instead, a multi-step chemical synthesis is required.
+- A reaction pathway is commonly designed by working backwards from the desired product and identifying the intermediate products and reaction conditions that would result in the formation.
+- The analysis of a compound to devise a suitable reaction pathway is called a retrosynthetic analysis.
+- A retrosynthetic analysis can often identify a number of alternative reaction pathway to produce a desired product.
+
+- A number of factors are considered when selecting the most desirable reaction pathway:
+  - Availability of reactants and reagents
+  - Yield/purity of product
+  - Reaction conditions
+  - Economic factors (e.g. industrial uses of byproducts)
+  - Environmental impacts
+  - Social impacts
+
+#### Availability of Reagents
+
+- The availability of reagents is a significant factor in the selection of a reaction pathway.
+  - Hard to obtain (e.g. supply and demand)
+
+#### Yield and Purity
+
+- The yield of reaction is the amount of product obtained compared to the theoretical maximum expressed as a percentage.
+- The theoretical maximum amount of product that can be formed from a reaction is based on the amount of limiting reagent.
+- The amount of product that is obtained from a reaction is commonly expressed as a percentage of the maximum theoretical yield.
+
+$$\orange{\text{Percentage Yield \%}=\frac{\text{Actual Yield (g)}}{\text{Theoretical Yield (g)}}}$$
+
+- An additional consideration in the selection of a reaction pathway is the number of steps required to convert a given starting material to the desired product compound.
+  - The overall yield of a reaction pathway typically decreases with the number of steps in the reaction sequence.
+  - A reaction pathway with a large number of single steps reactions will result in a low yield.
+- The overall yield for a multi-step reaction pathway can be calculated from the yield for each of the individual steps.
+
+$$\orange{\text{Overall Yield \%}=\frac{\text{Yield of first step \%}}{100}\times\frac{\text{Yield of second step \%}}{100}}$$
+
+#### Linear and Convergent Synthesis
+
+- A linear synthesis is where each intermediate product was the reactant for next subsequent step.
+- One strategy to improve the overall product yield of a multi-step reaction pathway is convergent synthesis.
+- A convergent synthesis reduces the number of linear steps in a sequence by using individual reaction pathways to synthesise the intermediate products.
+- The intermediate products are then combined in a single step to generate the final desired product.
+- A convergent reaction pathway typically has a higher overall yield compared to the same reaction pathway performed as a linear sequence.
+
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/linear-convergent.svg" theme=light >}}
+
+#### Selectivity
+
+- An additional consideration in the selection of a reaction pathway is the selectivity of each individual step to form the desired product.
+
+### Purity
+
+- Purity refers to the amount of desired product in a sample, expressed as a percentage.
+- Product purity is commonly used as a measure of quality of a product.
+- Typically, higher purity chemicals are more labour intensive to produce than lower purity chemicals due to the need for additional purification processes.
+- Product purity is continually monitored throughour chemical manufacture to ensure that the product meets specifications. 
+- This is known as quality control.
+
+### Reaction Conditions
+
+- Reaction conditions must be considered when designing syntheses.
+- Conditions are adjusted to ensure the desired product can be obtained in high yield and at a reasonable reaction rate.
+- This is particularly important in the chemical industry, where small gains in yield and rate can dramatically improve profitability.
+- To increase the viability of an industrial process:
+  - Maximise yield
+  - Maximise rate
+  - Minimise waste
+    - Use the by-product of the reaction for something else
+    - Recycle energy
+  - Safety
+- Reaction conditions that are commonly optimised to improve the yield and/or rate of a chemical process include:
+  - Concentration of reaction and products
+  - Temperature
+  - Pressure
+  - Catalyst
+- However, there are other considerations in addition to product yield and reaction rate when selecting optimal temperature and pressure conditions:
+  - High temperatures can be unsafe.
+  - Specialised equipment and greater energy is required to maintain high pressures.
+  - Side reactions are more likely at higher temperatures.
+  - Reactants, products, and catalysts often decompose at high temperatures.
+  - Catalysts are often very expensive relative to the other reagents.
+
+### Environmental Issues
+
+- Most industrial processes consume large amounts of energy.
+- For example, the production of ammonia (via the Haber process) accounts for the 1.2% of the global energy consumption each year.
+- Issues of high energy consumption may include
+  - Greenhouse gases
+  - Carbon monoxide (toxic gases)
+- Energy should be recycled wherever possible to minimise cost and impact.
+
+#### Thermal Pollution
+
+- Many industrial processes use high temperature processes, which means cooling the products is often necessary.
+- Water is commonly used as a coolant as there are large water bodies with large thermal mass available.
+- Discharging warm water into the environment may cause thermal pollution, resulting in the death of aquatic life.
+- Holding ponds allow water to cool before discharge.
+
+#### Toxic Emissions
+
+- Chemical processes should be designed to use substances that minimise hazards to users and the environment.
+
+- For example, the production of sulfuric acid is associated with the fugitive emission of $\ce{SO2}$.
+
+  - It is a toxic gas, which forms sulfuric acid in water.
+
+  Toxic emissions should be carefully monitored to reduce environmental impact.
+
+#### Waste Disposal
+
+- Depending on the chemical process, different types of waste are generate which must be appropriately handled.
+  - Acidic wastes are generated by many industrial processes.
+  - Solid wastes, if inert, are often discharged into the ocean.
