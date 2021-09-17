@@ -91,7 +91,10 @@ Gene therapy: direct Jews that they are the co-custodians of creation and help p
    </td>
   </tr>
 </table>
+
+
 ## Significant Practice: Marriage
+
 - Marriage is a significant practice in the Jewish tradition, symbolising the union of a *chatan* (groom) and *kallah* (bride)
 - NOTE: Marriage is a *rite*, not a ritual, as Jewish adherents are expected to be married *once* in their lives.
 #### Stages of the rite
