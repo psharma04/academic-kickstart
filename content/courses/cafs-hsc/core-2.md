@@ -96,7 +96,30 @@ Tom Scott's video on tactile paving explains this concept a lot better than I ha
 
 ### Health
 
-- Depending on the type and severity of people's disabilities, they will have 
+- Depending on the type and severity of people's disabilities, they will have different levels of health/wellbeing.
+- Some people are able to care for themselves, only requiring mild assistance, while others require near-constant support from professionals. 
+- Additionally, some disabilities can also lead to other complications depending on the nature of the issue.
+
+### Education
+
+- Some conditions, especially mental conditions, can significantly affect an individual's education.
+- Education departments in Australia (such as the DET and NESA) are required to provide support systems in order to ensure that these issues have a minimal effect on their education.
+- Universities and other tertiary systems (e.g. TAFE) are also providing additional support services for people with disabilities.
+
+### Employment
+
+- People with disability tend to experience heavy discrimination when applying for jobs.
+- This, combined with the restrictions imposted by certain conditions, means that over 50% of individuals recognised to have disabilities are considered unemployed.
+- While Centrelink offers employment services to these individuals, many workplaces also heavily discriminate against individuals with disabilities.
+
+### Safety, Security, and Identity
+
+- Many of the systems used by the majority of the community on a daily basis include safety systems in order to reduce risk of harm.
+  - For example, emergency fire exists.
+- However, many of these systems are inaccessible or impractical for use by disabled individuals in an emergency.
+  - A fire escape with stairs is not of much help to someone in a wheelchair.
+- Additionally, discrimination and violence against disabled people is prevalent in Australian society, ranging from verbal abuse to physical harms.
+- As a result, many individuals with disability experience low 
 
 
 
