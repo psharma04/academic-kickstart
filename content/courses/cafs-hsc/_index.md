@@ -22,9 +22,10 @@ type: book
 weight: 1
 ---
 
-## Posts
+## Core Modules
 
-- [Research Methodology]()
+- [Research Methodology](core-1/)
+- [Groups in Context](core-2/)
 
 ## Resources
 

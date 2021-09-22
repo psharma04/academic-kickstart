@@ -28,12 +28,13 @@ image:
 projects: []
 ---
 ### Significant Person: Moses Maimonides
+
+{{< youtube d-DWrWXAIuI >}}
+
 - [Overview](/post/moses-maimonides/)
 - [Commentary on the Mishnah (1168)](/post/moses-commentary1/)
 - [Mishneh Torah (1170-1180)](/post/moses-commentary2/)
 - [Guide for the Perplexed (1190)](/post/moses-commentary3/)
-  
-  > It really doesn't get more compressed than that
 ### Ethics: Bioethics
 Ethical teachings:
 *   Pikuach Nefesh (preservation of life)

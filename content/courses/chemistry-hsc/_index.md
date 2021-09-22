@@ -8,10 +8,10 @@ linktitle: "HSC Chemistry"
 tags: [Year 12, Science, Chemistry, Index]
 
 # Page summary for search engines.
-summary: Modules 5-7 of Chemistry.
+summary: Modules 5-8 of Chemistry.
 
 # Date page published
-date: 2020-13-02
+date: 2021-21-09
 
 # Academic page type (do not modify).
 type: book
@@ -25,6 +25,7 @@ weight: 1
 - [Module 5: Equilibrium and Acid Reactions](module-5)
 - [Module 6: Acids And Bases](module-6/)
 - [Module 7: Organic Chemistry](module-7/)
+- [Module 8: Applying Chemical Ideas](module-8/)
 
 ## Resources
 

@@ -19,6 +19,7 @@ image:
   focal_point: ""
   preview_only: false
 type: book
+weight: 1
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
