@@ -38,26 +38,26 @@ projects: []
 - Decomposition reactions involve breaking down one compound into 2 or more simpler substances
 - Decomposition is an ENDOTHERMIC reaction, meaning it reuqires heat input
 - An example of a decomposition reaction is carbonate decomposition:
-> \\(\color{lightgreen}{CuCO_3}\\)\\(\rightarrow\\)\\(\color{lightblue}{CuO+CO_2}\\)
+> $\color{lightgreen}{CuCO_3}$$\rightarrow$$\color{lightblue}{CuO+CO_2}$
 >
-> \\(\color{lightgreen}{\text{Green: Reactants}}\\)
+> $\color{lightgreen}{\text{Green: Reactants}}$
 >
-> \\(\color{lightblue}{\text{Light Blue: Products}}\\)
+> $\color{lightblue}{\text{Light Blue: Products}}$
 #### Decomposition by light
 - Some compounds will decompose when exposed to light
-- An example is Silver Nitrate (\\(AgNO_3\\)):
-> \\(\color{lightgreen}{AgNO_3}\\)\\(\rightarrow\\)\\(\color{lightblue}{2Ag + 2NO_2 +O_2 }\\)
+- An example is Silver Nitrate ($AgNO_3$):
+> $\color{lightgreen}{AgNO_3}$$\rightarrow$$\color{lightblue}{2Ag + 2NO_2 +O_2 }$
 - Light-based decomposition is the basis of film photography
 ### Combustion Reactions
 - Combustion reactions occur when something __burns__
 - Combustion reactions are EXOTHERMIC (i.e. light, sound, heat are usually produced)
 - Oxygen (or any oxidizer) is always a component of a combustion reaction
 - An example of a combustion reaction is burning Propane:
-> \\(\color{lightgreen}{2C_3 H_{8(g)} +7O_{2(g)}}\\)$\rightarrow$\\(\color{lightblue}{2C_{(s)} + 2CO_{(g)}+ 2CO_{2(g)} +8H_2 O_{(g)}}\\)
-- Some combustion reactions only have \\(CO_2\\) and $H_2 O$ as products
+> $\color{lightgreen}{2C_3 H_{8(g)} +7O_{2(g)}}$$\rightarrow$$\color{lightblue}{2C_{(s)} + 2CO_{(g)}+ 2CO_{2(g)} +8H_2 O_{(g)}}$
+- Some combustion reactions only have $CO_2$ and $H_2 O$ as products
   - These are known as "complete combustion reactions"
   - An example of a complete combustion reaction is burning Methane:
-> \\(\color{lightgreen}{CH_4 +2O_2}\\)$\rightarrow$\\(\color{lightblue}{CO_2 +2H_2 O}\\)
+> $\color{lightgreen}{CH_4 +2O_2}$$\rightarrow$$\color{lightblue}{CO_2 +2H_2 O}$
 ### Precipitation Reactions
 - When soluble ionic compounds are dissolved in water, the lattice "dissolves", and the ions are separated
 ![Image of the dissolution of an ionic compound](/csec-cdn/schoolnotes.intranet.pw/dissolution-of-an-ionic-compound-in-water-n.jpg)
@@ -66,7 +66,7 @@ projects: []
 - These compounds will form a PRECIPITATE, a small ionic crystal lattice
 - This is known as a precipitation reaction
 - An example is mixing sodium sulfide and copper sulfate solutions:
-> \\(\color{lightgreen}{Na_2 S_{(aq)}+CuSO_{4(aq)}}\\)\\(\rightarrow\\)\\(\color{lightblue}{CuS_{(s)}+Na_2SO_{4(aq)}}\\)
+> $\color{lightgreen}{Na_2 S_{(aq)}+CuSO_{4(aq)}}$$\rightarrow$$\color{lightblue}{CuS_{(s)}+Na_2SO_{4(aq)}}$
 
 
 #### Solubility Rules
@@ -92,21 +92,21 @@ The solubility rules are used to determine which compound is the precipitate.
 - Combustion and Corrosion are both types of "oxidization reactions"
 - Corrosion is EXOTHERMIC, although not as much as combustion
 - An example of corrosion is iron rusting:
-> \\(\color{lightgreen}{4Fe+3O_2}\\)\\(\rightarrow\\)\\(\color{lightblue}{2Fe_2 O_3}\\)
+> $\color{lightgreen}{4Fe+3O_2}$$\rightarrow$$\color{lightblue}{2Fe_2 O_3}$
 ### Acids and Bases
 #### Neutralization Reactions
 - When an acid and base are added together, they "neutralise" each other
 - This creates water and an ionic compound known as a "salt"
 - The general formula for acid-base reactions is:
-> \\(\color{lightgreen}{\text{Acid}+\text{Base}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2 O}\\)
+> $\color{lightgreen}{\text{Acid}+\text{Base}}$$\rightarrow$$\color{lightblue}{\text{Salt}+H_2 O}$
 #### Acid-Metal Reactions (Displacement Reactions)
-- Many metals will react with Acids to produce a "salt" and Hydrogen gas (\\(H_2\\))
+- Many metals will react with Acids to produce a "salt" and Hydrogen gas ($H_2$)
 - The general formula for Acid-Metal reactions is:
-> \\(\color{lightgreen}{\text{Acid}+\text{Metal}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2}\\)
+> $\color{lightgreen}{\text{Acid}+\text{Metal}}$$\rightarrow$$\color{lightblue}{\text{Salt}+H_2}$
 #### Acid-Carbonate Reactions
-- When an acid reacts with a carbonate compound, the products are always \\(CO_2\\), \\(H_2 O\\), and a salt
+- When an acid reacts with a carbonate compound, the products are always $CO_2$, $H_2 O$, and a salt
 - The general formula is:
-> \\(\color{lightgreen}{\text{Acid}+\text{Carbonate Compound}}\\)\\(\rightarrow\\)\\(\color{lightblue}{\text{Salt}+H_2 O + CO_2 }\\)
+> $\color{lightgreen}{\text{Acid}+\text{Carbonate Compound}}$$\rightarrow$$\color{lightblue}{\text{Salt}+H_2 O + CO_2 }$
 ## Conservation of Mass
 - Chemical reactions ALWAYS obey the Law of Conservation of Mass:
 > Matter cannot be created or destroyed, it can only be changed from one form to another.
@@ -115,7 +115,7 @@ Module 1 included a section on Nuclear Reactions, where atoms changed into diffe
 {{% /callout %}}
 ## The Mole Concept
 - Chemical formulae simply state the ratio between reactants and products
-- For example, \\(2HCl + Mg\rightarrow H_2 +MgCl_2\\) simply means that for every 2 molecules of $HCl$, there is 1 atom of Magnesium, which produces 1 molecule of Hydrogen gas and 1 molecule of $MgCl_2$ (Magnesium Chloride)
+- For example, $2HCl + Mg\rightarrow H_2 +MgCl_2$ simply means that for every 2 molecules of $HCl$, there is 1 atom of Magnesium, which produces 1 molecule of Hydrogen gas and 1 molecule of $MgCl_2$ (Magnesium Chloride)
 - However, as discussed in Module 1, different particles have different masses
 - The Mole concept allows us to easily translate chemical formula ratios into exact masses in units such as grams
 ##### Example
@@ -124,13 +124,21 @@ Module 1 included a section on Nuclear Reactions, where atoms changed into diffe
 - Notice that carbon is 12 times as massive as hydrogen, despite having the same number of particles
 - If you had 1 billion hydrogen atoms, and 1 billion hydrogen atoms, the carbon would weigh 12 times as much as the hydrogen, but have the same number of particles
 - Therefore, 12 grams of carbon must have the same number of particles as 1 gram of hydrogen
-- If this makes sense, keep going. If not, watch this Youtube video:
-{{< youtube CY_xhSGaHjk >}}
+
+{{< callout note >}}
+
+Steve Mould has a great video explaining the Mole concept if this still doesn't make sense.
+
+{{< youtube Z_TjGRPPR9Q >}}
+
+{{< /callout >}}
+
 ## The Mole Unit
+
 - The mole is a unit defined as:
-> The number of Carbon atoms in 12 grams of pure Carbon-12
-- This number is known as Avogadro's Constant, and is represented as \\(N_A\\)
-- This is equal to about \\(6.02214076\times 10^{23}\\) particles
+> The number of Carbon atoms in 12 grams of pure Carbon-12.
+- This number is known as Avogadro's Constant, and is represented as $N_A$
+- This is equal to about $6.02214076\times 10^{23}$ particles
 {{% callout note %}}
 Note: Particles, not atoms.
 These particles can be anything: atoms, molecules, electrons, bricks, etc.
@@ -138,19 +146,19 @@ These particles can be anything: atoms, molecules, electrons, bricks, etc.
 - 1 Mole is a LOT. For some perspective, [Here's what would happen if you had 1 mole (the unit) of moles (the animal)](https://what-if.xkcd.com/4/)
 - On the periodic table, the atomic weight represents the number of grams per mole of a pure element
   - For example, on the periodic table, Hydrogen has an atomic mass of $1.008g/mol$
-  - Therefore, for every 1.008 grams of pure Hydrogen, there is \\(6.02214076\times 10^{23}\\) atoms of Hydrogen
+  - Therefore, for every 1.008 grams of pure Hydrogen, there is $6.02214076\times 10^{23}$ atoms of Hydrogen
 ### Calculating Mole Quantities
-> \\(\color{lightgreen}{n }\color{gray}{\=\frac{\color{lightblue}{m}}{\color{pink}{MM}}}=\frac{\color{lightgreen}{N}}{\color{lightgreen}{N_A}}\\)
+> $\color{lightgreen}{n }\color{gray}{\=\frac{\color{lightblue}{m}}{\color{pink}{MM}}}=\frac{\color{lightgreen}{N}}{\color{lightgreen}{N_A}}$
 >
-> \\(\color{lightgreen}{n: \text{Number of moles (mol)}}\\)
+> $\color{lightgreen}{n: \text{Number of moles (mol)}}$
 >
-> \\(\color{lightblue}{m: \text{mass (g)}}\\)
+> $\color{lightblue}{m: \text{mass (g)}}$
 >
-> \\(\color{pink}{MM: \text{Molecular Mass (g/mol)}}\\)
+> $\color{pink}{MM: \text{Molecular Mass (g/mol)}}$
 >
-> \\(\color{lightgreen}{N: \text{Number of particles (No unit)}}\\)
+> $\color{lightgreen}{N: \text{Number of particles (No unit)}}$
 >
-> \\(\color{lightgreen}{N_A : \text{Avogadro's Constant}(6.022\times 10^{23} mol^{-1})}\\)
+> $\color{lightgreen}{N_A : \text{Avogadro's Constant}(6.022\times 10^{23} mol^{-1})}$
 {{% callout note %}}NOTE: A molecule's mass is determined by adding up the atomic masses of its composite elements
   - For example, $H_2 O$ would have a mass of $H+H+O=1.008+1.008+16=18.016g/mol$
 {{% /callout %}}
@@ -161,26 +169,26 @@ These particles can be anything: atoms, molecules, electrons, bricks, etc.
 2) Find the molecular mass of the substance
 > $CH_4=12.011+(1.008\cdot 4)=16.033g/mol$
 3) State the relevant formula
-> \\(n=\frac{m}{MM}\\)
+> $n=\frac{m}{MM}$
 4) Substitute known values
-> \\(n=\frac{100}{16.033}=6.237mol\\)
+> $n=\frac{100}{16.033}=6.237mol$
 5) Answer the question
-> \\(\text{Therefore 100g of Methane is 6.237mol (3 d.p.)}\\)
+> $\text{Therefore 100g of Methane is 6.237mol (3 d.p.)}$
 ##### Example Question 2
 > $\color{cyan}{\text{Calculate the number of particles in 12 moles of Carbon Dioxide}}$
 1) Identify the chemical formula of the substance
 > Carbon Dioxide$=CO_2$
 2) State the relevant formula
-> \\(n=\frac{N}{N_A}\\)
+> $n=\frac{N}{N_A}$
 3) Rearrange for correct subject
-> \\(N=n\cdot N_A\\)
+> $N=n\cdot N_A$
 4) Substitute known values
-> \\(N=12\cdot 6.022\cdot 10^{23}=7.2264\cdot 10^{24}g\\)
+> $N=12\cdot 6.022\cdot 10^{23}=7.2264\cdot 10^{24}g$
 5) Answer the question
-> \\(\text{Therefore 12mol of Carbon Dioxide is }7.2264\times 10^{24}g\\)
+> $\text{Therefore 12mol of Carbon Dioxide is }7.2264\times 10^{24}g$
 ## Empirical Formulae
 - An empirical formula represents the smallest ratio of atoms present in a compound
-- For example, Glucose has a molecular formula of \\(C_6 H_{12} O_6\\), but an empirical formula of \\(CH_2 O\\)
+- For example, Glucose has a molecular formula of $C_6 H_{12} O_6$, but an empirical formula of $CH_2 O$
 - Ionic lattices and metallic lattices are ALWAYS represented by an empirical formula e.g. $NaCl$
 - Covalent bonds and ionic molecules are represented by a molecular formula  e.g. $S_2 Cl_2$
 ### Calculating an empirical formula
@@ -193,13 +201,13 @@ These particles can be anything: atoms, molecules, electrons, bricks, etc.
 ##### Example Question 1
 $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
 
-\\(\frac{2\cdot \text{Atomic weight of element}}{\text{Molecular weight of compound}}\cdot 100 = \frac{2\cdot1.008}{18.016}\cdot 100=11.1%\\)
+$\frac{2\cdot \text{Atomic weight of element}}{\text{Molecular weight of compound}}\cdot 100 = \frac{2\cdot1.008}{18.016}\cdot 100=11.1%$
 ## The Shortcuts (Molarity and Concentration)
 #### Equations
-1) \\(n=\frac{m}{MM}\\)
-2) \\(n=\frac{N}{N_A}\\)
-3) \\(n=\frac{v}{M_V}\\)
-4) \\(n=c\cdot v\\)
+1) $n=\frac{m}{MM}$
+2) $n=\frac{N}{N_A}$
+3) $n=\frac{v}{M_V}$
+4) $n=c\cdot v$
 > $n$ = Number of moles
 >
 > $m$ = mass (g)
@@ -211,47 +219,47 @@ $\color{cyan}{\text{Find the percentage composition by mass for Water} (H_2 O)}$
 > $c$ = Concentration (mol/L)
 >
 > $M_V$=Molar volume of gases
->  - $24.79L$ at $1atm$ and \\(25^\circ C\\){Standard Laboratory Conditions}
->  - $22.71L$ at $1atm$ and \\(0^\circ C\\) {Standard Temperature and Pressure})
+>  - $24.79L$ at $1atm$ and $25^\circ C${Standard Laboratory Conditions}
+>  - $22.71L$ at $1atm$ and $0^\circ C$ {Standard Temperature and Pressure})
 >
 > $N$ = number of particles
 >
-> \\(N_A\\) = Avogadro's constant \\((6.022\cdot10^{23})\\)
+> $N_A$ = Avogadro's constant $(6.022\cdot10^{23})$
 ### Steps with Worked Example
 > Sodium and water react to form Sodium Hydroxide and Hydrogen gas. If $12.044\cdot 10^{23}$ atoms of sodium was consumed in the reaction, find the mass of Hydrogen gas formed.
 1) Balance the Equation and find the mole ratio
-> \\(Na+H_2 O\rightarrow H_2 + NaOH \color{red}{\text{ UNBALANCED 👎}}\\)
-> \\(2Na+2H_2 O\rightarrow H_2 + 2NaOH \color{green}{\text{ BALANCED 👍}}\\)
-> \\(\text{Mole ratio= }2:2\rightarrow1:2\\)
+> $Na+H_2 O\rightarrow H_2 + NaOH \color{red}{\text{ UNBALANCED 👎}}$
+> $2Na+2H_2 O\rightarrow H_2 + 2NaOH \color{green}{\text{ BALANCED 👍}}$
+> $\text{Mole ratio= }2:2\rightarrow1:2$
 2) Use a formula to calculate the number of moles for the first known
-> \\(n=\frac{N}{N_A}\\)
-> \\(=\frac{12.044\cdot 10^{23}}{6.022\times 10^{23}}\\)
-> \\(=2mol\\)
+> $n=\frac{N}{N_A}$
+> $=\frac{12.044\cdot 10^{23}}{6.022\times 10^{23}}$
+> $=2mol$
 3) Use the mole ratio determined in step 1 to find the number of moles for the unknown
 > The ratio of sodium to hydrogen is 2:1
 >
 > Therefore, for every 2 moles of sodium, there is 1 mole of Hydrogen
 4) Choose another formula to calculate the unknown (Mass, Volume, Concentration, Number of Particles)
-> \\(n=\frac{m}{MM}\\)
+> $n=\frac{m}{MM}$
 >
->\\(m=n\cdot MM\\)
+>$m=n\cdot MM$
 >
-> \\(\text{Molar Mass of }H_2 = 1.008\cdot2=2.016 g/mol\\)
+> $\text{Molar Mass of }H_2 = 1.008\cdot2=2.016 g/mol$
 >
-> \\(\therefore m=2.016\cdot1=2.016g\\)
+> $\therefore m=2.016\cdot1=2.016g$
 5) Answer the question
-> \\(\text{2.016 grams of Hydrogen gas are formed}\\)
+> $\text{2.016 grams of Hydrogen gas are formed}$
 {{% callout note %}}
 #### Limiting Reagents
 - In a chemical equation, a mole ratio is given, which tells you the ideal reaction
-  - For example, \\(2NaI+Pb(NO_3 )_2 \rightarrow PbI_2 + 2NaNO_3\\)
-  - In this formula, the molar ratio is \\(2:1\rightarrow 1:2 \\)
-  - So for every 2 moles of $NaI$, 1 mole of $Pb(NO_3 )_2 \\) is required
+  - For example, $2NaI+Pb(NO_3 )_2 \rightarrow PbI_2 + 2NaNO_3$
+  - In this formula, the molar ratio is $2:1\rightarrow 1:2 $
+  - So for every 2 moles of $NaI$, 1 mole of $Pb(NO_3 )_2 $ is required
 - But what happens if you have more than 1 mole of $Pb(NO_3 )_2 $?
   - In this case, after the reaction, there will be some Lead Iodide left over
-  - The \\(NaI\\) is in "short supply", so its mole quantity determines the maximum yield of products which can be formed
-  - In this case, \\(NaI\\) is called a _Limiting Reagent_, because its mole quantity "limits" the amount of product that can be formed
-{{% /callout %}}
+  - The $NaI$ is in "short supply", so its mole quantity determines the maximum yield of products which can be formed
+  - In this case, $NaI$ is called a _Limiting Reagent_, because its mole quantity "limits" the amount of product that can be formed
+  {{% /callout %}}
 # The Gas Laws
 ## Gay-Lussac's Law of Combining Volumes
 > "When measured at constant temperature and pressure, the volumes of gases in a chemical reaction show simple, whole number ratios to each other"
@@ -278,15 +286,15 @@ At other temperatures and pressures, the volume can be calculated using the Idea
 - Boyle's law describes the relationship between volume and pressure:
 > If pressure is increased, volume is decreased (as long as temperature is constant) and vice versa
 >
-> \\(\color{cyan}P\propto \frac{1}{V}\\)
+> $\color{cyan}P\propto \frac{1}{V}$
 ## Charles' Law
 - Charles' law describes the relationship beteen temperature and pressure
 - Fun fact: [Gay-Lussac actually made this law, but he got bored of having stuff named after him, and had it named after Charles instead](https://www.britannica.com/science/Charless-law)
-> \\(\color{cyan}V\propto T\\)
+> $\color{cyan}V\propto T$
 >
-> \\(\color{cyan}\frac{V}{T}=k\\) (where $k$ is a constant)
+> $\color{cyan}\frac{V}{T}=k$ (where $k$ is a constant)
 >
-> \\(\color{cyan}\frac{V_1}{T_1}=\frac{V_2}{T_2}\\)
+> $\color{cyan}\frac{V_1}{T_1}=\frac{V_2}{T_2}$
 >
 > ## Gas Laws and the Kelvin  Scale
 - When Charles and Gay-Lussac made their measurements of gas volumes at different temperatures, they found a trend
@@ -305,11 +313,11 @@ At other temperatures and pressures, the volume can be calculated using the Idea
 ## Gay-Lussac Part 2: Electric Boogaloo
 - This guy clearly didn't have anything better to do, because he ALSO came up with the relationship between pressure and temperature
   
-  > \\(\color{cyan}P\propto T\\)
+  > $\color{cyan}P\propto T$
 >
-> \\(\color{cyan}\frac{P}{T}=k\\) (where $k$ is a constant)
+> $\color{cyan}\frac{P}{T}=k$ (where $k$ is a constant)
 >
-> \\(\color{cyan}\frac{P_1}{T_1}=\frac{P_2}{T_2}\\)
+> $\color{cyan}\frac{P_1}{T_1}=\frac{P_2}{T_2}$
 
 
 ## The Magical Combined Gas Law
@@ -317,19 +325,19 @@ At other temperatures and pressures, the volume can be calculated using the Idea
 - And Volume relates to temperature (Charles [actually Gay-Lussac but whatever])
 - And pressure relates to temperature (Gay-Lussac Part 2)
 - Then all the gas laws should be able to be Frankenstein-ed together
-> \\(\color{cyan}\frac{P_1 V_1}{T_1}=\frac{P_2 V_2}{T_2}\\)
+> $\color{cyan}\frac{P_1 V_1}{T_1}=\frac{P_2 V_2}{T_2}$
 - Also,
-> \\(\color{cyan}\frac{PV}{T}=nR\\) Where R is a constant
+> $\color{cyan}\frac{PV}{T}=nR$ Where R is a constant
 - R is known as the "ideal gas constant," and is on the [Chemistry Data Sheet](https://educationstandards.nsw.edu.au/wps/wcm/connect/98664936-221f-4c49-88e1-d002ec69285c/chemistry-formulae-sheet-data-sheet-periodic-table-hsc-exams-2019.pdf?MOD=AJPERES&CVID=)
-- The ideal gas constant is Avogadro's number multiplied by the Boltzmann constant (\\(k_B\\)), which is the amount of energy (Joules) per degree of temperature (Kelvin or Celcius), and is equal to $1.380649 \times 10^{−23}J/K$
-> \\(\color{cyan}R=N_A\cdot k_B =6.022\times10^{23}\cdot1.380649\times10^{−23}=8.3145J/K/mol\\)
+- The ideal gas constant is Avogadro's number multiplied by the Boltzmann constant ($k_B$), which is the amount of energy (Joules) per degree of temperature (Kelvin or Celcius), and is equal to $1.380649 \times 10^{−23}J/K$
+> $\color{cyan}R=N_A\cdot k_B =6.022\times10^{23}\cdot1.380649\times10^{−23}=8.3145J/K/mol$
 ### Ideal Gas
 - The gas laws work perfectly for a so-called "Ideal Gas" which has the following properties:
   1) The gas particles are so small that they make up an insignificant portion of the volume
   2) The particles collide in perfect "elastic" collisions i.e. no loss of energy
   3) There is no attraction between particles
 - The closest real gases to the "ideal gas" are Helium, then Hydrogen (as the smallest elements), followed by the rest of the Noble Gases
-- The furthest real gases from the ideal gas are \\( NH_4 , H_2 O\text{ and }CO_2 \\), unless at low pressures and well above their boiling point
+- The furthest real gases from the ideal gas are $ NH_4 , H_2 O\text{ and }CO_2 $, unless at low pressures and well above their boiling point
 
 | Property | Ideal Gas | Real Gas |
 |-----------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|

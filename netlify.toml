@@ -80,7 +80,13 @@
   status = 301
   force = false
   headers = {X-From = "NitricAcidWebServer"}
-
+  
+[[redirects]]
+  from = "/author/*"
+  to = "/authors/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
   from = "https://courses.schoolnotes.xyz/*"
