@@ -22,12 +22,13 @@ weight: 1
 
 ## Common Module: Texts and Human Experiences
 
-- [Nineteen Eighty-Four by George Orwell](1984/)
+- [RESOURCE: Common Module Cheat Sheet](common-mod-cheat-sheet)
+- [Textual Analysis: Nineteen Eighty-Four by George Orwell](1984/)
 
 ## Module A: Textual Conversations
 
-- [The Tempest by William Shakespeare](tempest/)
-- [Hag-Seed by Margaret Atwood](hag-seed/)
+- [Textual Analysis: The Tempest by William Shakespeare](tempest/)
+- [Textual Analysis: Hag-Seed by Margaret Atwood](hag-seed/)
 
 ## Resources
 
