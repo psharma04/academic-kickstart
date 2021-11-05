@@ -35,6 +35,7 @@ weight: 2
 ## Resources
 
 - [Modern History Syllabus](/nesa/dd911de5-0d92-43c9-9447-40e97c934b41/modern-history-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=)
+- [Pascal Press Flash Cards](pascal-flash-cards/)
 
 {{< callout note >}}
 
