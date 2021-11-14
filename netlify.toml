@@ -32,6 +32,7 @@
   for = "/*"
   [headers.values]
     X-From = "NitricAcidWebServer"
+    Access-Control-Allow-Origin = "*"
 
 [[headers]]
   for = "*.webmanifest"
@@ -270,6 +271,13 @@ headers = {X-From = "DeuteriumWebServer"}
 [[redirects]]
   from = "/requests"
   to = "https://tally.so/r/w5dvQ3"
+  status = 301
+  force = true
+  headers = {X-From = "TallyForms"}
+  
+[[redirects]]
+  from = "/analytics/*"
+  to = "https://analytics."
   status = 301
   force = true
   headers = {X-From = "TallyForms"}

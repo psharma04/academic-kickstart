@@ -16,11 +16,11 @@ social:
     icon: instagram
   - icon_pack: fas
     icon: network-wired
-    link: https://psharma.ovh
+    link: https://pshar.ma
 superuser: true
 user_groups:
   - Writers
   - all
-email: rbxii3+schoolnotes@yuno.host
+email: contact@psharma.schoolnotes.xyz
 ---
 I'm a year 12 student. I specialise in theoretical sciences and mathematics, as well as full-stack software and hardware development.
