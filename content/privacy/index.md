@@ -11,6 +11,7 @@ date: 2021-11-14T11:06:53.987Z
 subtitle: Privacy Policy for Schoolnotes Portal
 commentable: false
 share: false
+type: book
 ---
 Effective date: 11/14/2021
 
@@ -28,7 +29,7 @@ Our Terms and Conditions (“**Terms**”) govern all use of our Service and tog
 
 **2.**   **Definitions**
 
-**SERVICE** means the https://schoolnotes.xyz website operated by Heimdall Intranet LTD..
+**SERVICE** means the https://schoolnotes.xyz website operated by Heimdall Intranet LTD.
 
 **PERSONAL DATA** means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
