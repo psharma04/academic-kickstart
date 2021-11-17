@@ -55,4 +55,4 @@ hero_media = "icon.png"
 
 <br />
 
-<a href="/patreon/" alt="Become a patron"> <img src="/statically-proxy/gh/psharma04/image-repo/main/uploads/patreon.min.svg" loading="eager"><a>
+<a href="/patreon/" alt="Become a patron"><img style="height: 1.6em" src="/statically-proxy/gh/psharma04/image-repo/main/uploads/patreon.min.svg" loading="eager"><a>

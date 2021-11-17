@@ -1,0 +1,15 @@
+<svg width="950" height="200" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect rx="36" id="svg_3" height="200" width="950" y="undefined" x="0" stroke-width="0" fill="url(#svg_4)"/>
+  <path d="m158,83.4224c0,27.43972 -21.24375,49.78697 -47.38594,49.78697c-26.21953,0 -47.54063,-22.32016 -47.54063,-49.78697c0,-27.52098 21.32109,-49.92241 47.54063,-49.92241c26.14219,0 47.38594,22.40143 47.38594,49.92241zm-132,83.0776l23.20313,0l0,-133.00001l-23.20313,0l0,133.00001z" fill="#ffffff"/>
+  <text transform="matrix(1, 0, 0, 1, 0, 0)" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="90" stroke-width="0" id="svg_2" y="135" x="193.46667" fill="#ffffff">Become a Patron</text>
+  <rect id="svg_5" height="133.125" width="23.25" y="33.37499" x="26" fill="#000000"/>
+ </g>
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_4">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#ff6770"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#ff757c"/>
+  </linearGradient>
+ </defs>
+</svg>
