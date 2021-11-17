@@ -48,54 +48,53 @@
     X-From = "NitricAcidWebServer"
 
 [[redirects]]
-  from = "https://schoolnotes.intranet.pw"
-  to = "https://schoolnotes.xyz"
+  from = "https://schoolnotes.intranet.pw/"
+  to = "https://hsc.one/"
   status = 301
-  force = false
+  force = true
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
   from = "https://schoolnotes.intranet.pw/*"
-  to = "https://schoolnotes.xyz/:splat"
+  to = "https://hsc.one/:splat"
   status = 301
   force = false
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
-  from = "http://schoolnotes.intranet.pw"
-  to = "https://schoolnotes.xyz"
+  from = "http://schoolnotes.xyz"
+  to = "https://hsc.one"
   status = 301
   force = false
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
-  from = "http://schoolnotes.intranet.pw/*"
-  to = "https://schoolnotes.xyz/:splat"
+  from = "https://schoolnotes.xyz/"
+  to = "https://hsc.one/"
   status = 301
-  force = false
-  headers = {X-From = "NitricAcidWebServer"}
-
-[[redirects]]
-  from = "http://courses.schoolnotes.xyz/*"
-  to = "https://courses.schoolnotes.xyz/:splat"
-  status = 301
-  force = false
+  force = true
   headers = {X-From = "NitricAcidWebServer"}
   
+[[redirects]]
+  from = "https://schoolnotes.xyz/*"
+  to = "https://hsc.one/:splat"
+  status = 301
+  force = true
+  headers = {X-From = "NitricAcidWebServer"}
+  
+[[redirects]]
+  from = "http://schoolnotes.xyz"
+  to = "https://hsc.one"
+  status = 301
+  force = true
+  headers = {X-From = "NitricAcidWebServer"}
+
 [[redirects]]
   from = "/author/*"
   to = "/authors/:splat"
   status = 200
   force = true
   headers = {X-From = "NitricAcidWebServer"}
-
-[[redirects]]
-  from = "https://courses.schoolnotes.xyz/*"
-  to = "https://schoolnotes.xyz/courses/:splat"
-  status = 200
-  force = false
-  headers = {X-From = "NitricAcidWebServer"}
-
 [[redirects]]
   from = "/arc-sw.js"
   to = "https://arc.io/arc-sw.js"
@@ -223,41 +222,6 @@ headers = {X-From = "DeuteriumWebServer"}
   headers = {X-From = "InterplanetaryFileSystem"}
 
 [[redirects]]
-  from = "https://invidious.schoolnotes.xyz/*"
-  to = "https://invidious.048596.xyz/:splat"
-  status = 200
-  force = false
-  headers = {X-From = "Invidious Canada"}
-
-[[redirects]]
-  from = "http://invidious.schoolnotes.xyz/*"
-  to = "https://invidious.schoolnotes.xyz/:splat"
-  status = 301
-  force = false
-  headers = {X-From = "Invidious Canada"}
-
-[[redirects]]
-  from = "https://psharma.schoolnotes.xyz/*"
-  to = "https://schoolnotes.xyz/author/pranav-sharma/"
-  status = 301
-  force = false
-  headers = {X-From = "Author Links"}
-
-[[redirects]]
-  from = "https://croose.schoolnotes.xyz/*"
-  to = "https://schoolnotes.xyz/author/chloe-roose/"
-  status = 301
-  force = false
-  headers = {X-From = "Author Links"}
-
-[[redirects]]
-  from = "https://status.schoolnotes.xyz/*"
-  to = "https://schoolnotes-portal.freshstatus.io/:splat"
-  status = 200
-  force = false
-  headers = {X-From = "FreshStatus"}
-
-[[redirects]]
   from = "/courses/"
   to = "/courses/home/"
   status = 200
@@ -271,13 +235,6 @@ headers = {X-From = "DeuteriumWebServer"}
 [[redirects]]
   from = "/requests"
   to = "https://tally.so/r/w5dvQ3"
-  status = 301
-  force = true
-  headers = {X-From = "TallyForms"}
-  
-[[redirects]]
-  from = "/analytics/*"
-  to = "https://analytics."
   status = 301
   force = true
   headers = {X-From = "TallyForms"}
