@@ -27,9 +27,9 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://datasheets.schoolnotes.xyz/mathematics-standard-1-2.pdf" filename="mathematics-standard-1-2.pdf" >}}
+{{< pdf src="https://datasheets.hsc.one/mathematics-standard-1-2.pdf" filename="mathematics-standard-1-2.pdf" >}}
 <br>
-{{< cta cta_text="Download this resource" cta_link="https://datasheets.schoolnotes.xyz/mathematics-standard-1-2.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Download this resource" cta_link="https://datasheets.hsc.one/mathematics-standard-1-2.pdf" cta_new_tab="true" >}}
 
 {{< callout note >}}
 

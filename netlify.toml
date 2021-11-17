@@ -58,14 +58,14 @@
   from = "https://schoolnotes.intranet.pw/*"
   to = "https://hsc.one/:splat"
   status = 301
-  force = false
+  force = true
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
   from = "http://schoolnotes.xyz"
   to = "https://hsc.one"
   status = 301
-  force = false
+  force = true
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
@@ -99,7 +99,7 @@
   from = "/arc-sw.js"
   to = "https://arc.io/arc-sw.js"
   status = 200
-  force = false
+  force = true
   headers = {X-From = "NitricAcidWebServer"}
 
 [[redirects]]
