@@ -349,7 +349,7 @@ There's a printable version of this post [here](chemistry_equations_print_versio
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}
 

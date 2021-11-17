@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Installing the Desktop App"
-subtitle: "How to install the Schoolnotes app on your computer."
-summary: "How to install the Schoolnotes app on your computer."
+subtitle: "How to install the HSCOne app on your computer."
+summary: "How to install the HSCOne app on your computer."
 authors: [Pranav Sharma, Vishnu Reddy]
-tags: [Guide, Install, Desktop, Schoolnotes, PWA, Progressive Web App]
-categories: [Guide, Install, Desktop, Schoolnotes, PWA, Progressive Web App]
+tags: [Guide, Install, Desktop, HSCOne, PWA, Progressive Web App]
+categories: [Guide, Install, Desktop, HSCOne, PWA, Progressive Web App]
 date: 2021-02-18T20:11:13+11:00
 lastmod: 2021-02-18T20:11:13+11:00
 featured: false

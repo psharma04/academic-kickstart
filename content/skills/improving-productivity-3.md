@@ -37,6 +37,6 @@ That's about all I'm got for this stuff (and I'm still not over the sources thin
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}

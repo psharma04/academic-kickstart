@@ -183,7 +183,7 @@ The solubility rules are used to determine which compound is the precipitate.
 ---
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}
 

@@ -738,7 +738,7 @@ Where P is power loss (W), I is current (A), R is resistance $(\Omega)$, V is vo
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}
 

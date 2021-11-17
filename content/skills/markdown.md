@@ -396,6 +396,6 @@ If you're on MacOS, my favourite Markdown client so far has been [Typora](https:
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}

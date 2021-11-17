@@ -132,6 +132,6 @@ There's a printable version of this post [here.](/jsdelivr-proxy/gh/psharma04/ac
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}

@@ -238,3 +238,10 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 301
   force = true
   headers = {X-From = "TallyForms"}
+  
+[[redirects]]
+  from = "/patreon/"
+  to = "https://patreon.com/hscone/"
+  status = 301
+  force = true
+  headers = {X-From = "Patreon"}

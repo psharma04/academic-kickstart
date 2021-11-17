@@ -80,7 +80,7 @@ So this post was actually supposed to cover 5 different methods of improving pro
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}
 

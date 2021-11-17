@@ -43,11 +43,11 @@ Content can be written using **Markdown**, [**LaTeX math**](https://en.wikibooks
 ## Emphasis
 
     Italics with _underscores_.
-    
+
     Bold with **asterisks**.
-    
+
     Combined emphasis with **asterisks and _underscores_**.
-    
+
     Strikethrough with ~~two tildes~~.
 
 ## Lists
@@ -220,7 +220,7 @@ You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.
 
 See the [Emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) for available emoticons. The following serves as an example, but you should remove the spaces between each emoji name and pair of semicolons:
 
-    I : heart : Schoolnotes : smile :
+    I : heart : HSCOne : smile :
 
 I :heart: Schoolnotes :smile:
 
@@ -264,7 +264,7 @@ To mention someone, type `{{%/* mention "username" */%}}` where `username` corre
 ## Footnotes
 
     I have more [^1] to say.
-    
+
     [^1]: Footnote example.
 
 I have more [^1] to say.
@@ -356,7 +356,7 @@ Result:
 
 ## Asides
 
-Schoolnotes supports a Markdown extension for asides, also referred to as *callouts*.
+HSCOne supports a Markdown extension for asides, also referred to as *callouts*.
 
 Asides are a useful feature that **add side content such as notes, hints, or warnings to your articles**. They are especially handy when writing educational tutorial-style articles or documentation.
 

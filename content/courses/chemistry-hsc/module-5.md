@@ -1370,6 +1370,6 @@ $\% unionised=\frac{[HA]_{eqm}}{[HA]_{initial}}\times 100=100-\%ionised$
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}

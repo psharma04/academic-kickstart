@@ -115,7 +115,7 @@ If you get a question on the impact of the Land rights movement, mentioning that
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}
 

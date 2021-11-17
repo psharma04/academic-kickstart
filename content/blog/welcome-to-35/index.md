@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Welcome to Schoolnotes Version 3.5!!!"
+title: "Welcome to HSCOne Version 3.5!!!"
 subtitle: "Blog post about the updates to our site."
 summary: "Blog post about the updates to our site."
 authors: [Pranav Sharma, Jackson Taylor]
@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Hi guys, welcome to the new version of Schoolnotes Portal! While we're still using the same codebase as 2020, we've made some pretty major changes in order to improve useability, and just make things better for you.
+Hi guys, welcome to the new version of HSCOne! While we're still using the same codebase as 2020, we've made some pretty major changes in order to improve useability, and just make things better for you.
 ## New Authors
 Before we talk about anything else, we'd like to introduce two new authors who will be working on building resources for you: Chloe and Vishnu.
 ### Chloe Roose
@@ -56,6 +56,6 @@ We're still looking for more writers! If you have content for HSIE or Technology
 - Also, you should notice major speed improvements, as we've updated RocketLauncher, minified all our assets, and halved the amount of external queries.
   - In English: We made things go fast :roll_eyes:
 - We've updated the homepage so that you get to the new content, rather than seeing the old post style content.
-- We finally got around to setting up a Patreon, so if you appreciate what we do, please join us at [https://patreon.com/schoolnotes/](/patreon/)
+- We finally got around to setting up a Patreon, so if you appreciate what we do, please join us at [https://patreon.com/hscone/](/patreon/)
 
 And yeah, that's about it for the important stuff! Take a peek at the [blog page](/blog/) once in a while to see the latest updates on the site. Thanks for all your support!

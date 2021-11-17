@@ -2,13 +2,13 @@
 draft: false
 editable: false
 summary: This Privacy Policy document contains types of information that is
-  collected and recorded by Schoolnotes Portal and how we use it.
+  collected and recorded by HSCOne and how we use it.
 header:
   caption: ""
   image: ""
 title: Privacy Policy
 date: 2021-11-14T11:06:53.987Z
-subtitle: Privacy Policy for Schoolnotes Portal
+subtitle: Privacy Policy for HSCOne
 commentable: false
 share: false
 type: book

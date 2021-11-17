@@ -252,6 +252,6 @@ CRISPR _(Clustered Regularly Interspaced Short Palindromic Repeats)_ is a genome
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}

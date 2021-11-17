@@ -198,7 +198,7 @@ Where $O$ is the observed value, and $E$ is the expected value.
 
 <hr>{{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}
 

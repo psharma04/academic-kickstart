@@ -177,7 +177,7 @@ Marriage is an expression of the beliefs of Judaism, allowing adherents to fulfi
 ---
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}
 

@@ -478,5 +478,5 @@ We're also planning to start an opinion series, where we don't just discuss the 
 - Done through strength of character and perseverance by young people in pursuing their interests that there will be continued redefining of society’s expectations.
 
 {{< callout note >}}
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 {{< /callout >}}

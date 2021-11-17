@@ -146,6 +146,6 @@ For paper 1 unseen texts, a good estimate is 2-3 lines per mark, while the exten
 
 {{< callout note >}}
 
-Want to get content early? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Want to get content early? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}

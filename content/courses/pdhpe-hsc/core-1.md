@@ -1069,6 +1069,6 @@ B: better access to psych through Medicare – less of financial burden in seeki
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}

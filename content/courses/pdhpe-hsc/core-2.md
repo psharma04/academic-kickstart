@@ -1223,5 +1223,5 @@ Prescribed:
 Use measurements to increase appraisal/objectivity. Based on numerical info and established criteria. Checklists, rating scales, measuring etc more accurately convert appraisal into meaningful measurements.
 
 {{< callout note >}}
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 {{< /callout >}}

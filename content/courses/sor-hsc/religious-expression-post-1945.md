@@ -104,6 +104,6 @@ Remember, this doesn't necessarily mean that there are less Christians, just tha
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}

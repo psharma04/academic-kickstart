@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Schoolnotes Portal"
+title = "HSCOne"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "icon.png"
@@ -51,8 +51,6 @@ hero_media = "icon.png"
   label = '<a href="/terms/">Please note that use of the site is subject to the Site License Policy.</a>'
 +++
 
-**HSC courses made easy.**
-
-Our guides are written by current and former HSC students in a way that's easy to understand, and yet detailed enough to explain your courses from cover to cover.
+**One place for all your HSC needs.**
 
 <a href="/patreon/" alt="Become a patron"> <img srcset="/patreon/patreon.svg, /patreon/patreon.webp, /patreon/patreon_2x.png 2x, /patreon/patreon_1x.png 1x" src="/patreon/patreon_1x.png" loading="eager"><a>

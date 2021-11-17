@@ -169,6 +169,6 @@ Ariel brings all the courtiers to the cell where Prospero, renouncing his magic,
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/schoolnotes)
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}
