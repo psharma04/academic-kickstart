@@ -169,7 +169,7 @@ Seeing as this post is being written in COVID era, every week brings a new set o
 - Ethical Frameworks promote accountability, avoidance of error, and betterment of society
 - The trust from ethical frameworks is highly significant to scientific inquiry, allowing for collaboration and development of research. these frameworks mean that researchers don't need to go and test every investigation used to reinforce their standpoint. 
 
-[Read the ethical framework for human test subject research in Australia here.](https://schoolnotes.xyz/ipfs-1/Qmbp6xKE6zrVPMamw7VEkvGBcS6K46iMLehxN9NhS7V4T4/gtecethicalprinc.pdf)
+[Read the ethical framework for human test subject research in Australia here.](https://hsc.one/ipfs-1/Qmbp6xKE6zrVPMamw7VEkvGBcS6K46iMLehxN9NhS7V4T4/gtecethicalprinc.pdf)
 
 ---
 

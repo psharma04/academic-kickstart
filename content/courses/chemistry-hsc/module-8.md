@@ -71,7 +71,7 @@ type: book
 
 - One of the easiest ways to identify the components of a compound is through a precipitation reaction. As different compounds produce different colored precipitates, you can use the table below to find which ions are present in the precipitate.
 
-{{< figure src="https://schoolnotes.xyz/statically-image-cdn/uploads/Yr12-Chemistry-Solubility-Chart.png" caption="Colors of precipitates for different reactions. Trends can be easily found going left to right." >}}
+{{< figure src="https://hsc.one/statically-image-cdn/uploads/Yr12-Chemistry-Solubility-Chart.png" caption="Colors of precipitates for different reactions. Trends can be easily found going left to right." >}}
 
 - For example, say you have an unknown substance, which can be dissolved in water.
 - After adding Sulfuric acid to the compound, you notice that a blue precipitate is formed.
@@ -97,7 +97,7 @@ type: book
     - "Hexa-" = 6
     - "Aqua-" = water
 
-  {{< figure src="https://images.schoolnotes.xyz/uploads/jo61v.png" theme="light" caption="Hexaaquacopper (II) ion diagram.">}}
+  {{< figure src="https://images.hsc.one/uploads/jo61v.png" theme="light" caption="Hexaaquacopper (II) ion diagram.">}}
 
 - You don't actually need to know the names, but you do need to know the notation.
 
@@ -303,7 +303,7 @@ Volhard's method quantifies anions using back titration.
 
 {{< callout note >}}
 
-Can we just take a minute to appreciate the name Volhard? Also, most textbooks have a fairly limited explanation of this method, so we went to the NSW State Library, found someone who speaks and reads German well enough to do science, and asked them to translate the thing for us. [We also got permission to upload a scan of the paper to IPFS, so you can find it here (if you can read German, that is).](https://schoolnotes.xyz/ipfs-1/QmfDDsHFXUHqYekXCmLNTzbd9oXXvu9e6TCTPRWse4doyP)
+Can we just take a minute to appreciate the name Volhard? Also, most textbooks have a fairly limited explanation of this method, so we went to the NSW State Library, found someone who speaks and reads German well enough to do science, and asked them to translate the thing for us. [We also got permission to upload a scan of the paper to IPFS, so you can find it here (if you can read German, that is).](https://hsc.one/ipfs-1/QmfDDsHFXUHqYekXCmLNTzbd9oXXvu9e6TCTPRWse4doyP)
 
 {{< /callout >}}
 

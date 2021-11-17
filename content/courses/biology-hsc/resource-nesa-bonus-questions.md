@@ -28,6 +28,6 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://schoolnotes.xyz/nesa/936db77a-65d4-4a72-a2ab-f786ad8e8b1a/biology-2019-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" filename="biology-2019-additional-sample-hsc-questions.pdf" >}}
+{{< pdf src="https://hsc.one/nesa/936db77a-65d4-4a72-a2ab-f786ad8e8b1a/biology-2019-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" filename="biology-2019-additional-sample-hsc-questions.pdf" >}}
 <br>
 {{< cta cta_text="Download this resource" cta_link="/nesa/936db77a-65d4-4a72-a2ab-f786ad8e8b1a/biology-2019-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}

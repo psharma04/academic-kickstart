@@ -19,9 +19,9 @@ Effective date: 11/14/2021
 
 Welcome to **Heimdall Intranet LTD.**
 
-Heimdall Intranet LTD. (“us”, “we”, or “our”) operates https://schoolnotes.xyz (hereinafter referred to as “**Service**”).
+Heimdall Intranet LTD. (“us”, “we”, or “our”) operates https://hsc.one (hereinafter referred to as “**Service**”).
 
-Our Privacy Policy governs your visit to https://schoolnotes.xyz, and explains how we collect, safeguard and disclose information that results from your use of our Service. 
+Our Privacy Policy governs your visit to https://hsc.one, and explains how we collect, safeguard and disclose information that results from your use of our Service. 
 
 We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
@@ -29,7 +29,7 @@ Our Terms and Conditions (“**Terms**”) govern all use of our Service and tog
 
 **2.**   **Definitions**
 
-**SERVICE** means the https://schoolnotes.xyz website operated by Heimdall Intranet LTD.
+**SERVICE** means the https://hsc.one website operated by Heimdall Intranet LTD.
 
 **PERSONAL DATA** means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -259,7 +259,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: info@schoolnotes.xyz.
+By email: info@hsc.one.
 
  
 

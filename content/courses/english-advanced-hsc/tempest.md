@@ -47,7 +47,7 @@ SPOILERS!!! (duh)
 
 {{< callout warning >}}
 
-So this turned out longer than I thought it would… there's just so much to talk about with these texts. I hope you're not using this the night before the exam (or the day of :flushed:). If you are doing last minute study though, I would highly recommend [OSP's "Shakespeare Summarised: The Tempest"](https://invidious.schoolnotes.xyz/watch?v=lq2YEqSZo54) before you keep reading. After that, feel free to jump around using the nav menu on the right (or above if you're a mobile user) to figure out what you don't already know.
+So this turned out longer than I thought it would… there's just so much to talk about with these texts. I hope you're not using this the night before the exam (or the day of :flushed:). If you are doing last minute study though, I would highly recommend [OSP's "Shakespeare Summarised: The Tempest"](https://invidious.hsc.one/watch?v=lq2YEqSZo54) before you keep reading. After that, feel free to jump around using the nav menu on the right (or above if you're a mobile user) to figure out what you don't already know.
 
 {{< /callout >}}
 

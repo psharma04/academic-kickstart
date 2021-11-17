@@ -28,9 +28,9 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://schoolnotes.xyz/nesa/41ea5fc5-ab2c-4a8d-95ad-95529413a7ee/science-extension-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" filename="Science Extension Stage 6 Syllabus 2017" >}}
+{{< pdf src="https://hsc.one/nesa/41ea5fc5-ab2c-4a8d-95ad-95529413a7ee/science-extension-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" filename="Science Extension Stage 6 Syllabus 2017" >}}
 <br>
-{{< cta cta_text="Download this resource" cta_link="https://schoolnotes.xyz/nesa/41ea5fc5-ab2c-4a8d-95ad-95529413a7ee/science-extension-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
+{{< cta cta_text="Download this resource" cta_link="https://hsc.one/nesa/41ea5fc5-ab2c-4a8d-95ad-95529413a7ee/science-extension-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
 
 {{< callout note >}}
 

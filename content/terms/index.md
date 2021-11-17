@@ -41,7 +41,7 @@ type: book
 
 ## I have Questions/Want to License Content
 
-- Feel free to email us at [licensing@schoolnotes.xyz](mailto:licensing@schoolnotes.xyz)
+- Feel free to email us at [licensing@hsc.one](mailto:licensing@hsc.one)
 
 ## Show Me the Full Legal Terms
 

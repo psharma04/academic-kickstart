@@ -32,7 +32,7 @@ The idea of this method is to create a sort of looping pattern of communication 
 
 ### Conclusion
 
-That's about all I'm got for this stuff (and I'm still not over the sources thing from part 1), so I'm gonna take a short break before continuing this series. In the mean time, if you've got any questions, feel free to get in touch with me at [psharma@schoolnotes.xyz](mailto:psharma@schoolnotes.xyz), or leave a comment below!
+That's about all I'm got for this stuff (and I'm still not over the sources thing from part 1), so I'm gonna take a short break before continuing this series. In the mean time, if you've got any questions, feel free to get in touch with me at [psharma@hsc.one](mailto:psharma@hsc.one), or leave a comment below!
 
 
 {{< callout note >}}

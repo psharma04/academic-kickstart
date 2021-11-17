@@ -21,6 +21,6 @@ superuser: true
 user_groups:
   - Writers
   - all
-email: contact@psharma.schoolnotes.xyz
+email: contact@psharma.hsc.one
 ---
 I'm a year 12 student. I specialise in theoretical sciences and mathematics, as well as full-stack software and hardware development.

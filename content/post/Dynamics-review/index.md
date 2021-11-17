@@ -45,7 +45,7 @@ categories:
 > Every object will maintain a constant velocity unless an unbalanced external force acts on it.
 
 * Newton's first law means that if an object has no forces acting on it, then it will continue to travel at its current speed and direction until an unbalanced net force acts on it
-  ![Diagram of Newton's First Law](https://schoolnotes.xyz/images/kinematics-1.jpg)
+  ![Diagram of Newton's First Law](https://hsc.one/images/kinematics-1.jpg)
 * Newton's first law is closely related to the concept of *Inertia*, the tendency of an object to resist any changes in motion
 * This resistance is related to the mass of the object, with more massive objects having a greater inertia
 
@@ -62,7 +62,7 @@ categories:
 > $\vec{a}=\text{Acceleration }(m/s^2)$
 
 * The acceleration of an object is directly proportional to the net force on the object, and inversely proportional to the mass of the object. Therefore:
-  ![Newton's second law triangle](https://schoolnotes.xyz/images/newtons-second-law-triangle.png)
+  ![Newton's second law triangle](https://hsc.one/images/newtons-second-law-triangle.png)
 * $1N = 1kg \times m/s^2$
 * As a result, more force on the same mass means a greater acceleration, and an equal force on less mass also means a greater acceleration
 * Newton's Laws of Motions are all subject to vector addition and subtraction
@@ -104,7 +104,7 @@ $F_\text{by Earth on brick}$
 
 </td></tr></tbody></table>
 
-![Newton's third law diagram](https://schoolnotes.xyz/images/newtons-third-law-diagram.png)
+![Newton's third law diagram](https://hsc.one/images/newtons-third-law-diagram.png)
 
 ### The Normal Force
 
@@ -114,8 +114,8 @@ $F_\text{by Earth on brick}$
 * If object A is then placed at rest on the floor, the gravitational force $\vec{F}=m\vec{g}$ is still acting on it, but it is at rest
 * According to Newton's first law, an object can only be at rest if all the forces acting on it are balanced, so there must be a force counteracting gravity
 * This is known as the *normal force* $(\vec{F}_N)$
-  ![The normal force is perpendicular to the surfaces in contact](https://schoolnotes.xyz/images/normal-force-1.png)
-  ![If there is no contact between the objects, there is no normal force](https://schoolnotes.xyz/images/normal-force-2.png)
+  ![The normal force is perpendicular to the surfaces in contact](https://hsc.one/images/normal-force-1.png)
+  ![If there is no contact between the objects, there is no normal force](https://hsc.one/images/normal-force-2.png)
 * The normal force acts with the same magnitude as its reactant force, but perpendicular TO THE SURFACE THE OBJECT IS ON (this will be an important distinction later)
 * It is important to note that the normal force and the reaction force from the third law are NOT THE SAME!!!
 
@@ -134,13 +134,13 @@ $F_\text{by Earth on brick}$
 
   > $\vec{F}=m\vec{g}\cdot sin\theta$
 
-![iagram of the normal force acting on an inclined planeD](https://schoolnotes.xyz/images/normal-force-3.png)
+![iagram of the normal force acting on an inclined planeD](https://hsc.one/images/normal-force-3.png)
 
 ### Friction
 
 * Friction is expressed as $F=\mu F_N$, where $\mu$ is the Coefficient of Friction
 * Note that Friction is directly proportional to the Normal Force, meaning that the frictional force at an angle is different to the frictional force on a flat plane
-  ![Friction Graph](https://cdn.schoolnotes.xyz/images/jpeg/Friction-Graph.jpeg)
+  ![Friction Graph](https://cdn.hsc.one/images/jpeg/Friction-Graph.jpeg)
 
 ## Energy
 
@@ -156,7 +156,7 @@ SI Equivalents:
 $1J=1\frac{kg\cdot m^2}{s^2}=1N\cdot m=1Pa\cdot m^3=1W\cdot s=1C\cdot V$
 {{% /callout %}}
 * There are 2 main categories of energy: kinetic and potential
-  ![Tree diagram of the types of energy](https://cdn.schoolnotes.xyz/images/svg/energy-tree-diagram.svg)
+  ![Tree diagram of the types of energy](https://cdn.hsc.one/images/svg/energy-tree-diagram.svg)
 * Kinetic energy is primarily associated with motion, but also includes less visible forms of energy, such as heat and sound
 * Potential energy is the energy of an object based on its position in a field
   * Examples of potential energy include gravitational, magnetic, and elastic potential energy
@@ -216,17 +216,17 @@ In the formula $E=mc^2 ,$  $E$ refers to nuclear potential energy
 ### Work and Displacement at an Angle
 
 * When a force is applied, sometimes the object does not move in the same direction of the force
-  ![Force at an angle diagram](https://cdn.schoolnotes.xyz/images/svg/Force-at-an-angle.svg)
+  ![Force at an angle diagram](https://cdn.hsc.one/images/svg/Force-at-an-angle.svg)
 * In this case, the component of the applied force that acts on the object is considered the net force
 
 ### Force-Displacement Graphs
 
 * Force-Displacement graphs illustrate how a force changes with displacement [^2]
-  ![Force displacement graph. Source: ScienceFlip](https://cdn.schoolnotes.xyz/images/jpeg/force-displacement-graph-1.jpeg)
+  ![Force displacement graph. Source: ScienceFlip](https://cdn.hsc.one/images/jpeg/force-displacement-graph-1.jpeg)
 * When a force changes with displacement, the net amount of work done can be calculated by finding the area under the Force-Displacement graph
 * If the graph is a flat, horizontal line, then a constant amount of force is being applied
 * The force displacement graph for pulling a spring, for example has a gradient >1, because there is a greater force required the more you stretch it
-  ![Force displacement graph of a spring](https://cdn.schoolnotes.xyz/images/png/spring-force-displacement-graph.png)
+  ![Force displacement graph of a spring](https://cdn.hsc.one/images/png/spring-force-displacement-graph.png)
 
 ### Conversion and Transformation of Energy
 
@@ -246,7 +246,7 @@ The work energy theorem can be used as a definition for change in kinetic energy
 
 #### Gravitational Potential Energy
 
-> Note: I'm probably going to just shorten "Gravitational Potential Energy" to "GPE" in this section, just because I can. If you don't like it, feel free to use the [edit link](https://schoolnotes.xyz/admin/#/collections/posts/entries/Dynamics-review) to "fix it" - {{% mention jackson-taylor %}}
+> Note: I'm probably going to just shorten "Gravitational Potential Energy" to "GPE" in this section, just because I can. If you don't like it, feel free to use the [edit link](https://hsc.one/admin/#/collections/posts/entries/Dynamics-review) to "fix it" - {{% mention jackson-taylor %}}
 
 * Any object that is influenced by a gravitational field possesses gravitational energy
 * GPE can be defined as:

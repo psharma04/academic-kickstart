@@ -27,7 +27,7 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://schoolnotes.xyz/nesa/e6637974-cd2e-4a77-8d88-47141d8cdbf6/cafs-st6-syllabus-january-2017.pdf?MOD=AJPERES&CVID=" filename="<Subject> Syllabus" >}}
+{{< pdf src="https://hsc.one/nesa/e6637974-cd2e-4a77-8d88-47141d8cdbf6/cafs-st6-syllabus-january-2017.pdf?MOD=AJPERES&CVID=" filename="<Subject> Syllabus" >}}
 <br>
 {{< cta cta_text="Download this resource" cta_link="/nesa/e6637974-cd2e-4a77-8d88-47141d8cdbf6/cafs-st6-syllabus-january-2017.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
 

@@ -1053,7 +1053,7 @@ Conductivity increases due to the highly conductive $\ce{OH-}$ ions.
 
 ### STRONG ACID + WEAK BASE 
 
-![](https://schoolnotes.xyz/statically-image-cdn/uploads/uploads/C8tKWR2021-C8tKWR.png)
+![](https://hsc.one/statically-image-cdn/uploads/uploads/C8tKWR2021-C8tKWR.png)
 
 > $\ce{NH4+(aq) +H2O(l)<=> NH3(aq) +H3O+(aq)}$
 

@@ -44,7 +44,7 @@ Before we talk about anything else, we'd like to introduce two new authors who w
 [Find out more about him here.](/authors/vishnu-reddy)
 
 {{< callout note >}}
-We're still looking for more writers! If you have content for HSIE or Technology courses, send us an email at [authors@schoolnotes.xyz](mailto:authors@schoolnotes.xyz)
+We're still looking for more writers! If you have content for HSIE or Technology courses, send us an email at [authors@hsc.one](mailto:authors@hsc.one)
 {{< /callout >}}
 
 ## So what else is new?

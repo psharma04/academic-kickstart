@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Main Content Delivery Network"
-  organization_url = "https://arc.io/?ref=schoolnotes.xyz#signUp"
+  organization_url = "https://arc.io/?ref=hsc.one#signUp"
   title = "Arc.io CDN"
-  url = "https://arc.io/?ref=schoolnotes.xyz#signUp"
+  url = "https://arc.io/?ref=hsc.one#signUp"
 # certificate_url = "https://www.coursera.org"
   date_start = "2021-01-01"
   date_end = ""

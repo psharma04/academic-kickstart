@@ -84,7 +84,7 @@ We're also planning to start an opinion series, where we don't just discuss the 
 
 - Pierre de Coubertin, the founder of the modern Olympics, believed that it wasn't natural for women to appear in sport.
 
-- The usual excuse for this was that physical strain from sport [would damage a women's ability to bear children, and that muscles would scare off potential suitors.](https://schoolnotes.xyz/jsdelivr-proxy/gh/psharma04/image-repo@main/fileshare/The_Duty_of_American_Women_to_Their_Coun.pdf)
+- The usual excuse for this was that physical strain from sport [would damage a women's ability to bear children, and that muscles would scare off potential suitors.](https://hsc.one/jsdelivr-proxy/gh/psharma04/image-repo@main/fileshare/The_Duty_of_American_Women_to_Their_Coun.pdf)
 
  - This also links into the "delicate flower syndrome", the idea that female reproductive organs were fragile and shouldn't be bounced around or jostled for fear of reducing their childbearing capabilities.
 

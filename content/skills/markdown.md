@@ -209,7 +209,7 @@ example.com (but not on Github, for example).
 Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: https://schoolnotes.xyz
+[1]: https://hsc.one
 [link text itself]: https://google.com
 
 
@@ -220,12 +220,12 @@ Some text to show that the reference links can follow later.
 Here's our logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://schoolnotes.xyz/assets/images/icon.png "Logo Title Text 1")
+![alt text](https://hsc.one/assets/images/icon.png "Logo Title Text 1")
 
 Reference-style (disgusting way to do it, but its in spec so if you hate everyone who will ever see your content, use this):
 ![alt text][logo]
 
-[logo]: https://schoolnotes.xyz/assets/images/icon.png "Logo Title Text 2"
+[logo]: https://hsc.one/assets/images/icon.png "Logo Title Text 2"
 ```
 
 Here's our logo (hover to see the title text):
@@ -236,7 +236,7 @@ Inline-style:
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://schoolnotes.xyz/assets/images/icon.png "Logo Title Text 2"
+[logo]: https://hsc.one/assets/images/icon.png "Logo Title Text 2"
 
 ## Code and Syntax Highlighting
 

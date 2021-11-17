@@ -3,7 +3,7 @@
 
 title: "Physics Preliminary: Revision, Part 1"
 event:
-event_url: "https://schoolnotes.xyz/talk/physics-10-07-2020"
+event_url: "https://hsc.one/talk/physics-10-07-2020"
 location: "Cornerstone Education"
 address:
   street: "14 Lexington Drive"
@@ -45,7 +45,7 @@ links:
    icon_pack: fas
    icon: stream
  - name: "Recording"
-   url: "https://schoolnotes.xyz/talk/physics-10-07-2020/recording.mp3"
+   url: "https://hsc.one/talk/physics-10-07-2020/recording.mp3"
    icon_pack: fas
    icon: microphone-alt
 # Optional filename of your slides within your talk's folder or a URL.
@@ -73,7 +73,7 @@ projects: []
 <audio controls="controls">
     <source src="recording-AAC.m4a" type="audio/aac">
     <source src="recording.mp3" type="audio/mpeg">
-    <source src="https://schoolnotes.xyz/talk/physics-10-07-2020/recording-AAC.m4a" type="audio/aac">
-    <source src="https://schoolnotes.xyz/talk/physics-10-07-2020/recording.mp3" type="audio/mpeg">
+    <source src="https://hsc.one/talk/physics-10-07-2020/recording-AAC.m4a" type="audio/aac">
+    <source src="https://hsc.one/talk/physics-10-07-2020/recording.mp3" type="audio/mpeg">
     Your browser does not support audio. Please try a different browser or device.
 </audio>

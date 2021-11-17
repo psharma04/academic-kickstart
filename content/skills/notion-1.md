@@ -51,7 +51,7 @@ To use any of these, just open the link and click "Duplicate" in the top right.
 
 
 
-If you've got any questions about Notion, let us know at [notion.team@schoolnotes.xyz](mailto:notion.team@schoolnotes.xyz).
+If you've got any questions about Notion, let us know at [notion.team@hsc.one](mailto:notion.team@hsc.one).
 
 
 

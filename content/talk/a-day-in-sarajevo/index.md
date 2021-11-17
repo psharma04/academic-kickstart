@@ -48,7 +48,7 @@ image:
 #   icon: twitter
 links:
   - name: "Recording"
-    url: "https://schoolnotes.xyz/talk/a-day-in-sarajevo/A_Day_in_Sarajevo_-_Damien_Fenech.m4a"
+    url: "https://hsc.one/talk/a-day-in-sarajevo/A_Day_in_Sarajevo_-_Damien_Fenech.m4a"
     icon_pack: fas
     icon: microphone-alt
 # Optional filename of your slides within your talk's folder or a URL.

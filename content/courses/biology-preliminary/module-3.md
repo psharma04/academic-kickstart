@@ -1145,4 +1145,4 @@ influence evolutionary change?**
 
 ---
 
-# [Now for the HSC course](https://schoolnotes.xyz/post/biology-hsc-consolidation/)
+# [Now for the HSC course](https://hsc.one/post/biology-hsc-consolidation/)

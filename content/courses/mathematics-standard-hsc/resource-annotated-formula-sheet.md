@@ -28,9 +28,9 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://schoolnotes.xyz/courses/mathematics-standard-hsc/annotated_reference_sheet_2020ver.pdf" filename="annotated_reference_sheet_2020ver.pdf" >}}
+{{< pdf src="https://hsc.one/courses/mathematics-standard-hsc/annotated_reference_sheet_2020ver.pdf" filename="annotated_reference_sheet_2020ver.pdf" >}}
 <br>
-{{< cta cta_text="Download this resource" cta_link="https://schoolnotes.xyz/courses/mathematics-standard-hsc/annotated_reference_sheet_2020ver.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Download this resource" cta_link="https://hsc.one/courses/mathematics-standard-hsc/annotated_reference_sheet_2020ver.pdf" cta_new_tab="true" >}}
 
 {{< callout note >}}
 

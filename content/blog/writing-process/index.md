@@ -95,7 +95,7 @@ F-->I[Practice Questions];
 - Once in our repository, the post automatically gets processed and uploaded to our edge servers. Global distribution occurs in about a minute on average.
 - The next time you open the site, the new post will appear in the relevant subject for you to read and learn from.
 
-And that's pretty much it! If you want to know more and/or want to get involved, feel free to message any of us on Instagram (find on our author pages), or send an email to [writers@schoolnotes.xyz](mailto:writers@schoolnotes.xyz).
+And that's pretty much it! If you want to know more and/or want to get involved, feel free to message any of us on Instagram (find on our author pages), or send an email to [writers@hsc.one](mailto:writers@hsc.one).
 
 Thanks for reading!
 

@@ -30,7 +30,7 @@ projects: []
 ---
 {{% toc %}}
 ---
-<!-- Start content below this line. If you need help, go to https://schoolnotes.xyz/docs/posts/ -->
+<!-- Start content below this line. If you need help, go to https://hsc.one/docs/posts/ -->
 
 ## Projectile Motion
 

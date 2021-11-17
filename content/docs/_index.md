@@ -24,7 +24,7 @@ menu:
 
 ### Registration
 - To contribute to the site, you will need either a [Google](https://google.com) or [GitHub (preferred)](https://github.com) account.
-- Navigate to [the Admin panel](https://schoolnotes.xyz/admin/) and click "Login with Netlify Identity"
+- Navigate to [the Admin panel](https://hsc.one/admin/) and click "Login with Netlify Identity"
 ![Login with Netlify Identity](images/1.jpg)
 - You can sign in straight away with your Google or GitHub account. That way, we don't need to worry about storing your private information.
 - Once you are signed in, you should come to the "Authors" page. If you have just signed up, click "New Author".

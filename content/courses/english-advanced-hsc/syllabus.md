@@ -28,9 +28,9 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://schoolnotes.xyz/nesa/aa902cc0-b706-4f10-8f45-cdde598c98c8/english-advanced-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" filename="English Advanced Stage 6 Syllabus 2017" >}}
+{{< pdf src="https://hsc.one/nesa/aa902cc0-b706-4f10-8f45-cdde598c98c8/english-advanced-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" filename="English Advanced Stage 6 Syllabus 2017" >}}
 <br>
-{{< cta cta_text="Download this resource" cta_link="https://schoolnotes.xyz/nesa/aa902cc0-b706-4f10-8f45-cdde598c98c8/english-advanced-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
+{{< cta cta_text="Download this resource" cta_link="https://hsc.one/nesa/aa902cc0-b706-4f10-8f45-cdde598c98c8/english-advanced-stage-6-syllabus-2017.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
 
 {{< callout note >}}
 

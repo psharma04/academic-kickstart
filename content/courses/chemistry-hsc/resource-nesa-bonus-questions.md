@@ -28,6 +28,6 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://schoolnotes.xyz/nesa/ad94ad5f-4f41-449c-abdb-d50aab0f67b9/chemistry-2019-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" filename="chemistry-2019-additional-sample-hsc-questions.pdf" >}}
+{{< pdf src="https://hsc.one/nesa/ad94ad5f-4f41-449c-abdb-d50aab0f67b9/chemistry-2019-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" filename="chemistry-2019-additional-sample-hsc-questions.pdf" >}}
 <br>
 {{< cta cta_text="Download this resource" cta_link="/nesa/ad94ad5f-4f41-449c-abdb-d50aab0f67b9/chemistry-2019-additional-sample-hsc-questions.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}

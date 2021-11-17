@@ -308,7 +308,7 @@ As a current produces a magnetic field. 2 parallel conductors placed close to ea
 *   Currents in opposite direction – forces are mutually repulsive and the field in between is strengthened as it is reinforced by having the same direction (B = B<sub>1</sub> + B<sub>2</sub>)
 
 
-![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image1.PNG "image_tooltip")
+![alt_text](https://hsc.one/statically-image-cdn/uploads/physics-hsc-consolidation-1/image1.PNG "image_tooltip")
 
 
 Force is given by:
@@ -541,7 +541,7 @@ Eddy currents are induced currents formed in bulk pieces of metal due to an expe
 
 
 
-![Image-mjwgGFPg2021-JhGxqD1F](https://schoolnotes.xyz/statically-image-cdn/uploads/xRoSPm2021-xRoSPm.png)
+![Image-mjwgGFPg2021-JhGxqD1F](https://hsc.one/statically-image-cdn/uploads/xRoSPm2021-xRoSPm.png)
 
 A: As the plate enters the field, the changing magnetic flux creates an induced EMF. Eddy currents (circulating free electrons in metal caused by the induced EMF) are created. According to Lenz’s law, the direction of the eddy currents must oppose the change that causes them.
 
@@ -570,7 +570,7 @@ It is effective when the laminations are perpendicular to the plane of the eddy 
 
 
 
-![alt_text](https://schoolnotes.xyz/statically-image-cdn/uploads/physics-hsc-consolidation-1/image7.jpg "image_tooltip")
+![alt_text](https://hsc.one/statically-image-cdn/uploads/physics-hsc-consolidation-1/image7.jpg "image_tooltip")
 
 
 
@@ -595,7 +595,7 @@ Components of an AC generator:
 
 The natural output of a rotating coil is AC as current switches direction every half turn. To make the output DC, a split ring commutator can be used.
 
-![Image-7LoAPfvd2021-zreM6x9q](https://schoolnotes.xyz/statically-image-cdn/uploads/BEAbLb2021-BEAbLb.png)
+![Image-7LoAPfvd2021-zreM6x9q](https://hsc.one/statically-image-cdn/uploads/BEAbLb2021-BEAbLb.png)
 
 Maximum EMF output for an AC generator is given by
 

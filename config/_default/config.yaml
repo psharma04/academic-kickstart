@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Schoolnotes Portal # Website name
-baseurl: 'https://schoolnotes.xyz/' # Website URL
+title: HSCOne # Website name
+baseurl: 'https://hsc.one/' # Website URL
 copyright: '&copy; Pranav Sharma {year}' # Footer text, e.g. '© {year} Me'
 
 ############################

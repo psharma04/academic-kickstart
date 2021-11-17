@@ -28,6 +28,6 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://schoolnotes.xyz/courses/biology-hsc/resource-vocab-list.pdf" filename="resource-vocab-list.pdf" >}}
+{{< pdf src="https://hsc.one/courses/biology-hsc/resource-vocab-list.pdf" filename="resource-vocab-list.pdf" >}}
 <br>
 {{< cta cta_text="Download this resource" cta_link="/courses/biology-hsc/resource-vocab-list.pdf" cta_new_tab="true" >}}

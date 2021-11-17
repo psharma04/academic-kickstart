@@ -30,7 +30,7 @@ projects: []
 ---
 {{% toc %}}
 ---
-<!-- Start content below this line. If you need help, go to https://schoolnotes.xyz/docs/posts/ -->
+<!-- Start content below this line. If you need help, go to https://hsc.one/docs/posts/ -->
 
 {{% callout note %}}
 - Hi guys! I'm Jesse, and I was First in State for Advanced and Extension 2 English, and Third in State for Extension 1 English in 2019.

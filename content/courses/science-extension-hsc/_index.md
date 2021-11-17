@@ -29,7 +29,7 @@ weight: 1
 
 - [Science Extension Syllabus](syllabus/)
 - [Crash Course Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-- [Sample Reports from Barker College](https://schoolnotes.xyz/ipfs-1/QmVt8dnaNqpSPUX8gZsdMW6r9fpZRzU1xHqE4rZk3fqrt5/Science_Extension_Journal_Final_18-10-2019.pdf)
+- [Sample Reports from Barker College](https://hsc.one/ipfs-1/QmVt8dnaNqpSPUX8gZsdMW6r9fpZRzU1xHqE4rZk3fqrt5/Science_Extension_Journal_Final_18-10-2019.pdf)
 - [Extension Science HSC Study - WSU Lecture Series](https://www.youtube.com/playlist?list=PLetGl_OiMBqO_yeOT6BBYSU_N1Xm7IK0Q)
 
 ### Scientific Report and Proposal Writing

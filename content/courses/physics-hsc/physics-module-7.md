@@ -573,7 +573,7 @@ Method?
 - At higher temperatures the larger intensity of shorter wavelengths changes the colour of the black body from red to orange, yellow, white and blue as temperature increases.
 - The black body model  is used to calculate the temperature of distant objects. 
 
-{{< figure src="https://schoolnotes.xyz/statically-image-cdn/uploads/energy-unit-area-second-wavelength-interval-temperatures.jpg" caption="Blackbody Spectrum diagram from Encyclopaedia Brittanica. Sorry I couldn't make a dark mode version of this." >}}
+{{< figure src="https://hsc.one/statically-image-cdn/uploads/energy-unit-area-second-wavelength-interval-temperatures.jpg" caption="Blackbody Spectrum diagram from Encyclopaedia Brittanica. Sorry I couldn't make a dark mode version of this." >}}
 
 - Inconsistency: Wien's displacement law was a successful model since it predicted the position of the peak wavelength. 
 - However, there were two problems: 

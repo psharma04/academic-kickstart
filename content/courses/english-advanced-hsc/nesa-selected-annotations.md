@@ -28,7 +28,7 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://schoolnotes.xyz/nesa/54ff3b13-8dcb-4857-aa2c-02fdd4b11c39/english-stage-6-annotations-of-selected-texts-2019-2023.pdf?MOD=AJPERES&CVID=" filename="english-stage-6-annotations-of-selected-texts-2019-2023.pdf" >}}
+{{< pdf src="https://hsc.one/nesa/54ff3b13-8dcb-4857-aa2c-02fdd4b11c39/english-stage-6-annotations-of-selected-texts-2019-2023.pdf?MOD=AJPERES&CVID=" filename="english-stage-6-annotations-of-selected-texts-2019-2023.pdf" >}}
 <br>
 {{< cta cta_text="Download this resource" cta_link="/nesa/54ff3b13-8dcb-4857-aa2c-02fdd4b11c39/english-stage-6-annotations-of-selected-texts-2019-2023.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
 
