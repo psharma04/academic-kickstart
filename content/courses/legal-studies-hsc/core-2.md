@@ -281,7 +281,16 @@ Modern History students may recognise some of these phrases from Woodrow Wilson'
 
 - Established in 1993 to oversee the Human Rights Council
 - Offers support and expertise to human rights agencies and monitoring bodies.
-- Conducts the Universal Periodic Review of international compliance with the ICCPR and ICESCR, 
+- Conducts the [Universal Periodic Review](https://www.ohchr.org/en/hrbodies/upr/pages/uprmain.aspx) of international compliance with the ICCPR and ICESCR.
+
+#### Human Rights Council
+- Subsidiary of the General Assembly
+- Responsible for the international promotion of human rights
+- Makes recommendations to the UNGA and UNSC regarding human rights crises
+
+#### Other Intergovernmental Organisations
+- European Union, North Atlantic Treaty Organisation (NATO), Commonwealth of Nations
+
 
 ---
 
