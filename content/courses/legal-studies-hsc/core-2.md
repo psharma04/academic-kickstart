@@ -259,7 +259,7 @@ Modern History students may recognise some of these phrases from Woodrow Wilson'
 
 #### UN General Assembly
 
-- Composed of 1 representative from each member state, and is the primary UN forum for discussing civil rights issues.
+- Composed of 1 representative from each member state (similar to a legislative branch), and is the primary UN forum for discussing civil rights issues.
 - Contains various subsidiary bodies, such as the UN Human rights council.
 
 #### UN Security Council
@@ -269,6 +269,19 @@ Modern History students may recognise some of these phrases from Woodrow Wilson'
 - Approve military intervention or political sanctions to protect human rights and 
   encourage compliance with human rights standards.
 - Five permanent members (China, USA, UK, Russia and France), which are accompanied by [10 members](https://www.un.org/securitycouncil/content/current-members) who are elected for a two year term by the General Assembly.
+
+#### International Court of Justice
+
+- Judicial component of the UN.
+- Judges international civil disputes, and advises on human rights law.
+- Works in conjunction with the International Criminal Court to prosecute crimes against humanity.
+- Can be considered the civil component of the international judicial system (ICC would be the criminal component).
+
+#### Office of the High Commissioner for Human Rights
+
+- Established in 1993 to oversee the Human Rights Council
+- Offers support and expertise to human rights agencies and monitoring bodies.
+- Conducts the Universal Periodic Review of international compliance with the ICCPR and ICESCR, 
 
 ---
 
