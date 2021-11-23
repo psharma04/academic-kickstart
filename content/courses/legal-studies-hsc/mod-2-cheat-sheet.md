@@ -25,6 +25,7 @@ type: book
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+weight: 10
 ---
 
 {{< pdf src="https://hsc.one/courses/legal-studies-hsc/assets/mod-2-cheat-sheet.pdf" filename="Human Rights Cheat Sheet" >}}

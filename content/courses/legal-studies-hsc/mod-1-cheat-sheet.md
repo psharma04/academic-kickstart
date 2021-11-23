@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Syllabus"
-subtitle: "Syllabus for Legal Studies."
-summary: "Syllabus for Legal Studies."
+title: "Module 1 Cheat Sheet"
+subtitle: "Cheat Sheet for Module 1."
+summary: "Cheat Sheet for Module 1."
 authors: [Pranav Sharma]
-tags: [Year 12,HSIE, Legal Studies, HSC, Syllabus]
-categories:  [Year 12, HSIE, Legal Studies, HSC, Syllabus]
-date: 2021-06-12T01:42:51+11:00
+tags: [Year 12, HSIE, Legal Studies, HSC, Cheat Sheet]
+categories:  [Year 12, HSIE, Legal Studies, HSC, Cheat Sheet]
+date: 2021-11-11T01:42:51+11:00
 featured: false
 draft: false
 math: false
@@ -25,12 +25,12 @@ type: book
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-weight: 5
+weight: 10
 ---
 
-{{< pdf src="https://hsc.one/nesa/wps/wcm/connect/9fc54cbd-4498-4dfc-b1ad-d821a20d07c5/legal-studies-stage-6-syllabus-2009.pdf?MOD=AJPERES&CVID=" filename="Legal Studies Syllabus" >}}
+{{< pdf src="https://hsc.one/courses/legal-studies-hsc/assets/mod-1-cheat-sheet.pdf" filename="Crimes Cheat Sheet" >}}
 <br>
-{{< cta cta_text="Download this resource" cta_link="/nesa/wps/wcm/connect/9fc54cbd-4498-4dfc-b1ad-d821a20d07c5/legal-studies-stage-6-syllabus-2009.pdf?MOD=AJPERES&CVID=" cta_new_tab="true" >}}
+{{< cta cta_text="Download this resource" cta_link="https://hsc.one/courses/legal-studies-hsc/assets/mod-1-cheat-sheet.pdf" cta_new_tab="true" >}}
 
 {{< callout note >}}
 

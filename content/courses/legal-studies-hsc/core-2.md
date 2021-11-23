@@ -26,6 +26,7 @@ type: book
 #  E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #  Otherwise, set `projects = []`.
 projects: []
+weight: 1
 ---
 
 {{< callout note >}}
@@ -289,7 +290,118 @@ Modern History students may recognise some of these phrases from Woodrow Wilson'
 - Makes recommendations to the UNGA and UNSC regarding human rights crises
 
 #### Other Intergovernmental Organisations
-- European Union, North Atlantic Treaty Organisation (NATO), Commonwealth of Nations
+- European Union, North Atlantic Treaty Organisation (NATO), Commonwealth of Nations.
+
+### Courts and Tribunals
+
+#### International Criminal Court
+
+- Prosecutes international criminals
+- Supersedes the temporary tribunals that previously performed this task (e.g. International Criminal Tribunal for Rwanda)
+
+#### International Court of Justice
+
+- Provides advisory opinions to the UNGA regarding international law
+- Jurisdiction is limited, preventing effective enforcements.
+- Additionally, the ICJ is unable to hear private human rights complaints.
+
+#### Statutory Authorities
+
+-   Treaty bodies which **monitor compliance with major human rights treaties**
+- Consider individual complaints and reports where required
+- Publish opinions and suggestions on treaty compliance
+- Organise forums on relevant themes
+- Decisions not enforceable but highly influential
+- **Examples:**
+  - Human Rights Committee: Assesses compliance with international bills of rights
+  - Committee on the Rights of the Child
+  - Committee on the Elimination of Discrimination Against Women
+  - Committee on Economic, Social and Cultural Rights
+
+#### Non-Government Organisations
+
+- Operate independently of governments
+- Has become increasingly common as the concept of fundamental rights develops
+- Examples include the Red Cross and Amnesty International
+
+#### Media
+
+- Raises public awareness of human rights responsibilities and abuses
+- Rallies public and government action similarly to NGO’s
+- Increasing role of media ensures full coverage of human rights issues
+
+## Human Rights in Australian Law
+
+- The sign-ratify-enforce process incorporates international law into a dualist legal system
+- Commonwealth will pass laws reflective of signed treaties and enforce them in the country
+- **Examples:**
+  - Convention on the Elimination of All Forms of Discrimination Against Women: Sex Discrimination Act 1984 (Cth).
+  - Rome Statute: International Criminal Court Act 2002 (Cth).
+
+## Effectiveness of Australian Responses to Human Rights issues
+
+### The Constitution
+
+- Divides powers between state and federal governments
+- Grants external affairs power to Commonwealth (s 51)
+- Treaty obligations are imposed on all state jurisdictions
+- Allows federal legislative protection of Human Rights
+
+-   Separates Westminster system of government into arms of judiciary, executive and legislative
+- Checks and balances system acts as safeguard against abuses of power which could jeopardize individual rights
+- Judiciary investigates validity of legislation in terms of human rights and constitutional obligations
+
+##### Express and Implied Rights
+
+- Freedom of Religion
+- Freedom to Vote
+- Right to Trial by Jury
+- Freedom of Political Communication
+
+##### Common Law
+
+- Develops independent of legislature, provides socially realistic approach to human rights breaches
+- Brings to light new legal concerns to do with inadequacies in Australian human rights legislation
+- Fails to provide real, concrete protection of individual freedom
+
+##### Statutory Law
+
+- Main protection of human rights in Australia
+- Most enforceable and wide reaching
+- Examples:
+  - Racial Discrimination Act 1975
+  - Sex Discrimination Act 1984
+  - AHRC Act 1986
+
+#### ### Courts and Tribunals
+
+#### Australian Human Rights Commission
+
+- Receives and investigates human rights complaints
+
+- Promotes awareness of domestic and international human rights issues
+- Submits reports to parliament concerning improvement of HR standards
+- Plays role in the ‘Charter of Rights’ debate
+
+#### High Court of Australia
+
+- Landmark HR cases include the Toonen Case, and the Mabo Case
+- Constitutional interpretation proves a pivotal tool of HR enforcement
+
+## Arguments for and against an Australian Charter of Rights
+
+| For                                                          | Against                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Extremely high community support                             | Current HR protection is considered adequate                 |
+| Re-addressing the inadequacy of existing human rights protections | Undermines the tradition of parliamentary sovereignty, instead transferring legislative power to unelected judges (violates Separation of Powers) |
+| Reflects basic national values                               | No guarantee of better protections                           |
+| Improves the quality and accountability of government        | Excessive and costly litigation                              |
+| Contributes to a culture of respect for human rights         | Arguments that democratic institutions offer better protections |
+| Improves international standing                              | High short-term economic cost                                |
+| Brings Australia into line with other democracies            | Unnecessarily legalisation - most things are enforced through OHS/statutory law. |
+| Produces economic benefits                                   |                                                              |
+
+
 
 
 ---
