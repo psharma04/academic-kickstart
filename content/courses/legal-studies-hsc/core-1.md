@@ -288,7 +288,146 @@ Studying the night before? [Here's a 2 page cheat sheet for Module 1 HSC Legal S
   - This act makes it illegal to record private conversations unless all parties are aware and consenting (with specific exceptions).
   - The act also allows for warrants to be issued, allowing LEOs to use the devices in the context of an investigation.
   - It also provides specific protections and methods on how existing surveillance infrastructure (e.g. a neighbour's CCTV camera recordings) can be obtained and used by police.
-- 
+
+#### Bodycams
+
+- Used by police since 2015
+- Allows for more effective police accountability, but also ensures that offenders' interactions with and around police are observed.
+- Rollout has resulted in a 40% conviction increase.
+
+#### DNA Evidence
+
+- Strict procedures must be followed under the Crimes (Forensic Procedures) Act 2002 (NSW)
+- In NSW, police are allowed to take forensic samples with a person's consent
+- DNA samples of under 18s require a court order
+- Concerns over reliability of DNA evidence has been raised in case of R v Jama 2008
+- Jama was wrongly convicted for sexual assault on the sole basis of DNA evidence, after a sample was contaminated due to human error (note that no other evidence was provided by the prosecution, and Jama was able to demonstrate that he was not present at the location).
+- Resulted in ‘substansial miscarriage of justice’: all evidence proving Jama was not present was ignored, and the DNA was the only proof of his presence.
+
+{{< callout warning >}}
+
+NOTE THAT THE FOLLOWING ISN'T TECHNICALLY RELEVANT TO THE COURSE.
+
+
+
+Hey so fun facts I found while researching this case: during the appeal, the Victorian Institute of Forensic Medicine demonstrated that there were "significant doubts" about the reliability of the police's DNA match. On top of that, nobody at the club where the woman was found recalled seeing "a 19 year old man of African appearance", despite the crowd being primarily middle-aged and Caucasian (the club only admitted people over 28 and CCTV from the club corroborated that he was not there). Evidence was provided by the defendant demonstrating that he was not at the scene, but instead with his father. On top of that, the woman considered to be the victim was only considered because she was found passed out in a bathroom at the club (further testing demonstrated high levels of blood alcohol), and the appellate court heard her testimony that she did not believe she had been raped. And yet, despite 1. not being at the scene, 2. not having matching DNA, 3. not even having a victim, Farah Jama spent 16 months in jail, almost immediately after finishing year 12. Recent reviews of the Australian judicial system have demonstrated that especially in cases involving accused POCs and white victims, evidence against the defendant is considered significantly more than evidence for them, and DNA is the major example of this.
+
+{{< /callout >}}
+
+##### Search and Seizure
+
+- Under LEPRA, police have the power to search and seize property if:
+  - The person consents, or
+  - The person is under the influence of drugs/alcohol, or
+  - The person has a weapon, or
+  - Police have reasonable suspicion that the person possesses weapons and/or drugs, or
+  - A court provides a warrant allowing that person or property to be searched.
+
+##### Use of Warrants
+
+- A warrant is a legal document issued by a magistrate or judge, authorizing a police office to perform a particular act.
+- Warrants can be used to authorize arrests, searches, seizures, and/or phone taps.
+- LEPRA is the legislation which outlines the way warrants work.
+
+##### Arrests and Charges
+
+- LEPRA contains the conditions under which an arrest can be made.
+- Police must possess a warrant for that person's arrest.
+- The police must state to the person what they are being arrested for in order for the arrest to be legal.
+- Arrests can also be made if:
+  - A suspect is caught in the act
+  - Police have reasonable grounds to believe that the suspect has commited an offence
+  - Police have reasonable grounds to believe that the suspect is intending to commit an offence
+  - The suspect has already committed an offence
+
+##### Summons and Warrants
+
+- Once a person is charged, they will be issued with a summons to appear in court or, if it is a serious matter, they will be further detained and a bail hearing will be set. 
+- A summons/court attendance notice is a legal order for a person to appear before a court details the date and court where they must show up.
+- If a summons is issued and they do not show up, a warrant is issued for their arrest.
+- Subpoena: a legal document requiring a person to attend on a specific date to give evidence.
+
+### Bail and Remand
+
+#### Bail
+
+- The temporary release of an accused person awaiting trial, sometimes on particular conditions such as lodgement of a sum of money 
+- Bail is the authority to be at liberty for an (alleged) offence can be conditional or unconditional 
+- Relevant legislation is the Bail Act 1978 (NSW):
+  - Had 85 amendments, showing tension between courts and individuals
+  - NSW Law Reform Commision called it "unintelligible"
+  - Bail decisions are based on a case "risk assessment' 
+  - Presumption of innocence was inserted = protected individual rights and the community 
+  - Bail act 2013 (NSW), effective 2014 
+  - Bail can contribute to court delays 
+    - Sitting times 
+    - Time management practices 
+    - Increase in cases
+  - Effect → ongoing trauma of victims
+  - Witnesses often forget details
+  - Alleged offenders not found guilty in remand suffer infringement on freedom
+  - Further amended 30 days after controversy surrounding high profile accused receiving bail 
+  - Decision to grant bail is not easy 
+  - Difficulty is present in the need to balance the right of individuals to be a liberty and protection of community 
+  - To grant bail is very important in maintaining public confidence in the criminal justice system
+  - Equally important is the refusal to grant person bail 
+  - Because of the importance of bail and the misunderstanding of the public, bail legislation has been amended 84 times 
+- Unconditional means the person is released on their own recognisance 
+- Conditional refers to binding aspects to the persons release, such as wearing tracking devices, reporting to police, surrendering passport, curfews or restrictions on who you can associate with 
+- It is difficult to obtain bail for certain offences-particularly those offences that are violent and pose a risk to community 
+- Under Bail Act 1978 (NSW there were growing concerns over "presumption", "exceptional circumstances", "young offenders" and the level of crime 
+- In 2011, attorney-general Greg Smith asked the NSWLRC to review Bail Act
+  1978
+- Review led to Bail Act 2013.
+
+#### Remand
+
+- Remand is the time spent in custody while awaiting trial.
+- If guilty, time in remand is removed from the time of sentence.
+- The main legal issue of remand is that remand times have significantly increased as bail rates have risen.
+- 33% of the state prison population in 2016 were in remand, meaning 1/3 prisoners in NSW have not actually been proven guilty.
+- The district courts tend to take between 8 and 12 months to hear a case.
+
+### Detention and Interrogation of Suspects
+
+- Suspects have:
+  - Right to a lawyer.
+  - The right to silence.
+  - Max detention 6 hours → 12 with warrants.
+  - Knowledge of charges.
+- Illegal evidence inadmissible (can't be used/presented to court).
+  - Confession must be willing.
+  - Right to communication.
+- Rights of suspects: safeguards protect individual rights avoid abuse of police powers.
+- There should be a presumption of innocence.
+- Individuals have the right to silence.
+- Under common law, police caution a suspect and anything say may be used as evidence.
+- However since 2013 there have been changes to the right to silence (Evidence Act 1995).
+
+#### Role and Effectiveness of Law Reform - Example
+
+- Evidence Amendment (Evidence of Silence) Act 2013 (NSW):
+  - Gov response to spate of drive by shootings & Modified right to silence when being questioned for serious indictable offences
+
+- The effect of the special caution is that if the suspect refuses to tell police a fact that is later relied on in your defence in court, it may permit the court to use your silence against you.
+- The judge may allow the jury to draw and "unfavorable inference" if the accused does not mention when questioned by police, something they later rely on in their defence, and therefore the jury is free to assume the defendant has made up a story after being questioned.
+- This assumption damages both the presumption of innocence and limits the rights to silence while also demonstrating the gradual increase in police powers while limiting individual rights.
+
+| Benefits                                                     | Limitations                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Reduces the length and complexity of some trials, by discouraging defendants from raising new evidence. | Almost guarantees the convictions of defendants who are in a vulnerable state, confused, stressed, or have poor English. |
+| Defense attorneys are less able to "surprise" the prosecution with new evidence mid-trial. | Limits the advice lawyers can give when their clients are being questioned, instead encouraging defendants to essentially convict themselves. |
+
+## The Criminal Trial Process
+
+#### Criminal Courts - Definitions
+
+- Jurisdiction: The legal power or responsibility of a court.
+- Court hierarchy: The system of courts within a jurisdiction, from lower courts to intermediate and then higher courts.
+  - Cases usually heard in a Local Court for a preliminary hearing, before proceeding to appropriate court. 
+  - Judiciary Act 1903 (Cth) gives state courts the power to hear federal criminal cases. 
+  - Original jurisdiction: The authority for a court to hear matters for the first time.
+  - Appellate jurisdiction: The authority for a court to review matters on appeal.
 
 
 
