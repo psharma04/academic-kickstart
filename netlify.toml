@@ -245,3 +245,11 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 301
   force = true
   headers = {X-From = "Patreon"}
+  
+[[redirects]]
+  from = "/discord/"
+  to = "https://discord.gg/wBa9jmbf2e"
+  status = 301
+  force = true
+  headers = {X-From = "Discord"}
+  
