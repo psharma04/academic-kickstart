@@ -15,8 +15,8 @@ categories:
 
 {{% toc %}}
 <hr>
-<a href="https://cdn.hsc.one/documents/pdf/chemistry-stage6-syllabus-pdf.pdf" target="_blank">View Chemistry Syllabus</a><p>
-<a href="https://cdn.hsc.one/documents/pdf/chemistry-data-sheet-2019.pdf" target=_blank">View Chemistry Data Sheet</a></p>
+<a href="/og-cdn/documents/pdf/chemistry-stage6-syllabus-pdf.pdf" target="_blank">View Chemistry Syllabus</a><p>
+<a href="/og-cdn/documents/pdf/chemistry-data-sheet-2019.pdf" target=_blank">View Chemistry Data Sheet</a></p>
 <hr>
 
 ## Stoichiometry

@@ -32,7 +32,7 @@ projects: []
 
 ## Unit Circle
 - From advanced mathematics, you may remember the unit circle [^1]. This will be important for this module.
-![The Unit Circle](https://cdn.hsc.one/images/jpeg/unit-circle.jpeg)
+![The Unit Circle](/og-cdn/images/jpeg/unit-circle.jpeg)
 ## Sum-Difference Identities
 ### Cosine
 > $\cos(A\pm B)=\cos (A)\cos (B)\mp\sin (A)\sin (B)$
@@ -61,7 +61,7 @@ $\newcommand{\nl}[0]{}$
 
 $$\text{Mathematically: }\triangle AOB\cong\triangle POQ,\therefore PQ=AB$$
 
-![The promised diagram](https://cdn.hsc.one/images/jpeg/cosine-sum-difference-proof-1.jpeg)
+![The promised diagram](/og-cdn/images/jpeg/cosine-sum-difference-proof-1.jpeg)
 
 {{% callout info %}}
 If you don't remember the Cartesian distance formula, here it is:
@@ -147,11 +147,11 @@ $cos(A)sin(B)=\frac{1}{2}[sin(A+B)-sin(A-B)]$
   >
   > \- {{% mention jackson-taylor %}}
 - $sin A=\frac{2t}{1+t^2}$
-![Proof for sine](https://cdn.hsc.one/images/png/sin-t-formula-proof.png)
+![Proof for sine](/og-cdn/images/png/sin-t-formula-proof.png)
 - $cos A=\frac{1-t^2}{1+t^2}$
-![Proof for cosine](https://cdn.hsc.one/images/png/cos-t-formula-proof.png)
+![Proof for cosine](/og-cdn/images/png/cos-t-formula-proof.png)
 - $tan A=\frac{2t}{1-t^2}$
-![Proof for tangent](https://cdn.hsc.one/images/png/tan-t-formula-proof.png)
+![Proof for tangent](/og-cdn/images/png/tan-t-formula-proof.png)
 
 ## Inverse Trigonometric Functions
 ### Notation

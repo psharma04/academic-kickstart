@@ -31,7 +31,7 @@ weight: 1
 
 - [Chemistry Equations Guide](/courses/chemistry-hsc/chemistry-equation-guide/)
 - [Common Polyatomic Ions](common-polyatomic-ions/)
-- [Crash Course Chemistry](https://invidious.kavin.rocks/playlist?list=PLG61LF8I_OXoh2mhx2YNY9s4ekXiriMAf)
+- [Crash Course Chemistry](https://youtube.com/playlist?list=PLG61LF8I_OXoh2mhx2YNY9s4ekXiriMAf)
 - [Chemistry Datasheet](/nesa/98664936-221f-4c49-88e1-d002ec69285c/chemistry-formulae-sheet-data-sheet-periodic-table-hsc-exams-2019.pdf?MOD=AJPERES&CVID=)
 - [Chemistry Syllabus](/nesa/ff0f1e84-3e7c-45bd-9ed4-b1972546e166/chemistry-stage6-syllabus-pdf.pdf?MOD=AJPERES&CVID=)
 

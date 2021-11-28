@@ -123,7 +123,7 @@ We'll look at naming organic compounds later on. Remember that you can always ju
 
 ##### Example
 
-{{< figure src="https://images.hsc.one/uploads/3-methylhexane_lewis.svg" theme="light" >}}
+{{< figure src="/image-cdn/3-methylhexane_lewis.svg" theme="light" >}}
 
 - There are 6 carbons in the main chain, with the largest bond being a single bond, so the ending is -hexane
 - The side chain has 1 carbon and 3 hydrogen, so methyl- is added (methylhexane)
@@ -153,7 +153,7 @@ We'll look at naming organic compounds later on. Remember that you can always ju
 - Alkynes are also "unsaturated compounds", and are the most reactive organic group
 - The names of alkynes ends with -yne, for example propyne:
 
-{{< figure src="https://images.hsc.one/uploads/propyne_lewis.svg" theme="light" >}}
+{{< figure src="/image-cdn/propyne_lewis.svg" theme="light" >}}
 
 {{< callout info >}}
 
@@ -332,7 +332,7 @@ Unfortunately, the carboxylic acids have different names each. However, some of 
 | 2-Hydroxypropanoic Acid                   | $\ce{HC3H5O6}$          | Lactic Acid    |
 | 2-Hydroxypropane-1,2,3-Tricarboxylic Acid | $\ce{H2C6H5O7}$         | Citric Acid    |
 
-{{< figure src="https://images.hsc.one/uploads/citric-acid_lewis.svg" theme="light" caption="2-Hydroxypropane-1,2,3-Tricarboxylic Acid, more often referred to as Citric Acid, with each functional group coloured. You don't need to know this for your HSC, relax." >}}
+{{< figure src="/image-cdn/citric-acid_lewis.svg" theme="light" caption="2-Hydroxypropane-1,2,3-Tricarboxylic Acid, more often referred to as Citric Acid, with each functional group coloured. You don't need to know this for your HSC, relax." >}}
 
 ### Amines and Amides
 

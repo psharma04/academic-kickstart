@@ -46,7 +46,7 @@ links:
     icon: microphone-alt
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "https://cdn.hsc.one/slidedecks/html/slidedeck-chips_workshop_NANWAR_2020.html"
+url_slides: "/og-cdn/slidedecks/html/slidedeck-chips_workshop_NANWAR_2020.html"
 
 url_code:
 url_pdf:
@@ -67,7 +67,7 @@ slides: ""
 projects: []
 ---
 
-<h2><a href="https://cdn.hsc.one/slidedecks/html/slidedeck-chips_workshop_NANWAR_2020.html">View Slides</a></h2>
+<h2><a href="/og-cdn/slidedecks/html/slidedeck-chips_workshop_NANWAR_2020.html">View Slides</a></h2>
 
 ## Recording (2 Hours, 14 Minutes, 40 Seconds)
 <audio controls="controls">

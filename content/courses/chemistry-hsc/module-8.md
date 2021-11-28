@@ -97,7 +97,7 @@ type: book
     - "Hexa-" = 6
     - "Aqua-" = water
 
-  {{< figure src="https://images.hsc.one/uploads/jo61v.png" theme="light" caption="Hexaaquacopper (II) ion diagram.">}}
+  {{< figure src="/image-cdn/jo61v.png" theme="light" caption="Hexaaquacopper (II) ion diagram.">}}
 
 - You don't actually need to know the names, but you do need to know the notation.
 

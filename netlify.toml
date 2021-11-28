@@ -131,6 +131,13 @@ headers = {X-From = "DeuteriumWebServer"}
   headers = {X-From = "DeuteriumWebServer"}
 
 [[redirects]]
+  from = "/og-cdn/*"
+  to = "https://cdn.statically.io/gh/psharma04/schoolnotes-cdn/625fed21/:splat"
+  status = 200
+  force = false
+  headers = {X-From = "DeuteriumWebServer"}
+
+[[redirects]]
   from = "/random-projects/*"
   to = "https://psharma04.github.io/Random-Projects/:splat"
   status = 200

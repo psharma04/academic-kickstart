@@ -141,7 +141,7 @@ $F_\text{by Earth on brick}$
 
 * Friction is expressed as $F=\mu F_N$, where $\mu$ is the Coefficient of Friction
 * Note that Friction is directly proportional to the Normal Force, meaning that the frictional force at an angle is different to the frictional force on a flat plane
-  ![Friction Graph](https://cdn.hsc.one/images/jpeg/Friction-Graph.jpeg)
+  ![Friction Graph](/og-cdn/images/jpeg/Friction-Graph.jpeg)
 
 ## Energy
 
@@ -157,7 +157,7 @@ SI Equivalents:
 $1J=1\frac{kg\cdot m^2}{s^2}=1N\cdot m=1Pa\cdot m^3=1W\cdot s=1C\cdot V$
 {{% /callout %}}
 * There are 2 main categories of energy: kinetic and potential
-  ![Tree diagram of the types of energy](https://cdn.hsc.one/images/svg/energy-tree-diagram.svg)
+  ![Tree diagram of the types of energy](/og-cdn/images/svg/energy-tree-diagram.svg)
 * Kinetic energy is primarily associated with motion, but also includes less visible forms of energy, such as heat and sound
 * Potential energy is the energy of an object based on its position in a field
   * Examples of potential energy include gravitational, magnetic, and elastic potential energy
@@ -217,17 +217,17 @@ In the formula $E=mc^2 ,$  $E$ refers to nuclear potential energy
 ### Work and Displacement at an Angle
 
 * When a force is applied, sometimes the object does not move in the same direction of the force
-  ![Force at an angle diagram](https://cdn.hsc.one/images/svg/Force-at-an-angle.svg)
+  ![Force at an angle diagram](/og-cdn/images/svg/Force-at-an-angle.svg)
 * In this case, the component of the applied force that acts on the object is considered the net force
 
 ### Force-Displacement Graphs
 
 * Force-Displacement graphs illustrate how a force changes with displacement [^2]
-  ![Force displacement graph. Source: ScienceFlip](https://cdn.hsc.one/images/jpeg/force-displacement-graph-1.jpeg)
+  ![Force displacement graph. Source: ScienceFlip](/og-cdn/images/jpeg/force-displacement-graph-1.jpeg)
 * When a force changes with displacement, the net amount of work done can be calculated by finding the area under the Force-Displacement graph
 * If the graph is a flat, horizontal line, then a constant amount of force is being applied
 * The force displacement graph for pulling a spring, for example has a gradient >1, because there is a greater force required the more you stretch it
-  ![Force displacement graph of a spring](https://cdn.hsc.one/images/png/spring-force-displacement-graph.png)
+  ![Force displacement graph of a spring](/og-cdn/images/png/spring-force-displacement-graph.png)
 
 ### Conversion and Transformation of Energy
 

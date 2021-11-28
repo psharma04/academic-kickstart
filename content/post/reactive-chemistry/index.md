@@ -30,8 +30,8 @@ projects: []
 
 {{% toc %}}
 <hr>
-<a href="https://cdn.hsc.one/documents/pdf/chemistry-stage6-syllabus-pdf.pdf" target="_blank">View Chemistry Syllabus</a><p>
-<a href="https://cdn.hsc.one/documents/pdf/chemistry-data-sheet-2019.pdf" target="_blank">View Chemistry Data Sheet</a></p>
+<a href="/og-cdn/documents/pdf/chemistry-stage6-syllabus-pdf.pdf" target="_blank">View Chemistry Syllabus</a><p>
+<a href="/og-cdn/documents/pdf/chemistry-data-sheet-2019.pdf" target="_blank">View Chemistry Data Sheet</a></p>
 <hr>
 
 ## Types of Reactions
@@ -152,7 +152,7 @@ The solubility rules are used to determine which compound is the precipitate.
 > $\text{Therefore, the compound is called Iron } \colorbox{lightgray}{(II)} \text{ Chloride}$
 9. When Hydrogen ($\ce{H2}$) is burned in Oxygen ($\ce{O2}$), water ($\ce{H2O}$) is formed
 ## Reactivity Series
-![Reactivity Series Mnemonic: Please stop calling me a careless zebra, instead try learning how copper saves gold](https://cdn.hsc.one/images/png/reactivity-series.png)
+![Reactivity Series Mnemonic: Please stop calling me a careless zebra, instead try learning how copper saves gold](/og-cdn/images/png/reactivity-series.png)
 
 ## Rates of Reaction
 ### Activation Energy $(E_a )$
