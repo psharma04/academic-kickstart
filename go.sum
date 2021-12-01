@@ -15,6 +15,8 @@ github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210920182057-
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210920182057-c7616ab56818/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20211004191917-b02a90a434c6 h1:b73zzlXm9lkhu5CSaGweiGT6iNiAXaNVyvH/No4MlvI=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20211004191917-b02a90a434c6/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20211128210023-2eecb5875a30 h1:TjsPLxszkECz2mzhlCFNPg5zySBZf8k4N5GwBJsUUiU=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20211128210023-2eecb5875a30/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210629192904-559885af86b7/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210811091031-81345fad46b5 h1:rhnjupk4KOsWyULAqsplsV7gB6qfDyW8VsyleoTdiPM=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210811091031-81345fad46b5/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
@@ -22,3 +24,5 @@ github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210920182057-c761
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210920182057-c7616ab56818/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20211004191917-b02a90a434c6 h1:xWp2hZ2+sJghY4W3+1u5ipxJTcQR1m7r9camgHdXdWE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20211004191917-b02a90a434c6/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20211128210023-2eecb5875a30 h1:1gGS5mXfINbvDJl0y0G4IHUVhmR0JAhPI9dQucnbyQQ=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20211128210023-2eecb5875a30/go.mod h1:2iL9rdrUYyJXX2BeHKfK+QbqZlubCsaR60nQ87NRQTY=

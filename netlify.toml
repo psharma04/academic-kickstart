@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.85.0"
+  HUGO_VERSION = "0.89.4"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
@@ -21,9 +21,9 @@
     debug = true
 
 [dev]
-  command = "hugo server -v -w --disableFastRender --buildDrafts -F --noHTTPCache -p 1234"
-  port = 8889
-  targetPort = 1234
+  command = "hugo server -v -w --disableFastRender --buildDrafts -F --noHTTPCache"
+  port = 8888
+  targetPort = 1313
   publish = "public"
   autoLaunch = true
   framework = "hugo"
