@@ -11,7 +11,7 @@ design:
 #    gradient_end: "#22262F"
     image: cover.png
     image_darken: 0.6
-    image_size: cover
+#    image_size: cover
     image_position: center
     image_parallax: true
 #    image_height: 50%
