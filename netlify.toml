@@ -33,7 +33,7 @@
   [headers.values]
     X-From = "NitricAcidWebServer"
     Access-Control-Allow-Origin = "*"
-
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
 [[headers]]
   for = "*.webmanifest"
   [headers.values]
