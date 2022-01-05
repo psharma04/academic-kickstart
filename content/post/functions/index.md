@@ -80,4 +80,4 @@ tags:
   5. If \\(f(-x) \neq f(x)\\) AND \\(f(-x) \neq -f(x)\\), the function is NEITHER ODD NOR EVEN
 
 </p><hr>
-Post Author: [Pranav Sharma](mailto:rbxii3@rbxii3.com)
+

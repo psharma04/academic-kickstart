@@ -77,4 +77,4 @@ tags:
 <p>
 [Definitions for this Topic](/posts/definitions/#science-fossils)
 </p><hr>
-Post Author: [Pranav Sharma](mailto:rbxii3@rbxii3.com)
+

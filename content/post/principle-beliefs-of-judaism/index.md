@@ -64,4 +64,4 @@ tags:
   - Privilege: G-d promised to save Noah's family from the Flood
   - Sign of the Covenant: [the Rainbow](https://www.biblegateway.com/passage/?search=Gen+9%3A12–17&version=NRSV)
 
-Post Author: [Pranav Sharma](mailto:rbxii3@rbxii3.com)
+

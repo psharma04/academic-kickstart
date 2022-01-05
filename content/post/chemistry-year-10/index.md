@@ -146,4 +146,3 @@ tags:
     - Group 17: Halogens
     - Group 18: Noble Gases
 </p><hr>
-Post Author: [Pranav Sharma](mailto:rbxii3@rbxii3.com)

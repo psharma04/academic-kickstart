@@ -69,4 +69,4 @@ tags:
 <p>
 [Definitions for this Topic](/posts/definitions/#science-genetics)
 </p><hr>
-Post Author: [Pranav Sharma](mailto:rbxii3@rbxii3.com)
+

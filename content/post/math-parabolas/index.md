@@ -119,4 +119,4 @@ Note: these will seem incorrect, but just try plotting them first. The confusion
 - Horizontal Translation Right: decrease \\(b\\)
 
 </p><hr>
-Post Author: [Pranav Sharma](mailto:rbxii3@rbxii3.com)
+

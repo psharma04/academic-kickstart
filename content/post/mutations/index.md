@@ -49,4 +49,4 @@ Detrimental:
   - The Beta Globin gene has the recessive allele on both chromosomes.
 - What is the detriment?: Sickle Cell Anaemia causes the hemoglobin protein, which carries oxygen in red blood cells, to be malformed. This means that the red blood cell has a significantly lower oxygen capacity, resulting in lack of oxygen to muscles and organs. This also results in the blood cells taking on a sickle shape rather than the normal torus (doughnut) shape. However, Sickle Cell Anaemia provides immunity to malaria, which may explain why it is quite common in Sub-Saharan Africa.
 
-Post Author: [Pranav Sharma](mailto:rbxii3@rbxii3.com)
+
