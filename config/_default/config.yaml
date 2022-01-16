@@ -22,9 +22,8 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
-    - path: github.com/jakejarvis/hugo-mod-twemoji
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
 ############################
 ## ADVANCED
@@ -75,3 +74,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
