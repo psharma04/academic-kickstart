@@ -5,7 +5,7 @@ title: "Human Rights"
 subtitle: "Notes for Legal Studies - Human Rights"
 summary: "Legal Studies Core II"
 authors: [Pranav Sharma]
-tags: [Year 12,HSIE, Legal Studies, Human Rights, HSC]
+tags: [Year 12, HSIE, Legal Studies, Human Rights, HSC]
 categories: [Year 12,HSIE, Legal Studies, Human Rights, HSC]
 date: 2020-11-02T20:27:30+11:00
 lastmod: 2020-11-02T20:27:30+11:00
