@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "netlify-plugin-hugo-cache-resources": "^0.2.1",
     "postcss-cli": "^9.1.0"
   }
 }

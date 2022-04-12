@@ -74,6 +74,13 @@
   status = 301
   force = true
   headers = {X-From = "NitricAcidWebServer"}
+
+[[redirects]]
+  from = "/privacy"
+  to = "https://pks.ai/privacy"
+  status = 301
+  force = true
+  headers = {X-From = "PrivacyServer"}
   
 [[redirects]]
   from = "https://schoolnotes.xyz/*"
@@ -259,4 +266,5 @@ headers = {X-From = "DeuteriumWebServer"}
   status = 301
   force = true
   headers = {X-From = "Discord"}
+  
   
