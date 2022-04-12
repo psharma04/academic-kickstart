@@ -269,7 +269,7 @@ headers = {X-From = "DeuteriumWebServer"}
   
 [[redirects]]
   from = "/media/*"
-  to = "https://cdn.statically.io/img/hsc.one/f=auto/media/:splat"
+  to = "https://cdn.statically.io/img/hsc.one/f=auto/truemedia/:splat"
   status = 301
   force = true
   headers = {X-From = "StaticallyIMG"}
