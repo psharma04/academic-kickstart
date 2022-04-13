@@ -75,19 +75,19 @@ projects: []
 
 ## Types of Data
 
-- Primary data is data that is collected by a researcher from first-hand sources, using methods like surveys, interviews, or experiments. 
+- Primary data is data that is collected by a researcher from first-hand sources, using methods like surveys, interviews, or experiments.
   - It is collected with the research project in mind, directly from primary sources.
 
 - Secondary data is data that has already been collected through primary sources and made readily available for researchers to use for their own research.
 
-- Qualitative data is data that approximates and characterizes. 
-  - Qualitative data can be observed and recorded. 
-  - This data type is non-numerical in nature. 
+- Qualitative data is data that approximates and characterizes.
+  - Qualitative data can be observed and recorded.
+  - This data type is non-numerical in nature.
   - This type of data is collected through methods of observations, one-to-one interviews, conducting focus groups, and similar methods.
   - Qualitative data are measures of 'types' and may be represented by a name, symbol, or a number code.
 
-- Quantitative data are measures of values or counts and are expressed as numbers. 
-  - Quantitative data are data about numeric variables (e.g. how many; how much; or how often). 
+- Quantitative data are measures of values or counts and are expressed as numbers.
+  - Quantitative data are data about numeric variables (e.g. how many; how much; or how often).
 
 ### Sources of Data
 
@@ -98,7 +98,7 @@ projects: []
 
 ## Reliability, Validity, and Accuracy
 
-- When you are conducting research, the three most important factors are the validity, reliability, and accuracy of your results. 
+- When you are conducting research, the three most important factors are the validity, reliability, and accuracy of your results.
 - Reliability means consistency within your results. Essentially, another researcher should be able to follow your experimental procedure and get the same results.
 - Validity is how well your results respond to the research question. This is typically affected by bias from either the researcher or the sample population.
 - Accuracy is how similar your results are to the theoretical answer. In CAFS, this usually means that the results should align with the research of your literature review.
@@ -179,8 +179,8 @@ projects: []
 
 #### Accessing, Collecting, and Recording Sources of Data
 
-- Use of digital sources is the most efficient way to locate things you need. 
-- [You can find some good resources for digital data here.](https://bafybeigjcukahhlj4dri7mfoeowekvlhvepnybagym3ngbr6y5jbdfp7cq.ipfs.cf-ipfs.com/)
+- Use of digital sources is the most efficient way to locate things you need.
+- [You can find some good resources for digital data here.](https://gateway.pinata.cloud/ipfs/bafybeigjcukahhlj4dri7mfoeowekvlhvepnybagym3ngbr6y5jbdfp7cq)
 
 #### Documenting Actions and Issues
 

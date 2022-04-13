@@ -33,7 +33,7 @@ image:
 projects: []
 ---
 
-{{< pdf src="https://bafybeieep7njsy7w6cqutcbtj2ac3mudsrlhdqpioedetk4x5rki44wgqm.ipfs.cf-ipfs.com/Atomi%27s%20Guide%20to%20Literary%20Terms.pdf" filename="Atomi's Guide to Literary Terms.pdf" >}}
+{{< pdf src="https://gateway.pinata.cloud/ipfs/bafybeieep7njsy7w6cqutcbtj2ac3mudsrlhdqpioedetk4x5rki44wgqm/Atomi%27s%20Guide%20to%20Literary%20Terms.pdf" filename="Atomi's Guide to Literary Terms.pdf" >}}
 <br />
 {{< cta cta_text="Download this resource" cta_link="https://drive.google.com/file/d/1N2rmoS9jLvPwmliqqAahX-wI6qxNuVU3/view" cta_new_tab="true" >}}
 

@@ -41,7 +41,7 @@ projects: []
 - Historically, epistemology has included both philosophy and the natural sciences (physics, chemistry, biology, etc.), as well as ethics, logic, and metaphysics
 - Essentially, the field aims to answer the fundamental questions of humans: why are we here, why are things the way they are, does anything matter, and so on.
 - Natural sciences aim to answer the second of these questions, using a system that science students will be familiar with: the scientific method.
-- Module 1 is a study into the origins of the scientific method. 
+- Module 1 is a study into the origins of the scientific method.
 - Instead of just accepting it from a Skills textbook or a teacher's slides, this module attempts to explain the rationale behind why we use the scientific method, as well as the alternative methods it replaced, and how it was developed.
 
 {{< /callout >}}
@@ -52,8 +52,8 @@ projects: []
 - While people have been thinking about stuff for a long time, Thales is considered by many to be the first to consolidate a method of reason.
 - In other words, Thales determined that in order to reason an idea, there must be a method which everyone can use, and which produces an objective decision from a set of fundamentally true statements, known as "Axioms".
 - This idea is known as "axiomatic reasoning" or "Milesian reasoning", and is a fundamental component of the modern scientific method.
-  - In the modern method, we start off with an observation, for example, "objects fall to the ground". This initial observation is our idea which we are trying to explain. 
-  - We can take an the fact that "the Earth is larger than the things we dropped" as an axiom, since we can observe that this is objectively true. 
+  - In the modern method, we start off with an observation, for example, "objects fall to the ground". This initial observation is our idea which we are trying to explain.
+  - We can take an the fact that "the Earth is larger than the things we dropped" as an axiom, since we can observe that this is objectively true.
   - We don't need to know WHY the axiom is true, it just needs to be true.
   - From this axiom and our initial observation, we can say that "smaller objects fall towards larger objects".
   - Adding more axioms, we can further refine our statement, making it closer to the truth with each pass.
@@ -144,7 +144,7 @@ projects: []
 - One of the most iconic paradigm shifts in science was Lavoisier's discovery of Oxygen.
   - As mentioned in History of thr Scientific Method, the historical theory was that fire (phlogiston) was a fundamental element, and a component of every flammable substance.
   - The theory was that mass lost when burning a substance was the conversion of phlogiston into caloric (a substance responsible for heat), which was absorbed by anything it came into contact with (hence the sensation of heat).
-  - Lavoisier isolated a substance known as Oxygène (acid generator) from air. He then burned a candle in this gas, producing water and soot. 
+  - Lavoisier isolated a substance known as Oxygène (acid generator) from air. He then burned a candle in this gas, producing water and soot.
   - Mass calculations afterwards proved that no mass was lost, and therefore the phlogiston could not have left the material. It was known that Oxygène was a component of air, so the new theory was that it was the fundamental element, not phlogiston, which drove combustion reactions.
   - The name Oxygène, when brought to England, became Oxygen, the 8th element.
 
@@ -152,7 +152,7 @@ projects: []
 
 - Scientific thinking is affected by the needs of a society, including social, political, and economic issues.
 - To maintain ethical standing, researchers need to prioritise the ideals of a society above results.
-- For example, research on embryonic tissue has been highly controversial, as religious groups have frequently objected to the use of fetal tissue for research. 
+- For example, research on embryonic tissue has been highly controversial, as religious groups have frequently objected to the use of fetal tissue for research.
 - However, the research which has occurred has led to the development of the HIV treatment, rabies vaccine, and many cancer treatments.
 
 {{< callout warning >}}
@@ -167,9 +167,9 @@ Seeing as this post is being written in COVID era, every week brings a new set o
 
 - Ethical systems allow researchers to maintain public trust and integrity, increasing the support for their research.
 - Ethical Frameworks promote accountability, avoidance of error, and betterment of society
-- The trust from ethical frameworks is highly significant to scientific inquiry, allowing for collaboration and development of research. these frameworks mean that researchers don't need to go and test every investigation used to reinforce their standpoint. 
+- The trust from ethical frameworks is highly significant to scientific inquiry, allowing for collaboration and development of research. these frameworks mean that researchers don't need to go and test every investigation used to reinforce their standpoint.
 
-[Read the ethical framework for human test subject research in Australia here.](https://bafybeigigbeyikfrtfgscz6ijt53t4wcswpvt3poo7mibx6lzaiozrabgm.ipfs.cf-ipfs.com/gtecethicalprinc.pdf)
+[Read the ethical framework for human test subject research in Australia here.](https://gateway.pinata.cloud/ipfs/bafybeigigbeyikfrtfgscz6ijt53t4wcswpvt3poo7mibx6lzaiozrabgm/gtecethicalprinc.pdf)
 
 ---
 

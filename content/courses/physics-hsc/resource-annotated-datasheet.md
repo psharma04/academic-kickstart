@@ -28,6 +28,6 @@ type: book
 projects: []
 ---
 
-{{< pdf src="https://bafybeiadh7cdfze6a22xnwr7f7l6qnkk2lz6q4m4h73ul5v3ijkctpscz4.ipfs.cf-ipfs.com/physics-modified-formula-sheet.pdf" filename="physics-modified-formula-sheet.pdf" >}}
+{{< pdf src="https://gateway.pinata.cloud/ipfs/bafybeiadh7cdfze6a22xnwr7f7l6qnkk2lz6q4m4h73ul5v3ijkctpscz4/physics-modified-formula-sheet.pdf" filename="physics-modified-formula-sheet.pdf" >}}
 <br>
-{{< cta cta_text="Download this resource" cta_link="https://bafybeiadh7cdfze6a22xnwr7f7l6qnkk2lz6q4m4h73ul5v3ijkctpscz4.ipfs.cf-ipfs.com/physics-modified-formula-sheet.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Download this resource" cta_link="https://gateway.pinata.cloud/ipfs/bafybeiadh7cdfze6a22xnwr7f7l6qnkk2lz6q4m4h73ul5v3ijkctpscz4/physics-modified-formula-sheet.pdf" cta_new_tab="true" >}}
