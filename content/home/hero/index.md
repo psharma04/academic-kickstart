@@ -9,7 +9,7 @@ design:
 #    gradient_angle: 0
 #    gradient_start: ""#25222F"
 #    gradient_end: "#22262F"
-    image: cover.png
+    image: cover.webp
     image_darken: 0.6
 #    image_size: cover
     image_position: center
