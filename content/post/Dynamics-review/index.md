@@ -20,6 +20,10 @@ categories:
   - Physics
   - Dynamics
 ---
+## !!!THIS POST HAS BEEN REPLACED!!!
+The new version of this post is available in the [Preliminary Physics course](https://hsc.one/courses/physics-prelim/module-2/). This page will stay up for now, but it won't get updated in the future.
+
+
 {{% toc %}}
 
 ### Force

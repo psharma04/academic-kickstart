@@ -9,7 +9,7 @@ tags: [Year 12, Society & Culture, Depth Study, Popular Culture, Pop Culture, Co
 categories: [Year 12, Society & Culture, Depth Study, Popular Culture]
 date: 2021-08-24T03:03:16+11:00
 featured: true
-draft: true
+draft: false
 math: false
 diagram: false
 # Featured image
@@ -546,3 +546,9 @@ Probable Continuities –
 #### Importance of Teen Film in the near future
 
 Teen film will continue and grow to be increasingly more popular in society in the near future. Teen film is a booming business with big companies capitalising off of it. As diverse films are more common, POC will be able to identify and find importance in films that represent their lieves as well. Social themes will be expressed. Mythologies heroes, contemporary values etc.
+
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
+
+{{< /callout >}}

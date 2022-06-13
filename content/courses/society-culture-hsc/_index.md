@@ -10,7 +10,7 @@ tags: [Year 12, HSIE, Society & Culture, Index]
 # Page summary for search engines.
 summary: "Society and Culture depth studies."
 
-draft: true
+draft: false
 
 # Date page published
 date: 2021-24-008
@@ -26,12 +26,12 @@ weight: 1
 
 - [Popular Culture](popular-culture/)
 - [Belief Systems and Ideologies](belief-systems-ideologies/)
-- Social Inclusion and Exclusion
-- Social Conformity and Non-Conformity
+- [Social Inclusion and Exclusion](social-inclusion-exclusion/)
+- [Social Conformity and Non-Conformity](social-conformity-and-non-conformity/)
 
 ## Resources
 
-- [Syllabus](/nesa/a595c986-4712-41dc-9588-0febca96a575/society-culture-st6-syl-from2015.pdf?MOD=AJPERES&CVID=)
+- [Syllabus](syllabus/)
 
 {{< callout note >}}
 

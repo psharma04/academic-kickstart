@@ -20,15 +20,25 @@ type: book
 weight: 1
 ---
 
+Please note that there's a lot of texts we need to get through, so not all of them are here yet. If your text isn't here, [use this form to request it](https://tally.so/r/w5dvQ3). 
+
 ## Common Module: Texts and Human Experiences
 
-- [RESOURCE: Common Module Cheat Sheet](common-mod-cheat-sheet)
-- [Textual Analysis: Nineteen Eighty-Four by George Orwell](1984/)
+- [Common Module Cheat Sheet](common-mod-cheat-sheet)
+- [Textual Analysis: Nineteen Eighty-Four](1984/)
 
 ## Module A: Textual Conversations
 
-- [Textual Analysis: The Tempest by William Shakespeare](tempest/)
-- [Textual Analysis: Hag-Seed by Margaret Atwood](hag-seed/)
+- [The Tempest by William Shakespeare](tempest/)
+- [Hag-Seed by Margaret Atwood](hag-seed/)
+
+## Module B: Critical Study of Literature
+
+- [Artist of the Floating World](artist-of-the-floating-world/)
+
+## Module C: Texts and Human Experiences
+
+- [General Cheat Sheet](https://www.patreon.com/posts/texts-and-human-57469736)
 
 ## Resources
 
@@ -43,12 +53,6 @@ weight: 1
 - [Art of Smart Common Module Practice Questions](/ipfs-1/QmTnptY1GbNMZPCYtJp1tRgs452R4T4QpU7WCT2yarWrGz)
 
 ### Critical Readings
-
-{{< callout warning >}}
-
-Note: The upkeep and relevance of these critical readings is managed by people outside of our team. We've linked Internet Archive links and mirrored to IPFS wherever possible, but if stuff breaks in this section, it's most likely gone for good.
-
-{{< /callout >}}
 
 #### Module A
 

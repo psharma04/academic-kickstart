@@ -9,7 +9,7 @@ tags: [Year 12, Society & Culture, Depth Study, Belief Systems and Ideologies, R
 categories: [Year 12, Society & Culture, Depth Study, Belief Systems and Ideologies]
 date: 2021-08-24T03:03:16+11:00
 featured: true
-draft: true
+draft: false
 math: false
 diagram: false
 # Featured image
@@ -490,3 +490,10 @@ Four rules that apply to male & female Sanghas:
 - The Dalai Lama, for example, has never suggested that armed forces should be brought in to overcome the communist nation of China who continually persecute the Tibetan Buddhists.
 
 - All Buddhists follow the non-violent path.
+
+
+{{< callout note >}}
+
+Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
+
+{{< /callout >}}
