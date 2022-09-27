@@ -8,19 +8,21 @@ linktitle: "HSC Ancient History"
 tags: [Year 12,HSIE, Ancient History, Index]
 
 # Page summary for search engines.
-summary: HSC Course for Ancient History.
+summary: "**🔜 Work in Progress**<br>HSC Course for Ancient History."
 
 # Date page published
 date: 2021-08-02
 
 # Comment the next line out
-draft: true
+#draft: true
 # Academic page type (do not modify).
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---
+
+
 
 ## Posts
 
@@ -32,6 +34,6 @@ weight: 1
 
 {{< callout note >}}
 
-Found this post useful? [Support us on Patreon.](https://patreon.com/hscone/)
+Found this resource useful? [Support us on Patreon.](https://patreon.com/hscone/)
 
 {{< /callout >}}
