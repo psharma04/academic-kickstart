@@ -20,7 +20,7 @@ type: book
 weight: 1
 ---
 
-Please note that there's a lot of texts we need to get through, so not all of them are here yet. If your text isn't here, [use this form to request it](https://tally.so/r/w5dvQ3). 
+Please note that there's a lot of texts we need to get through, so not all of them are here yet. If your text isn't here, [use this form to request it](https://tally.so/r/w5dvQ3), or [subscribe to our mailing list](https://mailing.hsc.one/subscription/form). 
 
 ## Common Module: Texts and Human Experiences
 

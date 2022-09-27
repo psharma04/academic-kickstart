@@ -58,9 +58,6 @@ Remember, this doesn't necessarily mean that there are less Christians, just tha
 | Eastern Orthodox | 8.4% | 8.2% | <i class="fas fa-arrow-down"></i> |
 | Uniting Church | 5.0% | 3.7% | <i class="fas fa-arrow-down"></i> |
 #### 2.2.2. Immigration
-  > *IMMIGRANTS, WE GET THE JOB DONE*
-  >
-  > (What, you didn't expect me to sneak in a Hamilton reference?)
 - Immigration is responsible for basically all religion in Australia
 - Immigration in 1945 was primarily British-assisted migrants, as well as European war refugees
 - 1945-1960: Massive influx of Jewish immigrants (because of WW2)
