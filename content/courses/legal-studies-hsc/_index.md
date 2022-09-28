@@ -22,9 +22,14 @@ type: book
 weight: 1
 ---
 
-## Posts
+## Core Modules
 
--
+- [Crime](core-1/)
+- [Human Rights](core-2/)
+
+## Option Modules
+
+- [Consumer Law](consumer/)
 
 ## Resources
 
