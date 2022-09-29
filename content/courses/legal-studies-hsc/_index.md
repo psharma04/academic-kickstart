@@ -30,6 +30,7 @@ weight: 1
 ## Option Modules
 
 - [Consumer Law](consumer/)
+- [Workplace Law](workplace/)
 
 ## Resources
 
