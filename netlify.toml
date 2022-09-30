@@ -5,7 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.104.1"
   HUGO_ENABLEGITINFO = "true"
-  WC_POST_CSS = "true"
+  WC_POST_CSS = "false"
 
 [context.production.environment]
   HUGO_ENV = "production"
