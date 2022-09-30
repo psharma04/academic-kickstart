@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.12",
     "netlify-plugin-hugo-cache-resources": "^0.2.1",
+    "postcss": "^8.4.16",
     "postcss-cli": "^9.1.0"
   }
 }
-

@@ -63,6 +63,8 @@ features:
     theme_light: dracula
     theme_dark: dracula
   math:
+    enable: false
+  diagram:
     enable: true
   privacy_pack:
     enable: false

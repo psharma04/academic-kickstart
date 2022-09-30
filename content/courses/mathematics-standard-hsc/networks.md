@@ -66,20 +66,10 @@ projects: []
 - A path is a walk with no repeated vertices or edges
 - A circuit is a walk with no repeated edges which starts at the same vertex it ends on
 - A cycle is a walk with no repeated vertices which starts at the same vertex it ends on
-- This is "neatly" summarised by this flowchart:
 
-```mermaid
-graph TD;
-    B[Are Repeated Vertices Allowed?];
-    B -->| Yes | C[Are Repeated Edges Allowed?];
-    B -->| No | D[Are Repeated Edges Allowed?];
-    C -->|Yes| E[Walk];
-    C -->|No| F[Trail];
-    D -->|Yes| G[Circuit];
-    D -->|No| H[Can the First and Last vertex be the same?];
-    H -->|Yes| I[Cycle];
-    H -->|No| J[Path];
-```
+This is "neatly" summarised by this flowchart:
+
+![](https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/math-standard-networks/networks-1.min.svg)
 
 ### How are Networks Drawn?
 
