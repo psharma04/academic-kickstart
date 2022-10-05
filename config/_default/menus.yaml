@@ -68,9 +68,9 @@ main:
     weight: 60
 
 main_right:
-  - name: <i aria-hidden="true" class='fab fa-patreon'></i><span class="sr-only">Become a Patron</span>
+  - name: <i aria-hidden="true" class='fab fa-patreon' style="color:#f96854;"></i><span class="sr-only">Become a Patron</span>
     url: '/patreon/'
     weight: 80
-  - name: <i aria-hidden="true" class='fab fa-discord'></i><span class="sr-only">Join the Discord</span>
+  - name: <i aria-hidden="true" class='fab fa-discord' style="color:#7289da;"></i><span class="sr-only">Join the Discord</span>
     url: 'https://discord.gg/wBa9jmbf2e'
     weight: 85
