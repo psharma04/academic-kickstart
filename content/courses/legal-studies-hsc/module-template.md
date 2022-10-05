@@ -10,7 +10,7 @@ categories: [Year 12,HSIE, Legal Studies, <ModuleName>, HSC]
 date: 2020-11-02T20:27:30+11:00
 lastmod: 2020-11-02T20:27:30+11:00
 featured: false
-draft: false
+draft: true
 math: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
