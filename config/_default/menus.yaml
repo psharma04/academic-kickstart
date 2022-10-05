@@ -38,6 +38,9 @@ main:
   - name: HSC Studies Of Religion
     url: '/courses/sor-hsc/'
     parent: hsc
+  - name: HSC Legal Studies
+    url: '/courses/legal-studies-hsc/'
+    parent: hsc
   - name: Preliminary Courses
     url: '/courses/'
     weight: 7

@@ -75,6 +75,8 @@ projects: []
 
 The Ionian Revolt was the first round in the struggle between Greece and Persia. Athens involvement in the revolt contributed significantly to the start of the Persian Wars. 
 
+{{< article-ad >}}
+
 ### Battle of Marathon
 
 #### Casus Belli 
@@ -178,6 +180,8 @@ The Ionian Revolt was the first round in the struggle between Greece and Persia.
 
   - The Persian force was a multi-national outfit, less drilled in cooperative combat than the Greeks and likely to be far less motivated.  
 
+{{< article-ad >}}
+
 #### Significance
 
 The results of the battle would affect relations with other Greek states, naval policy and internal politics. Another greater attack from the east was highly likely as Darius, and his successor Xerxes, would never leave matters as they were settled after Marathon. 
@@ -185,8 +189,6 @@ The results of the battle would affect relations with other Greek states, naval 
  
 
 Marathon arguably has a great significance, as mainland Greece and Athens could’ve come under Persian control. Would a Persian-controlled 5th century Athens have produced the ideas on law, government, science and philosophy, the literature and architecture that would permeate the western world for centuries to come? 
-
- 
 
 #### Miltiades’ role at Marathon
 
@@ -200,9 +202,7 @@ Marathon arguably has a great significance, as mainland Greece and Athens could�
 
 - Rushed the Athenian hoplites back to Athens in case the Persian might land a force near Athens.
 
-- Probably commanded the central body of the Athenian forces at Marathon. 
-
- 
+- Probably commanded the central body of the Athenian forces at Marathon.  
 
 #### Quotes
 
@@ -230,7 +230,7 @@ Marathon arguably has a great significance, as mainland Greece and Athens could�
 >
 > Herodotus
 
- 
+{{< article-ad >}} 
 
 > “The generals held the presiding position in succession, each for a day; and those of them who had voted with Miltiades offered, when their turn for duty came, to surrender it to him. Miltiades accepted the offer, but would not fight until the day came when he would in any case have presided.”
 >
@@ -326,7 +326,7 @@ In 481 BC, Xerxes sent heralds to all Greek states – except Athens and Sparta 
 | In  480 BC a second meeting of Greek states was held – Spartan King, Leonidas was  appointed to command the army while the Spartan military commander,  Eurybiades was made commander of the fleet. |                                                              |
 | Themistocles  realised that if any form of unity were to be maintained, Athens must accept  Spartan leadership.      Athens buried its earlier internal political differences and recalled  Aristides and Xanthippus from exile. |                                                              |
 
- 
+{{< article-ad >}} 
 
 ### Persian developments and preparations
 
@@ -389,7 +389,7 @@ In 481 BC, Xerxes sent heralds to all Greek states – except Athens and Sparta 
 
  
 
- 
+ {{< article-ad >}}
 
 ### Battle of Thermopylae (480 BC)
 
@@ -440,7 +440,7 @@ The Battle of Thermopylae was fought between an alliance of Greek city-states, l
 >
 > Hermann Bengtson
 
- 
+ {{< article-ad >}}
 
 > “Guard the pass of Thermopylae on the grounds that it was narrower than the pass into Thessaly.”
 >
@@ -511,7 +511,7 @@ The Battle of Artemisium was an inconclusive naval battle that was fought on the
 
 - The battle was indecisive but the Greeks suffered severely and the decision was taken to withdraw under cover at night to Salamis. 
 
- 
+ {{< article-ad >}}
 
 #### Significance
 
@@ -566,7 +566,7 @@ The Trozen inscription is an inscription on a marble slab found in the 1930s cam
 
 - According to Herodotus, the Persians had many more casualties because the Persians didn’t know how to swim; one of which was a brother to Xerxes. Those Persians who survived and ended up on shore were killed by the Greeks who found them.
 
- 
+ {{< article-ad >}}
 
 ##### Significance
 
@@ -598,7 +598,7 @@ The Trozen inscription is an inscription on a marble slab found in the 1930s cam
 >
 > Herodotus 
 
- 
+ {{< article-ad >}}
 
 > “The Corinthians do not admit the truth of it; on the contrary, they believe that their ships played a most distinguished part in the battle – and the rest of Greece gives evidence in their favour.”
 >
@@ -672,7 +672,7 @@ The Greeks failed to aid Athens, the Spartans persisted with their defence of th
 
 - Inspired many of the Ionian Greeks to revolt from Persia, however many did stay. 
 
- 
+ {{< article-ad >}}
 
 ##### Quotes
 
@@ -740,7 +740,7 @@ The Greeks failed to aid Athens, the Spartans persisted with their defence of th
 
 - Rapid development of democracy.
 
- 
+{{< article-ad >}} 
 
 Quotes
 
@@ -762,7 +762,7 @@ Quotes
 >
 > Herodotus 
 
- 
+ {{< article-ad >}}
 
 > “The victories at Plataea & Mycale marked the liberation of Greece and the end of the defensive war.”
 >
@@ -812,7 +812,7 @@ Quotes
 >
 > Thucydides
 
- 
+ {{< article-ad >}}
 
 > “His resourcefulness and his quickness were unrivalled in the sphere of strategy, tactics and politics.”
 >
@@ -858,7 +858,7 @@ Leonidas was the leader of the land army during the battle of Thermopylae. He le
 >
 > Herodotus 
 
- 
+ {{< article-ad >}}
 
 ### Pausanias 
 
@@ -894,7 +894,7 @@ He is the Spartan General responsible for the victory over Mardonius and the Per
 >
 > Herodotus
 
- 
+ {{< article-ad >}}
 
 > “Pausanias faced in holding together for weeks an army plagued by dissention, and lack of food and water.”
 >
@@ -942,7 +942,7 @@ Eurybiades was the Spartan commander in charge of the Greek navy during the Pers
 
 - Better supplies 
 
- 
+ {{< article-ad >}}
 
 #### Reasons for Persian defeat
 
@@ -1030,7 +1030,7 @@ Eurybiades was the Spartan commander in charge of the Greek navy during the Pers
 
 - Aristides “fixed their contributions according to each member’s worth and ability to pay” according to Plutarch. 
 
- 
+ {{< article-ad >}}
 
 ##### Delos as treasury
 
@@ -1076,7 +1076,7 @@ Eurybiades was the Spartan commander in charge of the Greek navy during the Pers
 
 - According to John Bagnell Bury, “the alliance was to be permanent.”
 
- 
+ {{< article-ad >}}
 
 #### Athen's Position 
 
@@ -1096,7 +1096,7 @@ Eurybiades was the Spartan commander in charge of the Greek navy during the Pers
 
 - Contributed the largest number of ship and men 
 
- 
+{{< article-ad >}} 
 
 ##### Benefits for Athens
 
@@ -1180,7 +1180,7 @@ Eurybiades was the Spartan commander in charge of the Greek navy during the Pers
 
   - Became a direct subject rather than an ally. 
 
- 
+{{< article-ad >}} 
 
 - Coercion of Carystus 472 BC
 
@@ -1294,7 +1294,7 @@ Eurybiades was the Spartan commander in charge of the Greek navy during the Pers
 
 
 
-
+{{< article-ad >}}
 
 ### Foundations of the Athenian Empire
 
@@ -1368,7 +1368,7 @@ Pericles played a major role in transforming the League into the Athenian Empire
 
  
 
- 
+{{< article-ad >}} 
 
 ### Nature of Athenian imperialism
 
@@ -1414,7 +1414,7 @@ Pericles played a major role in transforming the League into the Athenian Empire
 
 - Athens insisted upon a democratic constitution for all states and demanded that the officials take oath that they would not revolt against the Athenians or their allies. 
 
- 
+ {{< article-ad >}}
 
 ### Influence of Thetes 
 
@@ -1468,7 +1468,7 @@ Thetes were free men, but without land or other resources. They were a class of 
 
 - It was intended to prevent internal strife (stasis). 
 
- 
+ {{< article-ad >}}
 
 ### Citizenship law
 
@@ -1506,7 +1506,7 @@ Thetes were free men, but without land or other resources. They were a class of 
 
 - However, many of the Greeks were now under Athenian control 
 
- 
+ {{< article-ad >}}
 
 ### Spartan responses to Athenian imperialism
 
@@ -1546,7 +1546,7 @@ Thetes were free men, but without land or other resources. They were a class of 
 
 - No tribute was levied except in times of war
 
- 
+ {{< article-ad >}}
 
 #### Organisation
 

@@ -14,7 +14,7 @@ summary: HSC Course for Legal Studies.
 date: 2021-08-02
 
 # Comment the next line out
-draft: true
+#draft: true
 # Academic page type (do not modify).
 type: book
 
@@ -31,6 +31,14 @@ weight: 1
 
 - [Consumer Law](consumer/)
 - [Workplace Law](workplace/)
+- [Family Law](family/)
+- [Shelter](shelter/)
+
+#### Modules in Progress
+
+- [ ] Global Environmental Protection
+- [ ] Indigenous Peoples
+- [ ] World Order
 
 ## Resources
 
