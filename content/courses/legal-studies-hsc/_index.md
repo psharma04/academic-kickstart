@@ -35,7 +35,7 @@ weight: 1
 
 #### Modules in Progress
 
-Modules checked off have been published on Patreon.
+Ticked-off modules have been published on Patreon.
 
 - [x] [Shelter](https://www.patreon.com/posts/legal-studies-72906801?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator)
 - [ ] Global Environmental Protection
