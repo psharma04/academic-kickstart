@@ -10,7 +10,7 @@ categories: [Year 12, HSIE, Legal Studies, Shelter, HSC]
 date: 2022-09-25T20:27:30+11:00
 lastmod: 2022-09-25T20:27:30+11:00
 featured: false
-draft: false
+draft: true
 math: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

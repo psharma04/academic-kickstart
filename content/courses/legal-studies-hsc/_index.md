@@ -32,10 +32,12 @@ weight: 1
 - [Consumer Law](consumer/)
 - [Workplace Law](workplace/)
 - [Family Law](family/)
-- [Shelter](shelter/)
 
 #### Modules in Progress
 
+Modules checked off have been published on Patreon.
+
+- [x] [Shelter](https://www.patreon.com/posts/legal-studies-72906801?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator)
 - [ ] Global Environmental Protection
 - [ ] Indigenous Peoples
 - [ ] World Order
