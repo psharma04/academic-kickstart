@@ -14,7 +14,7 @@ summary: HSC Course for Legal Studies.
 date: 2021-08-02
 
 # Comment the next line out
-#draft: true
+draft: false
 # Academic page type (do not modify).
 type: book
 
@@ -39,7 +39,7 @@ Ticked-off modules have been published on Patreon.
 
 - [x] [Shelter](https://www.patreon.com/posts/legal-studies-72906801?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator)
 - [ ] Global Environmental Protection
-- [ ] Indigenous Peoples
+- [x] [Indigenous Peoples](https://www.patreon.com/posts/indigenous-hsc-72938596?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator)
 - [ ] World Order
 
 ## Resources

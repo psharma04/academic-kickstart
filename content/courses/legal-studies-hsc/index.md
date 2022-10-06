@@ -14,7 +14,7 @@ summary: HSC Course for Legal Studies.
 date: 2021-08-02
 
 # Comment the next line out
-draft: true
+#draft: true
 # Academic page type (do not modify).
 type: book
 

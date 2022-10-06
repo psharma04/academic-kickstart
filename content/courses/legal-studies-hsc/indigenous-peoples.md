@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "<ModuleName>"
-subtitle: "Notes for Legal Studies <ModuleName>"
-summary: "Legal Studies Module 1"
+title: "Indigenous Peoples"
+subtitle: "Notes for the Indigenous Peoples module of HSC Legal Studies."
+summary: "Notes for the Indigenous Peoples module of HSC Legal Studies."
 authors: [Pranav Sharma]
-tags: [Year 12,HSIE, Legal Studies, <ModuleName>, HSC]
-categories: [Year 12,HSIE, Legal Studies, <ModuleName>, HSC]
-date: 2020-11-02T20:27:30+11:00
-lastmod: 2020-11-02T20:27:30+11:00
+tags: [Year 12,HSIE, Legal Studies, Indigenous Peoples, HSC]
+categories: [Year 12,HSIE, Legal Studies, Indigenous Peoples, HSC]
+date: 2022-09-09T20:27:30+11:00
+lastmod: 2022-09-09T20:27:30+11:00
 featured: false
 draft: true
 math: false
@@ -278,6 +278,149 @@ Under Section 51 of the Constitution, the federal government can make laws under
 - Actions of the UN to promote the rights of indigenous peoples such as retaining and reviving lost languages have been supported by many NGOs and the media.
 
 #### International Measures
+
+- The United Nations Declaration on the Rights of Indigenous Peoples (2007) sends a clear message reaffirming the human rights of the world’s indigenous peoples. 
+- This action bears political, legal and symbolic and moral significance, forcing intergovernmental organisations to critically reflect upon their engagement with indigenous peoples’ issues. 
+- By doing this, the Declaration asks nations to pay attention to treating indigenous peoples’ rights as seriously as the rights of all other citizens.
+- The Permanent Forum on Indigenous Issues is an advisory, but permanent body with a mandate to specifically discuss indigenous issues related to economic and social development, culture, the environment, education, health and human rights.
+- Another mechanism is the Expert Mechanism on the Rights of Indigenous Peoples which provides the Human Rights Council with thematic advice in the form of studies in research. It may also suggest proposals to the Council.
+
+##### Issues
+
+- The Declaration is a non-binding document. 
+- When the UN General Assembly voted to adopt the Declaration in 2007, 144 countries voted in favour and 4 against. Australia, New Zealand, the US and Canada voted against the Declaration, stating they have upheld adequate human rights for indigenous peoples in their own country.
+
+> Ah yes, three of the countries which have the most well-known history of abuses against their indigenous people "upheld human rights for indigenous people".
+
+- Critics have questioned these claims to the fulfilment of international standards, as it is easier for a nation to keep indigenous languages, which has a non-economic effect, compared to other rights such as land rights which would have economic cost to a nation.
+
+#### Indigenous languages in modern nations
+
+##### Australia
+
+- Most rights outlined in the Declaration are already recognised and protected in Australia.
+- The Declaration doesn’t suggest any ‘new’ or ‘special’ rights for indigenous people. 
+- It draws together existing rights from other international laws and conventions and explains how they apply to indigenous peoples.
+
+##### Finland
+
+- The update of the constitution in 2000 acknowledged the rights to one’s language and culture for the Sami as indigenous people, the Roma and other groups which have the right to preserve and develop their own language and culture, and the right to use the Sami language when associating with authorities is legislated.
+
+##### New Zealand
+
+- The Waitangi Tribunal in 1983 heard a claim in relation to the protection of the Maori language. 
+- In 1987, Maori became an official language of New Zealand. 
+- There has been an increase in the use of Maori language, and there are now Maori language schools, a Maori radio station and a sole Maori language TV channel broadcast.
+
+#### Burma
+
+- The Karen people in Burma are oppressed politically, and have no representation in domestic government. 
+- Culturally, they are banned from studying their own language in Burmese schools and many Karen newspapers and books are banned. 
+- Economically, their fields and plots of land were confiscated and nationalised. 
+- They continue to be persecuted today.
+
+### Land Rights
+
+- The documents for indigenous land rights in international law include the Indigenous and Tribal Peoples Convention, ILO 169, the Declaration on the Rights of Indigenous Peoples, the International Convention on the Elimination of All Forms of Racial Discrimination and the International Covenant on Civil and Political Rights.
+- The UN Declaration on the Rights of Indigenous Peoples asserts the rights of indigenous peoples to retain and use their histories, languages, written and oral traditions and to retain their own names for communities, places and persons.
+- Although the UNDRIP is not a treaty and is not legally binding, it is acknowledged that the Declaration reflects provisions in international treaties that many nation-states have ratified, such as the International Convention on the Elimination on All Forms of Racial Discrimination (mainly developed countries).
+- Article 10 of the UNDRIP expressly forbids forced evictions and states that any relocation must be the result of free, prior and informed consent. 
+
+> "Indigenous peoples have the right to the lands, territories and resources which they have traditionally owned, occupied or otherwise used or acquired."
+>
+> \- [UNDRIP Article 10](https://web.archive.org/web/20221005235125/https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf)
+
+##### Issues
+
+- The Declaration is not legally binding. 
+- Land issues represent a grey area in international law, as the right to property has not acquired as strong protection as other rights. 
+- Also, the language of the Declaration does not specify whether indigenous peoples have the right to ownership – rather, it adopts a broad approach that may include ownership or possession.
+- Often national economic development is invoked as the justification for the acquisition of the lands of indigenous peoples, regardless of who may be harmed by the development – developing countries have more disadvantaged indigenous peoples.
+
+{{< callout info >}}
+
+#### Case Study - Canada
+
+The most effective is probably Canada with the Nunavut Territory. In exchange for surrendering their aboriginal title to land in Nunavut, the Inuit received constitutionally protected rights to land, money, renewable resources and social and political development. This was a modern treaty that exchanged undefined title for defined rights.
+
+The agreement also provided for membership of institutions of public government, a corner-stone of Inuit participation within the public government structure established as a result of the land claim. Nunavut has a public government, which operates within the principles of Canadian parliamentary democracy.
+
+The government of Nunavut is committed to Inuit Qaujimajatuqangit (IQ). IQ embodies Inuit traditional knowledge and values and guides the government in forming decisions, policies and laws that reflect the key philosophies, attitudes and practices of Nunavut’s Inuit majority.
+
+{{< /callout >}}
+
+{{< callout warning >}}
+
+#### Case Study - Uganda
+
+The Basongora live in Uganda. They lost 90% of their land in 1900-55 to establish the Queen Elizabeth National Park. The Basongora were evicted and no alternative settlement was provided.
+
+Post-independence governments have done little to address the social injustice suffered by the community. Instead, more Basongora land has been parcelled out for government development projects and military use, without community consultation.
+
+In the 1990s, the Ugandan government recognized the Basongora as a minority that had to be protected and provided with alternative land. In 1999, large numbers left and settled in the Democratic Republic of Congo, where in 2006 they were driven back to Uganda and were forced to resettle with other minority groups in an area that created ethnic tensions between the various groups.
+
+With a final draft of the national land policy – containing important recognition of the rights of pastoralists – soon to be tabled before parliament, maybe the Basongora will finally see a peaceful and equitable end to their predicament – however, this still hasn’t happened.
+
+{{< /callout >}}
+
+#### Non-Government Organisations
+
+- NGOs represent indigenous groups worldwide and create media attention for any issues which need to be addressed. 
+- Indigenous peoples of the Amazon region have organised themselves into the Coordinating Body for the Indigenous Peoples’ Organisations of the Amazon Basin and are pressing for their rights to their lands, as well as their rights to participate in decisions affecting their lands.
+
+## Legal Rights to Natural Resources
+
+The United Nations Declaration on the Rights of Indigenous Peoples recognises ‘right to the lands, territories and resources which they have traditionally owned, occupied or otherwise used or acquired.’
+
+#### Examples
+
+- In Canada, indigenous self-government is provided by the Indian Act, which includes various degrees of control over natural resources.
+- In the Inter-American Court of Human Rights, the case Mayagna (Sumo) Community of Awas Tingni v Nicaragua, interpretation of the rights to property was made clear in its judgment that indigenous peoples rights to their lands include rights to the resources there and these rights of ownership are held by the community in their collective capacity and according to their own customary law, values, customs, etc.
+- Indigenous peoples can also submit complaints to regional human rights bodies and UN treaty bodies, however, they must have already exhausted domestic remedies. 
+- Even if rulings are in favour of indigenous peoples, there can be issues of ensuring compliance and enforcement.
+- For ethnic nationalities, the best they can do is to broaden the space for free political activities (protest) though a combination of mobilisation for public participation, interethnic cooperation and continued self- defence. 
+- There are no legal grounds to enforce rights to national resources determined by the nation-state.
+
+#### Ongoing Issues
+
+- The Adivasis are one of the most vulnerable and marginalised group in India with gaps in poverty, literacy and mortality between tribal and non-tribal groups widening despite economic change. 
+  - These challenges have increased with the arrival of global mining giants which governments have used the Land Acquisition Act (1894) to displace millions from their land.
+  - In January 2011, in the state of Odisha, the government gave clearance to a Korean organisation for a US $12 billion refinery and captive port.
+  - People are becoming more favourable towards the employment generated by the resulting mining boom.
+- Minorities and indigenous peoples who have had their land rights violated in connection with a development or extractive (mining) project should be able to access legal procedures within their state. However, many of these violations occur in countries with inoperative or ineffective judicial systems, weak governance or internal conflicts.
+- In countries where a fair local judiciary system exists, legal procedures can be costly, time consuming, psychologically daunting and require expert legal assistance. 
+- For many marginalised communities, long travel distances and language barriers are further obstacles. 
+- This renders national legal measures inaccessible to most minorities.
+- In countries such as Canada and the US, some indigenous resources are held and managed by the state under a system of trusteeship which doesn’t allow people to take money from royalties acquired in mining. 
+  - Submissions by indigenous groups to the Working Group of Indigenous Populations have documented charges of mismanagement and abuses of these systems of trusteeship.
+- The Sami people who are indigenous to Norway, Sweden, Finland and Russia do not have any legally settled rights to lands or resources in Norway. 
+  - Norway’s constitution provides conditions necessary for the Sami to protect Sami language, culture and society. 
+  - The government denies Sami claims to lands and resources, and the issue remains unsettled. 
+  - Pending legislation that would deal with land, resources and governance in the traditional Sami area of northern Norway is strongly opposed by the Sami Parliament.
+
+### Intellectual Property Rights
+
+- This is a concept development out of a predominantly Western legal traditional and has been promoted by the World Intellectual Property Organisation (WIPO) which is a UN push to see the diverse wealth of the world’s indigenous, intangible cultural heritage better valued and protected against perceived, ongoing misappropriation and misuse.
+
+> The British Museum would like to send you a message.
+
+- Nation states across the world have difficulties reconciling locally indigenous traditions, laws and cultural norms with western legal traditions, leaving indigenous peoples individual and communal intellectual property rights largely unprotected.
+
+#### International Legal Rights
+
+- The UNDRIP recognises indigenous peoples’ rights to intellectual property.
+- The Western preoccupation with individual expression that underpins these rights are at odds with many indigenous collective experiences of cultural expression, as intellectual property is usually directed to individuals. 
+
+> For example, you probably learned about how Aboriginal people don't claim to "own" the land of Australia in the same way Western people do. The concept of ownership is an extremely Western idea that didn't exist in a lot of American, Pacific Islander, and Aboriginal cultures.
+
+- Specific copyright conventions are very old, with little updates.
+- WIPO funds an Indigenous Intellectual Property Law Fellowship Program which pays for an indigenous expert on intellectual property law to advise WIPO on legal and policy matters relating to customary,
+
+##### Non-Government Organisations
+
+- Minority Rights Group International (MRG) works to secure the rights of ethnic, religious and linguistic minorities and indigenous peoples worldwide, promoting cooperation and understanding between communities. 
+- Their activities are focused on international advocacy, training, publishing and outreach.
+- MRG works with over 150 organisations in nearly 50 countries, and has consultative status with the United Nations Economic and Social Council (ECOSOC).
 
 ---
 
