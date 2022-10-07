@@ -237,3 +237,9 @@ force = false
   status = 301
   force = true
 
+[[redirects]]
+  from = "/email/"
+  to = "mailto:contact@hsc.one"
+  status = 301
+  force = true
+  
