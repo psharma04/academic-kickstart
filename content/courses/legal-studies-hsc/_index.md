@@ -37,10 +37,10 @@ weight: 1
 
 Ticked-off modules have been published on Patreon.
 
-- [x] [Shelter](https://www.patreon.com/posts/legal-studies-72906801?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator)
-- [x] [Indigenous Peoples](https://www.patreon.com/posts/indigenous-hsc-72938596?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator)
-- [x] [World Order](https://www.patreon.com/posts/world-order-hsc-72984623?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator)
-- [ ] Global Environmental Protection
+- [x] [Shelter](https://www.patreon.com/posts/legal-studies-72906801)
+- [x] [Indigenous Peoples](https://www.patreon.com/posts/indigenous-hsc-72938596)
+- [x] [World Order](https://www.patreon.com/posts/world-order-hsc-72984623)
+- [x] [Global Environmental Protection](https://www.patreon.com/posts/global-hsc-legal-73039623)
 
 ## Resources
 
