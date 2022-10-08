@@ -74,6 +74,6 @@ main_right:
   - name: <i aria-hidden="true" class='fab fa-discord' style="color:#7289da;"></i><span class="sr-only">Join the Discord</span>
     url: '/discord/'
     weight: 80
-  - name: <i aria-hidden="true" class='fa-solid fa-circle-question' style="color:#c6c400;"></i><span class="sr-only">Join the Discord</span>
-    url: '/email/'
+  - name: <i aria-hidden="true" class='fa-solid fa-envelope' style="color:#c6c400;"></i><span class="sr-only">Join the Mailing List</span>
+    url: '/email-list/'
     weight: 70

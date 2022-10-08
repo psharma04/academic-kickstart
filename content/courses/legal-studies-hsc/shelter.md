@@ -337,7 +337,7 @@ In NSW, "Australian Consumer Law" refers to two sets of legislation:
   - In 2021, Sydney's median house price was 15.3 times the median income, making it the second-least affordable market in the world (after only Hong Kong). Melbourne is around 12.3
   - Australia is consistently one of the least affordable countries: in 2021, the national ratio was 8.0 (compared to a global average of 5.3).
 
-[![Housing Affordability Ratios from 2011 to 2021](https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/housing-affordability-ratios-2011-2021.min.svg)](https://commons.wikimedia.org/wiki/File:Housing_Affordability_Ratios_of_Major_Markets_from_2011_to_2021.svg)
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/housing-affordability-ratios-2011-2021.min.svg" theme="dark" caption="[Housing Affordability Ratios of Major Markets from 2011 to 2021.](https://commons.wikimedia.org/wiki/File:Housing_Affordability_Ratios_of_Major_Markets_from_2011_to_2021.svg)" >}}
 
 ### State Responses
 
@@ -419,7 +419,7 @@ Additionally, the AHRC manages and investigates discrimination issues in partner
   - Loss of job/Inability to work
 - Drugs, alcohol, and gambling are the cause of under 10% of homelessness in Australia.
 
-[![](https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/homelessness-community-perception.min.svg)](http://web.archive.org/web/20220311070317if_/https://cms.launchhousing.org.au/app/uploads/2016/07/Perceptions-of-Homelessness-FINAL.pdf)
+{{< figure src="https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/homelessness-community-perception.min.svg" theme="dark" caption="[Community perceptions of homelessness in Australia](https://web.archive.org/web/20220311070317if_/https://cms.launchhousing.org.au/app/uploads/2016/07/Perceptions-of-Homelessness-FINAL.pdf)" >}}
 
 - 1/200 people in Australia is homeless, with an increase of 13.7% from 2011 to 2016.
 - Less than 1% of private rentals in Sydney are affordable for people on low incomes.
@@ -464,9 +464,7 @@ Additionally, the AHRC manages and investigates discrimination issues in partner
   - Funding new community housing homes
   - Second phase- four providers, 1000 homes (Financial Review)
 
-- Similar to social housing, but run by non-profit community housing organisations instead of
-
-  Housing NSW
+- Similar to social housing, but run by non-profit community housing organisations instead of Housing NSW
 
 -  Appeal decision to the Housing Appeals Committee
 

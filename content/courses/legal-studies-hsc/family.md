@@ -337,9 +337,7 @@ This module involves themes of domestic violence and sexual assault. If you need
   - IVF
   - The 4-year average wait to adopt a child from overseas
 
-> ![Median intercountry adoption times for Australians](https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/median-wait-times-intercountry-adoption.min.svg)
->
-> Data from [Intercountry Adoption Australia, 2022](https://www.intercountryadoption.gov.au/countries-and-considerations/countries/).
+{{< figure src="(https://cdn.statically.io/gh/psharma04/image-repo/main/uploads/median-wait-times-intercountry-adoption.min.svg" theme="dark" caption="Data from [Intercountry Adoption Australia, 2022](https://www.intercountryadoption.gov.au/countries-and-considerations/countries/)." >}}
 
 #### Non-Legal Responses to Adoption
 

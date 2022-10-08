@@ -11,7 +11,7 @@ date: 2020-11-02T20:27:30+11:00
 lastmod: 2020-11-02T20:27:30+11:00
 featured: false
 draft: false
-math: true
+math: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -195,7 +195,7 @@ Negligence is concerned with protection of the individual, their property and ec
 - Under ACL, the consumer can recover damages from the loss suffered by the conduct of another which contravenes provisions in the ACL.
 
 1. False or Misleading Representations
-   - A false claim about the quality or value of a product e.g. a product is worth $50 but customers are told it is worth $100.
+   - A false claim about the quality or value of a product e.g. a product is worth \$50 but customers are told it is worth $100.
    - A claim that goods are new when in fact they are second-hand.
    - A claim that a product is sponsored by or used by a celebrity when in fact it is not.
    - A false or misleading claim about the existence, exclusion or effect of any condition, warranty or guarantee.

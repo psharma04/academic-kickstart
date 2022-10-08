@@ -221,25 +221,25 @@ force = false
 
 [[redirects]]
   from = "/requests"
-  to = "https://tally.so/r/w5dvQ3"
-  status = 301
+  to = "https://tally.so/r/nWO44P"
+  status = 302
   force = true
   
 [[redirects]]
   from = "/patreon/"
   to = "https://patreon.com/hscone/"
-  status = 301
+  status = 302
   force = true
   
 [[redirects]]
   from = "/discord/"
   to = "https://discord.gg/wBa9jmbf2e"
-  status = 301
+  status = 302
   force = true
 
+
 [[redirects]]
-  from = "/email/"
-  to = "mailto:contact@hsc.one"
-  status = 301
+  from = "/email-list/"
+  to = "https://mailing.hsc.one/forms/frm_GX8qGEZd"
+  status = 302
   force = true
-  
