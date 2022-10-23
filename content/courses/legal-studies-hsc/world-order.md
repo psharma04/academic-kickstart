@@ -10,7 +10,7 @@ categories: [Year 12,HSIE, Legal Studies, World Order, HSC]
 date: 2021-09-10T20:27:30+11:00
 lastmod: 2021-09-10T20:27:30+11:00
 featured: false
-draft: true
+draft: false
 math: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

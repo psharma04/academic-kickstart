@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "<ModuleName>"
-subtitle: "Notes for Legal Studies <ModuleName>"
-summary: "Legal Studies Module 1"
+title: "Global Environmental Protection"
+subtitle: "Notes for Legal Studies Global Environmental Protection"
+summary: "Legal Studies Global Environmental Protection Module"
 authors: [Pranav Sharma]
-tags: [Year 12,HSIE, Legal Studies, <ModuleName>, HSC]
-categories: [Year 12,HSIE, Legal Studies, <ModuleName>, HSC]
+tags: [Year 12,HSIE, Legal Studies, Global Environmental Protection, HSC]
+categories: [Year 12,HSIE, Legal Studies, Global Environmental Protection, HSC]
 date: 2020-11-02T20:27:30+11:00
 lastmod: 2020-11-02T20:27:30+11:00
 featured: false
-draft: true
+draft: false
 math: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

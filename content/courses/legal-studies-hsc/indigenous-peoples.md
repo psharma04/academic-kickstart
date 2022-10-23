@@ -10,7 +10,7 @@ categories: [Year 12,HSIE, Legal Studies, Indigenous Peoples, HSC]
 date: 2022-09-09T20:27:30+11:00
 lastmod: 2022-09-09T20:27:30+11:00
 featured: false
-draft: true
+draft: false
 math: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

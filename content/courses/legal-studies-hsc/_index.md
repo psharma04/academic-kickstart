@@ -32,15 +32,10 @@ weight: 1
 - [Consumer Law](consumer/)
 - [Workplace Law](workplace/)
 - [Family Law](family/)
-
-#### Modules in Progress
-
-Ticked-off modules have been published on Patreon.
-
-- [x] [Shelter](https://www.patreon.com/posts/legal-studies-72906801)
-- [x] [Indigenous Peoples](https://www.patreon.com/posts/indigenous-hsc-72938596)
-- [x] [World Order](https://www.patreon.com/posts/world-order-hsc-72984623)
-- [x] [Global Environmental Protection](https://www.patreon.com/posts/global-hsc-legal-73039623)
+- [Shelter](shelter/)
+- [Indigenous Peoples](indigenous-peoples/)
+- [World Order](world-order/)
+- [Global Environmental Protection](global-environment/)
 
 ## Resources
 
