@@ -2,7 +2,7 @@
 title: Jackson Taylor
 role: Post Writer
 avatar_filename: jackson-avatar.png
-bio: I'm a Year 12 student at Sydney Tech.
+bio: 2021 Graduate, UNSW Medicine first year.
 interests:
   - Video games
   - Sleep
@@ -16,4 +16,4 @@ user_groups:
   - Writers
   - all
 ---
-Stop stalking me lol
+2021 graduate from Sydney Tech, completing Bachelor of Medical Studies/Doctor of Medicine with UNSW.

@@ -2,7 +2,7 @@
 title: Pranav Sharma
 role: Site Owner
 avatar_filename: avatar.png
-bio: Year 12 Student, site owner and developer.
+bio: UNSW Student, site owner and developer.
 interests:
   - Programming
   - Reading
@@ -23,4 +23,4 @@ user_groups:
   - all
 email: contact@psharma.hsc.one
 ---
-I'm a year 12 student. I specialise in theoretical sciences and mathematics, as well as full-stack software and hardware development.
+2021 HSC Graduate, currently studying Aviation with UNSW, and completing an exchange program for Computer Science and Computational Linguistics with Harvard University.

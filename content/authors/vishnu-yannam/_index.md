@@ -21,4 +21,4 @@ user_groups:
   - Writers
   - all
 ---
-Your friendly neighbourhood science nerd.
+Your friendly neighbourhood science nerd. University of Sydney Bachelor of Commerce.

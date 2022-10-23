@@ -45,7 +45,7 @@ projects: []
   - $P$ is the principal (initial) sum,
   - $R$ is the rate of interest per unit of time
   - $n$ is the number of time intervals which have passed
-- For example, if you take a $\\$ $100 loan at 6% simple interest per year, every year you wait adds $\\$ $6 to the amount you have to pay back $\color{orange}(\\$100\times 6\\%\times 1=\\$6,\\$100\times 6\\%\times 2=\\$12\text{, and so on})$
+- For example, if you take a \$100 loan at 6% simple interest per year, every year you wait adds \$6 to the amount you have to pay back $(\$100\times 6\%\times 1=\$6,\$100\times 6\%\times 2=\$12\text{, and so on})$
 
 - If the question asks for the total amount, add $P$ to $I$ at the end
   - Basically, use the formula $\color{orange}I=(P\times R\times n)+P$ instead
