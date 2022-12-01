@@ -82,7 +82,7 @@ $$pH=-\log_{10}[\ce{H+}]$$
 
 - Most indicators are organic weak acids or weak bases. They are a special case, in which:
 
-$$\ce{HInd_{(aq)}<=>H+_{(aq)} +Ind-_{(aq)}}$$
+$$\ce{HInd_{(aq)}<=>H+\_{(aq)} +Ind-\_{(aq)}}$$
 
 $$\text{Molecule (Color 1)}\ce{<=>}\text{Hydrogen Ion + Anion (Color 2)}$$
 
