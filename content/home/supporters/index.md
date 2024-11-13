@@ -19,16 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Main Content Delivery Network"
-  organization_url = "https://arc.io/?ref=hsc.one#signUp"
-  title = "Arc.io CDN"
-  url = "https://arc.io/?ref=hsc.one#signUp"
-# certificate_url = "https://www.coursera.org"
-  date_start = "2021-01-01"
-  date_end = ""
-  description = ""
-
-[[item]]
   organization = "Site Hosting"
   organization_url = "https://netlify.app"
   title = "Netlify"
@@ -50,7 +40,7 @@ date_format = "Jan 2006"
     description = ""
 
   [[item]]
-    organization = "Content Delivery Network Fallback"
+    organization = "Content Delivery Network"
     organization_url = "https://statically.io/"
     title = "Statically CDN"
     url = "https://statically.io/"
