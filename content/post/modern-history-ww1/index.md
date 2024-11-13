@@ -32,8 +32,6 @@ projects: []
 
 <!-- Start Content below this line -->
 ## Causes of the First World War
-### Short Term - Assassination of archduke Franz Ferdinand
-[Talk: A Day in Sarajevo](/talk/a-day-in-sarajevo/)
 
 ### Long Term - Militarism
 - Militarism is the principle that a country's military is crucial to maintaining the stability and prosperity of a nation [^1]

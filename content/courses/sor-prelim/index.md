@@ -32,7 +32,6 @@ weight: 1
 ## Resources
 
 - [Studies Of Religion Syllabus](/nesa/4681e46b-4344-4550-9a99-c71b6d102f49/studies-religion-st6-syl-from2010+Studies+of+Religion.pdf?MOD=AJPERES&CVID=)
-- [Writing an SOR Short Response (Talk)](/talk/sor-short-responses-chips/)
 
 {{< callout note >}}
 

@@ -80,8 +80,6 @@ The human experiences represented in your prescribed/unseen texts will always be
 
 For paper 1 unseen texts, a good estimate is 2-3 lines per mark, while the extended response should be ~800 words/6 pages. If you don't hit those numbers, that's totally fine, it's just a good estimate.
 
-### [RESOURCE: CHIPS Question Breakdown Strategy](https://hsc.one/talk/sor-short-responses-chips/)
-
 ## Body Paragraph Structure
 
 1. Statement about the concept
